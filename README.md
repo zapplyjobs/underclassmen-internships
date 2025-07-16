@@ -1617,11 +1617,14 @@
 
 ## 🤝 **Contributing**
 
-Spotted an issue or want to suggest improvements?
-- 🐛 **Report bugs** in the Issues tab
-- 💡 **Suggest companies** to add to our tracking list
-- 🔗 **Submit corrections** for broken links
-- ⭐ **Star the repo** to support the project
+We welcome community contributions! See our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+**Quick ways to help:**
+- 🆕 **Suggest new jobs** - Found a position we missed? Create an issue!
+- 🏢 **Suggest companies** - Know a company we should track? Let us know!
+- 🔗 **Report broken links** - Help us keep listings current
+- 🐛 **Report bugs** - Found an issue? Submit a bug report
+- ⭐ **Star the repo** - Support the project and bookmark for daily updates
 
 ---
 
