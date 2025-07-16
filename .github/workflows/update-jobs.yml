@@ -8,8 +8,8 @@ on:
   push:
     branches: [ main ]
     paths: 
-      - 'advanced-job-fetcher.js'
-      - 'companies.json'
+      - '.github/scripts/advanced-job-fetcher.js'
+      - '.github/scripts/companies.json'
 
 jobs:
   update-jobs:
@@ -29,7 +29,7 @@ jobs:
     - name: Update job listings
       env:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
-      run: node advanced-job-fetcher.js
+      run: node .github/scripts/advanced-job-fetcher.js
       
     - name: Check for changes
       id: verify-changed-files
