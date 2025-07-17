@@ -30,7 +30,7 @@
 
 | Company | Program | Application Link | Status |
 |---------|---------|------------------|--------|
-| 🟢 **Google** | STEP Internship | [Apply](https://www.google.com/about/careers/applications/jobs/results/?company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&location=United%20States) | Various |
+| 🟢 **Google** | STEP Internship | <a href="https://www.google.com/about/careers/applications/jobs/results/?company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&location=United%20States" target="_blank" rel="noopener noreferrer">Apply</a> | Various |
 | 🟦 **Microsoft** | Software Engineering Internship | [Apply](https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&exp=Students%20and%20graduates&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true) | Various |
 | 🔵 **Meta** | Software Engineer Internship | [Apply](https://www.metacareers.com/jobs?teams%5B0%5D=Internship+-+PhD&teams%5B1%5D=Internship+-+Engineering%2C+Tech+%26+Design&teams%5B2%5D=Internship+-+Business) | Various |
 | 📦 **Amazon** | SDE Internship | [Apply](https://amazon.jobs/content/en/career-programs/university-ops/na-students-internship) | Various |
