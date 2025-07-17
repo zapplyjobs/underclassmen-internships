@@ -30,16 +30,16 @@
 
 | Company | Program | Application Link | Status |
 |---------|---------|------------------|--------|
-| 🟢 **Google** | STEP Internship | [Apply](https://careers.google.com/students/) | Various |
-| 🟦 **Microsoft** | Software Engineering Internship | [Apply](https://careers.microsoft.com/students) | Various |
-| 🔵 **Meta** | Software Engineer Internship | [Apply](https://careers.meta.com/students) | Various |
-| 📦 **Amazon** | SDE Internship | [Apply](https://amazon.jobs/internships) | Various |
-| 🍎 **Apple** | Software Engineering Internship | [Apply](https://jobs.apple.com/students) | Various |
-| 🎬 **Netflix** | Software Engineering Internship | [Apply](https://jobs.netflix.com/students) | Various |
-| ⚡ **Tesla** | Software Engineering Internship | [Apply](https://careers.tesla.com/internships) | Various |
-| 🎮 **Nvidia** | Software Engineering Internship | [Apply](https://careers.nvidia.com/internships) | Various |
-| 💳 **Stripe** | Software Engineering Internship | [Apply](https://stripe.com/jobs/internships) | Various |
-| ₿ **Coinbase** | Software Engineering Internship | [Apply](https://coinbase.com/careers/students) | Various |
+| 🟢 **Google** | STEP Internship | [Apply](https://www.google.com/about/careers/applications/jobs/results/?company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&location=United%20States) | Various |
+| 🟦 **Microsoft** | Software Engineering Internship | [Apply](https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&exp=Students%20and%20graduates&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true) | Various |
+| 🔵 **Meta** | Software Engineer Internship | [Apply](https://www.metacareers.com/jobs?teams%5B0%5D=Internship+-+PhD&teams%5B1%5D=Internship+-+Engineering%2C+Tech+%26+Design&teams%5B2%5D=Internship+-+Business) | Various |
+| 📦 **Amazon** | SDE Internship | [Apply](https://amazon.jobs/content/en/career-programs/university-ops/na-students-internship) | Various |
+| 🍎 **Apple** | Software Engineering Internship | [Apply](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN) | Various |
+| 🎬 **Netflix** | Software Engineering Internship | [Apply](https://jobs.netflix.com/careers/internships) | Various |
+| ⚡ **Tesla** | Software Engineering Internship | [Apply](https://www.tesla.com/careers/search/?type=intern&region=5) | Various |
+| 🎮 **Nvidia** | Software Engineering Internship | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Various |
+| 💳 **Stripe** | Software Engineering Internship | [Apply](https://stripe.com/jobs/search?remote_locations=North+America--Canada+Remote&remote_locations=North+America--Mexico+Remote&remote_locations=North+America--US+Remote&office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University) | Various |
+| ₿ **Coinbase** | Software Engineering Internship | [Apply](https://www.coinbase.com/internships) | Various |
 
 
 
