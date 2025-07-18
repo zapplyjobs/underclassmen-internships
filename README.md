@@ -39,7 +39,7 @@
 | ⚡ **Tesla** | Software Engineering Internship | [Apply](https://www.tesla.com/careers/search/?type=intern&region=5) | Various |
 | 🎮 **Nvidia** | Software Engineering Internship | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | Various |
 | 💳 **Stripe** | Software Engineering Internship | [Apply](https://stripe.com/jobs/search?remote_locations=North+America--Canada+Remote&remote_locations=North+America--Mexico+Remote&remote_locations=North+America--US+Remote&office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University) | Various |
-| ₿ **Coinbase** | Software Engineering Internship | [Apply](https://www.coinbase.com/careers/positions?location=all) | Various |
+| ₿ **Coinbase** | Software Engineering Internship | [Apply](https://www.coinbase.com/en-de/careers/positions?department=Internships%20%26%20Emerging%20Talent%20Positions) | Various |
 
 
 
