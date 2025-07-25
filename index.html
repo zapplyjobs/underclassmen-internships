@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="To0Dzb5W4qFtql-uEOOMXaQqVl4VWJmSqhWT5novZ7I" />
+    <meta name="google-site-verification" content="on991mF2H_RHb4YINExmu8qVmxvStlR8B03XSB0eJ8w" />
     <title>Zapply | Elite Tech Jobs for New Grads</title>
     <meta name="description" content="825+ verified software engineering positions from elite tech companies. Daily updates from FAANG, unicorns, and top startups.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -195,6 +195,8 @@
             padding: 4px 16px;
             border-radius: 8px;
             display: inline-block;
+            min-width: 180px;
+            text-align: center;
         }
 
         @keyframes blink {
@@ -570,6 +572,14 @@
                 padding: 120px 0 60px;
             }
             
+            .hero-title {
+                font-size: clamp(36px, 8vw, 48px);
+            }
+            
+            .typed-highlight {
+                min-width: 140px;
+            }
+            
             .hero-actions {
                 flex-direction: column;
                 align-items: center;
@@ -581,8 +591,16 @@
             }
             
             .companies-grid {
-                grid-template-columns: repeat(4, 1fr);
-                gap: 16px;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 12px;
+            }
+            
+            .company {
+                padding: 16px 8px;
+            }
+            
+            .company-name {
+                font-size: 12px;
             }
             
             .features-grid {
@@ -709,7 +727,7 @@
                     <span class="company-icon">🍎</span>
                     <div class="company-name">Apple</div>
                 </a>
-                <a href="https://www.metacareers.com/jobs" target="_blank" class="company">
+                <a href="https://careers.meta.com/" target="_blank" class="company">
                     <span class="company-icon">🔵</span>
                     <div class="company-name">Meta</div>
                 </a>
