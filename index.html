@@ -568,6 +568,21 @@
                 padding: 16px 0;
             }
             
+            .nav-actions {
+                gap: 8px;
+            }
+            
+            .nav-actions .btn {
+                padding: 8px 12px;
+                font-size: 12px;
+                border-radius: 8px;
+            }
+            
+            .nav-actions .btn svg {
+                width: 14px;
+                height: 14px;
+            }
+            
             .hero {
                 padding: 120px 0 60px;
             }
@@ -577,7 +592,7 @@
             }
             
             .typed-highlight {
-                min-width: 140px;
+                min-width: 120px;
             }
             
             .hero-actions {
@@ -615,6 +630,22 @@
             .footer-links {
                 flex-direction: column;
                 gap: 16px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .nav-actions {
+                gap: 6px;
+            }
+            
+            .nav-actions .btn {
+                padding: 6px 10px;
+                font-size: 11px;
+            }
+            
+            .nav-actions .btn svg {
+                width: 12px;
+                height: 12px;
             }
         }
 
@@ -911,7 +942,7 @@
 
         // Typing effect for hero title
         const typedTextElement = document.getElementById('typed-text');
-        const words = ['New Grads', 'Mid-Level', 'Early-Career'];
+        const words = ['New Grads', 'Mid-Level', 'Entry-Level'];
         let currentWordIndex = 0;
         let currentCharIndex = 0;
         let isDeleting = false;
