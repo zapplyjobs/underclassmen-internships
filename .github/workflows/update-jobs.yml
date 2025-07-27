@@ -8,8 +8,9 @@ on:
   push:
     branches: [ main ]
     paths: 
-      - '.github/scripts/advanced-job-fetcher.js'
-      - '.github/scripts/companies.json'
+      - '.github/scripts/job-fetcher/**'
+      - '.github/scripts/real-career-scraper.js'
+      - '.github/scripts/enhanced-discord-bot.js'
 
 jobs:
   update-jobs:
@@ -29,7 +30,7 @@ jobs:
     - name: Update job listings
       env:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
-      run: node .github/scripts/advanced-job-fetcher.js
+      run: node .github/scripts/job-fetcher/index.js
 
     - name: Install bot dependencies
       working-directory: .github/scripts
@@ -40,8 +41,8 @@ jobs:
       env:
         DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
-        DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID || '' }}
-        DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID || '' }}
+        DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
+        DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
 
     - name: Check for changes
       id: verify-changed-files
