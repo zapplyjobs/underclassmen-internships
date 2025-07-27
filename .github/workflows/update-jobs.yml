@@ -61,6 +61,7 @@ jobs:
         git config --local user.email "team@zapply.ai"
         git config --local user.name "Zapply Team"
         git add README.md
+        git add .github/data/
         
         # Get job count from README for commit message
         JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
