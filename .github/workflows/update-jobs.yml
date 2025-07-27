@@ -35,11 +35,13 @@ jobs:
       working-directory: .github/scripts
       run: npm install discord.js@14
 
-    - name: Post new jobs via Bot
-      run: node .github/scripts/post_with_bot.js
+    - name: Post new jobs via Enhanced Bot
+      run: node .github/scripts/enhanced-discord-bot.js
       env:
         DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
+        DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID || '' }}
+        DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID || '' }}
 
     - name: Check for changes
       id: verify-changed-files
