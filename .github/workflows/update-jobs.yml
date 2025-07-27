@@ -31,12 +31,12 @@ jobs:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
       run: node .github/scripts/advanced-job-fetcher.js
 
-    - name: Post new jobs to Discord
-      run: node .github/scripts/post_to_discord.js
+    - name: Post new jobs via Bot
+      run: node .github/scripts/post_with_bot.js
       env:
-        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
 
-      
     - name: Check for changes
       id: verify-changed-files
       run: |
