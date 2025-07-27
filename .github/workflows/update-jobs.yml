@@ -31,6 +31,10 @@ jobs:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
       run: node .github/scripts/advanced-job-fetcher.js
 
+    - name: Install bot dependencies
+      working-directory: .github/scripts
+      run: npm install discord.js@14
+
     - name: Post new jobs via Bot
       run: node .github/scripts/post_with_bot.js
       env:
