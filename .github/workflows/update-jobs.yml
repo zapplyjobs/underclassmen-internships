@@ -27,14 +27,16 @@ jobs:
       with:
         node-version: '18'
         
+        
+    - name: Install scraper dependencies
+      working-directory: jobboard
+      run: npm install puppeteer
+      
     - name: Update job listings
       env:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
       run: node .github/scripts/job-fetcher/index.js
 
-    - name: Install scraper dependencies
-      working-directory: jobboard
-      run: npm install puppeteer
 
     - name: Install bot dependencies
       working-directory: .github/scripts
