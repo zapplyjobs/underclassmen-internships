@@ -66,8 +66,7 @@ jobs:
       run: |
         git config --local user.email "team@zapply.ai"
         git config --local user.name "Zapply Team"
-        git add README.md
-        git add .github/data/
+        git add -A
         
         # Get job count from README for commit message
         JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
@@ -82,8 +81,8 @@ jobs:
     - name: Push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
-        git pull --rebase origin main
-        git push origin main
+        # Try to push, if it fails due to remote changes, pull and retry
+        git push origin main || (git pull --rebase origin main && git push origin main)
         
     - name: Create job summary
       run: |
