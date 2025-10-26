@@ -503,7 +503,7 @@
 | 🛻 **Lyft** | iOS Engineer, Mobile Foundations | San Francisco, CA | 2d ago | Mid-Level | Mobile Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8181338002?gh_jid=8181338002) |
 | 🛻 **Lyft** | Data Engineer Intern (Summer 2026) | San Francisco, CA | 4d ago | Entry-Level | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/lyft/job/8218030002?gh_jid=8218030002) |
 | 🛻 **Lyft** | Software Engineer Intern, Mobile iOS (Summer 2026) | San Francisco, CA | 5d ago | Entry-Level | Mobile Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8215921002?gh_jid=8215921002) |
-| 🏠 **Airbnb** | Senior Machine Learning Engineering, Trust | United States, CA | 14h ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7070660?gh_jid=7070660) |
+| 🏠 **Airbnb** | Senior Machine Learning Engineering, Trust | United States, CA | 15h ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7070660?gh_jid=7070660) |
 | 🏠 **Airbnb** | Senior Staff Machine Learning Engineer, Communication & Connectivity | Remote - USA, CA | 2d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7005605?gh_jid=7005605) |
 | 🏠 **Airbnb** | Staff Machine Learning Engineer, AI Translation  | United States, CA | 4d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/6838683?gh_jid=6838683) |
 | 🏠 **Airbnb** | Engineering Manager, Network Infrastructure (Cloud) | Remote - USA, CA | 5d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/7343909?gh_jid=7343909) |
