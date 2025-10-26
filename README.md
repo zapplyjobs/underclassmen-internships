@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-505+-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-507+-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-43-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-281-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Hourly-orange?style=flat&logo=calendar)
@@ -42,7 +42,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 43+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 505+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 43+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 507+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -62,7 +62,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 505
+- **🔥 Current Positions**: 507
 - **🏢 Companies**: 43 elite tech companies
 - **⭐ FAANG+ Jobs**: 281 premium opportunities
 - **📅 Last Updated**: October 26, 2025
@@ -157,8 +157,8 @@
 | Security | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885864/Software-Engineer---Security%2C-Multiple-Locations) |
 | AI/ML | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885857/Software-Engineer---AI%2FML%2C-Multiple-Locations) |
 | Software Engineer: PhD Intern Opportunities | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880482/Software-Engineer%3A-PhD-Intern-Opportunities%2C-Redmond) |
-| Azure Core Compute Platform Team | Multiple Locations, United States | Recently | Entry-Level | DevOps & Infrastructure | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885365/Software-Engineer---Azure-Core-Compute-Platform-Team) |
 | Computer Vision and Deep Learning | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1902881/Research-Intern---Computer-Vision-and-Deep-Learning) |
+| Azure Core Compute Platform Team | Multiple Locations, United States | Recently | Entry-Level | DevOps & Infrastructure | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885365/Software-Engineer---Azure-Core-Compute-Platform-Team) |
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853843/Software-Engineer-II-%E2%80%93-AI-Platform-Development-(Azure-PostgreSQL)) |
 | Cloud Reliability & Efficiency | Redmond, Washington | Recently | Entry-Level | DevOps & Infrastructure | [Apply](https://jobs.careers.microsoft.com/global/en/job/1894531/Research-Intern---Cloud-Reliability-%26-Efficiency) |
 | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1902336) |
@@ -489,7 +489,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Booz Allen** | Backend Developer | Alexandria, VA | 2d ago | Mid-Level | Backend Development | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366) |
+| 🏢 **Booz Allen** | Backend Developer | Alexandria, VA | 3d ago | Mid-Level | Backend Development | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366) |
 | 🎨 **Figma** | Manager, Software Engineering - Expressive AI | New York, NY • United States | 4d ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5678196004?gh_jid=5678196004) |
 
 ### 🛒 **Consumer & E-Commerce** (10 positions)
@@ -692,8 +692,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 63 | 12% | No or minimal experience |
-| 🟡 Beginner & Early Career | 266 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 65 | 13% | No or minimal experience |
+| 🟡 Beginner & Early Career | 266 | 52% | 1-2 years of experience |
 | 🔴 Manager         | 176 | 35% | 2+ years of experience |
 
 ---
@@ -720,7 +720,7 @@
 #### ☁️ DevOps & Infrastructure (59 positions)
 📦 Amazon • 🟦 Microsoft
 
-#### 🧠 Machine Learning & AI (25 positions)
+#### 🧠 Machine Learning & AI (27 positions)
 📦 Amazon • 🟦 Microsoft
 
 #### 📊 Data Science & Analytics (24 positions)
@@ -748,7 +748,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 505+ verified roles for Software Engineering roles from 43 elite tech companies.
+- ✅ **100% Real Jobs**: 507+ verified roles for Software Engineering roles from 43 elite tech companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -855,7 +855,6 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Dev Engineer II, Amazon | Seattle, WA | 2w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3103819/software-dev-engineer-ii-amazon) |
 | Software Development Engineer | Newark, NJ | 2w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3069185/software-development-engineer) |
 | Software Development Engineer, AWS | Seattle, WA | 2w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3091220/software-development-engineer-aws) |
-| Software Development Engineer, NextGen Security Automation | Seattle, WA | 2w ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3086491/software-development-engineer-nextgen-security-automation) |
 | Software Development Engineer, ML Infrastructure Team | Seattle, WA | 3w ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en-gb/jobs/3099487/software-development-engineer-ml-infrastructure-team) |
 | Software Dev Engineer II - AMZ9085054 | Denver, CO | 3w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2981040/software-dev-engineer-ii-amz9085054) |
 | Software Development Engineer, AWS Compute Services | Arlington, VA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2994349/software-development-engineer-aws-compute-services) |
@@ -919,6 +918,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Development Engineer , Prime Video | Seattle, WA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2954508/software-development-engineer-prime-video) |
 | Software Development Engineer, Amazon Stores | Bellevue, WA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2876889/software-development-engineer-amazon-stores) |
 | Software Development Engineer, Frontier AI & Robotics | San Francisco, CA | 6mo ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en-gb/jobs/2914306/software-development-engineer-frontier-ai-robotics) |
+| Software Development Engineer, Search - Prime Video | Arlington, VA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2938870/software-development-engineer-search-prime-video) |
 | Software Engineer I | SF, Locations | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en/jobs/3111761/software-engineer-i) |
 | Security Engineer 1 - Corporate Services Security | Arlington, VA | 2w ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en/jobs/3099188/security-engineer-i-corporate-services-security) |
 | System Dev Engineer I, Analytics ADC | Denver, CO | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc) |
@@ -1528,7 +1528,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 
 <div align="center">
 
-**🎯 505 current opportunities from 43 elite companies**
+**🎯 507 current opportunities from 43 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
