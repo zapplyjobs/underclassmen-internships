@@ -115,8 +115,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Application Builder, Ring Software Product Builders | North Reading, MA | 8h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3115267/application-builder-ring-software-product-builders) |
 | Software Engineer | San Francisco, CA | 9h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3115681/software-engineer) |
+| Application Builder, Ring Software Product Builders | North Reading, MA | 9h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3115267/application-builder-ring-software-product-builders) |
 | Software Development Engineer , AGI Customization | Cambridge, MA | 11h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3115769/software-development-engineer-agi-customization) |
 | Software Development Engineer, Luna Gen AI | Seattle, WA | 13h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en-gb/jobs/3115925/software-development-engineer-luna-gen-ai) |
 | Software Engineer - Digital Twin, Project Kuiper | Redmond, WA | 2d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper) |
@@ -150,12 +150,12 @@
 | Azure Core Compute Control Plane Team | Multiple Locations, United States | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1897919/Software-Engineer---Azure-Core-Compute-Control-Plane-Team) |
 | Azure Core Resource Graph & Resource Manager Team | Multiple Locations, United States | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1892461/Software-Engineer---Azure-Core-Resource-Graph-%26-Resource-Manager-Team) |
 | Azure Data | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853826/Software-Engineer---Azure-Data) |
-| Fullstack | Redmond, Washington | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885862/Software-Engineer---Fullstack%2C-Redmond) |
 | Systems | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885866/Software-Engineer---Systems%2C-Multiple-Locations) |
 | Member of Technical Staff | Redmond, Washington | Recently | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1901845/Member-of-Technical-Staff) |
+| Fullstack | Redmond, Washington | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885862/Software-Engineer---Fullstack%2C-Redmond) |
 | Security | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885864/Software-Engineer---Security%2C-Multiple-Locations) |
-| Fullstack | Multiple Locations, United States | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885860/Software-Engineer---Fullstack%2C-Multiple-Locations) |
 | Azure Core Compute Team | Multiple Locations, United States | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1889324/Software-Engineer---Azure-Core-Compute-Team) |
+| Fullstack | Multiple Locations, United States | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885860/Software-Engineer---Fullstack%2C-Multiple-Locations) |
 | Fundamentals of AI: Security | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903515/Research-Intern---Fundamentals-of-AI%3A-Security%2C-Agents%2C-Systems-%26-Control) |
 | AI/ML | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885857/Software-Engineer---AI%2FML%2C-Multiple-Locations) |
 | Software Engineer: PhD Intern Opportunities | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880482/Software-Engineer%3A-PhD-Intern-Opportunities%2C-Redmond) |
@@ -163,10 +163,10 @@
 | Computer Vision and Deep Learning | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1902881/Research-Intern---Computer-Vision-and-Deep-Learning) |
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853843/Software-Engineer-II-%E2%80%93-AI-Platform-Development-(Azure-PostgreSQL)) |
 | Software Engineer: Security Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond) |
-| Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903328) |
-| Software Engineer | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1902948) |
-| Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903072) |
-| Principal Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1900054) |
+| Software Engineer | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1902803) |
+| Principal Applied AI Engineer | Redmond, WA | 0h ago | Senior | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903082) |
+| Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903337) |
+| Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1901747) |
 | Software Engineer | Remond, WA | 4d ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1894673/Software-Engineer) |
 | Software Engineer | India, Locations | 4d ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering) |
 
@@ -409,7 +409,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-|  Global Head of Technical Scale and Strategy (Field Engineering) | San Francisco, California; United States | 6h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8223325002) |
+|  Global Head of Technical Scale and Strategy (Field Engineering) | San Francisco, California; United States | 7h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8223325002) |
 | Senior Software Engineer - Observability (Databases) | Mountain View, California | 8h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8229742002) |
 | Sr. Staff Software Engineer - AI + Data Intelligence Platform | Mountain View, California; San Francisco | 12h ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002) |
 | Solutions Engineer | New York City, New York | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8223189002) |
@@ -472,7 +472,7 @@
 | 🛻 **Lyft** | Senior Software Engineer, Lyft Business | San Francisco, CA | 4d ago | Senior | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141328002?gh_jid=8141328002) |
 | 🛻 **Lyft** | iOS Engineer, Mobile Foundations | San Francisco, CA | 4d ago | Mid-Level | Mobile Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8181338002?gh_jid=8181338002) |
 | 🛻 **Lyft** | Data Engineer Intern (Summer 2026) | San Francisco, CA | 6d ago | Entry-Level | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/lyft/job/8218030002?gh_jid=8218030002) |
-| 🏠 **Airbnb** | Senior Security Engineer, Threat Detection & Response | United States, CA | 13h ago | Senior | Security Engineering | [Apply](https://careers.airbnb.com/positions/7134785?gh_jid=7134785) |
+| 🏠 **Airbnb** | Senior Security Engineer, Threat Detection & Response | United States, CA | 14h ago | Senior | Security Engineering | [Apply](https://careers.airbnb.com/positions/7134785?gh_jid=7134785) |
 | 🏠 **Airbnb** | Senior Machine Learning Engineering, Trust | United States, CA | 2d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7070660?gh_jid=7070660) |
 | 🏠 **Airbnb** | Senior Staff Machine Learning Engineer, Communication & Connectivity | Remote - USA, CA | 4d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7005605?gh_jid=7005605) |
 | 🏠 **Airbnb** | Staff Machine Learning Engineer, AI Translation  | United States, CA | 6d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/6838683?gh_jid=6838683) |
@@ -484,13 +484,13 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
+| Staff Security Engineer, Network Security | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) |
 | Engineering Manager, CorpSec | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717) |
 | Engineering Manager (Platform -GenAI) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7353594?gh_jid=7353594) |
-| Senior Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7236987?gh_jid=7236987) |
-| Staff Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033) |
+| Senior Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7236987?gh_jid=7236987) |
+| Staff Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033) |
 | Staff Machine Learning Engineer - AI/ML Risk Platform | Remote - USA, CA | 9h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7089642?gh_jid=7089642) |
 | Software Engineer, Frontend - Risk Platform  | Remote - USA, CA | 12h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7289100?gh_jid=7289100) |
-| Staff Security Engineer, Network Security | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) |
 | Software Engineer, Backend - AI Tools DevX | Remote - USA, CA | 4d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7075311?gh_jid=7075311) |
 | Senior Staff Software Engineer, Backend (Platform - Asset Data) | Remote - USA, CA | 4d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7351300?gh_jid=7351300) |
 | AI Growth Lead (Staff Software Engineer) | Remote - USA, CA | 4d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7178394?gh_jid=7178394) |
@@ -608,7 +608,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 💳 **Stripe** | Staff Engineer, Experimental Projects | US-Remote, CA | 9h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7280343) |
 | 💳 **Stripe** | Staff ML Engineer, ML Foundations | US-SF, US-NYC | 9h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7278350) |
-| 💳 **Stripe** | Frontend Engineering Manager, Payments | Seattle, San Francisco | 9h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7063232) |
+| 💳 **Stripe** | Frontend Engineering Manager, Payments | Seattle, San Francisco | 10h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7063232) |
 | 💳 **Stripe** | Backend Engineer, Core Technology | Seattle, San Francisco | 4d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
 | 💳 **Stripe** | Software Engineer, Security Accelerate  | Remote 🏠 | 5d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7351461) |
 | 💳 **Stripe** | Engineering Manager of Managers, Financial Connections | N/A, CA | 5d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7350414) |
@@ -676,7 +676,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (159 positions)
+#### 💻 Software Engineering (158 positions)
 📦 Amazon
 
 #### 🎨 Frontend Development (145 positions)
@@ -685,7 +685,7 @@
 #### ☁️ DevOps & Infrastructure (58 positions)
 📦 Amazon • 🟦 Microsoft • 🟢 Google
 
-#### 🧠 Machine Learning & AI (27 positions)
+#### 🧠 Machine Learning & AI (28 positions)
 📦 Amazon • 🟦 Microsoft
 
 #### 📊 Data Science & Analytics (26 positions)
@@ -803,11 +803,11 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 |------|----------|--------|-------|----------|-------|
 | Software Dev Engineer II, PXF Learn | Seattle, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3112061/software-dev-engineer-ii-pxf-learn) |
 | Software Engineer- AI/ML, AWS Neuron | Cupertino, CA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3111834/software-engineer-ai-ml-aws-neuron) |
-| SDE II, Android, eero Core Engineering | San Francisco, CA | 1w ago | Mid-Level | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3110675/sde-ii-android-eero-core-engineering) |
 | Software Dev Engineer II - AMZ9907932 | Santa Clara, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3106370/software-dev-engineer-ii-amz9907932) |
 | Software Dev Engineer II - AMZ25652.1 | Atlanta, GA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3105158/software-dev-engineer-ii-amz25652-1) |
 | Software Dev Engineer II - AMZ26326.1 | Iowa City, IA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3108474/software-dev-engineer-ii-amz26326-1) |
 | Software Engineer - Embedded Flight Software, Kuiper Flight Systems / Software | Redmond, WA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3094973/software-engineer-embedded-flight-software-kuiper-flight-systems-software) |
+| SDE II, Android, eero Core Engineering | San Francisco, CA | 1w ago | Mid-Level | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3110675/sde-ii-android-eero-core-engineering) |
 | Software Development Engineer, AGI | Bellevue, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3047169/software-development-engineer-agi) |
 | Software Development Engineer , Amazon Payments | Arlington, VA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3090715/software-development-engineer-amazon-payments) |
 | Software Development Engineer, EFS File Systems | Boston, MA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3108910/software-development-engineer-efs-file-systems) |
