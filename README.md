@@ -154,8 +154,8 @@
 | Azure Data | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853826/Software-Engineer---Azure-Data) |
 | Azure Core Resource Graph & Resource Manager Team | Multiple Locations, United States | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1892461/Software-Engineer---Azure-Core-Resource-Graph-%26-Resource-Manager-Team) |
 | Fullstack | Redmond, Washington | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885862/Software-Engineer---Fullstack%2C-Redmond) |
-| Member of Technical Staff | Redmond, Washington | Recently | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1901845/Member-of-Technical-Staff) |
 | Systems | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885866/Software-Engineer---Systems%2C-Multiple-Locations) |
+| Member of Technical Staff | Redmond, Washington | Recently | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1901845/Member-of-Technical-Staff) |
 | Security | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885864/Software-Engineer---Security%2C-Multiple-Locations) |
 | Fullstack | Multiple Locations, United States | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885860/Software-Engineer---Fullstack%2C-Multiple-Locations) |
 | Azure Core Compute Team | Multiple Locations, United States | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1889324/Software-Engineer---Azure-Core-Compute-Team) |
@@ -166,7 +166,7 @@
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853843/Software-Engineer-II-%E2%80%93-AI-Platform-Development-(Azure-PostgreSQL)) |
 | Software Engineer: Security Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Computer Vision and Deep Learning | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1902881/Research-Intern---Computer-Vision-and-Deep-Learning) |
-| Software Engineer | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1897955) |
+| Software Engineer | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1883776) |
 | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880455) |
 | Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1901338) |
 | Senior Software Engineering Manager | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903480) |
@@ -429,7 +429,7 @@
 | Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
 | Senior Software Engineer - Fullstack (NYC) | New York, CA | 10h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211634002) |
 | Senior Software Engineer - Backend (NYC) | New York, CA | 10h ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211625002) |
-| Sr. Manager, Field Engineering - Emerging Enterprise | United States, CA | 12h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8123099002) |
+| Sr. Manager, Field Engineering - Emerging Enterprise | United States, CA | 13h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8123099002) |
 |  Global Head of Technical Scale and Strategy (Field Engineering) | San Francisco, California; United States | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8223325002) |
 | Senior Software Engineer - Observability (Databases) | Mountain View, California | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8229742002) |
 | Sr. Staff Software Engineer - AI + Data Intelligence Platform | Mountain View, California; San Francisco | 1d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002) |
@@ -457,7 +457,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Director, Product - Developer Tools | New York, NY • United States | 13h ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5637880004?gh_jid=5637880004) |
+| Director, Product - Developer Tools | New York, NY • United States | 14h ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5637880004?gh_jid=5637880004) |
 | Data Engineer | San Francisco, CA • New York | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) |
 | Director, Software Engineering - Growth | San Francisco, CA • New York | 14h ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5579903004?gh_jid=5579903004) |
 | Director, Software Engineering - Product Platform | San Francisco, CA • New York | 14h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://boards.greenhouse.io/figma/jobs/5600388004?gh_jid=5600388004) |
@@ -525,7 +525,7 @@
 | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | 13h ago | Entry-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7294075?gh_jid=7294075) |
 | Senior Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | 13h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7236987?gh_jid=7236987) |
 | Senior Software Engineer, Backend (Developer - Stablecoin Ecosystem) | New York City, NY | 14h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7306980?gh_jid=7306980) |
-| Software Engineer Intern | Hybrid - New York, NY; Hybrid - San Francisco | 14h ago | Entry-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
+| Software Engineer Intern | Hybrid - New York, NY; Hybrid - San Francisco | 15h ago | Entry-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
 | Engineering Manager (Platform -GenAI) | Remote - USA, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7353594?gh_jid=7353594) |
 | Staff Machine Learning Engineer - AI/ML Risk Platform | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7089642?gh_jid=7089642) |
 | Software Engineer, Frontend - Risk Platform  | Remote - USA, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7289100?gh_jid=7289100) |
@@ -639,12 +639,12 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💳 **Stripe** | Engineering Manager, Adaptive Pricing | N/A, CA | 7h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7363660) |
+| 💳 **Stripe** | Engineering Manager, Adaptive Pricing | N/A, CA | 8h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7363660) |
 | 💳 **Stripe** | Staff Engineer, Experimental Projects | US-Remote, CA | 1d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7280343) |
 | 💳 **Stripe** | Staff ML Engineer, ML Foundations | US-SF, US-NYC | 1d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7278350) |
 | 💳 **Stripe** | Frontend Engineering Manager, Payments | Seattle, San Francisco | 1d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7063232) |
 | 💳 **Stripe** | Backend Engineer, Core Technology | Seattle, San Francisco | 5d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
-| 💳 **Stripe** | Software Engineer, Security Accelerate  | Remote 🏠 | 5d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7351461) |
+| 💳 **Stripe** | Software Engineer, Security Accelerate  | Remote 🏠 | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7351461) |
 | 💳 **Stripe** | Engineering Manager of Managers, Financial Connections | N/A, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7350414) |
 | 🏢 **Citadel Securities** | Quantitative Research Engineer | Miami, FL | 5d ago | Mid-Level | Software Engineering | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) |
 
