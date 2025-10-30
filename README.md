@@ -22,8 +22,11 @@
 ![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Jobs?style=flat&color=red)
 ![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Jobs?style=flat&color=green)
 
-<!-- Row 3: Workflow Health -->
+<!-- Row 3: Workflow Health & Activity -->
 ![Update Jobs](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/update-jobs.yml?style=flat&label=job-updates&logo=github-actions&logoColor=white)
+![Issues](https://img.shields.io/github/issues/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=green)
+![Pull Requests](https://img.shields.io/github/issues-pr/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=blue)
+![Commit Activity](https://img.shields.io/github/commit-activity/w/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=orange)
 
 <!-- Row 4: Community & Links (for-the-badge style) -->
 [![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
@@ -1798,9 +1801,39 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 
 ---
 
+## 🌟 Recognition & Press
 
+**Zapply's New Grad Jobs has been featured and trusted by thousands of job seekers!**
 
+- 📰 **Featured on GitHub Trending** - Top trending repository for job seekers
+- 💼 **Trusted by 1000+ job seekers** in our Discord community
+- 🚀 **Daily updates** ensure you never miss new opportunities
+- ⭐ **Community-driven** with contributions from developers worldwide
 
+> *Have you featured or mentioned our repo? Let us know and we'll add you here!*
+
+---
+
+## 📬 Contact & Support
+
+**Need help or want to get in touch?**
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+[![Reddit](https://img.shields.io/badge/Reddit-r/Zapply-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Report_Issue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zapplyjobs/New-Grad-Jobs/issues)
+[![Email](https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@zapply.jobs)
+
+</div>
+
+**How can we help?**
+- 💬 **General questions?** Join our [Discord community](https://discord.gg/yKWw28q7Yq)
+- 🐛 **Found a bug?** [Report an issue](https://github.com/zapplyjobs/New-Grad-Jobs/issues)
+- 💡 **Have a suggestion?** Share on [Reddit](https://www.reddit.com/r/Zapply/)
+- 📧 **Business inquiries?** Email us at admin@zapply.jobs
+
+---
 
 <div align="center">
 
