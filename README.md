@@ -18,6 +18,7 @@
 <!-- Row 2: Repository Stats -->
 ![GitHub stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=blue)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zapplyjobs%2FNew-Grad-Jobs&label=Visitors&countColor=%23263759&style=flat)
 ![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Jobs?style=flat&color=red)
 ![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Jobs?style=flat&color=green)
 
