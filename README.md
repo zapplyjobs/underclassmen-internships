@@ -689,7 +689,8 @@
 
 ---
 
-## Current Job Insights
+<details>
+<summary><h2>📊 Current Job Insights (Click to expand)</h2></summary>
 
 ### 🏢 Top Companies
 
@@ -766,6 +767,8 @@
 #### 📋 Product Management (3 positions)
 🟢 Google
 
+</details>
+
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
@@ -776,37 +779,6 @@
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
 - ✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
 - ✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
-
----
-
-## 🚀 **Job Hunt Tips That Actually Work**
-
-### 🔍 **Research Before Applying**
-- Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
-- Check recent tech decisions: Review their engineering blog for stack changes or new initiatives.
-- Verify visa requirements: Look for 🇺🇸 indicators or "US persons only" in the job description.
-- Use this [100% ATS-compliant resume template](#).
-
-### 📄 **Resume Best Practices**
-- Mirror their tech stack:  Copy exact keywords from job post (React, Django, Node.js, etc.)..
-- Lead with business impact: “Improved app speed by 30%” > “Used JavaScript.”
-- Show product familiarity: Example: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- Read this [guide on resume tweaks](#).
-
-### 🎯 **Interview Best Practices**
-- Ask domain questions: "How do you handle CI/CD at scale?" shows real research.
-- Prepare case stories: "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
-- Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
-- Review this [interview guide](#) for behavioral, technical, and curveball questions.
-
----
-
-## 📬 **Stay Updated**
-
-- **⭐ Star this repo** to bookmark for daily checks.
-- **👀 Watch to get notified of new SWE jobs.
-- **🔔 Subscribe to our newsletter** for instant updates.
-- **📱 Bookmark on mobile** for quick job hunting.
 
 ---
 
