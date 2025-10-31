@@ -119,13 +119,13 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Development Engineer, Annapurna Labs | Cupertino, CA | 2h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3118947/software-development-engineer-annapurna-labs) |
-| Software Engineer - Digital Twin, Project Kuiper | Redmond, WA | 6h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper) |
-| Software Development Engineer | New York, NY | 9h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3118830/software-development-engineer) |
-| Software Development Engineer, Amazon Connect | Seattle, WA | 11h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3118739/software-development-engineer-amazon-connect) |
+| Software Engineer - Digital Twin, Project Kuiper | Redmond, WA | 7h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper) |
+| Software Development Engineer | New York, NY | 10h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3118830/software-development-engineer) |
+| Software Development Engineer, Amazon Connect | Seattle, WA | 12h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3118739/software-development-engineer-amazon-connect) |
 | Software Development Engineer, Aurora DSQL | Seattle, WA | 14h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3062277/software-development-engineer-aurora-dsql) |
 | Senior Software Development Engineer, Consumer Domains | Newark, NJ | 14h ago | Senior | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3118612/senior-software-development-engineer-consumer-domains) |
-| Software Design Engineer, Amazon Device OS | Sunnyvale, CA | 15h ago | Mid-Level | Design | [Apply](https://amazon.jobs/en-gb/jobs/3105251/software-design-engineer-amazon-device-os) |
 | Software Development Engineer, Luna Gen AI | Seattle, WA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en-gb/jobs/3115925/software-development-engineer-luna-gen-ai) |
+| Software Design Engineer, Amazon Device OS | Sunnyvale, CA | 16h ago | Mid-Level | Design | [Apply](https://amazon.jobs/en-gb/jobs/3105251/software-design-engineer-amazon-device-os) |
 | Software Development Engineer, EFS File Systems | Boston, MA | 17h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3108910/software-development-engineer-efs-file-systems) |
 | Software Development Engineer, NextGen Security Automation | Seattle, WA | 18h ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3086491/software-development-engineer-nextgen-security-automation) |
 | SDE II, Android, eero Core Engineering | San Francisco, CA | 1d ago | Mid-Level | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3039844/sde-ii-android-eero-core-engineering) |
@@ -235,7 +235,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1828578) |
+| Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1898407) |
 | Technical Support Engineer - Windows Performance | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1846791) |
 | Support Engineering Manager - Azure Identity | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1845256) |
 | Principal Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1849182) |
@@ -522,8 +522,8 @@
 | Software Engineer - New Grad, Distributed Data Systems (2026 Start) | Bellevue, Washington; Mountain View | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) |
 | Product Designer, Workspace Developer Experience | Seattle, Washington | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934462002) |
 | Product Designer, Workspace Developer Experience | San Francisco, California | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930554002) |
-| Sr. Solutions Engineer | Remote - California, CA | 13h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8153037002) |
-| Sr. Solutions Engineer - Enterprise Greenfield Saudi Arabia | Riyadh, Saudi Arabia  | 16h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8160181002) |
+| Sr. Solutions Engineer | Remote - California, CA | 14h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8153037002) |
+| Sr. Solutions Engineer - Enterprise Greenfield Saudi Arabia | Riyadh, Saudi Arabia  | 17h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8160181002) |
 | Sr. Staff Backend Software Engineer -  Enterprise Apps | Mountain View, California | 1d ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220983002) |
 | Staff Fullstack Engineer - Enterprise Apps | Mountain View, California | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220836002) |
 | Sr. Staff Fullstack Engineer - Enterprise Apps | Mountain View, California | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220902002) |
@@ -583,11 +583,11 @@
 | Sr Security Engineer, Incident Response | United States, CA | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8153870002) |
 | Director, Technical Excellence and Enablement - Field Engineering | United States, CA | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8045586002) |
 | Sr. Technical Marketing Engineer, Unity Catalog | United States, CA | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027299002) |
-| Sr. Staff Designated Support Engineer | San Francisco, California | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995111002) |
-| Software Engineer -  Lakeflow PhD Candidates  | Mountain View, California | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995744002) |
-| Sr. Staff Software Engineer, CoreX | Mountain View, California | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987676002) |
-| Staff Security Software Engineer | United States, CA | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002) |
-| Staff Product Security Engineer | United States, CA | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
+| Sr. Staff Designated Support Engineer | San Francisco, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995111002) |
+| Software Engineer -  Lakeflow PhD Candidates  | Mountain View, California | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995744002) |
+| Sr. Staff Software Engineer, CoreX | Mountain View, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987676002) |
+| Staff Security Software Engineer | United States, CA | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002) |
+| Staff Product Security Engineer | United States, CA | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
 | Engineering Manager - Money | Bellevue, Washington; Seattle | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7529558002) |
 | Senior Software Engineer  - Application Traffic team | Mountain View, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002) |
 | Senior Engineering Manager - Trust and Safety | Mountain View, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002) |
@@ -856,7 +856,7 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Senior Engineering Manager, Brazil Site Lead | Brazil, CA | 8h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7367734?gh_jid=7367734) |
-| Software Engineer, Search Infrastructure | Brazil, CA | 11h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/7365942?gh_jid=7365942) |
+| Software Engineer, Search Infrastructure | Brazil, CA | 12h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/7365942?gh_jid=7365942) |
 | Staff Software Engineer, Search Infrastructure | Brazil, CA | 1d ago | Senior | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/7362663?gh_jid=7362663) |
 | Staff Software Engineer, Checkout | United States, CA | 2d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6580579?gh_jid=6580579) |
 | Senior Machine Learning Engineering, Trust | United States, CA | 5d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7070660?gh_jid=7070660) |
@@ -948,12 +948,12 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Fullstack Engineer, Link | N/A, CA | 7h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7369145) |
+| Fullstack Engineer, Link | N/A, CA | 8h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7369145) |
 | Staff Engineer, Usage Based Billing  | US Locations, CA | 8h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7124531) |
 | Staff Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 10h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7091959) |
-| Software Engineer, Secrets Infrastructure | N/A, CA | 11h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6979124) |
-| Engineering Manager, Product and Business | US-Remote, Chicago | 11h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6909015) |
-| Staff Security Engineer, Security Partnerships | Remote 🏠 | 11h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6892149) |
+| Software Engineer, Secrets Infrastructure | N/A, CA | 12h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6979124) |
+| Engineering Manager, Product and Business | US-Remote, Chicago | 12h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6909015) |
+| Staff Security Engineer, Security Partnerships | Remote 🏠 | 12h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6892149) |
 | Backend/API Engineer, Money as a Service (US) | US, CA | 12h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6176758) |
 | Backend Engineer, Core Technology | Seattle, San Francisco | 12h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
 | Senior Staff Engineer, Core Infrastructure | Seattle,SF, CA | 12h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7017350) |
@@ -1016,12 +1016,12 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Staff Security Engineer, Network Security | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) |
 | Engineering Manager, CorpSec | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717) |
+| Staff Security Engineer, Network Security | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) |
 | Senior Product Manager - Financial Engineering | Remote - USA, CA | 10h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7368784?gh_jid=7368784) |
 | Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - USA, CA | 12h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6698654?gh_jid=6698654) |
 | Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - USA, CA | 12h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6485609?gh_jid=6485609) |
-| Engineering Manager (Platform -GenAI) | Remote - USA, CA | 15h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7353594?gh_jid=7353594) |
+| Engineering Manager (Platform -GenAI) | Remote - USA, CA | 16h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7353594?gh_jid=7353594) |
 | Staff Machine Learning Engineer - Core Automation | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364827?gh_jid=7364827) |
 | Software Engineer, Backend (Platform - Core Automation) | Remote - USA, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364902?gh_jid=7364902) |
 | Staff Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | 2d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033) |
