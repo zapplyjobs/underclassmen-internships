@@ -183,7 +183,6 @@
 | Software Development Engineer, AWS | Seattle, WA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3091220/software-development-engineer-aws) |
 | Software Development Engineer, Ring Neighbors | Hawthorne, CA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3101641/software-development-engineer-ring-neighbors) |
 | Software Dev Engineer II, Amazon | Seattle, WA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3103819/software-dev-engineer-ii-amazon) |
-| Android Software Development Engineer, Ring/Key Business | Hawthorne, CA | 3w ago | Mid-Level | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3024405/android-software-development-engineer-ring-key-business) |
 | Embedded Software Development Engineer II, AWS Hardware Engineering Services | Austin, TX | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2916518/embedded-software-development-engineer-ii-aws-hardware-engineering-services) |
 | Software Engineer | Seattle, WA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3092174/software-engineer) |
 | Software Development Engineer | San Francisco, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3094858/software-development-engineer) |
@@ -221,6 +220,7 @@
 | Software Dev Engineer II - AMZ26555.1 | Santa Clara, CA | 3mo ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3055333/software-dev-engineer-ii-amz26555-1) |
 | Software Development Engineer II, Delivery Choice | Arlington, VA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2970599/software-development-engineer-ii-delivery-choice) |
 | Software Development Engineer, Kuiper Government Solutions | El Segundo, CA | 3mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3041976/software-development-engineer-kuiper-government-solutions) |
+| Software Development Engineer II, Specialized Selection | Austin, TX | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2943287/software-development-engineer-ii-specialized-selection) |
 | Software Engineer | New York, NY | 4mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3020911/software-engineer) |
 | Embedded Software Dev Engineer, Kuiper Software & Networking | Redmond, WA | 4mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3019915/embedded-software-dev-engineer-kuiper-software-networking) |
 | Software Engineer, Kuiper | Redmond, WA | 4mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3019871/software-engineer-kuiper) |
@@ -756,7 +756,7 @@
 | Engineering Manager, Ads Infra | San Francisco Bay Area, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8175392002) |
 | Engineering Manager - Internal Developer Experience | San Francisco Bay Area, CA | 1w ago | Entry-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8150540002) |
 | Senior Product Design Manager, Player & Developer Experience | San Francisco Bay Area, CA | 1w ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8190428002) |
-| Senior Software Engineer, Ads | San Francisco Bay Area, CA | 1w ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8177757002) |
+| Senior Software Engineer, Ads | San Francisco Bay Area, CA | 1w ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101842002) |
 | Senior Software Engineer, Ads (UI/UX Specialist) | San Francisco Bay Area, CA | 1w ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8149391002) |
 | Senior Software Engineer, Consumer Revenue | San Francisco Bay Area, CA | 1w ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8182912002) |
 | Senior Software Engineer- Database Infrastructure | San Francisco Bay Area , CA | 1w ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8200328002) |
@@ -1162,16 +1162,16 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **CVS Health** | Associate Software Development Engineer | Remote from USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Software-Development-Engineer_R0754288) |
 | 🏢 **CVS Health** | Associate Software Development Engineer | Hartford, CT | 2mo ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1) |
-| 🏢 **Applied Intuition** | Software Integration Engineer - New Grad | Mountain View, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/appliedintuition/jobs/4607272005?gh_jid=4607272005) |
+| 🏢 **Applied Intuition** | Software Integration Engineer - New Grad | Mountain View, CA | 2d ago | Entry-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/appliedintuition/jobs/4607272005?gh_jid=4607272005) |
 | 🏢 **Applied Intuition** | Software Engineer | Mountain View, CA | 2mo ago | Mid-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005) |
 | 🏢 **Applied Intuition** | Embedded Software Engineer | Mountain View, CA | 2mo ago | Mid-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005) |
 | 🏢 **Applied Intuition** | Software Engineer - New Grad | Mountain View, CA | 2mo ago | Entry-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005) |
-| 🏢 **Expedia Group** | Software Development Engineer I | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98732) |
-| 🏢 **General Dynamics Mission Systems** | Junior Software Engineer (cleared) | Dedham, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68964/junior-software-engineer-%28cleared%29/job) |
-| 🏢 **General Dynamics Mission Systems** | SDA Software Engineer – Entry Level | Scottsdale, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68894/sda-software-engineer-%E2%80%93-entry-level/job) |
+| 🏢 **Expedia Group** | Software Development Engineer I | Seattle, WA | 2d ago | Mid-Level | Software Engineering | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98732) |
+| 🏢 **General Dynamics Mission Systems** | Junior Software Engineer (cleared) | Dedham, MA | 2d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68964/junior-software-engineer-%28cleared%29/job) |
+| 🏢 **General Dynamics Mission Systems** | SDA Software Engineer – Entry Level | Scottsdale, AZ | 2d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68894/sda-software-engineer-%E2%80%93-entry-level/job) |
 | 🏢 **General Dynamics Mission Systems** | Junior Software Engineer | Dedham, MA | 3w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68413) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Software Engineer | Pittsburgh, PA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job) |
-| 🏢 **Insulet Corporation** | Associate Systems DV Software Development Engineer in Test (SDET) (Hybrid) | Acton, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Systems-DV-Software-Development-Engineer-in-Test--SDET---Hybrid-_REQ-2025-13525) |
+| 🏢 **Insulet Corporation** | Associate Systems DV Software Development Engineer in Test (SDET) (Hybrid) | Acton, MA | 2d ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Systems-DV-Software-Development-Engineer-in-Test--SDET---Hybrid-_REQ-2025-13525) |
 | 🏢 **Insulet Corporation** | Associate Software QA Engineer | Acton, MA | 2w ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-QA-Engineer--Hybrid---Acton--MA-_REQ-2025-13185) |
 | 🏢 **ExtraHop** | Software Engineer I | Seattle, WA | 2d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/extrahopnetworks/jobs/5649570004) |
 | 🏢 **Rover** | Software Engineer I, Expansions | Seattle, WA | 2d ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/rover/206facd5-3dec-45a0-a76a-189cb2397d3e/) |
@@ -1368,7 +1368,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (408 positions)
+#### 💻 Software Engineering (409 positions)
 📦 Amazon
 
 #### 🎨 Frontend Development (256 positions)
@@ -1383,7 +1383,7 @@
 #### ☁️ DevOps & Infrastructure (86 positions)
 📦 Amazon • 🟢 Google
 
-#### 📱 Mobile Development (32 positions)
+#### 📱 Mobile Development (31 positions)
 📦 Amazon
 
 #### 🎨 Design (27 positions)
