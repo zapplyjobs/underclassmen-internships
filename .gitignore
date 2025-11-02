@@ -1,5 +1,6 @@
 # Development
 .claude/
+.githooks/
 
 # OS files
 .DS_Store
@@ -45,3 +46,15 @@ coverage/
 *.tmp
 *.temp
 .cache/
+
+# Security - Sensitive documentation (NEVER commit)
+CLAUDE.md
+*ARCHITECTURE*.md
+*DATA_SOURCE*.md
+*SCRAPER*.md
+*API_INTEGRATION*.md
+*STRATEGY*.md
+*TOS_COMPLIANCE*.md
+*SECURITY_AUDIT*.md
+.backup/
+sources.json
