@@ -147,22 +147,22 @@
 | Software Development Engineer, Annapurna Labs | Seattle, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3115268/software-development-engineer-annapurna-labs) |
 | Software Development Engineer, Integrated Vehicle Testing | Redmond, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2921700/software-development-engineer-integrated-vehicle-testing) |
 | Software Development Engineer, GNC Software, Project Kuiper | Redmond, WA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3105445/software-development-engineer-gnc-software-project-kuiper) |
-| Software Eng Intern | San Francisco, CA | 1w ago | Entry-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3111795/software-eng-intern) |
 | Software Development Engineer | Seattle, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2843996/software-development-engineer) |
 | Software Dev Engineer II - AMZ26271.1 | Malvern, PA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3107287/software-dev-engineer-ii-amz26271-1) |
 | Software Dev Engineer II - AMZ9443289 | East Palo Alto, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3102487/software-dev-engineer-ii-amz9443289) |
 | iOS Software Development Engineer, Ring | Austin, TX | 1w ago | Mid-Level | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3092585/ios-software-development-engineer-ring) |
 | Software Dev Engineer II - AMZ26216.1 | Raleigh, NC | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3107205/software-dev-engineer-ii-amz26216-1) |
 | Android Software Development Engineer, Ring | Austin, TX | 1w ago | Mid-Level | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3097862/android-software-development-engineer-ring) |
+| Software Eng Intern | San Francisco, CA | 1w ago | Entry-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3111795/software-eng-intern) |
 | Software Development Engineer, IXT | Arlington, VA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3113897/software-development-engineer-ixt) |
 | Front-End Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering) |
-| Software Development Engineer (ML), AGI Customization | Boston, MA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3113731/software-development-engineer-ml-agi-customization) |
 | Embedded Software Development Engineer, OPD Hardware | Sunnyvale, CA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3103944/embedded-software-development-engineer-opd-hardware) |
 | Software Dev Engineer II, Conversational Ad Experiences | New York, NY | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3113981/software-dev-engineer-ii-conversational-ad-experiences) |
 | Software Development Engineer, Manufacturing Software Systems | Bellevue, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3069407/software-development-engineer-manufacturing-software-systems) |
 | Software Engineer II | San Francisco, CA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3113974/software-engineer-ii) |
 | Software Engineer I | Irvine, CA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3111761/software-engineer-i) |
 | Software Engineer II, ML Infra | San Francisco, CA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en-gb/jobs/3112104/software-engineer-ii-ml-infra) |
+| Software Development Engineer (ML), AGI Customization | Boston, MA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3113731/software-development-engineer-ml-agi-customization) |
 | Software Dev Engineer II, PXF Learn | Seattle, WA | 2w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3112060/software-dev-engineer-ii-pxf-learn) |
 | Software Engineer- AI/ML, AWS Neuron | Cupertino, CA | 2w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3111834/software-engineer-ai-ml-aws-neuron) |
 | Software Dev Engineer II - AMZ9907932 | Santa Clara, CA | 2w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3106370/software-dev-engineer-ii-amz9907932) |
