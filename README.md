@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-559-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-560-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-128-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-129-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 559 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 560 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 559
+- **🔥 Current Positions**: 560
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 128 premium opportunities
+- **⭐ FAANG+ Jobs**: 129 premium opportunities
 - **📅 Last Updated**: November 3, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,14 +115,14 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (128 positions)
+### 🏢 **FAANG+** (129 positions)
 
 <details>
 <summary><h4>📦 <strong>Amazon</strong> (112 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Dev Engineer II - AMZ9674235 | Seattle, WA | 5h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3114355/software-dev-engineer-ii-amz9674235) |
+| Software Dev Engineer II - AMZ9674235 | Seattle, WA | 6h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3114355/software-dev-engineer-ii-amz9674235) |
 | Software Development Engineer | Newark, NJ | 1d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3069185/software-development-engineer) |
 | Software Engineer - Digital Twin, Project Kuiper | Redmond, WA | 1d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper) |
 | Software Dev Engineer II - AMZ9085054 | Denver, CO | 3d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2981040/software-dev-engineer-ii-amz9085054) |
@@ -239,6 +239,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🟦 **Microsoft** | Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1864927) |
 | 🟦 **Microsoft** | Senior Software Engineer - Monetization | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903429) |
 | 🟦 **Microsoft** | Principal Software Engineer - Azure Storage | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1893476) |
 | 🟦 **Microsoft** | Software Engineer II - C++ | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1903128) |
@@ -248,8 +249,8 @@
 | 🟦 **Microsoft** | Technical Support Engineering | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1899870) |
 | 🟦 **Microsoft** | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1901747) |
 | 🟦 **Microsoft** | Senior Engineering Manager | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1901751) |
-| 🟦 **Microsoft** | Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1902815) |
 | 🎬 **Netflix** | Data Visualization Engineer 5 - Content & Studio | USA - Remote, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://explore.jobs.netflix.net/careers/job/790312697684) |
+| 🎬 **Netflix** | Analytics Engineer 5 - Member Insights Engineering | USA - Remote, CA | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://explore.jobs.netflix.net/careers/job/790312697825) |
 | 🎬 **Netflix** | Software Engineer 5 - Device Reliability | Los Gatos, CA | 3d ago | Mid-Level | Software Engineering | [Apply](https://explore.jobs.netflix.net/careers/job/790312683367) |
 | 🎬 **Netflix** | Analytics Engineer (L5) - Ads DSE, Privacy & Consent Analytics | USA - Remote, CA | 5d ago | Mid-Level | Data Science & Analytics | [Apply](https://explore.jobs.netflix.net/careers/job/790312656987) |
 | 🎬 **Netflix** | Full Stack Software Engineer (L5) - Internal Tools | Los Gatos, CA | 5d ago | Entry-Level | Full Stack Development | [Apply](https://explore.jobs.netflix.net/careers/job/790312659731) |
@@ -294,8 +295,8 @@
 | Sr. Software Engineer - Applied ML | San Francisco, California | 1w ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) |
 | Sr. Manager, Engineering - Search | Mountain View, California | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) |
 | Sr. Solutions Engineer, Retail - CPG | Illinois, CA | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7507778002) |
-| Senior Software Engineer - Fullstack | Mountain View, California; San Francisco | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) |
-| Developer Advocate - Neon | San Francisco, California | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) |
+| Senior Software Engineer - Fullstack | Mountain View, California; San Francisco | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) |
+| Developer Advocate - Neon | San Francisco, California | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124849002) |
 | Engineering Manager, Data Lineage — Unity Catalog Experience | Mountain View, California | 2w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8015139002) |
 | Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | 2w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) |
 | Sr. Staff Software Engineer - Metadata Intelligence | Mountain View, California | 2w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8204016002) |
@@ -317,7 +318,7 @@
 | Staff Software Engineer - GenAI inference | San Francisco, California | 3w ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002) |
 | Manager, Field Engineering | Northeast - United States, CA | 3w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7830778002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
-| Sr NOC Engineer | Heredia, Costa Rica | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094977002) |
+| Sr NOC Engineer | Heredia, Costa Rica | 3w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094976002) |
 | Engineering Manager - Notebook Dataplane | San Francisco, California | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002) |
 | AI Engineer - FDE (Forward Deployed Engineer) | United States, CA | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) |
 | Staff Enablement Program Manager - Field Engineering Onboarding | United States, CA | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8185057002) |
@@ -359,8 +360,8 @@
 | Software Engineer - Delta Managed Tables PhD Candidates | Mountain View, California | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7850582002) |
 | Engineering Manager - UI Platform | Bellevue, Washington | 3mo ago | Mid-Level | Frontend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002) |
 | Senior Backend Software Engineer- (AI Platform) | Mountain View, California; San Francisco | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002) |
-| Senior Software Engineer - Backend | Bellevue, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) |
 | Senior Software Engineer - Backend | Mountain View, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002) |
+| Senior Software Engineer - Backend | Bellevue, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) |
 | Senior Software Engineer - Compliance | Mountain View, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029215002) |
 | Senior Software Engineer - Fullstack | Seattle, Washington | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) |
 | Senior Software Engineer - Fullstack, Assistant | San Francisco, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7849869002) |
@@ -372,11 +373,11 @@
 | Senior Staff Software Engineer - Enzyme | Mountain View, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002) |
 | Senior Staff Software Engineer - IAM | Seattle, Washington | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002) |
 | Senior Staff Software Engineer - IAM | Mountain View, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002) |
-| Senior Staff Software Engineer - Privacy | San Francisco, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) |
-| Senior Staff Software Engineer - Privacy | Seattle, Washington | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) |
 | Senior Staff Software Engineer - Privacy | New York City, New York | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002) |
-| Senior Staff Software Engineer - Security Infrastructure | Mountain View, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) |
+| Senior Staff Software Engineer - Privacy | Seattle, Washington | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) |
+| Senior Staff Software Engineer - Privacy | San Francisco, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) |
 | Senior Staff Software Engineer - Security Infrastructure | Bellevue, Washington | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002) |
+| Senior Staff Software Engineer - Security Infrastructure | Mountain View, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) |
 | Senior Technical Solutions Engineer | Costa Rica, CA | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7315348002) |
 |  Senior Technical Solutions Engineer, Platform | Costa Rica, CA | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7902994002) |
 | Senior Technical Solutions Engineer, Platform | Dallas, Texas | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7902935002) |
@@ -386,9 +387,9 @@
 | Staff Designated Support Engineer | San Francisco, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Staff Fullstack Engineer | San Francisco, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) |
 | Staff Software Engineer - Backend | San Francisco, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) |
-| Staff Software Engineer - Backend | Bellevue, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) |
-| Staff Software Engineer - Backend | Seattle, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) |
 | Staff Software Engineer - Backend | Mountain View, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) |
+| Staff Software Engineer - Backend | Seattle, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) |
+| Staff Software Engineer - Backend | Bellevue, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) |
 | Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002) |
 | Staff Software Engineer - IAM | Bellevue, Washington | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002) |
 | Staff Software Engineer - IAM | Mountain View, California | 3mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002) |
@@ -443,7 +444,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Staff Software Engineer, Safety Processing | San Francisco Bay Area, CA | 3d ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8214127002) |
+| Staff Software Engineer, Safety Processing | San Francisco Bay Area, CA | 4d ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8214127002) |
 | Engineering Manager, Experiences | Remote (U.S.), CA | 5d ago | Mid-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/7991189002) |
 | Staff Software Engineer, Machine Learning | San Francisco Bay Area or Remote (U.S), CA | 1w ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8225578002) |
 | Engineering Manager, Core Product | San Francisco Bay Area , CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8161010002) |
@@ -619,34 +620,34 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Senior Analytics Engineer | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7370919?gh_jid=7370919) |
-| Engineering Manager (Consumer - Growth) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261791?gh_jid=7261791) |
-| Engineering Manager (Consumer - Payments) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6600248?gh_jid=6600248) |
-| Senior Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961) |
-| Senior Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526) |
-| Software Engineer, Frontend (Consumer - Coinbase One) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7135192?gh_jid=7135192) |
-| Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6821664?gh_jid=6821664) |
-| Software Engineer, Frontend (Consumer - Trust and Loyalty) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948954?gh_jid=5948954) |
-| Senior Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955) |
-| Staff Software Engineer, Backend (Consumer) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948906?gh_jid=5948906) |
-| Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942) |
-| Staff Software Engineer, Backend (Consumer - Trading) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7309097?gh_jid=7309097) |
-| Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) |
-| Senior Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7135202?gh_jid=7135202) |
-| Senior Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932) |
-| Senior Software Engineer (Consumer - Growth & App Infra, Growth Foundations) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6276169?gh_jid=6276169) |
-| Software Engineer, Backend  (Consumer - Coinbase Card) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535287?gh_jid=6535287) |
-| Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7135188?gh_jid=7135188) |
-| Software Engineer, Backend  (Consumer - Growth) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650914?gh_jid=6650914) |
-| Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948501?gh_jid=5948501) |
-| Software Engineer, Backend  (Consumer - Trading) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6812261?gh_jid=6812261) |
-| Staff Security Engineer, Network Security | Remote - USA, CA | 13h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) |
+| Engineering Manager (Consumer - Growth) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261791?gh_jid=7261791) |
+| Engineering Manager (Consumer - Payments) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6600248?gh_jid=6600248) |
+| Senior Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961) |
+| Senior Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526) |
+| Software Engineer, Frontend (Consumer - Coinbase One) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7135192?gh_jid=7135192) |
+| Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6821664?gh_jid=6821664) |
+| Software Engineer, Frontend (Consumer - Trust and Loyalty) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948954?gh_jid=5948954) |
+| Senior Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955) |
+| Staff Software Engineer, Backend (Consumer) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948906?gh_jid=5948906) |
+| Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942) |
+| Staff Software Engineer, Backend (Consumer - Trading) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7309097?gh_jid=7309097) |
+| Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) |
+| Senior Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7135202?gh_jid=7135202) |
+| Senior Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932) |
+| Senior Software Engineer (Consumer - Growth & App Infra, Growth Foundations) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6276169?gh_jid=6276169) |
+| Software Engineer, Backend  (Consumer - Coinbase Card) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535287?gh_jid=6535287) |
+| Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7135188?gh_jid=7135188) |
+| Software Engineer, Backend  (Consumer - Growth) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650914?gh_jid=6650914) |
+| Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948501?gh_jid=5948501) |
+| Software Engineer, Backend  (Consumer - Trading) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6812261?gh_jid=6812261) |
+| Staff Security Engineer, Network Security | Remote - USA, CA | 14h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) |
 | Engineering Manager, CorpSec | Remote - USA, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717) |
 | Senior Product Manager - Financial Engineering | Remote - USA, CA | 3d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7368784?gh_jid=7368784) |
 | Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - USA, CA | 3d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6698654?gh_jid=6698654) |
 | Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - USA, CA | 3d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6485609?gh_jid=6485609) |
 | Engineering Manager (Platform -GenAI) | Remote - USA, CA | 4d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7353594?gh_jid=7353594) |
-| Staff Machine Learning Engineer - Core Automation | Remote - USA, CA | 4d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364827?gh_jid=7364827) |
-| Software Engineer, Backend (Platform - Core Automation) | Remote - USA, CA | 4d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364902?gh_jid=7364902) |
+| Staff Machine Learning Engineer - Core Automation | Remote - USA, CA | 5d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364827?gh_jid=7364827) |
+| Software Engineer, Backend (Platform - Core Automation) | Remote - USA, CA | 5d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364902?gh_jid=7364902) |
 | Staff Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | 5d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033) |
 | Engineering Manager, Platform - Data Layer | Remote - USA, CA | 5d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7228376?gh_jid=7228376) |
 | Data Engineer Intern | Hybrid - New York, NY | 5d ago | Entry-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7309526?gh_jid=7309526) |
@@ -772,7 +773,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 68 | 12% | No or minimal experience |
-| 🟡 Beginner & Early Career | 233 | 42% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 234 | 42% | 1-2 years of experience |
 | 🔴 Manager         | 258 | 46% | 2+ years of experience |
 
 ---
@@ -793,8 +794,8 @@
 #### 🎨 Frontend Development (245 positions)
 ₿ Coinbase
 
-#### 📊 Data Science & Analytics (114 positions)
-📊 Databricks
+#### 📊 Data Science & Analytics (115 positions)
+🎬 Netflix • 📊 Databricks
 
 #### 💻 Software Engineering (103 positions)
 📱 Qualcomm • 🟦 Microsoft
@@ -824,7 +825,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 559 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 560 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -913,7 +914,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 559 current opportunities from 261 companies**
+**🎯 560 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
