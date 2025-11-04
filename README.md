@@ -241,16 +241,16 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🟦 **Microsoft** | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880622) |
 | 🟦 **Microsoft** | Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1897910) |
-| 🟦 **Microsoft** | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1885446) |
 | 🟦 **Microsoft** | Software Engineering | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1900192) |
 | 🟦 **Microsoft** | Principal AI Engineer | Redmond, WA | 0h ago | Senior | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1879533) |
 | 🟦 **Microsoft** | Principal Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1851148) |
-| 🎬 **Netflix** | Analytics Engineer 5 - Member Insights Engineering | USA - Remote, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://explore.jobs.netflix.net/careers/job/790312697825) |
 | 🎬 **Netflix** | Data Visualization Engineer 5 - Content & Studio | USA - Remote, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://explore.jobs.netflix.net/careers/job/790312697684) |
+| 🎬 **Netflix** | Analytics Engineer 5 - Member Insights Engineering | USA - Remote, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://explore.jobs.netflix.net/careers/job/790312697825) |
 | 🎬 **Netflix** | Software Engineer 5 - Device Reliability | Los Gatos, CA | 4d ago | Mid-Level | Software Engineering | [Apply](https://explore.jobs.netflix.net/careers/job/790312683367) |
-| 🎬 **Netflix** | Analytics Engineer (L5) - Ads DSE, Privacy & Consent Analytics | USA - Remote, CA | 6d ago | Mid-Level | Data Science & Analytics | [Apply](https://explore.jobs.netflix.net/careers/job/790312656987) |
 | 🎬 **Netflix** | Full Stack Software Engineer (L5) - Internal Tools | Los Gatos, CA | 6d ago | Entry-Level | Full Stack Development | [Apply](https://explore.jobs.netflix.net/careers/job/790312659731) |
+| 🎬 **Netflix** | Analytics Engineer (L5) - Ads DSE, Privacy & Consent Analytics | USA - Remote, CA | 6d ago | Mid-Level | Data Science & Analytics | [Apply](https://explore.jobs.netflix.net/careers/job/790312656987) |
 
 ### 🏢 **Top Tech** (139 positions)
 
@@ -259,7 +259,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Chief of Staff, Field Engineering  | San Francisco, California | 4h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
+| Chief of Staff, Field Engineering  | San Francisco, California | 5h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
 | Sr. Specialist Solutions Architect - Data Engineering - HCLS | United States, CA | 11h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8229363002) |
 | Manager, Field Engineering - Life Sciences Named/Geo | Northeast - United States, CA | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8223230002) |
 | Developer Advocate - Neon | San Francisco, California | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) |
@@ -497,9 +497,9 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Software Engineer, GenAI Systems | Remote - USA, CA | 12h ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7374033?gh_jid=7374033) |
+| Senior Software Engineer, GenAI Systems | Remote - USA, CA | 13h ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7374033?gh_jid=7374033) |
 | Senior Software Engineer, Community Support Engineering | Remote - USA, CA | 14h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7374281?gh_jid=7374281) |
-| Staff Software Engineer - GenAI Systems | Remote - USA, CA | 17h ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7373817?gh_jid=7373817) |
+| Staff Software Engineer - GenAI Systems | Remote - USA, CA | 18h ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7373817?gh_jid=7373817) |
 | Senior Engineering Manager, Brazil Site Lead | Brazil, CA | 4d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7367734?gh_jid=7367734) |
 | Software Engineer, Search Infrastructure | Brazil, CA | 4d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/7365942?gh_jid=7365942) |
 | Staff Software Engineer, Search Infrastructure | Brazil, CA | 5d ago | Senior | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/7362663?gh_jid=7362663) |
@@ -616,12 +616,12 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Senior Product Manager - Financial Engineering | Remote - USA, CA | 7h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7368784?gh_jid=7368784) |
-| Staff Machine Learning Engineer - Core Automation | Remote - USA, CA | 7h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364827?gh_jid=7364827) |
+| Staff Machine Learning Engineer - Core Automation | Remote - USA, CA | 8h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7364827?gh_jid=7364827) |
 | Senior Software Engineer, Fullstack (Platform - Payments) | Remote - USA, CA | 13h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7374356?gh_jid=7374356) |
-| Senior Engineering Manager (Customer Engagement/Experience Platforms) | Remote - USA, CA | 13h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7374252?gh_jid=7374252) |
-| Engineering Manager, Platform - Data Layer | Remote - USA, CA | 17h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7228376?gh_jid=7228376) |
+| Senior Engineering Manager (Customer Engagement/Experience Platforms) | Remote - USA, CA | 14h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7374252?gh_jid=7374252) |
+| Engineering Manager, Platform - Data Layer | Remote - USA, CA | 18h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7228376?gh_jid=7228376) |
 | Senior Software Engineer - IAM | Remote - USA, CA | 18h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7286163?gh_jid=7286163) |
-| Senior Analytics Engineer | Remote - USA, CA | 20h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7370919?gh_jid=7370919) |
+| Senior Analytics Engineer | Remote - USA, CA | 21h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7370919?gh_jid=7370919) |
 | Engineering Manager (Consumer - Growth) | Remote - USA, CA | 21h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261791?gh_jid=7261791) |
 | Engineering Manager (Consumer - Payments) | Remote - USA, CA | 21h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6600248?gh_jid=6600248) |
 | Senior Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | 21h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961) |
