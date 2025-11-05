@@ -133,8 +133,8 @@
 | Software Engineer - New Grad, Distributed Data Systems (2026 Start) | Bellevue, Washington; Mountain View | 5d ago | Entry-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) |
 | Sr. Solutions Engineer - Enterprise Greenfield Saudi Arabia | Riyadh, Saudi Arabia  | 5d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8160181002) |
 | Sr. Staff Backend Software Engineer -  Enterprise Apps | Mountain View, California | 5d ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220983002) |
-| Staff Fullstack Engineer - Enterprise Apps | Mountain View, California | 5d ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220836002) |
-| Sr. Staff Fullstack Engineer - Enterprise Apps | Mountain View, California | 5d ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220902002) |
+| Staff Fullstack Engineer - Enterprise Apps | Mountain View, California | 6d ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220836002) |
+| Sr. Staff Fullstack Engineer - Enterprise Apps | Mountain View, California | 6d ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220902002) |
 | Evergreen - Staff Backend Software Engineer-  Enterprise Apps  (L6) | Mountain View, California | 6d ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8220958002) |
 | Senior Software Engineer (Backend) - AI/ML Environments | Mountain View, California | 6d ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002) |
 | Senior Software Engineer - Fullstack (NYC) | New York | 1w ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211634002) |
@@ -280,7 +280,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Software Engineer, Mobile Architecture | San Francisco Bay Area | 7h ago | Senior | Mobile Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8242623002) |
+| Senior Software Engineer, Mobile Architecture | San Francisco Bay Area | 8h ago | Senior | Mobile Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8242623002) |
 | C++ Senior Software Engineer  | San Francisco Bay Area | 1d ago | Senior | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/7966411002) |
 | Director of Engineering, Developer Platform | San Francisco Bay Area  | 1d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/discord/jobs/8187999002) |
 | Engineering Manager, Ads Formats | San Francisco Bay Area | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101770002) |
