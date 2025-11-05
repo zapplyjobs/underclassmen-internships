@@ -123,10 +123,10 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 0h ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
-| Staff Security Assurance Engineer | San Francisco, California | 21h ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
+| Staff Security Assurance Engineer | San Francisco, California | 22h ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 1d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
 | Developer Advocate - Neon | San Francisco, California | 1d ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) |
-| Sr. Machine Learning Engineer  | San Francisco, California | 1d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) |
+| Sr. Machine Learning Engineer  | San Francisco, California | 2d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) |
 | Associate Product Manager, New Grad (2026 Start) | Bellevue, Washington; Mountain View | 5d ago | Entry-Level | Product Management | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
 | Data Scientist - New Grad (2026 Start) | Mountain View, California; San Francisco | 5d ago | Entry-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866554002) |
 | Software Engineering Intern (2026) | Bellevue, Washington; Mountain View | 5d ago | Entry-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
