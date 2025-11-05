@@ -314,8 +314,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Autonomous Vehicle Safety & Compliance Engineer | New York, NY | 14h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002) |
-| Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) |
+| Autonomous Vehicle Safety & Compliance Engineer | New York, NY | 15h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002) |
+| Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | 15h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) |
 | Senior Software Engineer, Lyft Ads | New York, NY | 1d ago | Senior | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) |
 | Senior Software Engineer (backend), AI | New York, NY | 1w ago | Senior | Backend Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8221138002?gh_jid=8221138002) |
 | Senior Software Engineer (Backend), AI | San Francisco, CA | 1w ago | Senior | Backend Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8221122002?gh_jid=8221122002) |
@@ -364,7 +364,7 @@
 | Technical Operations, Integration Reliability Engineer, Link | Seattle, San Francisco | 2w ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7138269) |
 | AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 2w ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
 | Android Engineer, OS Platform | San Francisco, Remote in US | 2w ago | Mid-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=7243475) |
-| Broadcast Engineer | San Francisco, CA  | 2w ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) |
+| Broadcast Engineer | San Francisco, Seattle | 2w ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7281231) |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | 2w ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) |
 | Corporate Engineering Manager, Automations & Integrations | Remote in the US | 2w ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7155895) |
 | Developer Experience Engineer, Privy | NYC-Privy, US-Remote | 2w ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) |
