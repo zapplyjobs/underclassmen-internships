@@ -122,8 +122,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 1h ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
-| Staff Security Assurance Engineer | San Francisco, California | 22h ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
+| Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 2h ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
+| Staff Security Assurance Engineer | San Francisco, California | 23h ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 1d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
 | Developer Advocate - Neon | San Francisco, California | 1d ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) |
 | Sr. Machine Learning Engineer  | San Francisco, California | 2d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) |
@@ -350,37 +350,37 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
-| Android Engineer, OS Platform | San Francisco, Remote in US | 3h ago | Mid-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=7243475) |
-| Backend Engineer, Core Technology | Seattle, San Francisco | 3h ago | Mid-Level | Backend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
-| Broadcast Engineer | San Francisco, CA  | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) |
-| Compensation Partner, Product & Engineering | NYC, San Francisco | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) |
-| Corporate Engineering Manager, Automations & Integrations | Remote in the US | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7155895) |
-| Developer Experience Engineer, Privy | NYC-Privy, US-Remote | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) |
-| Engineering Manager, Merchant Health Experience  | Seattle, San Francisco  | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7366186) |
-| Engineering Manager, Privy  | New York Privy HQ | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7129418) |
-| Engineering Manager, Product and Business | US-Remote, Chicago | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6909015) |
-| Forward Deployed Engineer, Privy | New York Privy HQ | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7230452) |
-| Frontend Engineering Manager, Payments | Seattle, San Francisco | 3h ago | Mid-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7063232) |
-| Full Stack Engineer, Managed Operations | Seattle, New York City  | 3h ago | Mid-Level | Full Stack Development | [Apply](https://stripe.com/jobs/search?gh_jid=7271571) |
-| Machine Learning Engineer, Foundation Model | US - San Francisco; Seattle; New York City | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7275014) |
-| Machine Learning Engineer, Identity Product | San Francisco, Seattle | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=6363655) |
-| Machine Learning Engineer, Payments ML Accelerator | Seattle; San Francisco; New York City | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7079044) |
-| Machine Learning Engineer, Supportability | San Francisco or Seattle | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7176812) |
-| PhD Machine Learning Engineer, Intern | San Francisco, New York City | 3h ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) |
-| PhD Machine Learning Engineer, New Grad | San Francisco, New York City | 3h ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216668) |
-| Senior Staff Engineer, Core Infrastructure | Seattle,SF | 3h ago | Senior | DevOps & Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=7017350) |
-| Software Engineer, Intern (Summer and Winter) | San Francisco, Seattle | 3h ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210115) |
-| Software Engineer, New Grad | San Francisco, Seattle | 3h ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210112) |
-| Software Engineer, Security Accelerate  | Remote | 3h ago | Mid-Level | Security Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7351461) |
-| Staff Engineer, App Platform | San Francisco, Seattle | 3h ago | Senior | DevOps & Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=6885408) |
-| Staff Engineer, RFA Forward Deployed Engineering | Seattle | 3h ago | Senior | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7154047) |
-| Staff Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 3h ago | Senior | Full Stack Development | [Apply](https://stripe.com/jobs/search?gh_jid=7091959) |
-| Staff ML Engineer, ML Foundations | US-SF, US-NYC | 3h ago | Senior | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7278350) |
-| Staff Security Engineer, Privy | NYC-Privy, US-Remote | 3h ago | Senior | Security Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104148) |
-| Staff Security Engineer, Security Partnerships | Remote 🏠 | 3h ago | Senior | Security Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6892149) |
-| Staff Software Engineer, Data Movement | Seattle, US Remote | 3h ago | Senior | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6345510) |
-| Technical Operations, Integration Reliability Engineer, Link | Seattle, San Francisco | 3h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7138269) |
+| AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
+| Android Engineer, OS Platform | San Francisco, Remote in US | 4h ago | Mid-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=7243475) |
+| Backend Engineer, Core Technology | Seattle, San Francisco | 4h ago | Mid-Level | Backend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
+| Broadcast Engineer | San Francisco, CA  | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) |
+| Compensation Partner, Product & Engineering | NYC, San Francisco | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) |
+| Corporate Engineering Manager, Automations & Integrations | Remote in the US | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7155895) |
+| Developer Experience Engineer, Privy | NYC-Privy, US-Remote | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) |
+| Engineering Manager, Merchant Health Experience  | Seattle, San Francisco  | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7366186) |
+| Engineering Manager, Privy  | New York Privy HQ | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7129418) |
+| Engineering Manager, Product and Business | US-Remote, Chicago | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6909015) |
+| Forward Deployed Engineer, Privy | New York Privy HQ | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7230452) |
+| Frontend Engineering Manager, Payments | Seattle, San Francisco | 4h ago | Mid-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7063232) |
+| Full Stack Engineer, Managed Operations | Seattle, New York City  | 4h ago | Mid-Level | Full Stack Development | [Apply](https://stripe.com/jobs/search?gh_jid=7271571) |
+| Machine Learning Engineer, Foundation Model | US - San Francisco; Seattle; New York City | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7275014) |
+| Machine Learning Engineer, Identity Product | San Francisco, Seattle | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=6363655) |
+| Machine Learning Engineer, Payments ML Accelerator | Seattle; San Francisco; New York City | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7079044) |
+| Machine Learning Engineer, Supportability | San Francisco or Seattle | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7176812) |
+| PhD Machine Learning Engineer, Intern | San Francisco, New York City | 4h ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) |
+| PhD Machine Learning Engineer, New Grad | San Francisco, New York City | 4h ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216668) |
+| Senior Staff Engineer, Core Infrastructure | Seattle,SF | 4h ago | Senior | DevOps & Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=7017350) |
+| Software Engineer, Intern (Summer and Winter) | San Francisco, Seattle | 4h ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210115) |
+| Software Engineer, New Grad | San Francisco, Seattle | 4h ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210112) |
+| Software Engineer, Security Accelerate  | Remote | 4h ago | Mid-Level | Security Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7351461) |
+| Staff Engineer, App Platform | San Francisco, Seattle | 4h ago | Senior | DevOps & Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=6885408) |
+| Staff Engineer, RFA Forward Deployed Engineering | Seattle | 4h ago | Senior | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7154047) |
+| Staff Fullstack Engineer, Privy | NYC-Privy, US-Remote  | 4h ago | Senior | Full Stack Development | [Apply](https://stripe.com/jobs/search?gh_jid=7091959) |
+| Staff ML Engineer, ML Foundations | US-SF, US-NYC | 4h ago | Senior | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7278350) |
+| Staff Security Engineer, Privy | NYC-Privy, US-Remote | 4h ago | Senior | Security Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104148) |
+| Staff Security Engineer, Security Partnerships | Remote 🏠 | 4h ago | Senior | Security Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6892149) |
+| Staff Software Engineer, Data Movement | Seattle, US Remote | 4h ago | Senior | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6345510) |
+| Technical Operations, Integration Reliability Engineer, Link | Seattle, San Francisco | 4h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7138269) |
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
