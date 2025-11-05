@@ -248,7 +248,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer, AI Platforms | San Francisco, CA • New York | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
+| Software Engineer, AI Platforms | San Francisco, CA • New York | 1h ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
 | Manager, Software Engineering - Creation Engine | San Francisco, CA • New York | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5696366004?gh_jid=5696366004) |
 | Software Engineer, Full Stack | San Francisco, CA • New York | 3d ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) |
 | Software Engineer, Graphics & Media | San Francisco, CA • New York | 6d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
@@ -281,7 +281,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Software Engineer, Mobile Architecture | San Francisco Bay Area | 20h ago | Senior | Mobile Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8242623002) |
+| Senior Software Engineer, Mobile Architecture | San Francisco Bay Area | 21h ago | Senior | Mobile Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8242623002) |
 | C++ Senior Software Engineer  | San Francisco Bay Area | 1d ago | Senior | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/7966411002) |
 | Director of Engineering, Developer Platform | San Francisco Bay Area  | 1d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/discord/jobs/8187999002) |
 | Engineering Manager, Ads Formats | San Francisco Bay Area | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101770002) |
@@ -291,13 +291,13 @@
 | Engineering Manager - Internal Developer Experience | San Francisco Bay Area | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8150540002) |
 | Senior Privacy Engineer | San Francisco Bay Area | 1d ago | Senior | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8105734002) |
 | Senior Product Design Manager, Player & Developer Experience | San Francisco Bay Area | 1d ago | Senior | Design | [Apply](https://job-boards.greenhouse.io/discord/jobs/8190428002) |
-| Senior Software Engineer, Ads | San Francisco Bay Area | 1d ago | Senior | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8177757002) |
+| Senior Software Engineer, Ads | San Francisco Bay Area | 1d ago | Senior | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101842002) |
 | Senior Software Engineer, Ads (UI/UX Specialist) | San Francisco Bay Area | 1d ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8149391002) |
 | Senior Software Engineer, Consumer Revenue | San Francisco Bay Area | 1d ago | Senior | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8182912002) |
 | Senior Software Engineer- Database Infrastructure | San Francisco Bay Area  | 1d ago | Senior | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/discord/jobs/8200328002) |
 | Senior Software Engineer, Data Platform | San Francisco Bay Area | 1d ago | Senior | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/discord/jobs/8112880002) |
 | Senior Software Engineer - Platform Infrastructure | San Francisco Bay Area | 1d ago | Senior | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/discord/jobs/8136321002) |
-| Software Engineer, Ads | San Francisco Bay Area | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101845002) |
+| Software Engineer, Ads | San Francisco Bay Area | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101855002) |
 | Software Engineer, E-Commerce Platform | San Francisco Bay Area | 1d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/discord/jobs/8187906002) |
 | Software Engineer, Mobile | San Francisco Bay Area | 1d ago | Mid-Level | Mobile Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8177727002) |
 | Staff Data Engineer, Ads | San Francisco Bay Area or Remote (U.S.) | 1d ago | Senior | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/discord/jobs/8129458002) |
