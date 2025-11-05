@@ -125,7 +125,7 @@
 | Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 0h ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
 | Staff Security Assurance Engineer | San Francisco, California | 21h ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 1d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
-| Developer Advocate - Neon | San Francisco, California | 1d ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124849002) |
+| Developer Advocate - Neon | San Francisco, California | 1d ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) |
 | Sr. Machine Learning Engineer  | San Francisco, California | 1d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) |
 | Associate Product Manager, New Grad (2026 Start) | Bellevue, Washington; Mountain View | 5d ago | Entry-Level | Product Management | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
 | Data Scientist - New Grad (2026 Start) | Mountain View, California; San Francisco | 5d ago | Entry-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866554002) |
@@ -151,7 +151,7 @@
 | Sr. Solutions Engineer - Communications, Media, Entertainment and Gaming  | Chicago, Illinois | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8206231002) |
 | Sr. Solutions Engineer - Communications, Media, Entertainment and Gaming  | New York City, New York | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8206229002) |
 | Sr. Manager, Engineering - Search | Mountain View, California | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) |
-| Senior Software Engineer - Fullstack | Mountain View, California; San Francisco | 2w ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) |
+| Senior Software Engineer - Fullstack | Mountain View, California; San Francisco | 2w ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) |
 | Engineering Manager, Data Lineage — Unity Catalog Experience | Mountain View, California | 2w ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8015139002) |
 | Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) |
 | Sr. Staff Software Engineer - Metadata Intelligence | Mountain View, California | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8204016002) |
@@ -217,9 +217,9 @@
 | Senior Staff Software Engineer - Enzyme | Mountain View, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002) |
 | Senior Staff Software Engineer - IAM | Mountain View, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002) |
 | Senior Staff Software Engineer - IAM | Seattle, Washington | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002) |
+| Senior Staff Software Engineer - Privacy | San Francisco, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) |
 | Senior Staff Software Engineer - Privacy | Seattle, Washington | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) |
 | Senior Staff Software Engineer - Privacy | New York City, New York | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002) |
-| Senior Staff Software Engineer - Privacy | San Francisco, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) |
 | Senior Staff Software Engineer - Security Infrastructure | Bellevue, Washington | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002) |
 | Senior Staff Software Engineer - Security Infrastructure | Mountain View, California | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) |
 | Senior Technical Solutions Engineer, Platform | Dallas, Texas | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7902935002) |
@@ -229,15 +229,15 @@
 | Staff Designated Support Engineer | San Francisco, California | 3mo ago | Senior | Design | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Staff Fullstack Engineer | San Francisco, California | 3mo ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) |
 | Staff Software Engineer - Backend | Bellevue, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) |
-| Staff Software Engineer - Backend | Seattle, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) |
 | Staff Software Engineer - Backend | Mountain View, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) |
 | Staff Software Engineer - Backend | San Francisco, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) |
+| Staff Software Engineer - Backend | Seattle, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) |
 | Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002) |
-| Staff Software Engineer - IAM | Mountain View, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002) |
 | Staff Software Engineer - IAM | Bellevue, Washington | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002) |
+| Staff Software Engineer - IAM | Mountain View, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002) |
 | Staff Software Engineer - Money Team | Bellevue, Washington | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002) |
-| Staff Software Engineer - Security Infrastructure | Bellevue, Washington | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) |
 | Staff Software Engineer - Security Infrastructure | Mountain View, California | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
+| Staff Software Engineer - Security Infrastructure | Bellevue, Washington | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) |
 | Staff Software Engineer - User Activation | San Francisco, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002) |
 
 </details>
@@ -335,7 +335,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 17h ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
+| 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 18h ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
 | 🏠 **Airbnb** | Staff Software Engineer, Experimentation Data | Remote USA | 3w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7306868?gh_jid=7306868) |
 | 🏠 **Airbnb** | Senior Fullstack Engineer Community Support Engineering | Remote 🏠 | 3w ago | Senior | Full Stack Development | [Apply](https://careers.airbnb.com/positions/6856155?gh_jid=6856155) |
 | 🏠 **Airbnb** | Senior Software Engineer, Host Pricing & Settings | Remote USA | 3w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6718415?gh_jid=6718415) |
