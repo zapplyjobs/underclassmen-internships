@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-231-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-230-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 231 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 230 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 231
+- **🔥 Current Positions**: 230
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 5, 2025
@@ -115,10 +115,10 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Top Tech** (117 positions)
+### 🏢 **Top Tech** (116 positions)
 
 <details>
-<summary><h4>📊 <strong>Databricks</strong> (117 positions)</h4></summary>
+<summary><h4>📊 <strong>Databricks</strong> (116 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -171,7 +171,6 @@
 | Staff Software Engineer - GenAI inference | San Francisco, California | 4w ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002) |
 | Sr NOC Engineer | Heredia, Costa Rica | 1mo ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094977002) |
 | Engineering Manager - Notebook Dataplane | San Francisco, California | 1mo ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002) |
-| Sr. GTM Analytics Engineer | San Francisco, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8177753002) |
 | Scale Solutions Engineer  | Heredia, Costa Rica | 1mo ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8144045002) |
 | Senior Technical Solutions Engineer, Lakebase | Dallas, Texas; Mountain View | 1mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8117624002) |
 | Sr. Staff Designated Support Engineer | San Francisco, California | 1mo ago | Senior | Design | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995111002) |
@@ -228,16 +227,16 @@
 | Sr. Staff Software Engineer - Unity Catalog Data Governance | Bellevue, Washington | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002) |
 | Staff Designated Support Engineer | San Francisco, California | 3mo ago | Senior | Design | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) |
 | Staff Fullstack Engineer | San Francisco, California | 3mo ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) |
+| Staff Software Engineer - Backend | Bellevue, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) |
+| Staff Software Engineer - Backend | San Francisco, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) |
 | Staff Software Engineer - Backend | Mountain View, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) |
 | Staff Software Engineer - Backend | Seattle, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) |
-| Staff Software Engineer - Backend | San Francisco, California | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) |
-| Staff Software Engineer - Backend | Bellevue, Washington | 3mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) |
 | Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002) |
 | Staff Software Engineer - IAM | Mountain View, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002) |
 | Staff Software Engineer - IAM | Bellevue, Washington | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002) |
 | Staff Software Engineer - Money Team | Bellevue, Washington | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002) |
-| Staff Software Engineer - Security Infrastructure | Mountain View, California | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
 | Staff Software Engineer - Security Infrastructure | Bellevue, Washington | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) |
+| Staff Software Engineer - Security Infrastructure | Mountain View, California | 3mo ago | Senior | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) |
 | Staff Software Engineer - User Activation | San Francisco, California | 3mo ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002) |
 
 </details>
@@ -315,8 +314,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Autonomous Vehicle Safety & Compliance Engineer | New York, NY | 18h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002) |
-| Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) |
+| Autonomous Vehicle Safety & Compliance Engineer | New York, NY | 19h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002) |
+| Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) |
 | Senior Software Engineer, Lyft Ads | New York, NY | 1d ago | Senior | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) |
 | Senior Software Engineer (backend), AI | New York, NY | 1w ago | Senior | Backend Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8221138002?gh_jid=8221138002) |
 | Senior Software Engineer (Backend), AI | San Francisco, CA | 1w ago | Senior | Backend Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8221122002?gh_jid=8221122002) |
@@ -353,7 +352,7 @@
 | AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 1h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
 | Android Engineer, OS Platform | San Francisco, Remote in US | 1h ago | Mid-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=7243475) |
 | Backend Engineer, Core Technology | Seattle, San Francisco | 1h ago | Mid-Level | Backend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
-| Broadcast Engineer | San Francisco, Seattle | 1h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7281231) |
+| Broadcast Engineer | San Francisco, CA  | 1h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | 1h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) |
 | Corporate Engineering Manager, Automations & Integrations | Remote in the US | 1h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7155895) |
 | Developer Experience Engineer, Privy | NYC-Privy, US-Remote | 1h ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) |
@@ -419,13 +418,13 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 20 | 9% | No or minimal experience |
 | 🟡 Beginner & Early Career | 78 | 34% | 1-2 years of experience |
-| 🔴 Manager         | 133 | 58% | 2+ years of experience |
+| 🔴 Manager         | 132 | 57% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Mountain View, California**: 39 positions
-- **San Francisco, California**: 33 positions
+- **San Francisco, California**: 32 positions
 - **San Francisco, CA • New York**: 26 positions
 - **San Francisco Bay Area**: 19 positions
 - **Bellevue, Washington**: 11 positions
@@ -460,7 +459,7 @@
 #### 🎨 Frontend Development (7 positions)
 💳 Stripe • 🎮 Discord
 
-#### 📊 Data Science & Analytics (7 positions)
+#### 📊 Data Science & Analytics (6 positions)
 🎮 Discord • 📊 Databricks • 🎨 Figma
 
 #### 🎨 Design (4 positions)
@@ -473,7 +472,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 231 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 230 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -562,7 +561,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 231 current opportunities from 261 companies**
+**🎯 230 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
