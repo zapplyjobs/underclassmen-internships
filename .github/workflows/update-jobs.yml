@@ -9,8 +9,9 @@ on:
     branches: [ main ]
     paths:
       - '.github/scripts/job-fetcher/**'
-      - '.github/scripts/real-career-scraper.js'
+      - '.github/scripts/unified-job-fetcher.js'
       - '.github/scripts/enhanced-discord-bot.js'
+      - 'jobboard/src/backend/**'
 
 # Prevent concurrent runs to avoid git conflicts
 concurrency:
@@ -37,9 +38,8 @@ jobs:
         node-version: '18'
         
         
-    - name: Install scraper dependencies
-      working-directory: jobboard
-      run: npm install puppeteer
+    - name: Install job fetcher dependencies
+      run: npm install axios
       
     - name: Update job listings
       run: node .github/scripts/job-fetcher/index.js
