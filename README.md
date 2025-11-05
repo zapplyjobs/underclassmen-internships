@@ -355,7 +355,7 @@
 | Staff Security Engineer, Security Partnerships | Remote 🏠 | 5d ago | Senior | Security Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6892149) |
 | Backend Engineer, Core Technology | Seattle, San Francisco | 5d ago | Mid-Level | Backend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
 | Senior Staff Engineer, Core Infrastructure | Seattle,SF | 5d ago | Senior | DevOps & Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=7017350) |
-| Machine Learning Engineer, Supportability | San Francisco or Seattle | 5d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7176812) |
+| Machine Learning Engineer, Supportability | San Francisco or Seattle | 6d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7176812) |
 | PhD Machine Learning Engineer, New Grad | San Francisco, New York City | 6d ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216668) |
 | PhD Machine Learning Engineer, Intern | San Francisco, New York City | 6d ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) |
 | Staff ML Engineer, ML Foundations | US-SF, US-NYC | 1w ago | Senior | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7278350) |
