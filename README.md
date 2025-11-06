@@ -350,6 +350,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
+| PhD Machine Learning Engineer, New Grad | San Francisco, New York City | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216668) |
 | AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 14h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
 | Android Engineer, OS Platform | San Francisco, Remote in US | 14h ago | Mid-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=7243475) |
 | Backend Engineer, Core Technology | Seattle, San Francisco | 14h ago | Mid-Level | Backend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
@@ -368,7 +369,6 @@
 | Machine Learning Engineer, Payments ML Accelerator | Seattle; San Francisco; New York City | 14h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7079044) |
 | Machine Learning Engineer, Supportability | San Francisco or Seattle | 14h ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7176812) |
 | PhD Machine Learning Engineer, Intern | San Francisco, New York City | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) |
-| PhD Machine Learning Engineer, New Grad | San Francisco, New York City | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216668) |
 | Senior Staff Engineer, Core Infrastructure | Seattle,SF | 14h ago | Senior | DevOps & Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=7017350) |
 | Software Engineer, Intern (Summer and Winter) | San Francisco, Seattle | 14h ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210115) |
 | Software Engineer, New Grad | San Francisco, Seattle | 14h ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210112) |
@@ -440,7 +440,7 @@
 📊 Databricks • 💳 Stripe
 
 #### 🧠 Machine Learning & AI (24 positions)
-🎨 Figma • 💳 Stripe
+💳 Stripe • 🎨 Figma
 
 #### ☁️ DevOps & Infrastructure (22 positions)
 💳 Stripe • 🎮 Discord
