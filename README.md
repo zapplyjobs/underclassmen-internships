@@ -250,7 +250,7 @@
 |------|----------|--------|-------|----------|-------|
 | Software Engineer, AI Platforms | San Francisco, CA • New York | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
 | Manager, Software Engineering - Creation Engine | San Francisco, CA • New York | 2d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5696366004?gh_jid=5696366004) |
-| Software Engineer, Full Stack | San Francisco, CA • New York | 4d ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) |
+| Software Engineer, Full Stack | San Francisco, CA • New York | 5d ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) |
 | Software Engineer, Graphics & Media | San Francisco, CA • New York | 1w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
 | Software Engineer, Data Infrastructure | San Francisco, CA • New York | 1w ago | Mid-Level | DevOps & Infrastructure | [Apply](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004) |
 | Director, Product - Developer Tools | New York, NY • United States | 1w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5637880004?gh_jid=5637880004) |
@@ -355,7 +355,7 @@
 | AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
 | Android Engineer, OS Platform | San Francisco, Remote in US | 1d ago | Mid-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=7243475) |
 | Backend Engineer, Core Technology | Seattle, San Francisco | 1d ago | Mid-Level | Backend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
-| Broadcast Engineer | San Francisco, Seattle | 1d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7281231) |
+| Broadcast Engineer | San Francisco, CA  | 1d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | 1d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) |
 | Corporate Engineering Manager, Automations & Integrations | Remote in the US | 1d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7155895) |
 | Developer Experience Engineer, Privy | NYC-Privy, US-Remote | 1d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) |
