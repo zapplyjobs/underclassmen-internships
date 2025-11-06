@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-231-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-232-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 231 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 232 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 231
+- **🔥 Current Positions**: 232
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 6, 2025
@@ -309,7 +309,7 @@
 | Staff Software Engineer - UI and Interactions (Full-Stack) | Remote (U.S.) | 2d ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8058456002) |
 | Staff Software Engineer – UI/UX Specialist | Remote (U.S.) | 2d ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/7854326002) |
 
-### 🛒 **Consumer & E-Commerce** (25 positions)
+### 🛒 **Consumer & E-Commerce** (26 positions)
 
 #### 🛻 **Lyft** (16 positions)
 
@@ -334,6 +334,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏠 **Airbnb** | Staff Software Engineer, Host Pricing & Settings | Remote 🏠 | 0h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7373734?gh_jid=7373734) |
 | 🏠 **Airbnb** | Senior Android Engineer, Trust Platform | Remote 🏠 | 5h ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6770913?gh_jid=6770913) |
 | 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 1d ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
 | 🏠 **Airbnb** | Staff Software Engineer, Experimentation Data | Remote USA | 3w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7306868?gh_jid=7306868) |
@@ -419,7 +420,7 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 20 | 9% | No or minimal experience |
 | 🟡 Beginner & Early Career | 77 | 33% | 1-2 years of experience |
-| 🔴 Manager         | 134 | 58% | 2+ years of experience |
+| 🔴 Manager         | 135 | 58% | 2+ years of experience |
 
 ---
 
@@ -431,13 +432,13 @@
 - **Bellevue, Washington**: 11 positions
 - **San Francisco, CA**: 10 positions
 - **Mountain View, California; San Francisco**: 9 positions
-- **Remote 🏠**: 7 positions
+- **Remote 🏠**: 8 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (117 positions)
-📊 Databricks • 💳 Stripe
+#### 💻 Software Engineering (118 positions)
+🏠 Airbnb • 📊 Databricks • 💳 Stripe
 
 #### 🧠 Machine Learning & AI (24 positions)
 💳 Stripe • 🎨 Figma
@@ -473,7 +474,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 231 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 232 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -562,7 +563,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 231 current opportunities from 261 companies**
+**🎯 232 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
