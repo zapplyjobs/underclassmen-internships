@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-231-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-232-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 231 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 232 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 231
+- **🔥 Current Positions**: 232
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 6, 2025
@@ -122,7 +122,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 23h ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
+| Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 1d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
 | Staff Security Assurance Engineer | San Francisco, California | 1d ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 2d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
 | Developer Advocate - Neon | San Francisco, California | 2d ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) |
@@ -309,7 +309,7 @@
 | Staff Software Engineer - UI and Interactions (Full-Stack) | Remote (U.S.) | 2d ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8058456002) |
 | Staff Software Engineer – UI/UX Specialist | Remote (U.S.) | 2d ago | Senior | Frontend Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/7854326002) |
 
-### 🛒 **Consumer & E-Commerce** (25 positions)
+### 🛒 **Consumer & E-Commerce** (26 positions)
 
 #### 🛻 **Lyft** (17 positions)
 
@@ -335,6 +335,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏠 **Airbnb** | Senior Android Engineer, Trust Platform | Remote 🏠 | 0h ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6770913?gh_jid=6770913) |
 | 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 1d ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
 | 🏠 **Airbnb** | Staff Software Engineer, Experimentation Data | Remote USA | 3w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7306868?gh_jid=7306868) |
 | 🏠 **Airbnb** | Senior Fullstack Engineer Community Support Engineering | Remote 🏠 | 4w ago | Senior | Full Stack Development | [Apply](https://careers.airbnb.com/positions/6856155?gh_jid=6856155) |
@@ -419,7 +420,7 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 20 | 9% | No or minimal experience |
 | 🟡 Beginner & Early Career | 78 | 34% | 1-2 years of experience |
-| 🔴 Manager         | 133 | 58% | 2+ years of experience |
+| 🔴 Manager         | 134 | 58% | 2+ years of experience |
 
 ---
 
@@ -431,7 +432,7 @@
 - **Bellevue, Washington**: 11 positions
 - **San Francisco, CA**: 10 positions
 - **Mountain View, California; San Francisco**: 9 positions
-- **Remote 🏠**: 6 positions
+- **Remote 🏠**: 7 positions
 
 ---
 
@@ -448,11 +449,11 @@
 #### ⚙️ Backend Development (16 positions)
 💳 Stripe • 📊 Databricks
 
+#### 📱 Mobile Development (12 positions)
+🏠 Airbnb • 💳 Stripe
+
 #### 🌐 Full Stack Development (12 positions)
 💳 Stripe • 🎨 Figma
-
-#### 📱 Mobile Development (11 positions)
-💳 Stripe • 🏠 Airbnb • 🎮 Discord
 
 #### 🛡️ Security Engineering (10 positions)
 💳 Stripe
@@ -473,7 +474,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 231 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 232 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -562,7 +563,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 231 current opportunities from 261 companies**
+**🎯 232 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
