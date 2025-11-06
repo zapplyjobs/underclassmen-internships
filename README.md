@@ -122,7 +122,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 22h ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
+| Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 23h ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
 | Staff Security Assurance Engineer | San Francisco, California | 1d ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 2d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
 | Developer Advocate - Neon | San Francisco, California | 2d ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) |
@@ -248,7 +248,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer, AI Platforms | San Francisco, CA • New York | 23h ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
+| Software Engineer, AI Platforms | San Francisco, CA • New York | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
 | Manager, Software Engineering - Creation Engine | San Francisco, CA • New York | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5696366004?gh_jid=5696366004) |
 | Software Engineer, Full Stack | San Francisco, CA • New York | 4d ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) |
 | Software Engineer, Graphics & Media | San Francisco, CA • New York | 1w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
