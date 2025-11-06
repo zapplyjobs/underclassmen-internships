@@ -123,7 +123,7 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 1d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
-| Staff Security Assurance Engineer | San Francisco, California | 1d ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
+| Staff Security Assurance Engineer | San Francisco, California | 2d ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 2d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
 | Developer Advocate - Neon | San Francisco, California | 2d ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124849002) |
 | Sr. Machine Learning Engineer  | San Francisco, California | 3d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) |
