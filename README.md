@@ -314,7 +314,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Software Engineer, Lyft Ads | New York, NY | 2h ago | Senior | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) |
+| Senior Software Engineer, Lyft Ads | New York, NY | 3h ago | Senior | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) |
 | Autonomous Vehicle Safety & Compliance Engineer | New York, NY | 3d ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002) |
 | Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | 3d ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) |
 | Senior Software Engineer (backend), AI | New York, NY | 2w ago | Senior | Backend Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8221138002?gh_jid=8221138002) |
@@ -334,7 +334,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏠 **Airbnb** | Staff Software Engineer, Host Pricing & Settings | Remote 🏠 | 1d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7373734?gh_jid=7373734) |
 | 🏠 **Airbnb** | Senior Android Engineer, Trust Platform | Remote 🏠 | 1d ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6770913?gh_jid=6770913) |
-| 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 2d ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
+| 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 3d ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
 | 🏠 **Airbnb** | Staff Software Engineer, Experimentation Data | Remote USA | 4w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7306868?gh_jid=7306868) |
 | 🏠 **Airbnb** | Senior Fullstack Engineer Community Support Engineering | Remote 🏠 | 1mo ago | Senior | Full Stack Development | [Apply](https://careers.airbnb.com/positions/6856155?gh_jid=6856155) |
 | 🏠 **Airbnb** | Senior Software Engineer, Host Pricing & Settings | Remote USA | 1mo ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6718415?gh_jid=6718415) |
