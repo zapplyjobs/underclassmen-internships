@@ -122,7 +122,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Platform Monitoring Engineer | Heredia, Costa Rica | 1h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094976002) |
+| Platform Monitoring Engineer | Heredia, Costa Rica | 2h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094976002) |
 | Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 1d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
 | Staff Security Assurance Engineer | San Francisco, California | 2d ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 3d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
@@ -280,7 +280,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Software Engineer, Mobile Architecture | San Francisco Bay Area | 15h ago | Senior | Mobile Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8245138002) |
+| Senior Software Engineer, Mobile Architecture | San Francisco Bay Area | 16h ago | Senior | Mobile Development | [Apply](https://job-boards.greenhouse.io/discord/jobs/8245138002) |
 | C++ Senior Software Engineer  | San Francisco Bay Area | 3d ago | Senior | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/7966411002) |
 | Director of Engineering, Developer Platform | San Francisco Bay Area  | 3d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/discord/jobs/8187999002) |
 | Engineering Manager, Ads Formats | San Francisco Bay Area | 3d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101770002) |
@@ -333,7 +333,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏠 **Airbnb** | Staff Software Engineer, Host Pricing & Settings | Remote 🏠 | 17h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7373734?gh_jid=7373734) |
+| 🏠 **Airbnb** | Staff Software Engineer, Host Pricing & Settings | Remote 🏠 | 18h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7373734?gh_jid=7373734) |
 | 🏠 **Airbnb** | Senior Android Engineer, Trust Platform | Remote 🏠 | 23h ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6770913?gh_jid=6770913) |
 | 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 2d ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
 | 🏠 **Airbnb** | Staff Software Engineer, Experimentation Data | Remote USA | 3w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7306868?gh_jid=7306868) |
@@ -354,7 +354,7 @@
 | AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
 | Android Engineer, OS Platform | San Francisco, Remote in US | 2d ago | Mid-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=7243475) |
 | Backend Engineer, Core Technology | Seattle, San Francisco | 2d ago | Mid-Level | Backend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
-| Broadcast Engineer | San Francisco, CA  | 2d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) |
+| Broadcast Engineer | San Francisco, Seattle | 2d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7281231) |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | 2d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) |
 | Corporate Engineering Manager, Automations & Integrations | Remote in the US | 2d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7155895) |
 | Developer Experience Engineer, Privy | NYC-Privy, US-Remote | 2d ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) |
