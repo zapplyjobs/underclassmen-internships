@@ -168,7 +168,7 @@
 | Staff IT Software Engineer - Brickster Experience | Mountain View, California; San Francisco | 3w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8144039002) |
 | Senior Machine Learning Engineer - GenAI Platform  | San Francisco, California | 4w ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002) |
 | Software Engineer - GenAI inference  | San Francisco, California | 4w ago | Mid-Level | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002) |
-| Senior Applied AI Engineer – ML for Systems & Infrastructure | San Francisco, California | 4w ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002) |
+| Senior Applied AI Engineer – ML for Systems & Infrastructure | San Francisco, California | 1mo ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002) |
 | Staff Software Engineer - GenAI Performance and Kernel | San Francisco, California | 1mo ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202700002) |
 | Staff Software Engineer - GenAI inference | San Francisco, California | 1mo ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002) |
 | Engineering Manager - Notebook Dataplane | San Francisco, California | 1mo ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002) |
@@ -249,7 +249,7 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Engineer, AI Platforms | San Francisco, CA • New York | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004) |
-| Manager, Software Engineering - Creation Engine | San Francisco, CA • New York | 2d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5696366004?gh_jid=5696366004) |
+| Manager, Software Engineering - Creation Engine | San Francisco, CA • New York | 3d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5696366004?gh_jid=5696366004) |
 | Software Engineer, Full Stack | San Francisco, CA • New York | 5d ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) |
 | Software Engineer, Graphics & Media | San Francisco, CA • New York | 1w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
 | Software Engineer, Data Infrastructure | San Francisco, CA • New York | 1w ago | Mid-Level | DevOps & Infrastructure | [Apply](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004) |
