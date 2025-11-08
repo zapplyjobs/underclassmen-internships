@@ -122,7 +122,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Platform Monitoring Engineer | Heredia, Costa Rica | 18h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094976002) |
+| Platform Monitoring Engineer | Heredia, Costa Rica | 19h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094976002) |
 | Sr. Manager, Field Engineering - Financial Services | Boston, Massachusetts; Chicago | 2d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8222653002) |
 | Staff Security Assurance Engineer | San Francisco, California | 3d ago | Senior | Security Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8199405002) |
 | Chief of Staff, Field Engineering  | San Francisco, California | 4d ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002) |
@@ -153,10 +153,10 @@
 | Sr. Solutions Engineer - Communications, Media, Entertainment and Gaming  | New York City, New York | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8206229002) |
 | Sr. Manager, Engineering - Search | Mountain View, California | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) |
 | Senior Software Engineer - Fullstack | Mountain View, California; San Francisco | 2w ago | Senior | Full Stack Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) |
-| Engineering Manager, Data Lineage — Unity Catalog Experience | Mountain View, California | 2w ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8015139002) |
-| Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) |
-| Sr. Staff Software Engineer - Metadata Intelligence | Mountain View, California | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8204016002) |
-| Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington | 2w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002) |
+| Engineering Manager, Data Lineage — Unity Catalog Experience | Mountain View, California | 3w ago | Mid-Level | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8015139002) |
+| Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | 3w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) |
+| Sr. Staff Software Engineer - Metadata Intelligence | Mountain View, California | 3w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8204016002) |
+| Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington | 3w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002) |
 | Director, Engineering - Databricks Mosaic AI | New York | 3w ago | Mid-Level | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8214272002) |
 | Sr. Manager, Engineering - Model Serving | San Francisco, California | 3w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211957002) |
 | Senior Software Engineer, Model Serving | San Francisco, California | 3w ago | Senior | Software Engineering | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002) |
