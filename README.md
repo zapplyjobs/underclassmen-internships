@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-230-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-229-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 230 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 229 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 230
+- **🔥 Current Positions**: 229
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 8, 2025
@@ -314,7 +314,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Senior Software Engineer, Lyft Ads | New York, NY | 7h ago | Senior | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) |
+| Senior Software Engineer, Lyft Ads | New York, NY | 8h ago | Senior | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) |
 | Autonomous Vehicle Safety & Compliance Engineer | New York, NY | 3d ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002) |
 | Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | 3d ago | Mid-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) |
 | Senior Software Engineer (backend), AI | New York, NY | 2w ago | Senior | Backend Development | [Apply](https://app.careerpuck.com/job-board/lyft/job/8221138002?gh_jid=8221138002) |
@@ -343,9 +343,9 @@
 | 🏠 **Airbnb** | Staff Software Engineer, Growth Platform | Remote 🏠 | 1mo ago | Senior | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/6886222?gh_jid=6886222) |
 | 🏠 **Airbnb** | Staff Software Engineer, Trust | Remote 🏠 | 1mo ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7116604?gh_jid=7116604) |
 
-### 💰 **Financial & Fintech** (34 positions)
+### 💰 **Financial & Fintech** (33 positions)
 
-#### 💳 **Stripe** (31 positions)
+#### 💳 **Stripe** (30 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -366,7 +366,6 @@
 | Machine Learning Engineer, Foundation Model | US - San Francisco; Seattle; New York City | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7275014) |
 | Machine Learning Engineer, Identity Product | San Francisco, Seattle | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=6363655) |
 | Machine Learning Engineer, Payments ML Accelerator | Seattle; San Francisco; New York City | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7079044) |
-| Machine Learning Engineer, Supportability | San Francisco or Seattle | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7176812) |
 | PhD Machine Learning Engineer, Intern | San Francisco, New York City | 2d ago | Entry-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) |
 | Senior Staff Engineer, Core Infrastructure | Seattle,SF | 2d ago | Senior | DevOps & Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=7017350) |
 | Software Engineer, Intern (Summer and Winter) | San Francisco, Seattle | 2d ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210115) |
@@ -417,7 +416,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 19 | 8% | No or minimal experience |
-| 🟡 Beginner & Early Career | 76 | 33% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 75 | 33% | 1-2 years of experience |
 | 🔴 Manager         | 135 | 59% | 2+ years of experience |
 
 ---
@@ -438,11 +437,11 @@
 #### 💻 Software Engineering (116 positions)
 🛻 Lyft • 🏠 Airbnb • 📊 Databricks
 
-#### 🧠 Machine Learning & AI (24 positions)
-💳 Stripe • 🎨 Figma
-
 #### ☁️ DevOps & Infrastructure (23 positions)
 📊 Databricks • 💳 Stripe
+
+#### 🧠 Machine Learning & AI (23 positions)
+💳 Stripe • 🎨 Figma
 
 #### ⚙️ Backend Development (16 positions)
 💳 Stripe • 📊 Databricks
@@ -472,7 +471,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 230 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 229 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -561,7 +560,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 230 current opportunities from 261 companies**
+**🎯 229 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
