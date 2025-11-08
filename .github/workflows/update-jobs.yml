@@ -24,33 +24,41 @@ jobs:
     timeout-minutes: 15
     permissions:
       contents: write
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         fetch-depth: 0  # Fetch full history for proper rebasing
         token: ${{ secrets.GITHUB_TOKEN }}  # Use default token for pushing
-      
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        
-        
+
+
     - name: Install job fetcher dependencies
       run: npm install axios
-      
-    - name: Update job listings
-      run: node .github/scripts/job-fetcher/index.js
 
+    - name: Update job listings
+      run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
+      env:
+        PRIMARY_DATA_SOURCE_URL: ${{ secrets.EXTERNAL_JOBS_SOURCE }}
+
+    - name: Display public status
+      run: |
+        echo "✅ Job collection completed"
+        if [ -f "README.md" ]; then
+          JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          echo "📊 Total positions: $JOB_COUNT"
+        fi
 
     - name: Install bot dependencies
-      working-directory: .github/scripts
       run: npm install discord.js@14
 
     - name: Post new jobs via Enhanced Bot
-      run: node .github/scripts/save-discord-logs.js
+      run: node .github/scripts/save-discord-logs.js > .github/logs/discord-bot.log 2>&1
       env:
         DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
@@ -78,24 +86,14 @@ jobs:
         DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
         DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
 
-    - name: Save Discord bot logs
-      if: always()  # Always save logs, even if bot fails
-      run: |
-        # Check if logs were created
-        if [ -d ".github/logs" ]; then
-          echo "📁 Discord bot logs found, preparing to save..."
-
-          # Add logs to git (but not in main history)
-          git add .github/logs/
-
-          # Also create a summary of the latest log
-          if [ -f ".github/logs/latest.log" ]; then
-            echo "📄 Latest log summary:"
-            tail -50 .github/logs/latest.log
-          fi
-        else
-          echo "📭 No Discord bot logs found"
-        fi
+    - name: Upload private logs (collaborators only)
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: job-processing-logs-${{ github.run_number }}
+        path: .github/logs/*.log
+        retention-days: 90
+        if-no-files-found: warn
 
     - name: Check for changes
       id: verify-changed-files
@@ -107,7 +105,7 @@ jobs:
           echo "changed=false" >> $GITHUB_OUTPUT
           echo "No changes detected"
         fi
-      
+
     - name: Commit and Push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
@@ -130,8 +128,7 @@ jobs:
               .github/data/new_jobs.json \
               .github/data/posted_jobs.json \
               .github/data/seen_jobs.json \
-              README.md \
-              .github/logs/ || true
+              README.md || true
 
             # STEP 2: Pull latest remote changes with rebase
             echo "⬇️  Pulling latest changes from remote..."
@@ -171,8 +168,7 @@ jobs:
             git add .github/data/new_jobs.json \
                     .github/data/posted_jobs.json \
                     .github/data/seen_jobs.json \
-                    README.md \
-                    .github/logs/ 2>/dev/null || true
+                    README.md 2>/dev/null || true
 
             # Check if there are still changes to commit
             if git diff --staged --quiet; then
@@ -219,21 +215,21 @@ jobs:
 
         # Execute the function
         commit_and_push
-        
+
     - name: Create job summary
       run: |
         echo "## 🚀 Zapply Jobs Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        
+
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
           # Extract stats from README
           JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
           COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
           FAANG_COUNT=$(grep -o "FAANG+ Jobs\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-          
+
           echo "✅ **Successfully updated job board with fresh opportunities**" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 📊 Today's Haul:" >> $GITHUB_STEP_SUMMARY  
+          echo "### 📊 Today's Haul:" >> $GITHUB_STEP_SUMMARY
           echo "- 🎯 **$JOB_COUNT total positions** from elite tech companies" >> $GITHUB_STEP_SUMMARY
           echo "- 🏢 **$COMPANY_COUNT companies** tracked (FAANG, unicorns, startups)" >> $GITHUB_STEP_SUMMARY
           echo "- ⭐ **$FAANG_COUNT FAANG+ jobs** from top-tier companies" >> $GITHUB_STEP_SUMMARY
@@ -246,11 +242,12 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### 🎯 Quality Filters Applied:" >> $GITHUB_STEP_SUMMARY
           echo "- ✨ Removed duplicates and spam postings" >> $GITHUB_STEP_SUMMARY
-          echo "- 🏢 Normalized company names and subsidiaries" >> $GITHUB_STEP_SUMMARY  
+          echo "- 🏢 Normalized company names and subsidiaries" >> $GITHUB_STEP_SUMMARY
           echo "- 📊 Ranked by company tier (FAANG first)" >> $GITHUB_STEP_SUMMARY
           echo "- 🔗 Verified direct application links" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**🔄 Next update**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
+          echo "**📥 Detailed logs**: Download artifacts (collaborators only)" >> $GITHUB_STEP_SUMMARY
         else
           echo "ℹ️ **No new opportunities found - job board is current**" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
@@ -258,4 +255,5 @@ jobs:
           echo "The existing job listings are still fresh and active." >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**🔄 Next check**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
+          echo "**📥 Detailed logs**: Download artifacts (collaborators only)" >> $GITHUB_STEP_SUMMARY
         fi
