@@ -45,6 +45,7 @@ jobs:
       run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
       env:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
+        SECONDARY_DATA_SOURCE_URL: ${{ secrets.SECONDARY_DATA_SOURCE_URL }}
 
     - name: Display public status
       run: |
