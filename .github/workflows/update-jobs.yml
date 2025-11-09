@@ -44,7 +44,7 @@ jobs:
     - name: Update job listings
       run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
       env:
-        PRIMARY_DATA_SOURCE_URL: ${{ secrets.EXTERNAL_JOBS_SOURCE }}
+        PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
 
     - name: Display public status
       run: |
