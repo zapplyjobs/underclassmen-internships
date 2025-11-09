@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-615-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-609-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-14-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 615 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 609 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 615
+- **🔥 Current Positions**: 609
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 14 premium opportunities
 - **📅 Last Updated**: November 9, 2025
@@ -382,7 +382,7 @@
 | 🏢 **IXL Learning** | Software Engineer – New Grad - Multiple Teams | San Mateo, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8182830002) |
 | 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/careers?gh_jid=8128533002) |
 
-### 💰 **Financial & Fintech** (26 positions)
+### 💰 **Financial & Fintech** (24 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -395,9 +395,7 @@
 | 🏢 **The Travelers Companies** | Data Engineer 1 - Databricks - PySpark - Snowflake | Atlanta, GA | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919) |
 | 🏢 **The Travelers Companies** | Gen AI Data Engineer I | Atlanta, GA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Gen-AI-Data-Engineer-I_R-45739) |
 | 🏢 **The Travelers Companies** | Data Engineer I - Aws - Pyspark - Snowflake | Atlanta, GA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46363) |
-| 🏢 **The Travelers Companies** | Data Engineer I - Abinitio/AWS/Devops | Hartford, CT | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AbInitio-AWS-DevOps_R-45764) |
 | 🏢 **The Travelers Companies** | Software Engineer 1 - .Net - Node.js | Hartford, CT | 1mo ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NET--Nodejs--React-_R-47074) |
-| 🏢 **The Travelers Companies** | Software Engineer I - Aws | Hartford, CT | 2mo ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180) |
 | 🏢 **The Travelers Companies** | Software Engineer I - Salesforce | Sparks, MD | 2mo ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480) |
 | 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Atlanta, GA | 2mo ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114) |
 | 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Hartford, CT | 2mo ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121) |
@@ -413,7 +411,7 @@
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189) |
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application) |
 
-### 🛡️ **Defense & Aerospace** (44 positions)
+### 🛡️ **Defense & Aerospace** (43 positions)
 
 #### 👁️ **Palantir** (13 positions)
 
@@ -463,7 +461,6 @@
 | 🏢 **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 2w ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073) |
 | 🏢 **Amentum** | C++ Junior Software Developer | Dahlgren, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0147273) |
 | 🏢 **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145734) |
-| 🏢 **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740) |
 | 🏢 **Sev1Tech** | Software Developer – Entry Level | Lawton, OK | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false) |
 | 🏢 **Sev1Tech** | Software Developer - Entry Level | Fort Sill, OK | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job) |
 
@@ -487,7 +484,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (323 positions)
+### 🏢 **Other Companies** (320 positions)
 
 #### 🏢 **AG Technologies** (22 positions)
 
@@ -518,16 +515,14 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **KBR** | Software Engineer I | Colorado Springs, CO | 13h ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2114865) |
+| 🏢 **KBR** | Software Engineer I | Colorado Springs, CO | 14h ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2114865) |
 | 🏢 **KBR** | Software Engineer I | Colorado Springs, CO | 2mo ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482) |
-| 🏢 **General Dynamics Information Technology** | Software Engineer I | Annapolis Junction, MD | 13h ago | Mid-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1) |
-| 🏢 **General Dynamics Information Technology** | Software Engineer I | Annapolis Junction, MD | 1w ago | Mid-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-Level-1_RQ204337-1) |
+| 🏢 **General Dynamics Information Technology** | Software Engineer I | Annapolis Junction, MD | 14h ago | Mid-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1) |
 | 🏢 **General Dynamics Information Technology** | Software Developer Associate - TS/SCI w/Poly | Annapolis Junction, MD | 1mo ago | Entry-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001) |
 | 🏢 **CoStar Group** | Software Engineer I | Arlington, VA | 14h ago | Mid-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764) |
 | 🏢 **CoStar Group** | Associate Software Engineer | Nashville, TN | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1) |
 | 🏢 **CoStar Group** | Associate Software Engineer | San Diego, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 2d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6157ab51-0fc9-4ad8-90ea-8e87e2a95eef/application) |
 | 🏢 **AspenTech** | Associate Software Quality Engineer | Medina, MN | 1d ago | Entry-Level | Software Engineering | [Apply](https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R8022-1) |
 | 🏢 **AspenTech** | Associate Software Quality Engineer | Medina, MN | 1d ago | Entry-Level | Software Engineering | [Apply](https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R7865) |
 | 🏢 **Expedia Group** | Software Development Engineer I | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1) |
@@ -541,7 +536,6 @@
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
 | 🏢 **Businessolver** | Java Software Engineer I - Remote within the USA | Remote in USA, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://www.businessolver.com/careers/openings/?gh_jid=7358032) |
 | 🏢 **RTX** | Software Engineer I - C - C++ - Onsite | Cambridge, MA | 2d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913) |
-| 🏢 **RTX** | Software Engineer 1 - Software Engineering | McKinney, TX | 3d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01804717) |
 | 🏢 **RTX** | Software Engineer I | West Valley City, UT | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I_01804302) |
 | 🏢 **RTX** | Software Engineer I - Avionics Test Engineering - Onsite | Burnsville, MN | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I---Avionics-Test-Engineering--Onsite-_01802271) |
 | 🏢 **RTX** | Firmware Engineer I - Onsite | Marlborough, MA | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA802-Marlborough-MA-Building-1-1001-Boston-Post-Road-Building-1-Marlborough-MA-01752-USA/Firmware-Engineer-I--Onsite-_01798097) |
@@ -849,8 +843,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 312 | 51% | No or minimal experience |
-| 🟡 Beginner & Early Career | 264 | 43% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 310 | 51% | No or minimal experience |
+| 🟡 Beginner & Early Career | 260 | 43% | 1-2 years of experience |
 | 🔴 Manager         | 39 | 6% | 2+ years of experience |
 
 ---
@@ -861,14 +855,14 @@
 - **New York, NY**: 34 positions
 - **San Francisco, CA**: 31 positions
 - **San Francisco, CA • New York**: 25 positions
-- **SF, Locations**: 21 positions
 - **San Francisco Bay Area**: 21 positions
+- **SF, Locations**: 20 positions
 - **Chicago, IL**: 18 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (386 positions)
+#### 💻 Software Engineering (381 positions)
 🏢 KBR • 🏢 General Dynamics Information Technology • 🏢 CoStar Group
 
 #### 🧠 Machine Learning & AI (72 positions)
@@ -883,11 +877,11 @@
 #### 📱 Mobile Development (17 positions)
 🎮 Discord • 🏠 Airbnb
 
-#### 📊 Data Science & Analytics (15 positions)
-🏢 The Travelers Companies • 🎮 Discord • 🔵 Meta
-
 #### 🛡️ Security Engineering (15 positions)
 🟩 Roblox • 🏢 DigitalOcean • 📦 Amazon
+
+#### 📊 Data Science & Analytics (14 positions)
+🏢 The Travelers Companies • 🎮 Discord • 🔵 Meta
 
 #### 🌐 Full Stack Development (14 positions)
 🎨 Figma • 🏢 N1 • 🏢 Radiance Technologies
@@ -905,7 +899,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 615 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 609 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -994,7 +988,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 615 current opportunities from 261 companies**
+**🎯 609 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
