@@ -392,7 +392,7 @@
 | ₿ **Coinbase** | Senior Software Engineer, Backend (Developer - Stablecoin Ecosystem) | New York City, NY | 1w ago | Senior | Backend Development | [Apply](https://www.coinbase.com/careers/positions/7306980?gh_jid=7306980) |
 | ₿ **Coinbase** | Software Engineer Intern | Hybrid - New York, NY; Hybrid - San Francisco | 1w ago | Entry-Level | Software Engineering | [Apply](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
 | 🏢 **BMO** | Software Engineer | Chicago, IL | 3mo ago | Mid-Level | Software Engineering | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) |
-| 🏢 **The Travelers Companies** | Data Engineer 1 - Databricks - PySpark - Snowflake | Atlanta, GA | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919) |
+| 🏢 **The Travelers Companies** | Data Engineer 1 - Databricks - PySpark - Snowflake | Atlanta, GA | 15h ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919) |
 | 🏢 **The Travelers Companies** | Gen AI Data Engineer I | Atlanta, GA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Gen-AI-Data-Engineer-I_R-45739) |
 | 🏢 **The Travelers Companies** | Data Engineer I - Aws - Pyspark - Snowflake | Atlanta, GA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46363) |
 | 🏢 **The Travelers Companies** | Software Engineer 1 - .Net - Node.js | Hartford, CT | 1mo ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NET--Nodejs--React-_R-47074) |
@@ -734,7 +734,7 @@
 | 🏢 **Nordstrom** | Engineer 1 - Full Stack, Store POS+ | Seattle, WA | 1mo ago | Mid-Level | Full Stack Development | [Apply](https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729) |
 | ⚡ **Atlassian** | Software Engineer 2026 Graduate | Seattle, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://campus-americas.icims.com/jobs/20901/software-engineer%2c-2026-graduate-u.s./job) |
 | ⚡ **Atlassian** | Machine Learning Engineer 2026 Graduate - Machine Learning | SF, Locations | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job) |
-| 🏢 **Dayton Freight Lines** | Entry Level Software Developer | Dayton, OH | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false) |
+| 🏢 **Falconwood** | Data Engineer I | Suffolk, VA | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false) |
 | 🏢 **Credence** | Entry-Level Software Engineer | McLean, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job) |
 | 🏢 **Thorlabs** | Software Engineer I | Jessup, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/thorlabs/j/E79FA34ED4/) |
 | 🏢 **Trexquant** | Software Engineer – Early Career | Stamford, CT | 2mo ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/trexquant/j/11DC4EA360/apply) |
@@ -843,8 +843,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 310 | 51% | No or minimal experience |
-| 🟡 Beginner & Early Career | 260 | 43% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 309 | 51% | No or minimal experience |
+| 🟡 Beginner & Early Career | 261 | 43% | 1-2 years of experience |
 | 🔴 Manager         | 39 | 6% | 2+ years of experience |
 
 ---
@@ -862,7 +862,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (381 positions)
+#### 💻 Software Engineering (380 positions)
 🏢 KBR • 🏢 General Dynamics Information Technology • 🏢 CoStar Group
 
 #### 🧠 Machine Learning & AI (72 positions)
@@ -877,11 +877,11 @@
 #### 📱 Mobile Development (17 positions)
 🎮 Discord • 🏠 Airbnb
 
+#### 📊 Data Science & Analytics (15 positions)
+🏢 The Travelers Companies • 🎮 Discord • 🔵 Meta
+
 #### 🛡️ Security Engineering (15 positions)
 🟩 Roblox • 🏢 DigitalOcean • 📦 Amazon
-
-#### 📊 Data Science & Analytics (14 positions)
-🏢 The Travelers Companies • 🎮 Discord • 🔵 Meta
 
 #### 🌐 Full Stack Development (14 positions)
 🎨 Figma • 🏢 N1 • 🏢 Radiance Technologies
