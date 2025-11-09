@@ -311,7 +311,7 @@
 | 🏢 **Celonis** | Associate Value Engineer (AI for Supply Chain) | New York, NY | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6690522003) |
 | 🏢 **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program | New York, NY | 3mo ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6616403003) |
 | 🏢 **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) | New York, NY | 3mo ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003) |
-| 🏢 **Esri** | Product Engineer I - Generative AI - Arcgis Enterprise | West Redlands, Redlands | 9h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.esri.com/careers/4961122007?gh_jid=4961122007) |
+| 🏢 **Esri** | Product Engineer I - Generative AI - Arcgis Enterprise | West Redlands, Redlands | 10h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.esri.com/careers/4961122007?gh_jid=4961122007) |
 | 🏢 **Esri** | Publishing Product Engineer I - Arcgis Enterprise | West Redlands, Redlands | 1w ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4828988007?gh_jid=4828988007) |
 | 🏢 **Esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands | 3w ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4660952007?gh_jid=4660952007) |
 | 🏢 **Esri** | Product Engineer 1 - User Assistance - Workflow Manager | West Redlands, Redlands | 2mo ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4847546007?gh_jid=4847546007) |
@@ -555,7 +555,7 @@
 | ₿ **Coinbase** | Senior Software Engineer, Backend (Developer - Stablecoin Ecosystem) | New York City, NY | 1w ago | Senior | Backend Development | [Apply](https://www.coinbase.com/careers/positions/7306980?gh_jid=7306980) |
 | ₿ **Coinbase** | Software Engineer Intern | Hybrid - New York, NY; Hybrid - San Francisco | 1w ago | Entry-Level | Software Engineering | [Apply](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
 | 🏢 **BMO** | Software Engineer | Chicago, IL | 3mo ago | Mid-Level | Software Engineering | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) |
-| 🏢 **The Travelers Companies** | Data Engineer 1 - Databricks - PySpark - Snowflake | Atlanta, GA | 9h ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919) |
+| 🏢 **The Travelers Companies** | Data Engineer 1 - Databricks - PySpark - Snowflake | Atlanta, GA | 10h ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919) |
 | 🏢 **The Travelers Companies** | Gen AI Data Engineer I | Atlanta, GA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Gen-AI-Data-Engineer-I_R-45739) |
 | 🏢 **The Travelers Companies** | Data Engineer I - Aws - Pyspark - Snowflake | Atlanta, GA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46363) |
 | 🏢 **The Travelers Companies** | Data Engineer I - Abinitio/AWS/Devops | Hartford, CT | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AbInitio-AWS-DevOps_R-45764) |
@@ -684,7 +684,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **CoStar Group** | Software Engineer I | Arlington, VA | 9h ago | Mid-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764) |
+| 🏢 **CoStar Group** | Software Engineer I | Arlington, VA | 10h ago | Mid-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764) |
 | 🏢 **CoStar Group** | Associate Software Engineer | Nashville, TN | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1) |
 | 🏢 **CoStar Group** | Associate Software Engineer | San Diego, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1) |
 | 🏢 **AspenTech** | Associate Software Quality Engineer | Medina, MN | 1d ago | Entry-Level | Software Engineering | [Apply](https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R7865) |
