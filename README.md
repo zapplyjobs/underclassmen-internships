@@ -181,7 +181,7 @@
 | ⚡ **Tesla** | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://www.tesla.com/careers/search/job/247659) |
 | 🏢 **Qualtrics** | Machine Learning Engineer | Seattle, WA | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer) |
 | 🏢 **Qualtrics** | Software Engineer I - PAAS | Seattle, WA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS) |
-| 🏢 **Celonis** | Associate Software Engineer | Los Angeles, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6598373003?gh_jid=6598373003) |
+| 🏢 **Celonis** | Associate Software Engineer | Los Angeles, CA | 2d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6598373003?gh_jid=6598373003) |
 | 🏢 **Celonis** | Associate Value Engineer (Industrial Engineering & AI Applications) | New York, NY | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6691702003) |
 | 🏢 **Celonis** | Associate Value Engineer (AI for Supply Chain) | New York, NY | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6690522003) |
 | 🏢 **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) | New York, NY | 3mo ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003) |
@@ -198,7 +198,7 @@
 | 🏢 **Hewlett Packard Enterprise** | Software Engineering Graduate | Ft. Collins, CO | 2mo ago | Entry-Level | Software Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1) |
 | 🏢 **Hewlett Packard Enterprise** | Cloud Engineer Graduate | Spring, TX | 2mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1) |
 | 🏢 **Hewlett Packard Enterprise** | Data Science Graduate | Spring, TX | 2mo ago | Entry-Level | Software Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963) |
-| 🔧 **ServiceNow** | Associate Software Engineer | Waltham, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow) |
+| 🔧 **ServiceNow** | Associate Software Engineer | Waltham, MA | 2d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow) |
 | 🏢 **SS&C** | Junior AI-Assisted Software Engineer | Union, NJ | 2mo ago | Entry-Level | Software Engineering | [Apply](https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039) |
 | 🏢 **Emerson** | Embedded Software Engineer | Shakopee, MN | 3mo ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266) |
 | 🏢 **Ping Identity** | Software Engineer I | Denver, CO | 3mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/pingidentity/jobs/8084784002) |
@@ -215,7 +215,7 @@
 | 🏢 **Aurora Innovation** | Software Engineer I - Remote Assist | Pittsburgh, PA | 3w ago | Mid-Level | Software Engineering | [Apply](https://aurora.tech/careers/8209480002?gh_jid=8209480002) |
 | 🏢 **Aurora Innovation** | Software Engineer I - Remote Assist | Mountain View, CA | 3w ago | Mid-Level | Software Engineering | [Apply](https://aurora.tech/careers/8191750002?gh_jid=8191750002) |
 | 🏢 **HeyGen** | Data Scientist – New Graduate | LA, Locations | 3w ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/heygen/jobs/4279485007) |
-| 🏢 **NewsBreak** | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
+| 🏢 **NewsBreak** | Software Engineer, ML Infra (Junior & New Grad) | Mountain View, CA | 2d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) |
 | 🏢 **NewsBreak** | Machine Learning Engineer - Junior - Recommendation | Mountain View, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4608368006) |
 | 🏢 **Pylon** | New Grad – Software Engineer | SF, Locations | 4mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application) |
 | 🏢 **Prosidian Consulting** | ITSM IT Security Engineer I | Boulder, CO | 2mo ago | Mid-Level | Security Engineering | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/743999691983726) |
@@ -423,8 +423,8 @@
 | 🏢 **AspenTech** | Associate Software Quality Engineer | Medina, MN | 1d ago | Entry-Level | Software Engineering | [Apply](https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Medina-Minnesota/Associate-Software-Quality-Engineer_R7865) |
 | 🏢 **Expedia Group** | Software Development Engineer I | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1) |
 | 🏢 **BryceTech** | Junior Exercise Software IT Specialist | Suffolk, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech) |
-| 🏢 **Trend Health Partners** | Machine Learning Engineer I | Remote in USA, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/Trend-Health-Partners/d975ec6f-3b70-4993-af9f-9cfd715ca399) |
-| 🏢 **AHEAD** | Associate AI Engineer | Chicago, IL | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/thinkahead/ea0c65d1-dd6b-4f68-8abb-2bacebbd98a1) |
+| 🏢 **Trend Health Partners** | Machine Learning Engineer I | Remote in USA, Locations | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/Trend-Health-Partners/d975ec6f-3b70-4993-af9f-9cfd715ca399) |
+| 🏢 **AHEAD** | Associate AI Engineer | Chicago, IL | 2d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/thinkahead/ea0c65d1-dd6b-4f68-8abb-2bacebbd98a1) |
 | 🏢 **Jerry** | Software Engineer I - Entry | Palo Alto, CA | 2d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7ee96a8a-8cb6-4083-ae43-7d0f6a67d679/application) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
