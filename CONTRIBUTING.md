@@ -83,12 +83,72 @@ If you'd like to fix the issue yourself:
 3. Submit a pull request with a clear description of what you fixed
 4. Reference any related issues in your PR description
 
+### 📝 Commit Message Guidelines
+
+**IMPORTANT:** This repository has automated commit message validation to maintain security and professionalism.
+
+#### ✅ Good Commit Messages (Generic & Professional)
+
+Use **vague, generic descriptions** that focus on WHAT changed, not HOW it works:
+
+```bash
+✅ "refactor: improve data collection reliability"
+✅ "fix: optimize job fetching process"
+✅ "feat: add new data source integration"
+✅ "chore: update dependencies"
+✅ "fix: resolve timeout issues"
+✅ "docs: update README with new features"
+```
+
+#### ❌ Blocked Commit Messages (Security Violations)
+
+The following will be **automatically rejected** by our commit hook:
+
+**Never mention specific services:**
+```bash
+❌ "add SimplifyJobs integration"
+❌ "fix Greenhouse API endpoint"
+❌ "update JSearch queries"
+```
+
+**Never mention data collection methods:**
+```bash
+❌ "add Amazon scraper"
+❌ "fix web scraping timeout"
+❌ "disable Google scraper for compliance"
+```
+
+**Never name companies in data source context:**
+```bash
+❌ "add Microsoft API integration"
+❌ "fix Netflix endpoint"
+❌ "update Stripe data collection"
+```
+
+#### 💡 Translation Guide
+
+| ❌ Blocked Message | ✅ Acceptable Alternative |
+|-------------------|--------------------------|
+| "add SimplifyJobs API" | "add external data aggregation service" |
+| "fix Greenhouse scraper" | "fix data collection endpoint" |
+| "add Amazon scraper" | "add company data source" |
+| "disable Google API" | "disable data source" |
+| "update career page scraping" | "update data collection process" |
+
+#### 🔒 Why These Rules?
+
+- **Professional appearance:** Generic messages look more polished
+- **Security:** Avoid exposing internal implementation details
+- **Maintainability:** Focus on business value, not technical specifics
+
+**Your commit will be automatically blocked if it violates these guidelines.**
+
 ## What Happens Next?
 
 1. **Job Submissions:** We'll review and add valid jobs to our next update cycle
-2. **Company Suggestions:** We'll evaluate the company and potentially add them to our scraping list
+2. **Company Suggestions:** We'll evaluate the company and potentially add them to our tracking list
 3. **Bug Reports:** We'll investigate and fix issues in our next maintenance cycle
-4. **Updates:** Our automated system runs daily to fetch new positions from tracked companies
+4. **Updates:** Our automated system runs regularly to fetch new positions from tracked companies
 
 ## Questions?
 
