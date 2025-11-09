@@ -386,7 +386,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💳 **Stripe** | AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 3d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
+| 💳 **Stripe** | AI/ML Engineering Manager, Payment Intelligence | US-SF, US-NYC | 4d ago | Mid-Level | Machine Learning & AI | [Apply](https://stripe.com/jobs/search?gh_jid=7286376) |
 | 💳 **Stripe** | Software Engineer | San Francisco, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/listing/software-engineer-new-grad/7210112) |
 | ₿ **Coinbase** | Machine Learning Engineer Intern | Hybrid - San Francisco | 1w ago | Entry-Level | Machine Learning & AI | [Apply](https://www.coinbase.com/careers/positions/7294075?gh_jid=7294075) |
 | ₿ **Coinbase** | Senior Software Engineer, Backend (Developer - Stablecoin Ecosystem) | New York City, NY | 1w ago | Senior | Backend Development | [Apply](https://www.coinbase.com/careers/positions/7306980?gh_jid=7306980) |
@@ -616,7 +616,7 @@
 | 🏢 **Wyetech** | Software Engineer 0 | Annapolis Junction, MD | 1w ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034/apply) |
 | 🏢 **Wyetech** | Software Engineer 0 | Annapolis Junction, MD | 3w ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/68850aff-cd40-44e9-9af0-8124ac21e930/apply) |
 | 🏢 **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/08805fb2-ec83-47ba-a4bb-a82e47805e94/apply) |
-| 🏢 **Captivation** | Software Engineer 1 - Hybrid - Java/Mapreduce/Git/Pig/Maven | Annapolis Junction, MD | 1w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/captivation/jobs/4955322008) |
+| 🏢 **Captivation** | Software Engineer 1 - Hybrid - Java/Mapreduce/Git/Pig/Maven | Annapolis Junction, MD | 2w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/captivation/jobs/4955322008) |
 | 🏢 **Wolverine Trading** | Entry Level C# Software Engineer | Chicago, IL | 2w ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/wolve/8b1ee40d-e234-4c5d-910f-88b0addc5549/apply) |
 | 🏢 **Wolverine Trading** | C++ Software Engineer | Chicago, IL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216) |
 | 🏢 **Promise** | Software Engineer – New Grad - Forward Deployed AI | Oakland, CA | 2w ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a/application) |
