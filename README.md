@@ -184,7 +184,7 @@
 | 🏢 **Celonis** | Associate Value Engineer (Management Consulting for AI Implementation) | New York, NY | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6691703003) |
 | 🏢 **Celonis** | Associate Value Engineer (AI for Supply Chain) | New York, NY | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6690522003) |
 | 🏢 **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) | New York, NY | 3mo ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003) |
-| 🏢 **Esri** | Product Engineer I - Generative AI - Arcgis Enterprise | West Redlands, Redlands | 23h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.esri.com/careers/4961122007?gh_jid=4961122007) |
+| 🏢 **Esri** | Product Engineer I - Generative AI - Arcgis Enterprise | West Redlands, Redlands | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://www.esri.com/careers/4961122007?gh_jid=4961122007) |
 | 🏢 **Esri** | Publishing Product Engineer I - Arcgis Enterprise | West Redlands, Redlands | 1w ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4828988007?gh_jid=4828988007) |
 | 🏢 **Esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands | 3w ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4660952007?gh_jid=4660952007) |
 | 🏢 **Esri** | Product Engineer 1 - User Assistance - Workflow Manager | West Redlands, Redlands | 2mo ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4847546007?gh_jid=4847546007) |
@@ -363,7 +363,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🚗 **Uber** | Graduate 2025 Software Engineer I, US | San Francisco, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/147250/job) |
 | 🏠 **Airbnb** | Staff Software Engineer, Host Pricing & Settings | Remote 🏠 | 2d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7373734?gh_jid=7373734) |
-| 🏠 **Airbnb** | Senior Android Engineer, Trust Platform | Remote 🏠 | 2d ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6770913?gh_jid=6770913) |
+| 🏠 **Airbnb** | Senior Android Engineer, Trust Platform | Remote 🏠 | 3d ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6770913?gh_jid=6770913) |
 | 🏠 **Airbnb** | iOS Software Engineer, Guest & Host | Remote 🏠 | 4d ago | Mid-Level | Mobile Development | [Apply](https://careers.airbnb.com/positions/7336167?gh_jid=7336167) |
 | 🏠 **Airbnb** | Staff Software Engineer, Experimentation Data | Remote USA | 4w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7306868?gh_jid=7306868) |
 | 🏠 **Airbnb** | Senior Fullstack Engineer Community Support Engineering | Remote 🏠 | 1mo ago | Senior | Full Stack Development | [Apply](https://careers.airbnb.com/positions/6856155?gh_jid=6856155) |
