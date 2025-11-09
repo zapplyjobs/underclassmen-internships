@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-624-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-615-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-14-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 624 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 615 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 624
+- **🔥 Current Positions**: 615
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 14 premium opportunities
 - **📅 Last Updated**: November 9, 2025
@@ -392,7 +392,7 @@
 | ₿ **Coinbase** | Senior Software Engineer, Backend (Developer - Stablecoin Ecosystem) | New York City, NY | 1w ago | Senior | Backend Development | [Apply](https://www.coinbase.com/careers/positions/7306980?gh_jid=7306980) |
 | ₿ **Coinbase** | Software Engineer Intern | Hybrid - New York, NY; Hybrid - San Francisco | 1w ago | Entry-Level | Software Engineering | [Apply](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
 | 🏢 **BMO** | Software Engineer | Chicago, IL | 3mo ago | Mid-Level | Software Engineering | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) |
-| 🏢 **The Travelers Companies** | Data Engineer 1 - Databricks - PySpark - Snowflake | Atlanta, GA | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919) |
+| 🏢 **The Travelers Companies** | Data Engineer 1 - Databricks - PySpark - Snowflake | Atlanta, GA | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919) |
 | 🏢 **The Travelers Companies** | Gen AI Data Engineer I | Atlanta, GA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Gen-AI-Data-Engineer-I_R-45739) |
 | 🏢 **The Travelers Companies** | Data Engineer I - Aws - Pyspark - Snowflake | Atlanta, GA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46363) |
 | 🏢 **The Travelers Companies** | Data Engineer I - Abinitio/AWS/Devops | Hartford, CT | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AbInitio-AWS-DevOps_R-45764) |
@@ -413,7 +413,7 @@
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189) |
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application) |
 
-### 🛡️ **Defense & Aerospace** (45 positions)
+### 🛡️ **Defense & Aerospace** (44 positions)
 
 #### 👁️ **Palantir** (13 positions)
 
@@ -444,7 +444,6 @@
 | 🏢 **Blue Origin** | Autonomy Systems Engineer I | Seattle, WA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Autonomy-Systems-Engineer-I---Early-Career_R54558-1) |
 | 🏢 **Blue Origin** | Avionics Software Engineer 1 – Early Career 2025 University Grad | Kent, WA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Avionics-Software-Engineer-1---Early-Career-2025-University-Grad_R54112) |
 | 🏢 **Blue Origin** | Machine Learning Engineer/Scientist I – Early Career 2025 University Grad | Seattle, WA | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Machine-Learning-Engineer-Scientist-I---Early-Career-2025-University-Grad_R54164) |
-| 🏢 **The Boeing Company** | Entry Level Software Engineer - Developer | Oklahoma City, OK | 3w ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025467505-1) |
 | 🏢 **Anduril Industries** | Early Career Software Engineer | Atlanta, GA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007) |
 | 🏢 **Anduril Industries** | Early Career Software Engineer | Washington, DC | 2mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007) |
 | 🏢 **Anduril Industries** | Early Career Software Engineer | Seattle, WA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4824364007) |
@@ -488,23 +487,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (331 positions)
-
-#### 🏢 **RTX** (11 positions)
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Engineer I - C - C++ - Onsite | Cambridge, MA | 2d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913) |
-| Software Engineer 1 - Software Engineering | McKinney, TX | 3d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01804717) |
-| 2026 Full-time - Software Engineer 1 - Onsite - CA | Anaheim, CA | 3d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--CA-_01804761) |
-| Software Engineer I | West Valley City, UT | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I_01804302) |
-| Software Engineer I - Avionics Test Engineering - Onsite | Burnsville, MN | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I---Avionics-Test-Engineering--Onsite-_01802271) |
-| Firmware Engineer I - Onsite | Marlborough, MA | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA802-Marlborough-MA-Building-1-1001-Boston-Post-Road-Building-1-Marlborough-MA-01752-USA/Firmware-Engineer-I--Onsite-_01798097) |
-| 2026 Full-time - Software Engineer I - Onsite - TX | Richardson, TX | 6d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX234-Richardson-1717-CityLine-1717-East-CityLine-Drive-Building-C17-Richardson-TX-75082-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01801919) |
-| Software Engineer 1 - C/C++ Linux | Newport, RI | 1mo ago | Mid-Level | Design | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278) |
-| Software Engineer 1 - Radar Product Line Team | Marlborough, MA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122) |
-| Embedded Cybersecurity Software Engineer I | Cedar Rapids, IA | 1mo ago | Mid-Level | Security Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039) |
-| Embedded Linux Software Engineer I | Cedar Rapids, IA | 1mo ago | Mid-Level | Design | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Linux-Software-Engineer-I--Onsite-_01793223) |
+### 🏢 **Other Companies** (323 positions)
 
 #### 🏢 **AG Technologies** (22 positions)
 
@@ -550,11 +533,6 @@
 | 🏢 **Expedia Group** | Software Development Engineer I | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98561-1) |
 | 🏢 **Trend Health Partners** | Machine Learning Engineer I | Remote in USA, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/Trend-Health-Partners/d975ec6f-3b70-4993-af9f-9cfd715ca399) |
 | 🏢 **AHEAD** | Associate AI Engineer | Chicago, IL | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/thinkahead/ea0c65d1-dd6b-4f68-8abb-2bacebbd98a1) |
-| 🏢 **Intuit** | Software Engineer 1 - Multiple Teams | NYC, Locations | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/88136864736) |
-| 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/88136864768) |
-| 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88102807904) |
-| 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 5d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996928) |
-| 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 3w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720) |
 | 🏢 **Jerry** | Software Engineer I - Entry | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7ee96a8a-8cb6-4083-ae43-7d0f6a67d679/application) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
@@ -562,6 +540,14 @@
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
 | 🏢 **Businessolver** | Java Software Engineer I - Remote within the USA | Remote in USA, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://www.businessolver.com/careers/openings/?gh_jid=7358032) |
+| 🏢 **RTX** | Software Engineer I - C - C++ - Onsite | Cambridge, MA | 2d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913) |
+| 🏢 **RTX** | Software Engineer 1 - Software Engineering | McKinney, TX | 3d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01804717) |
+| 🏢 **RTX** | Software Engineer I | West Valley City, UT | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I_01804302) |
+| 🏢 **RTX** | Software Engineer I - Avionics Test Engineering - Onsite | Burnsville, MN | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMN01-SIS-Sensors---Burnsville-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-I---Avionics-Test-Engineering--Onsite-_01802271) |
+| 🏢 **RTX** | Firmware Engineer I - Onsite | Marlborough, MA | 4d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA802-Marlborough-MA-Building-1-1001-Boston-Post-Road-Building-1-Marlborough-MA-01752-USA/Firmware-Engineer-I--Onsite-_01798097) |
+| 🏢 **RTX** | Software Engineer 1 - C/C++ Linux | Newport, RI | 1mo ago | Mid-Level | Design | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278) |
+| 🏢 **RTX** | Embedded Cybersecurity Software Engineer I | Cedar Rapids, IA | 1mo ago | Mid-Level | Security Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039) |
+| 🏢 **RTX** | Embedded Linux Software Engineer I | Cedar Rapids, IA | 1mo ago | Mid-Level | Design | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Linux-Software-Engineer-I--Onsite-_01793223) |
 | 🏢 **Truist Bank** | Software Engineer 1 - Finance Technology Data & Reporting | Charlotte, NC | 3d ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC/Software-Engineer-I---Finance-Technology-Data---Reporting_R0108028-1) |
 | 🏢 **Truist Bank** | Software Engineer 1 SAS Programmer | Charlotte, NC | 3w ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0107411) |
 | 🏢 **Seagate Technology ** | Firmware Engineer I - Embedded Systems | Shakopee, MN | 3d ago | Mid-Level | Software Engineering | [Apply](https://seagatecareers.com/job/Longmont-Firmware-Engineer-I-CO-80501/1340367500/?ats=successfactors) |
@@ -585,7 +571,8 @@
 | 🏢 **McDonald's** | Software Engineer I C# | Chicago, IL | 1w ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1338320000/?ats=successfactors) |
 | 🏢 **NCR** | Software Engineer I | Atlanta, GA | 4d ago | Mid-Level | Software Engineering | [Apply](https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Software-Engineer-I_R0155211) |
 | 🏢 **Vertiv** | Associate Firmware Engineer | Saint Louis, MO | 4d ago | Entry-Level | Software Engineering | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262069) |
-| 🏢 **Altice USA** | Software Dev Engineer I | Plainview, NY | 4d ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1340029300/?ats=successfactors) |
+| 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 5d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996928) |
+| 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 3w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720) |
 | 🏢 **Truveta** | Software Engineer – Entry Level - Imaging Services | Seattle, WA | 5d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5696523004) |
 | 🏢 **Truveta** | Software Engineer – Entry Level - Front End | Seattle, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5674617004) |
 | 🏢 **Keysight Technologies** | Entry Level R&D Software Engineer | Santa Rosa, CA | 5d ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50042?lang=en-us&icims=1) |
@@ -737,7 +724,6 @@
 | 🏢 **Capstone** | Associate, Quantitative Developer | New York, NY | 1mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8176351002) |
 | 🏢 **Kodiak Robotics** | Autonomy/AI Software Engineer-Early Career | Mountain View, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4028715009) |
 | 🏢 **PingWind** | Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer | Remote in USA, Locations | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/pingwind/d8ebf7d2-98f0-4bd7-ae70-5b8d91e4edc6) |
-| 🏢 **Alumni Ventures** | Software Engineer – Early Career | Andover, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/alumniventures/jobs/4027838009) |
 | 🏢 **Macy's** | Macy's Tech Early Careers - Software Engineer | Johns Creek, GA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534) |
 | 🏢 **Verkada** | Security Software Engineer | San Mateo, CA | 1mo ago | Mid-Level | Security Engineering | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4872797007) |
 | 🏢 **Verkada** | Embedded Software Engineer – University Graduate 2026 | San Mateo, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4835669007) |
@@ -863,8 +849,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 314 | 50% | No or minimal experience |
-| 🟡 Beginner & Early Career | 271 | 43% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 312 | 51% | No or minimal experience |
+| 🟡 Beginner & Early Career | 264 | 43% | 1-2 years of experience |
 | 🔴 Manager         | 39 | 6% | 2+ years of experience |
 
 ---
@@ -877,12 +863,12 @@
 - **San Francisco, CA • New York**: 25 positions
 - **SF, Locations**: 21 positions
 - **San Francisco Bay Area**: 21 positions
-- **Mountain View, CA**: 18 positions
+- **Chicago, IL**: 18 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (392 positions)
+#### 💻 Software Engineering (386 positions)
 🏢 KBR • 🏢 General Dynamics Information Technology • 🏢 CoStar Group
 
 #### 🧠 Machine Learning & AI (72 positions)
@@ -891,8 +877,8 @@
 #### ☁️ DevOps & Infrastructure (43 positions)
 🏢 EBSCO • 🎮 Discord
 
-#### 🎨 Frontend Development (35 positions)
-🏢 Intuit
+#### 🎨 Frontend Development (32 positions)
+🏢 Truist Bank • 🏢 Intuit • 🎮 Discord
 
 #### 📱 Mobile Development (17 positions)
 🎮 Discord • 🏠 Airbnb
@@ -919,7 +905,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 624 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 615 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1008,7 +994,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 624 current opportunities from 261 companies**
+**🎯 615 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
