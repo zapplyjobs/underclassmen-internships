@@ -402,16 +402,16 @@
 | Hiring Entry Level Software Engineer | Dallas, TX | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/112610151) |
 | Hiring Entry Level Software Engineer | San Jose, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999655794970) |
 | Hiring Entry Level Software Engineer | San Diego, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007) |
-| Hiring Entry Level Software Engineer | San Diego, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019) |
-| Hiring Entry Level Software Engineer | San Francisco, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716) |
-| Hiring Entry Level Software Engineer | San Francisco, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/116232946) |
-| Hiring Entry Level Software Engineer | Flower Mound, TX | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999659489800) |
+| Hiring Entry Level Software Engineer | San Diego, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019) |
+| Hiring Entry Level Software Engineer | San Francisco, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716) |
+| Hiring Entry Level Software Engineer | San Francisco, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/116232946) |
+| Hiring Entry Level Software Engineer | Flower Mound, TX | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999659489800) |
 | Hiring Entry Level Software Engineer | Dallas, TX | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/108734797) |
 | Hiring Entry Level Software Engineer | New York, NY | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227) |
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 5h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
+| 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 6h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I C# | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322930700/?ats=successfactors) |
