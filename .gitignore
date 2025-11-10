@@ -49,6 +49,8 @@ coverage/
 
 # Security - Sensitive documentation (NEVER commit)
 CLAUDE.md
+.GenAI_Work/
+CHANGELOG.md
 *ARCHITECTURE*.md
 *DATA_SOURCE*.md
 *SCRAPER*.md
@@ -59,4 +61,7 @@ CLAUDE.md
 *TECHNICAL*.md
 TECHNICAL_DOCUMENTATION.md
 .backup/
-sources.jsonnode_modules/
+sources.json
+
+# Dependencies
+node_modules/
