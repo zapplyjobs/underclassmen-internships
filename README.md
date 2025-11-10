@@ -199,7 +199,7 @@
 | 🏢 **Hewlett Packard Enterprise** | Software Engineering Graduate | Ft. Collins, CO | 2mo ago | Entry-Level | Software Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1) |
 | 🏢 **Hewlett Packard Enterprise** | Cloud Engineer Graduate | Spring, TX | 2mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1) |
 | 🏢 **Hewlett Packard Enterprise** | Data Science Graduate | Spring, TX | 2mo ago | Entry-Level | Software Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963) |
-| 🔧 **ServiceNow** | Frontend Software Engineer | San Diego, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000092424475) |
+| 🔧 **ServiceNow** | Frontend Software Engineer | San Diego, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000092424475) |
 | 🔧 **ServiceNow** | Associate Software Engineer | Waltham, MA | 2d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow) |
 | 🏢 **SS&C** | Junior AI-Assisted Software Engineer | Union, NJ | 2mo ago | Entry-Level | Software Engineering | [Apply](https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039) |
 | 🏢 **Emerson** | Embedded Software Engineer | Shakopee, MN | 3mo ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266) |
@@ -248,8 +248,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer Graduate (Data Arch - Data Ecosystem) | San Jose, CA | 2h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535220808265681159) |
-| Software Engineer Graduate (Data Platfrom TikTok BP) | San Jose, CA | 2h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535528357414570248) |
+| Software Engineer Graduate (Data Arch - Data Ecosystem) | San Jose, CA | 3h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535220808265681159) |
+| Software Engineer Graduate (Data Platfrom TikTok BP) | San Jose, CA | 3h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535528357414570248) |
 | Machine Learning Engineer Graduate (BRIC) – 2026 Start (BS/MS) | San Jose, CA | 3w ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7559731427425257746) |
 | AI/ML Software Engineer Graduate (Data Platform TikTok BP) | San Jose, CA | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7541178634444589319) |
 | Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7538319953965287698) |
@@ -531,7 +531,7 @@
 | 🏢 **DuCharme, McMillen & Associates** | Associate Software Engineer | Fort Wayne, IN | 2w ago | Entry-Level | Software Engineering | [Apply](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Associate-Software-Engineer_REQ206) |
 | 🏢 **Boerboel** | Developer | New York, NY | 2w ago | Mid-Level | Software Engineering | [Apply](https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004) |
 | 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 2w ago | Mid-Level | Software Engineering | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer) |
-| 🎨 **Adobe** | AI Context Engineer | San Jose, CA | 3w ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer) |
+| 🎨 **Adobe** | AI Context Engineer | San Jose, CA | 4w ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer) |
 | 🎨 **Adobe** | University Graduate Software Engineer - Software Engineering | SF, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638) |
 | 🎨 **Adobe** | University Graduate - Machine Learning Engineer | Seattle, WA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133) |
 | 🎨 **Adobe** | 2026 University Graduate - Machine Learning Engineer | Seattle, WA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160134) |
