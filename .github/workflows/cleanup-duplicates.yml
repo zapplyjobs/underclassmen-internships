@@ -1,13 +1,7 @@
-name: Cleanup Duplicate Discord Posts
+name: Clear All Discord Channels
 
 on:
   workflow_dispatch:
-    inputs:
-      dry_run:
-        description: 'Dry run (preview only, no deletions)'
-        required: true
-        type: boolean
-        default: true
 
 jobs:
   cleanup:
@@ -26,37 +20,8 @@ jobs:
     - name: Install dependencies
       run: npm install discord.js@14
 
-    - name: Preview cleanup (dry run)
-      if: ${{ github.event.inputs.dry_run == 'true' }}
-      run: node .github/scripts/preview-cleanup.js
-      env:
-        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-        DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
-        DISCORD_CLIENT_ID: ${{ secrets.DISCORD_CLIENT_ID }}
-        DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
-        DISCORD_TECH_CHANNEL_ID: ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
-        DISCORD_SALES_CHANNEL_ID: ${{ secrets.DISCORD_SALES_CHANNEL_ID }}
-        DISCORD_MARKETING_CHANNEL_ID: ${{ secrets.DISCORD_MARKETING_CHANNEL_ID }}
-        DISCORD_FINANCE_CHANNEL_ID: ${{ secrets.DISCORD_FINANCE_CHANNEL_ID }}
-        DISCORD_HEALTHCARE_CHANNEL_ID: ${{ secrets.DISCORD_HEALTHCARE_CHANNEL_ID }}
-        DISCORD_PRODUCT_CHANNEL_ID: ${{ secrets.DISCORD_PRODUCT_CHANNEL_ID }}
-        DISCORD_SUPPLY_CHANNEL_ID: ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
-        DISCORD_PM_CHANNEL_ID: ${{ secrets.DISCORD_PM_CHANNEL_ID }}
-        DISCORD_HR_CHANNEL_ID: ${{ secrets.DISCORD_HR_CHANNEL_ID }}
-        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
-        DISCORD_NY_CHANNEL_ID: ${{ secrets.DISCORD_NY_CHANNEL_ID }}
-        DISCORD_AUSTIN_CHANNEL_ID: ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
-        DISCORD_CHICAGO_CHANNEL_ID: ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
-        DISCORD_SEATTLE_CHANNEL_ID: ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
-        DISCORD_REDMOND_CHANNEL_ID: ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
-        DISCORD_MV_CHANNEL_ID: ${{ secrets.DISCORD_MV_CHANNEL_ID }}
-        DISCORD_SF_CHANNEL_ID: ${{ secrets.DISCORD_SF_CHANNEL_ID }}
-        DISCORD_SUNNYVALE_CHANNEL_ID: ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
-        DISCORD_SAN_BRUNO_CHANNEL_ID: ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
-
-    - name: Actually delete duplicates
-      if: ${{ github.event.inputs.dry_run == 'false' }}
-      run: node .github/scripts/cleanup-duplicate-posts.js
+    - name: Clear all channels
+      run: node .github/scripts/clear-all-channels.js
       env:
         DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
@@ -86,14 +51,8 @@ jobs:
       run: |
         echo "## Cleanup Summary" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        if [ "${{ github.event.inputs.dry_run }}" == "true" ]; then
-          echo "✅ **Dry run completed** - no messages were deleted" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Review the logs above to see what would be deleted." >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "To actually delete duplicates, run this workflow again with **Dry run = false**" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "✅ **Cleanup completed** - duplicate messages deleted" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Review the logs above for details on what was removed." >> $GITHUB_STEP_SUMMARY
-        fi
+        echo "✅ **Channel cleanup completed**" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Bot messages and threads from the last 12 hours have been removed." >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Review the logs above for details on what was deleted." >> $GITHUB_STEP_SUMMARY
