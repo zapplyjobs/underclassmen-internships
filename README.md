@@ -247,8 +247,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer Graduate (Data Arch - Data Ecosystem) | San Jose, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535220808265681159) |
-| Software Engineer Graduate (Data Platfrom TikTok BP) | San Jose, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535528357414570248) |
+| Software Engineer Graduate (Data Arch - Data Ecosystem) | San Jose, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535220808265681159) |
+| Software Engineer Graduate (Data Platfrom TikTok BP) | San Jose, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535528357414570248) |
 | Machine Learning Engineer Graduate (BRIC) – 2026 Start (BS/MS) | San Jose, CA | 3w ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7559731427425257746) |
 | AI/ML Software Engineer Graduate (Data Platform TikTok BP) | San Jose, CA | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7541178634444589319) |
 | Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7538319953965287698) |
@@ -415,7 +415,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Rochester Regional Health** | Software Developer | Remote 🏠 | 0h ago | Mid-Level | Software Engineering | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365) |
-| 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 8h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
+| 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 9h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I C# | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322930700/?ats=successfactors) |
