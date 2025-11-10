@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-571-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-572-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-16-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 524 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 525 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 524
+- **🔥 Current Positions**: 525
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 16 premium opportunities
 - **📅 Last Updated**: November 10, 2025
@@ -383,7 +383,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (321 positions)
+### 🏢 **Other Companies** (322 positions)
 
 #### 🏢 **AG Technologies** (22 positions)
 
@@ -414,6 +414,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Rochester Regional Health** | Software Developer | Remote 🏠 | 0h ago | Mid-Level | Software Engineering | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365) |
 | 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 8h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I C# | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors) |
@@ -744,7 +745,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 299 | 57% | No or minimal experience |
-| 🟡 Beginner & Early Career | 223 | 43% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 224 | 43% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 0% | 2+ years of experience |
 
 ---
@@ -762,8 +763,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (328 positions)
-🎬 TikTok • 🏢 KBR
+#### 💻 Software Engineering (329 positions)
+🏢 Rochester Regional Health • 🎬 TikTok
 
 #### 🧠 Machine Learning & AI (68 positions)
 🏢 Esri • 🏢 Trend Health Partners • 🏢 NewsBreak
@@ -796,7 +797,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 524 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 525 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -885,7 +886,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 524 current opportunities from 261 companies**
+**🎯 525 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
