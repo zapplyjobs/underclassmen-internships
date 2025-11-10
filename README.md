@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-951-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-949-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-103-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 904 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 902 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 904
+- **🔥 Current Positions**: 902
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 103 premium opportunities
 - **📅 Last Updated**: November 10, 2025
@@ -625,7 +625,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (490 positions)
+### 🏢 **Other Companies** (488 positions)
 
 #### 🎨 **Adobe** (14 positions)
 
@@ -680,9 +680,6 @@
 | 🏢 **KBR** | Full Stack Software Engineer | Moffett Field, CA | 679mo ago | Mid-Level | Full Stack Development | [Apply](https://bs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782) |
 | 🏢 **General Dynamics Information Technology** | Software Engineer I | Annapolis Junction, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1) |
 | 🏢 **General Dynamics Information Technology** | Software Developer Associate - TS/SCI w/Poly | Annapolis Junction, MD | 1mo ago | Entry-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001) |
-| 🏢 **CoStar Group** | Software Engineer I | Arlington, VA | 1d ago | Mid-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764) |
-| 🏢 **CoStar Group** | Associate Software Engineer | Nashville, TN | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1) |
-| 🏢 **CoStar Group** | Associate Software Engineer | San Diego, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application) |
 | 🏢 **Citizen Health** | Software Engineer | San Francisco, CA | 679mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57) |
 | 🏢 **Citizen Health** | Software Engineer | San Francisco, CA | 679mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764) |
@@ -868,6 +865,8 @@
 | 🏢 **Sierra** | Software Engineer, Agent | San Francisco, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96) |
 | 🏢 **Sierra** | Software Engineer – New Grad - Agent | NYC, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075/application) |
 | 🏢 **Sierra** | Software Engineer – New Grad - Agent | SF, Locations | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96/application) |
+| 🏢 **CoStar Group** | Associate Software Engineer | Nashville, TN | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1) |
+| 🏢 **CoStar Group** | Associate Software Engineer | San Diego, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1) |
 | 🏢 **Comcast** | Software Engineer 1 with AWS & Python | Chicago, IL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.comcast.com/job/-/-/45483/86516813920) |
 | 🏢 **HoneyWell** | Software Engineer I | Clearwater, FL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931) |
 | 🏢 **Southwest Airlines** | Associate Data Engineer | Dallas, TX | 1mo ago | Entry-Level | Data Science & Analytics | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816) |
@@ -917,7 +916,6 @@
 | ⚡ **Atlassian** | New Grad 2026: Software Engineer | Canada, Locations | 679mo ago | Entry-Level | Software Engineering | [Apply](https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us) |
 | ⚡ **Atlassian** | New Grad 2026: Machine Learning Engineer | San Francisco, CA | 679mo ago | Entry-Level | Machine Learning & AI | [Apply](https://careers-americas.icims.com/jobs/20906/machine-learning-engineer%252c-2026-graduate-u.s./job) |
 | ⚡ **Atlassian** | New Grad 2026: Software Engineer | Seattle, WA | 679mo ago | Entry-Level | Software Engineering | [Apply](https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job) |
-| 🏢 **Falconwood** | Data Engineer I | Suffolk, VA | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false) |
 | 🏢 **LPL Financial Holdings** | New Grad 2026 - Technology - Software Development | Austin, TX | 1mo ago | Entry-Level | Software Engineering | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1) |
 | 🏢 **Medpace, Inc.** | Entry Level - Clinical Database Programmer | Cincinnati, OH | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers.medpace.com/jobs/10870?lang=en-us&icims=1) |
 | 🏢 **Credence** | Entry-Level Software Engineer | McLean, VA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job) |
@@ -1160,7 +1158,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 470 | 52% | No or minimal experience |
-| 🟡 Beginner & Early Career | 430 | 48% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 428 | 47% | 1-2 years of experience |
 | 🔴 Manager         | 4 | 0% | 2+ years of experience |
 
 ---
@@ -1178,8 +1176,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (570 positions)
-🏢 KBR • 🏢 General Dynamics Information Technology • 🏢 CoStar Group
+#### 💻 Software Engineering (569 positions)
+🏢 KBR • 🏢 General Dynamics Information Technology • 🏢 Citizen Health
 
 #### 🧠 Machine Learning & AI (122 positions)
 🏢 Esri • 🏢 Trend Health Partners • 🏢 NewsBreak
@@ -1190,7 +1188,7 @@
 #### ☁️ DevOps & Infrastructure (41 positions)
 🏢 EBSCO • 🏢 Trimble • 🏢 Abnormal Security
 
-#### 📊 Data Science & Analytics (39 positions)
+#### 📊 Data Science & Analytics (38 positions)
 🏢 The Travelers Companies • 🏢 Xcel Energy • 🔵 Meta
 
 #### 🌐 Full Stack Development (26 positions)
@@ -1212,7 +1210,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 904 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 902 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1301,7 +1299,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 904 current opportunities from 261 companies**
+**🎯 902 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
