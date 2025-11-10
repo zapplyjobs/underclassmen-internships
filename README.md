@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-568-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-571-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-16-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 521 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 524 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 521
+- **🔥 Current Positions**: 524
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 16 premium opportunities
 - **📅 Last Updated**: November 10, 2025
@@ -190,7 +190,7 @@
 | 🏢 **Esri** | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands | 3w ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4660952007?gh_jid=4660952007) |
 | 🏢 **Esri** | Product Engineer 1 - User Assistance - Workflow Manager | West Redlands, Redlands | 2mo ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4847546007?gh_jid=4847546007) |
 
-### 💻 **Enterprise Software** (8 positions)
+### 💻 **Enterprise Software** (9 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -198,6 +198,7 @@
 | 🏢 **Hewlett Packard Enterprise** | Software Engineering Graduate | Ft. Collins, CO | 2mo ago | Entry-Level | Software Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1) |
 | 🏢 **Hewlett Packard Enterprise** | Cloud Engineer Graduate | Spring, TX | 2mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1) |
 | 🏢 **Hewlett Packard Enterprise** | Data Science Graduate | Spring, TX | 2mo ago | Entry-Level | Software Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963) |
+| 🔧 **ServiceNow** | Frontend Software Engineer | San Diego, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000092424475) |
 | 🔧 **ServiceNow** | Associate Software Engineer | Waltham, MA | 2d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/94f60162-99c7-4251-bbb5-dc9582902422?dcr_ci=ServiceNow) |
 | 🏢 **SS&C** | Junior AI-Assisted Software Engineer | Union, NJ | 2mo ago | Entry-Level | Software Engineering | [Apply](https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039) |
 | 🏢 **Emerson** | Embedded Software Engineer | Shakopee, MN | 3mo ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266) |
@@ -240,12 +241,14 @@
 | 🏢 **MetroStar** | Associate Software Developer | Reston, VA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://www.metrostar.com/job-post/?gh_jid=6667276003) |
 | 🏢 **SimIS** | Junior Software Developer - Modeling & Simulation | Suffolk, VA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation) |
 
-### 🛒 **Consumer & E-Commerce** (38 positions)
+### 🛒 **Consumer & E-Commerce** (40 positions)
 
-#### 🎬 **TikTok** (28 positions)
+#### 🎬 **TikTok** (30 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
+| Software Engineer Graduate (Data Arch - Data Ecosystem) | San Jose, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535220808265681159) |
+| Software Engineer Graduate (Data Platfrom TikTok BP) | San Jose, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535528357414570248) |
 | Machine Learning Engineer Graduate (BRIC) – 2026 Start (BS/MS) | San Jose, CA | 3w ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7559731427425257746) |
 | AI/ML Software Engineer Graduate (Data Platform TikTok BP) | San Jose, CA | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7541178634444589319) |
 | Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7538319953965287698) |
@@ -740,14 +743,14 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 297 | 57% | No or minimal experience |
-| 🟡 Beginner & Early Career | 222 | 43% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 299 | 57% | No or minimal experience |
+| 🟡 Beginner & Early Career | 223 | 43% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **San Jose, CA**: 41 positions
+- **San Jose, CA**: 43 positions
 - **Seattle, WA**: 34 positions
 - **New York, NY**: 28 positions
 - **San Francisco, CA**: 22 positions
@@ -759,8 +762,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (326 positions)
-🏢 KBR • 🏢 General Dynamics Information Technology • 🏢 Citizen Health
+#### 💻 Software Engineering (328 positions)
+🎬 TikTok • 🏢 KBR
 
 #### 🧠 Machine Learning & AI (68 positions)
 🏢 Esri • 🏢 Trend Health Partners • 🏢 NewsBreak
@@ -768,11 +771,11 @@
 #### ☁️ DevOps & Infrastructure (30 positions)
 🏢 EBSCO • 🏢 Trimble • 🏢 Abnormal Security
 
+#### 🎨 Frontend Development (29 positions)
+🔧 ServiceNow • 🏢 Truist Bank • 🏢 Intuit
+
 #### 📊 Data Science & Analytics (28 positions)
 🏢 The Travelers Companies • 🏢 Xcel Energy • 🔵 Meta
-
-#### 🎨 Frontend Development (28 positions)
-🏢 Truist Bank • 🏢 Intuit • 🏢 Applied Intuition
 
 #### 🌐 Full Stack Development (13 positions)
 🏢 McDonald's • 🏢 N1 • 🏢 Radiance Technologies
@@ -793,7 +796,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 521 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 524 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -882,7 +885,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 521 current opportunities from 261 companies**
+**🎯 524 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
