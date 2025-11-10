@@ -401,7 +401,7 @@
 | Entry Level Software Engineer | Chesterfield, MO | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/100730616) |
 | Hiring Entry Level Software Engineer | Dallas, TX | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/112610151) |
 | Hiring Entry Level Software Engineer | San Jose, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999655794970) |
-| Hiring Entry Level Software Engineer | San Diego, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007) |
+| Hiring Entry Level Software Engineer | San Diego, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007) |
 | Hiring Entry Level Software Engineer | San Diego, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019) |
 | Hiring Entry Level Software Engineer | San Francisco, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716) |
 | Hiring Entry Level Software Engineer | San Francisco, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/116232946) |
