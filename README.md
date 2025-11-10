@@ -415,7 +415,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **AVEVA** | Software Developer Graduate | San Leandro, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626) |
 | 🏢 **Rochester Regional Health** | Software Developer | Remote 🏠 | 2h ago | Mid-Level | Software Engineering | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365) |
-| 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 10h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
+| 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 11h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I C# | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 5d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322930700/?ats=successfactors) |
