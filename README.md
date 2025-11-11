@@ -416,7 +416,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/32a83b78-f3e1-47c3-af38-f28a715f2337/application) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/32a83b78-f3e1-47c3-af38-f28a715f2337/application) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/c8e6d1e7-0130-457e-a257-00eb7f6e25b3/application) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
@@ -425,7 +425,7 @@
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
 | 🏢 **Koddi** | Junior Software Engineering Cohort | Fort Worth, TX | 3h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8250132002) |
 | 🏢 **Worldpay** | Software Engineer 1 - Java and API Development | Cincinnati, OH | 3h ago | Mid-Level | Backend Development | [Apply](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Software-Engineer-I---Java-and-API-Development_JR0607845) |
-| 🏢 **AVEVA** | Software Developer Graduate | San Leandro, CA | 14h ago | Entry-Level | Software Engineering | [Apply](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626) |
+| 🏢 **AVEVA** | Software Developer Graduate | San Leandro, CA | 15h ago | Entry-Level | Software Engineering | [Apply](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626) |
 | 🏢 **McDonald's** | Full Stack Engineer 1 | Chicago, IL | 1d ago | Mid-Level | Full Stack Development | [Apply](https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I C# | Chicago, IL | 6d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors) |
 | 🏢 **McDonald's** | Software Engineer I | Chicago, IL | 6d ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors) |
