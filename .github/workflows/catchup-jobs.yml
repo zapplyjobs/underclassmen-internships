@@ -1,0 +1,239 @@
+name: Catch-up Job Posting (Manual)
+
+on:
+  workflow_dispatch: # Manual trigger only
+    inputs:
+      max_age_hours:
+        description: 'Maximum job age in hours (default: 48h for 2-day catch-up)'
+        required: false
+        default: '48'
+        type: string
+
+# Prevent concurrent runs to avoid git conflicts
+concurrency:
+  group: job-updates-${{ github.repository }}
+  cancel-in-progress: false  # Don't cancel, wait for previous to finish
+
+jobs:
+  catchup-jobs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch full history for proper rebasing
+        token: ${{ secrets.GITHUB_TOKEN }}  # Use default token for pushing
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install job fetcher dependencies
+      run: npm install axios
+
+    - name: Update job listings (catch-up mode)
+      run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
+      env:
+        PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
+        JOB_MAX_AGE_HOURS: ${{ inputs.max_age_hours || '48' }}
+
+    - name: Display public status
+      run: |
+        echo "✅ Job collection completed (catch-up mode: ${{ inputs.max_age_hours || '48' }}h window)"
+        if [ -f "README.md" ]; then
+          JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          echo "📊 Total positions: $JOB_COUNT"
+        fi
+
+    - name: Install bot dependencies
+      run: npm install discord.js@14
+
+    - name: Post new jobs via Enhanced Bot
+      run: node .github/scripts/save-discord-logs.js > .github/logs/discord-bot.log 2>&1
+      env:
+        DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
+        DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
+        DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
+        # Multi-channel forum configuration
+        DISCORD_TECH_CHANNEL_ID:      ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
+        DISCORD_SALES_CHANNEL_ID:     ${{ secrets.DISCORD_SALES_CHANNEL_ID }}
+        DISCORD_MARKETING_CHANNEL_ID: ${{ secrets.DISCORD_MARKETING_CHANNEL_ID }}
+        DISCORD_FINANCE_CHANNEL_ID:   ${{ secrets.DISCORD_FINANCE_CHANNEL_ID }}
+        DISCORD_HEALTHCARE_CHANNEL_ID: ${{ secrets.DISCORD_HEALTHCARE_CHANNEL_ID }}
+        DISCORD_PRODUCT_CHANNEL_ID:   ${{ secrets.DISCORD_PRODUCT_CHANNEL_ID }}
+        DISCORD_SUPPLY_CHANNEL_ID:    ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
+        DISCORD_PM_CHANNEL_ID:         ${{ secrets.DISCORD_PM_CHANNEL_ID }}
+        DISCORD_HR_CHANNEL_ID:         ${{ secrets.DISCORD_HR_CHANNEL_ID }}
+        # Location-specific channels
+        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
+        DISCORD_NY_CHANNEL_ID:         ${{ secrets.DISCORD_NY_CHANNEL_ID }}
+        DISCORD_AUSTIN_CHANNEL_ID:     ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
+        DISCORD_CHICAGO_CHANNEL_ID:    ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
+        DISCORD_SEATTLE_CHANNEL_ID:    ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
+        DISCORD_REDMOND_CHANNEL_ID:    ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
+        DISCORD_MV_CHANNEL_ID:         ${{ secrets.DISCORD_MV_CHANNEL_ID }}
+        DISCORD_SF_CHANNEL_ID:         ${{ secrets.DISCORD_SF_CHANNEL_ID }}
+        DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
+        DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
+
+    - name: Upload private logs (collaborators only)
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: catchup-logs-${{ github.run_number }}
+        path: .github/logs/*.log
+        retention-days: 90
+        if-no-files-found: warn
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Found changes in files"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
+
+    - name: Commit and Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "team@zapply.ai"
+        git config --local user.name "Zapply Team"
+
+        # Function to commit and push with proper conflict resolution
+        commit_and_push() {
+          local max_attempts=5
+          local delay=5
+
+          for attempt in $(seq 1 $max_attempts); do
+            echo "========================================="
+            echo "Attempt $attempt of $max_attempts"
+            echo "========================================="
+
+            # STEP 1: Stash our changes (clean working directory)
+            echo "📦 Stashing local changes..."
+            git stash push -m "Auto-stash scraped jobs $(date +%s)" \
+              .github/data/new_jobs.json \
+              .github/data/posted_jobs.json \
+              .github/data/seen_jobs.json \
+              README.md || true
+
+            # STEP 2: Pull latest remote changes with rebase
+            echo "⬇️  Pulling latest changes from remote..."
+            if ! git pull --rebase origin main; then
+              echo "⚠️  Rebase conflict detected, aborting rebase..."
+              git rebase --abort || true
+
+              # Fallback to regular merge
+              git pull origin main --no-edit || {
+                echo "❌ Pull failed completely, resetting..."
+                git reset --hard HEAD
+                git pull origin main
+              }
+            fi
+
+            # STEP 3: Re-apply our changes (our data is authoritative)
+            echo "📂 Re-applying scraped job data..."
+            if git stash list | grep -q "Auto-stash scraped jobs"; then
+              if ! git stash pop; then
+                echo "⚠️  Stash pop had conflicts, resolving..."
+
+                # Take our version (latest scraped data) for all conflicts
+                git checkout --ours .github/data/new_jobs.json 2>/dev/null || true
+                git checkout --ours .github/data/posted_jobs.json 2>/dev/null || true
+                git checkout --ours .github/data/seen_jobs.json 2>/dev/null || true
+                git checkout --ours README.md 2>/dev/null || true
+
+                # Clear the stash
+                git reset
+                git stash drop || true
+              fi
+            else
+              echo "ℹ️  No stash found (likely no conflicts)"
+            fi
+
+            # STEP 4: Stage and commit
+            git add .github/data/new_jobs.json \
+                    .github/data/posted_jobs.json \
+                    .github/data/seen_jobs.json \
+                    README.md 2>/dev/null || true
+
+            # Check if there are still changes to commit
+            if git diff --staged --quiet; then
+              echo "ℹ️  No changes after merge, exiting successfully"
+              exit 0
+            fi
+
+            # Get job count for commit message
+            JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+            COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+            COMMIT_MSG="Catch-up: Update jobs - $(date +'%Y-%m-%d %H:%M UTC')
+
+        Found $JOB_COUNT positions from $COMPANY_COUNT companies (${MAX_AGE_HOURS:-48}h window)
+        Updated categories, locations, and experience levels"
+
+            if ! git commit -m "$COMMIT_MSG"; then
+              echo "⚠️  Commit failed, may already be committed"
+            fi
+
+            # STEP 5: Push with retry
+            echo "⬆️  Pushing changes to remote..."
+            if git push origin main; then
+              echo "✅ Successfully pushed changes!"
+              exit 0
+            else
+              echo "❌ Push failed (branch diverged again)"
+
+              # Undo commit but keep changes staged for retry
+              git reset --soft HEAD~1
+
+              # Exponential backoff
+              echo "⏳ Waiting ${delay}s before retry..."
+              sleep $delay
+              delay=$((delay * 2))
+            fi
+          done
+
+          echo "========================================="
+          echo "❌ Failed to push after $max_attempts attempts"
+          echo "========================================="
+          exit 1
+        }
+
+        # Execute the function
+        commit_and_push
+
+    - name: Create job summary
+      run: |
+        echo "## 🔄 Catch-up Job Posting Complete!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Time Window:** 48h-${{ inputs.max_age_hours || '48' }}h" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          # Extract stats from README
+          JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+          echo "✅ **Successfully posted catch-up jobs**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 🎯 **$JOB_COUNT total positions** from $COMPANY_COUNT companies" >> $GITHUB_STEP_SUMMARY
+          echo "- ⏰ **Extended window** to catch missed opportunities" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**📥 Detailed logs**: Download artifacts (collaborators only)" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ **No catch-up jobs found**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "All jobs within the catch-up window have already been posted." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**📥 Detailed logs**: Download artifacts (collaborators only)" >> $GITHUB_STEP_SUMMARY
+        fi
