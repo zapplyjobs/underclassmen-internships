@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-57-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-56-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 10 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 9 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 10
+- **🔥 Current Positions**: 9
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 12, 2025
@@ -115,12 +115,6 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 💻 **Enterprise Software** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.servicenow.com/jobs/744000092358511/software-engineer/) |
-
 ### 🏢 **Other Companies** (9 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
@@ -164,8 +158,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 40% | No or minimal experience |
-| 🟡 Beginner & Early Career | 6 | 60% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 4 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 5 | 56% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -183,7 +177,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (8 positions)
+#### 💻 Software Engineering (7 positions)
 🏢 RTX • 🏢 Citizen Health
 
 #### 📊 Data Science & Analytics (1 positions)
@@ -196,7 +190,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 10 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 9 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -285,7 +279,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 10 current opportunities from 261 companies**
+**🎯 9 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
