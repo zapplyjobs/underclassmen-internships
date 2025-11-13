@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-52-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 5 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 7
+- **🔥 Current Positions**: 5
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 13, 2025
@@ -115,17 +115,15 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (7 positions)
+### 🏢 **Other Companies** (5 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Washpost** | Software Engineer 1 - iOS App Development | Washington, DC | 0h ago | Mid-Level | Mobile Development | [Apply](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609) |
-| 🏢 **RTX** | 2026 Full-time - Software Engineer I | Fort Wayne, IN | 23h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01805670) |
-| 🏢 **RTX** | Java Software Engineer 1 - Java Software Engineer I | State College, PA | 23h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01803259) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/0f057477-c2c4-4b63-8862-2d3c82db32d7/application) |
-| 🏢 **Benchling** | Software Engineer New Grad | SF, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/benchling/jobs/7386982) |
+| 🏢 **Washpost** | Software Engineer 1 - iOS App Development | Washington, DC | 1h ago | Mid-Level | Mobile Development | [Apply](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609) |
+| 🏢 **RTX** | 2026 Full-time - Software Engineer I | Fort Wayne, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01805670) |
+| 🏢 **RTX** | Java Software Engineer 1 - Java Software Engineer I | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01803259) |
+| 🏢 **Benchling** | Software Engineer New Grad | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/benchling/jobs/7386982) |
 | 🏢 **Expedia Group** | Data Engineer I | Seattle, WA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-98969-2) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer - Entry Level-Java / C++ - Start Date | Manassas, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69189/job?mobile=true&needsRedirect=false) |
 
 
 
@@ -156,25 +154,24 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 43% | No or minimal experience |
-| 🟡 Beginner & Early Career | 4 | 57% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 1 | 20% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 80% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **SF, Locations**: 2 positions
 - **Washington, DC**: 1 positions
 - **Fort Wayne, IN**: 1 positions
 - **State College, PA**: 1 positions
+- **SF, Locations**: 1 positions
 - **Seattle, WA**: 1 positions
-- **Manassas, VA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (5 positions)
-🏢 RTX • 🏢 Citizen Health
+#### 💻 Software Engineering (3 positions)
+🏢 RTX • 🏢 Benchling
 
 #### 📱 Mobile Development (1 positions)
 🏢 Washpost
@@ -186,7 +183,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 7 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 5 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -275,7 +272,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 7 current opportunities from 261 companies**
+**🎯 5 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
