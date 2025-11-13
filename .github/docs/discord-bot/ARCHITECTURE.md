@@ -143,7 +143,7 @@ fs.symlinkSync(logFile, '.github/logs/latest.log')
 ├── data/
 │   ├── new_jobs.json                # Jobs to post
 │   ├── posted_jobs.json             # Tracking file
-│   └── previous.json                # Previous state
+│   └── seen_jobs.json               # Legacy tracking (auto-trimmed)
 ├── logs/
 │   ├── latest.log                   # Symlink to latest
 │   └── discord-bot-*.log            # Timestamped logs
