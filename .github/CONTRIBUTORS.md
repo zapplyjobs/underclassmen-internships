@@ -8,7 +8,7 @@ This project is maintained by the **Zapply Team**.
 - **Zapply Product Team** - User experience and feature development
 
 ## Automated Systems
-- **Zapply Job Scraper** - Automated job collection and updates
+- **Zapply Job Aggregator** - Automated job collection and updates
 - **Zapply CI/CD** - Continuous integration and deployment
 
 ---
