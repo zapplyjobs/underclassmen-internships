@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-58-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-59-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 11 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 11
+- **🔥 Current Positions**: 12
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 13, 2025
@@ -115,21 +115,22 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (11 positions)
+### 🏢 **Other Companies** (12 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Maybern** | Software Engineer, New Grad | New York, NY | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058) |
+| 🏢 **Rockwell Automation** | Associate Engineer Embedded Software | Mayfield Heights, OH | 0h ago | Entry-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467) |
 | 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 14h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108252) |
-| 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 14h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269) |
+| 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 15h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269) |
 | 🏢 **Nordstrom** | Engineer 1 - Full-Stack | Seattle, WA | 15h ago | Mid-Level | Software Engineering | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099) |
 | 🏢 **Horace Mann** | Software Engineer 1 | Plano, TX | 15h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004) |
 | 🏢 **iSpot.tv** | Software Development Engineer 1 | Bellevue, WA | 15h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4629254005) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 15h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/93499478-f9b9-4a46-968d-c025e4b65e3f/application) |
-| 🏢 **LexisNexis Risk Solutions** | Software Engineer 1 | Miamisburg, OH | 15h ago | Mid-Level | Software Engineering | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I_R104044) |
+| 🏢 **LexisNexis Risk Solutions** | Software Engineer 1 | Miamisburg, OH | 16h ago | Mid-Level | Software Engineering | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I_R104044) |
 | 🏢 **Washpost** | Software Engineer 1 - iOS App Development | Washington, DC | 16h ago | Mid-Level | Mobile Development | [Apply](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609) |
 | 🏢 **RTX** | 2026 Full-time - Software Engineer I | Fort Wayne, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01805670) |
 | 🏢 **Benchling** | Software Engineer New Grad | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/benchling/jobs/7386982) |
-| 🏢 **Expedia Group** | Data Engineer I | Seattle, WA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-98969-2) |
 
 
 
@@ -160,27 +161,27 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 9 | 82% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 4 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 8 | 67% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Charlotte, NC**: 2 positions
-- **Seattle, WA**: 2 positions
 - **SF, Locations**: 2 positions
+- **New York, NY**: 1 positions
+- **Mayfield Heights, OH**: 1 positions
+- **Seattle, WA**: 1 positions
 - **Plano, TX**: 1 positions
 - **Bellevue, WA**: 1 positions
 - **Miamisburg, OH**: 1 positions
-- **Washington, DC**: 1 positions
-- **Fort Wayne, IN**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (7 positions)
-🏢 Nordstrom • 🏢 Horace Mann • 🏢 iSpot.tv
+#### 💻 Software Engineering (9 positions)
+🏢 Maybern • 🏢 Rockwell Automation • 🏢 Nordstrom
 
 #### 🎨 Frontend Development (2 positions)
 🏢 Truist Bank
@@ -188,14 +189,11 @@
 #### 📱 Mobile Development (1 positions)
 🏢 Washpost
 
-#### 📊 Data Science & Analytics (1 positions)
-🏢 Expedia Group
-
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 11 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 12 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -284,7 +282,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 11 current opportunities from 261 companies**
+**🎯 12 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
