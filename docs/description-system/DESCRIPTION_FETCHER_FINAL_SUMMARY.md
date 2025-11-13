@@ -26,7 +26,7 @@
 
 ```
 Hybrid Approach:
-├── Fast HTTP Scrapers (50-60% of jobs, 2-5s each)
+├── Fast HTTP Fetchers (50-60% of jobs, 2-5s each)
 │   ├── Greenhouse → HTML scraping (.job__description)
 │   ├── Ashby → JSON-LD structured data
 │   └── Generic → Meta tags + JSON-LD fallback
@@ -45,9 +45,9 @@ Hybrid Approach:
 jobboard/src/backend/services/descriptionFetchers/
 ├── index.js                         # Main orchestrator with routing
 ├── cache.js                         # 7-day caching system
-├── greenhouseFetcher.js            # ✅ HTTP scraper for Greenhouse
+├── greenhouseFetcher.js            # ✅ HTTP fetcher for Greenhouse
 ├── ashbyFetcher.js                 # ✅ JSON-LD extractor for Ashby
-├── genericFetcher.js               # ✅ Fallback scraper
+├── genericFetcher.js               # ✅ Fallback fetcher
 ├── workdayFetcherPuppeteer.js      # ✅ Puppeteer for Workday
 ├── leverFetcherPuppeteer.js        # ✅ Puppeteer for Lever
 └── README.md                        # Complete documentation
