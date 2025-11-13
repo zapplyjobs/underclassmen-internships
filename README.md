@@ -119,9 +119,9 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 0h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269) |
-| 🏢 **Horace Mann** | Software Engineer 1 | Plano, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004) |
-| 🏢 **Washpost** | Software Engineer 1 - iOS App Development | Washington, DC | 1h ago | Mid-Level | Mobile Development | [Apply](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609) |
+| 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 1h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269) |
+| 🏢 **Horace Mann** | Software Engineer 1 | Plano, TX | 1h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004) |
+| 🏢 **Washpost** | Software Engineer 1 - iOS App Development | Washington, DC | 2h ago | Mid-Level | Mobile Development | [Apply](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609) |
 | 🏢 **RTX** | 2026 Full-time - Software Engineer I | Fort Wayne, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01805670) |
 | 🏢 **RTX** | Java Software Engineer 1 - Java Software Engineer I | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01803259) |
 | 🏢 **Benchling** | Software Engineer New Grad | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/benchling/jobs/7386982) |
