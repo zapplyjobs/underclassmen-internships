@@ -75,7 +75,8 @@
 ### Step 2: Commit and Push Changes
 
 ```bash
-cd /c/Users/jarra/Videos/Work/Business/New-Grad-Positions
+# Navigate to repository root
+cd /path/to/New-Grad-Positions
 
 # Verify ONLY code changes (no sensitive data)
 git diff
