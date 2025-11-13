@@ -32,7 +32,7 @@ If you've found a new grad position that isn't listed in our README, please crea
 
 ### 🏢 Adding a New Company
 
-Want us to track a company that's not in our scraping list? Create an issue to suggest it!
+Want us to track a company that's not in our tracking list? Create an issue to suggest it!
 
 **Issue Title:** `[NEW COMPANY] Company Name`
 
@@ -104,36 +104,34 @@ Use **vague, generic descriptions** that focus on WHAT changed, not HOW it works
 
 The following will be **automatically rejected** by our commit hook:
 
-**Never mention specific services:**
+**Never mention specific services or platforms:**
 ```bash
-❌ "add SimplifyJobs integration"
-❌ "fix Greenhouse API endpoint"
-❌ "update JSearch queries"
+❌ "add [service name] integration"
+❌ "fix [platform] API endpoint"
+❌ "update [service] queries"
 ```
 
 **Never mention data collection methods:**
 ```bash
-❌ "add Amazon scraper"
-❌ "fix web scraping timeout"
-❌ "disable Google scraper for compliance"
+❌ "add [company] data collection"
+❌ "fix web automation timeout"
+❌ "disable [source] for compliance"
 ```
 
 **Never name companies in data source context:**
 ```bash
-❌ "add Microsoft API integration"
-❌ "fix Netflix endpoint"
-❌ "update Stripe data collection"
+❌ "add [company] API integration"
+❌ "fix [company] endpoint"
+❌ "update [company] data collection"
 ```
 
-#### 💡 Translation Guide
+#### 💡 How to Write Generic Commit Messages
 
-| ❌ Blocked Message | ✅ Acceptable Alternative |
-|-------------------|--------------------------|
-| "add SimplifyJobs API" | "add external data aggregation service" |
-| "fix Greenhouse scraper" | "fix data collection endpoint" |
-| "add Amazon scraper" | "add company data source" |
-| "disable Google API" | "disable data source" |
-| "update career page scraping" | "update data collection process" |
+**Use generic terms instead of specifics:**
+- Instead of naming services → "external data source"
+- Instead of naming platforms → "data collection endpoint"
+- Instead of naming companies → "company data source"
+- Focus on WHAT changed, not HOW it works
 
 #### 🔒 Why These Rules?
 

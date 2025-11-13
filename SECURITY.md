@@ -56,10 +56,10 @@ To help us quickly assess and fix the issue, provide:
 ```
 Vulnerability Type: Command Injection
 Affected Component: Discord bot (.github/scripts/enhanced-discord-bot.js)
-Attack Vector: Malicious job title in external API response
+Attack Vector: Malicious job title in external data response
 Impact: Remote code execution on GitHub Actions runner
 Reproduction:
-1. External API returns job with title: `'; rm -rf / #`
+1. External data source returns job with title: `'; rm -rf / #`
 2. Bot passes unsanitized title to shell command
 3. Command executes on runner
 PoC: [screenshot or code snippet]
@@ -106,7 +106,7 @@ We use **CVSS 3.1** to classify vulnerabilities:
 
 **Application Security:**
 - Discord bot code (`.github/scripts/enhanced-discord-bot.js`)
-- Job fetcher and scrapers (`.github/scripts/job-fetcher/`, `jobboard/src/backend/platforms/`)
+- Job fetcher and data collectors (`.github/scripts/job-fetcher/`, `jobboard/src/backend/platforms/`)
 - GitHub Actions workflows (`.github/workflows/`)
 - Dependency vulnerabilities (npm packages)
 - Secret management (API keys, tokens, webhooks)
@@ -128,8 +128,8 @@ We use **CVSS 3.1** to classify vulnerabilities:
 **Third-Party Services:**
 - Vulnerabilities in Discord (report to Discord)
 - Vulnerabilities in GitHub (report to GitHub)
-- Vulnerabilities in job posting sites we scrape (report to them)
-- JSearch API security (report to JSearch)
+- Vulnerabilities in external job data sources (report to provider)
+- External API security (report to API provider)
 
 **Intentional Behavior:**
 - Rate limiting on Discord bot (prevents spam)
@@ -154,10 +154,10 @@ We believe in **transparency**. Here are known security limitations we've consci
 - **Mitigation**: Developers use Chrome/Edge (unaffected), production builds not vulnerable
 - **Plan**: Will be resolved when migrating from Create React App (timeline TBD)
 
-### 2. **No Authentication on Job Scraper API**
+### 2. **No Authentication on Job Fetcher API**
 - **Status**: Intentional Design
 - **Reason**: Public job board - data is meant to be freely accessible
-- **Impact**: Anyone can scrape our scraped data
+- **Impact**: Anyone can access our aggregated data
 - **Mitigation**: Rate limiting via GitHub Actions scheduler, no sensitive data collected
 
 ### 3. **GitHub Actions Secrets Visible in Forks**
@@ -197,7 +197,7 @@ This project is **privacy-first** by design:
 - **No cookies** → No session hijacking risk
 - **No database** → No SQL injection possible
 
-**All data is public job postings scraped from third-party APIs.**
+**All data is public job postings from external aggregation services.**
 
 ---
 
