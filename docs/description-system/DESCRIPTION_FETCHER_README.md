@@ -178,7 +178,7 @@ node -e "const {cache}=require('./jobboard/src/backend/services/descriptionFetch
 
 ```json
 {
-  "cheerio": "^1.1.2",      // HTML parsing (HTTP scrapers)
+  "cheerio": "^1.1.2",      // HTML parsing (HTTP fetchers)
   "puppeteer": "^24.30.0"   // Headless browser (Workday/Lever)
 }
 ```
@@ -194,7 +194,7 @@ New-Grad-Positions/
 ├── jobboard/src/backend/services/descriptionFetchers/
 │   ├── index.js                      # Main orchestrator
 │   ├── cache.js                      # 7-day caching
-│   ├── greenhouseFetcher.js         # HTTP scraper
+│   ├── greenhouseFetcher.js         # HTTP fetcher
 │   ├── ashbyFetcher.js              # JSON-LD extractor
 │   ├── workdayFetcherPuppeteer.js   # Puppeteer for Workday
 │   ├── leverFetcherPuppeteer.js     # Puppeteer for Lever
