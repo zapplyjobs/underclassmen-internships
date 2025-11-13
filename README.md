@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 5h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108252) |
+| 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 6h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108252) |
 | 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 6h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269) |
 | 🏢 **Nordstrom** | Engineer 1 - Full-Stack | Seattle, WA | 7h ago | Mid-Level | Software Engineering | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099) |
 | 🏢 **Horace Mann** | Software Engineer 1 | Plano, TX | 7h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004) |
