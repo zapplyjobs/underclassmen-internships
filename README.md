@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-52-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 5 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 5
+- **🔥 Current Positions**: 7
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 13, 2025
@@ -115,10 +115,12 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (5 positions)
+### 🏢 **Other Companies** (7 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 0h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269) |
+| 🏢 **Horace Mann** | Software Engineer 1 | Plano, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004) |
 | 🏢 **Washpost** | Software Engineer 1 - iOS App Development | Washington, DC | 1h ago | Mid-Level | Mobile Development | [Apply](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609) |
 | 🏢 **RTX** | 2026 Full-time - Software Engineer I | Fort Wayne, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01805670) |
 | 🏢 **RTX** | Java Software Engineer 1 - Java Software Engineer I | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01803259) |
@@ -154,13 +156,15 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 1 | 20% | No or minimal experience |
-| 🟡 Beginner & Early Career | 4 | 80% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 1 | 14% | No or minimal experience |
+| 🟡 Beginner & Early Career | 6 | 86% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Charlotte, NC**: 1 positions
+- **Plano, TX**: 1 positions
 - **Washington, DC**: 1 positions
 - **Fort Wayne, IN**: 1 positions
 - **State College, PA**: 1 positions
@@ -170,8 +174,11 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (3 positions)
-🏢 RTX • 🏢 Benchling
+#### 💻 Software Engineering (4 positions)
+🏢 Horace Mann • 🏢 RTX
+
+#### 🎨 Frontend Development (1 positions)
+🏢 Truist Bank
 
 #### 📱 Mobile Development (1 positions)
 🏢 Washpost
@@ -183,7 +190,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 5 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 7 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -272,7 +279,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 5 current opportunities from 261 companies**
+**🎯 7 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
