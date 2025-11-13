@@ -41,7 +41,7 @@ To help us quickly assess and fix the issue, provide:
 
 ### Required Information
 - **Vulnerability Type**: (e.g., XSS, SQL Injection, Authentication Bypass, etc.)
-- **Affected Component**: (e.g., Discord bot, job scraper, GitHub Actions workflow)
+- **Affected Component**: (e.g., Discord bot, job fetcher, GitHub Actions workflow)
 - **Attack Vector**: How can this be exploited?
 - **Impact**: What can an attacker achieve? (data theft, DoS, code execution, etc.)
 - **Reproduction Steps**: Clear, numbered steps to reproduce
