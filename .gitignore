@@ -47,6 +47,14 @@ coverage/
 *.temp
 .cache/
 
+# Description fetcher cache (7-day cache for job descriptions)
+.github/data/description-cache/
+
+# Debug and test files (development only)
+debug-*.js
+debug-*.html
+workday-page.png
+
 # Security - Sensitive documentation (NEVER commit)
 CLAUDE.md
 .GenAI_Work/

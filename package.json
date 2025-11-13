@@ -1,16 +1,20 @@
 {
   "name": "github-discord-stats",
-  "version": "1.0.0",
-  "description": "Automated GitHub organization stats to Discord",
+  "version": "2.0.0",
+  "description": "Automated GitHub organization stats to Discord with job description fetching",
   "scripts": {
     "daily": "node .github/scripts/daily-stats.js",
-    "weekly": "node .github/scripts/weekly-summary.js"
+    "weekly": "node .github/scripts/weekly-summary.js",
+    "test:descriptions": "node test-all-platforms.js",
+    "test:integration": "node test-integration.js"
   },
   "dependencies": {
     "@octokit/rest": "^20.0.2",
     "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
     "discord.js": "^14.23.2",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.30.0"
   },
   "author": "zapplyjobs",
   "license": "MIT"
