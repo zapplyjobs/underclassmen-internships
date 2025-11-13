@@ -325,9 +325,10 @@ node -e "const {cache}=require('./jobboard/src/backend/services/descriptionFetch
 - [x] Job objects have correct fields
 - [x] Caching working (7-day TTL)
 - [x] Documentation created
-- [ ] **TODO:** Set PRIMARY_DATA_SOURCE_URL in GitHub Secrets
-- [ ] **TODO:** Test with live workflow run
-- [ ] **TODO:** Verify Discord posts have descriptions
+- [x] PRIMARY_DATA_SOURCE_URL configured in GitHub Secrets (as JOB_PROCESSOR_URL)
+- [x] Code committed and pushed to production
+- [ ] Monitor first live workflow run
+- [ ] Verify Discord posts include full descriptions
 
 ---
 
