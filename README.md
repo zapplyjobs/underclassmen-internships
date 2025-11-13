@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-56-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 9 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,10 +69,10 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 9
+- **🔥 Current Positions**: 7
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
-- **📅 Last Updated**: November 12, 2025
+- **📅 Last Updated**: November 13, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
@@ -115,7 +115,7 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (9 positions)
+### 🏢 **Other Companies** (7 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -126,8 +126,6 @@
 | 🏢 **Benchling** | Software Engineer New Grad | SF, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/benchling/jobs/7386982) |
 | 🏢 **Expedia Group** | Data Engineer I | Seattle, WA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-98969-2) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer - Entry Level-Java / C++ - Start Date | Manassas, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69189/job?mobile=true&needsRedirect=false) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/c8e6d1e7-0130-457e-a257-00eb7f6e25b3/application) |
-| 🏢 **Koddi** | Junior Software Engineering Cohort | Fort Worth, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8250132002) |
 
 
 
@@ -158,8 +156,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 5 | 56% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 3 | 43% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 57% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -171,13 +169,11 @@
 - **State College, PA**: 1 positions
 - **Seattle, WA**: 1 positions
 - **Manassas, VA**: 1 positions
-- **Palo Alto, CA**: 1 positions
-- **Fort Worth, TX**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (7 positions)
+#### 💻 Software Engineering (5 positions)
 🏢 RTX • 🏢 Citizen Health
 
 #### 📱 Mobile Development (1 positions)
@@ -190,7 +186,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 9 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 7 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -279,7 +275,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 9 current opportunities from 261 companies**
+**🎯 7 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -287,6 +283,6 @@ No archived jobs available.
 
 ---
 
-**Last Updated**: November 12, 2025 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: November 13, 2025 • **Next Update**: Daily at 9 AM UTC
 
 </div>
