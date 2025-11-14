@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-57-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-59-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 10 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 10
+- **🔥 Current Positions**: 12
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 14, 2025
@@ -115,16 +115,18 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (10 positions)
+### 🏢 **Other Companies** (12 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **American Express** | Software Engineer 1 | Phoenix, AZ | 8h ago | Mid-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38773050) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 9h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 9h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
-| 🏢 **CommonLit** | Junior Software Engineer | Remote in USA, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/) |
-| 🏢 **Maybern** | Software Engineer, New Grad | New York, NY | 10h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058) |
-| 🏢 **Rockwell Automation** | Associate Engineer Embedded Software | Mayfield Heights, OH | 10h ago | Entry-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467) |
+| 🏢 **Comcast** | Junior Full Stack Engineer - Python/React/AWS | Philadelphia, PA | 0h ago | Entry-Level | Frontend Development | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Junior-Full-Stack-Engineer_R423945) |
+| 🏢 **GM financial** | Software Development Engineer 1 | Arlington, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309) |
+| 🏢 **American Express** | Software Engineer 1 | Phoenix, AZ | 9h ago | Mid-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38773050) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 10h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 10h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
+| 🏢 **CommonLit** | Junior Software Engineer | Remote in USA, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/) |
+| 🏢 **Maybern** | Software Engineer, New Grad | New York, NY | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058) |
+| 🏢 **Rockwell Automation** | Associate Engineer Embedded Software | Mayfield Heights, OH | 11h ago | Entry-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467) |
 | 🏢 **Nordstrom** | Engineer 1 - Full-Stack | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099) |
 | 🏢 **Horace Mann** | Software Engineer 1 | Plano, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004) |
 | 🏢 **iSpot.tv** | Software Development Engineer 1 | Bellevue, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4629254005) |
@@ -159,27 +161,30 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 50% | No or minimal experience |
-| 🟡 Beginner & Early Career | 5 | 50% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 6 | 50% | No or minimal experience |
+| 🟡 Beginner & Early Career | 6 | 50% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Philadelphia, PA**: 1 positions
+- **Arlington, TX**: 1 positions
 - **Phoenix, AZ**: 1 positions
 - **Bridgewater, MA**: 1 positions
 - **Bremerton, WA**: 1 positions
 - **Remote in USA, Locations**: 1 positions
 - **New York, NY**: 1 positions
 - **Mayfield Heights, OH**: 1 positions
-- **Seattle, WA**: 1 positions
-- **Plano, TX**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (9 positions)
-🏢 American Express • 🏢 General Dynamics Mission Systems
+#### 💻 Software Engineering (10 positions)
+🏢 GM financial • 🏢 American Express • 🏢 General Dynamics Mission Systems
+
+#### 🎨 Frontend Development (1 positions)
+🏢 Comcast
 
 #### 📱 Mobile Development (1 positions)
 🏢 Washpost
@@ -188,7 +193,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 10 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 12 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -277,7 +282,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 10 current opportunities from 261 companies**
+**🎯 12 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
