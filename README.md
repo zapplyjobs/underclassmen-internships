@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **American Express** | Software Engineer 1 | Phoenix, AZ | 6h ago | Mid-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38773050) |
+| 🏢 **American Express** | Software Engineer 1 | Phoenix, AZ | 7h ago | Mid-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38773050) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 7h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 7h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
 | 🏢 **CommonLit** | Junior Software Engineer | Remote in USA, Locations | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/) |
