@@ -181,11 +181,13 @@ jobs:
               if ! git stash pop; then
                 echo "⚠️  Stash pop had conflicts, resolving..."
 
-                # Take our version (latest scraped data) for all conflicts
-                git checkout --ours .github/data/new_jobs.json 2>/dev/null || true
-                git checkout --ours .github/data/posted_jobs.json 2>/dev/null || true
-                git checkout --ours .github/data/seen_jobs.json 2>/dev/null || true
-                git checkout --ours README.md 2>/dev/null || true
+                # Take stashed version (latest scraped data) for all conflicts
+                # --theirs = what's in the stash (NEW data after bot ran)
+                # --ours = what's in working directory (OLD data before stash)
+                git checkout --theirs .github/data/new_jobs.json 2>/dev/null || true
+                git checkout --theirs .github/data/posted_jobs.json 2>/dev/null || true
+                git checkout --theirs .github/data/seen_jobs.json 2>/dev/null || true
+                git checkout --theirs README.md 2>/dev/null || true
 
                 # Clear the stash
                 git reset
