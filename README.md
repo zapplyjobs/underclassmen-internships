@@ -72,7 +72,7 @@
 - **🔥 Current Positions**: 17
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
-- **📅 Last Updated**: November 13, 2025
+- **📅 Last Updated**: November 14, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
@@ -120,17 +120,17 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **American Express** | Software Engineer 1 | Phoenix, AZ | 6h ago | Mid-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38773050) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 6h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 6h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
-| 🏢 **CommonLit** | Junior Software Engineer | Remote in USA, Locations | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 7h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 7h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
+| 🏢 **CommonLit** | Junior Software Engineer | Remote in USA, Locations | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/) |
 | 🏢 **Maybern** | Software Engineer, New Grad | New York, NY | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058) |
 | 🏢 **Rockwell Automation** | Associate Engineer Embedded Software | Mayfield Heights, OH | 8h ago | Entry-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467) |
 | 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 22h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108252) |
 | 🏢 **Truist Bank** | Software Engineer 1 | Charlotte, NC | 23h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269) |
 | 🏢 **Nordstrom** | Engineer 1 - Full-Stack | Seattle, WA | 23h ago | Mid-Level | Software Engineering | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099) |
 | 🏢 **Horace Mann** | Software Engineer 1 | Plano, TX | 23h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004) |
-| 🏢 **iSpot.tv** | Software Development Engineer 1 | Bellevue, WA | 23h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4629254005) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/93499478-f9b9-4a46-968d-c025e4b65e3f/application) |
+| 🏢 **iSpot.tv** | Software Development Engineer 1 | Bellevue, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4629254005) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/93499478-f9b9-4a46-968d-c025e4b65e3f/application) |
 | 🏢 **LexisNexis Risk Solutions** | Software Engineer 1 | Miamisburg, OH | 1d ago | Mid-Level | Software Engineering | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I_R104044) |
 | 🏢 **Washpost** | Software Engineer 1 - iOS App Development | Washington, DC | 1d ago | Mid-Level | Mobile Development | [Apply](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609) |
 | 🏢 **RTX** | 2026 Full-time - Software Engineer I | Fort Wayne, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--IN-_01805670) |
@@ -295,6 +295,6 @@ No archived jobs available.
 
 ---
 
-**Last Updated**: November 13, 2025 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: November 14, 2025 • **Next Update**: Daily at 9 AM UTC
 
 </div>
