@@ -102,12 +102,20 @@ jobs:
     - name: Check for changes
       id: verify-changed-files
       run: |
+        echo "📋 Git status:"
+        git status --porcelain
+        echo ""
+        echo "📊 Posted jobs file info:"
+        ls -lh .github/data/posted_jobs.json || echo "File not found!"
+        echo "Last modified: $(stat -c '%y' .github/data/posted_jobs.json 2>/dev/null || stat -f '%Sm' .github/data/posted_jobs.json 2>/dev/null || echo 'unknown')"
+        echo ""
+
         if [ -n "$(git status --porcelain)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "Found changes in files"
+          echo "✅ Found changes in files"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
-          echo "No changes detected"
+          echo "⚠️  No changes detected"
         fi
 
     - name: Commit and Push changes
