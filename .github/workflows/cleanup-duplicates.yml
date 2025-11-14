@@ -53,6 +53,7 @@ jobs:
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "✅ **Channel cleanup completed**" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        echo "Bot messages and threads from the last 9 hours have been removed." >> $GITHUB_STEP_SUMMARY
+        echo "Bot messages and threads between 4-12 hours old have been removed." >> $GITHUB_STEP_SUMMARY
+        echo "Recent jobs (0-4 hours) were preserved." >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "Review the logs above for details on what was deleted." >> $GITHUB_STEP_SUMMARY
