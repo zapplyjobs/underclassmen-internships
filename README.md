@@ -119,14 +119,14 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Comcast** | Junior Full Stack Engineer - Python/React/AWS | Philadelphia, PA | 4h ago | Entry-Level | Frontend Development | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Junior-Full-Stack-Engineer_R423945) |
-| 🏢 **GM financial** | Software Development Engineer 1 | Arlington, TX | 4h ago | Mid-Level | Software Engineering | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309) |
-| 🏢 **Truist Bank** | Software Engineer 1 | Raleigh, NC | 4h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108256) |
+| 🏢 **Comcast** | Junior Full Stack Engineer - Python/React/AWS | Philadelphia, PA | 5h ago | Entry-Level | Frontend Development | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Junior-Full-Stack-Engineer_R423945) |
+| 🏢 **GM financial** | Software Development Engineer 1 | Arlington, TX | 5h ago | Mid-Level | Software Engineering | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309) |
+| 🏢 **Truist Bank** | Software Engineer 1 | Raleigh, NC | 5h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108256) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 5h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/a1f2084a-61bf-4ad0-af47-13de3cac7d36/application) |
 | 🏢 **American Express** | Software Engineer 1 | Phoenix, AZ | 14h ago | Mid-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38773050) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 14h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 14h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
-| 🏢 **CommonLit** | Junior Software Engineer | Remote in USA, Locations | 15h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 15h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 15h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
+| 🏢 **CommonLit** | Junior Software Engineer | Remote in USA, Locations | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/) |
 | 🏢 **Maybern** | Software Engineer, New Grad | New York, NY | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058) |
 | 🏢 **Rockwell Automation** | Associate Engineer Embedded Software | Mayfield Heights, OH | 16h ago | Entry-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467) |
 | 🏢 **Nordstrom** | Engineer 1 - Full-Stack | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099) |
