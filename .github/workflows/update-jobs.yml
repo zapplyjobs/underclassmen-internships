@@ -95,6 +95,10 @@ jobs:
         retention-days: 90
         if-no-files-found: warn
 
+    - name: Create obfuscated audit log
+      if: always()
+      run: node .github/scripts/create-audit-log.js
+
     - name: Check for changes
       id: verify-changed-files
       run: |
@@ -168,6 +172,7 @@ jobs:
             git add .github/data/new_jobs.json \
                     .github/data/posted_jobs.json \
                     .github/data/seen_jobs.json \
+                    .github/audit/latest.md \
                     README.md 2>/dev/null || true
 
             # Check if there are still changes to commit
