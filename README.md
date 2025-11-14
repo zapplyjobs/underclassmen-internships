@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-59-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-60-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 13 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 12
+- **🔥 Current Positions**: 13
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 14, 2025
@@ -115,12 +115,13 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (12 positions)
+### 🏢 **Other Companies** (13 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Comcast** | Junior Full Stack Engineer - Python/React/AWS | Philadelphia, PA | 0h ago | Entry-Level | Frontend Development | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Junior-Full-Stack-Engineer_R423945) |
 | 🏢 **GM financial** | Software Development Engineer 1 | Arlington, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/a1f2084a-61bf-4ad0-af47-13de3cac7d36/application) |
 | 🏢 **American Express** | Software Engineer 1 | Phoenix, AZ | 9h ago | Mid-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38773050) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 10h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 10h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
@@ -161,8 +162,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 6 | 50% | No or minimal experience |
-| 🟡 Beginner & Early Career | 6 | 50% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 54% | No or minimal experience |
+| 🟡 Beginner & Early Career | 6 | 46% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -170,18 +171,18 @@
 ## 🌍 Top Locations
 - **Philadelphia, PA**: 1 positions
 - **Arlington, TX**: 1 positions
+- **SF, Locations**: 1 positions
 - **Phoenix, AZ**: 1 positions
 - **Bridgewater, MA**: 1 positions
 - **Bremerton, WA**: 1 positions
 - **Remote in USA, Locations**: 1 positions
 - **New York, NY**: 1 positions
-- **Mayfield Heights, OH**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (10 positions)
-🏢 GM financial • 🏢 American Express • 🏢 General Dynamics Mission Systems
+#### 💻 Software Engineering (11 positions)
+🏢 GM financial • 🏢 Citizen Health • 🏢 American Express
 
 #### 🎨 Frontend Development (1 positions)
 🏢 Comcast
@@ -193,7 +194,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 12 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 13 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -282,7 +283,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 12 current opportunities from 261 companies**
+**🎯 13 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
