@@ -57,6 +57,14 @@ jobs:
     - name: Install bot dependencies
       run: npm install discord.js@14
 
+    - name: 🔍 BEFORE bot - Hash posted_jobs.json
+      run: |
+        echo "📊 BEFORE BOT EXECUTION:"
+        echo "File size: $(stat -c'%s' .github/data/posted_jobs.json 2>/dev/null || stat -f'%z' .github/data/posted_jobs.json)"
+        echo "SHA256: $(sha256sum .github/data/posted_jobs.json 2>/dev/null || shasum -a 256 .github/data/posted_jobs.json)"
+        echo "Last 3 job IDs:"
+        tail -3 .github/data/posted_jobs.json
+
     - name: Post new jobs via Enhanced Bot
       run: node .github/scripts/save-discord-logs.js > .github/logs/discord-bot.log 2>&1
       env:
@@ -85,6 +93,17 @@ jobs:
         DISCORD_SF_CHANNEL_ID:         ${{ secrets.DISCORD_SF_CHANNEL_ID }}
         DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
         DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
+
+    - name: 🔍 AFTER bot - Hash posted_jobs.json
+      run: |
+        echo "📊 AFTER BOT EXECUTION:"
+        echo "File size: $(stat -c'%s' .github/data/posted_jobs.json 2>/dev/null || stat -f'%z' .github/data/posted_jobs.json)"
+        echo "SHA256: $(sha256sum .github/data/posted_jobs.json 2>/dev/null || shasum -a 256 .github/data/posted_jobs.json)"
+        echo "Last 3 job IDs:"
+        tail -3 .github/data/posted_jobs.json
+        echo ""
+        echo "Git diff check:"
+        git diff .github/data/posted_jobs.json | head -20 || echo "No diff detected by git"
 
     - name: Upload private logs (collaborators only)
       if: always()
