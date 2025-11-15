@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-126-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-125-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 79 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 78 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 79
+- **🔥 Current Positions**: 78
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 4 premium opportunities
 - **📅 Last Updated**: November 15, 2025
@@ -137,7 +137,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Booz Allen** | Data Scientist | McLean, VA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0229416) |
 | 🏢 **Nuro** | Senior Software Engineer - Networking - Teleoperation | Mountain View, CA | 8h ago | Senior | Software Engineering | [Apply](https://nuro.ai/careersitem?gh_jid=7398839) |
-| 🏢 **mthree** | Entry Level - C Software Developer | Tampa, FL | 16h ago | Entry-Level | Software Engineering | [Apply](https://mthree.com/careers/job/?gh_jid=4602522006) |
+| 🏢 **mthree** | Entry Level - C Software Developer | Tampa, FL | 17h ago | Entry-Level | Software Engineering | [Apply](https://mthree.com/careers/job/?gh_jid=4602522006) |
 
 ### 💰 **Financial & Fintech** (2 positions)
 
@@ -156,9 +156,9 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Iowa State University** | Postdoc Research Associate - Intrans | Ames, IA | 16h ago | Entry-Level | Software Engineering | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoc-Research-Associate---InTrans_R18129) |
+| 🏢 **Iowa State University** | Postdoc Research Associate - Intrans | Ames, IA | 17h ago | Entry-Level | Software Engineering | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoc-Research-Associate---InTrans_R18129) |
 
-### 🏢 **Other Companies** (66 positions)
+### 🏢 **Other Companies** (65 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -191,12 +191,12 @@
 | 🏢 **National Information Solutions Cooperative (NISC)** | Database Conversion - ETL | Bismarck, ND | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/nisc/jobs/7350315) |
 | 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR31324) |
 | 🏢 **Typeface** | Software Engineer 1 | Palo Alto, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/typeface/jobs/4982116007) |
-| 🏢 **Verisk** | Software Engineer | Holmdel, NJ | 16h ago | Mid-Level | Software Engineering | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708) |
-| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 16h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oZ3Oyfw8?nl=1&nl=1&fr=false) |
-| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 16h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oX3Oyfw6?nl=1&nl=1&fr=false) |
-| 🏢 **Internet Brands** | Associate AI Software Engineer Job ID 2025 | El Segundo, CA | 16h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o63Oyfwf?nl=1&nl=1&fr=false) |
-| 🏢 **BTI Solutions** | Financial Data Analyst | Englewood, NJ | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Englewood-Cliffs-NJ/Korean-Bilingual-Financial-Data-Analyst-AO7167434_JR101437) |
-| 🏢 **PennState University** | Data Scientist / Machine Learning Engineer | State College, PA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Data-Scientist---Machine-Learning-Engineer_REQ_0000072889-2) |
+| 🏢 **Verisk** | Software Engineer | Holmdel, NJ | 17h ago | Mid-Level | Software Engineering | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708) |
+| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 17h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oZ3Oyfw8?nl=1&nl=1&fr=false) |
+| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 17h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oX3Oyfw6?nl=1&nl=1&fr=false) |
+| 🏢 **Internet Brands** | Associate AI Software Engineer Job ID 2025 | El Segundo, CA | 17h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o63Oyfwf?nl=1&nl=1&fr=false) |
+| 🏢 **BTI Solutions** | Financial Data Analyst | Englewood, NJ | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Englewood-Cliffs-NJ/Korean-Bilingual-Financial-Data-Analyst-AO7167434_JR101437) |
+| 🏢 **PennState University** | Data Scientist / Machine Learning Engineer | State College, PA | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Data-Scientist---Machine-Learning-Engineer_REQ_0000072889-2) |
 | 🏢 **PennState University** | Student Researcher | State College, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Researcher_REQ_0000073588-2) |
 | 🏢 **PennState University** | Research Assistant - Computer Science and Engineering | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Computer-Science-and-Engineering_REQ_0000073587-2) |
 | 🏢 **KBR** | Junior Software Engineer | Huntsville, AL | 23h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179) |
@@ -227,7 +227,6 @@
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bridgewater, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
 | 🏢 **Brookhaven Lab** | Postdoctoral Research Associate - Partial Oxidation by Copper Catalysts | Shirley, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate---Partial-Oxidation-by-Copper-Catalysts_JR102141) |
-| 🏢 **Great American Insurance Company** | Application Engineer | Cincinnati, OH | 1d ago | Mid-Level | Software Engineering | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Engineer_R8143) |
 
 
 
@@ -259,7 +258,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 29 | 37% | No or minimal experience |
-| 🟡 Beginner & Early Career | 46 | 58% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 45 | 58% | 1-2 years of experience |
 | 🔴 Manager         | 4 | 5% | 2+ years of experience |
 
 ---
@@ -277,7 +276,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (55 positions)
+#### 💻 Software Engineering (54 positions)
 🔵 Meta • 🏢 Nuro • 🏢 ASSA ABLOY
 
 #### 📊 Data Science & Analytics (11 positions)
@@ -299,7 +298,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 79 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 78 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -388,7 +387,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 79 current opportunities from 261 companies**
+**🎯 78 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
