@@ -137,7 +137,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Booz Allen** | Data Scientist | McLean, VA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0229416) |
 | 🏢 **Nuro** | Senior Software Engineer - Networking - Teleoperation | Mountain View, CA | 5h ago | Senior | Software Engineering | [Apply](https://nuro.ai/careersitem?gh_jid=7398839) |
-| 🏢 **mthree** | Entry Level - C Software Developer | Tampa, FL | 13h ago | Entry-Level | Software Engineering | [Apply](https://mthree.com/careers/job/?gh_jid=4602522006) |
+| 🏢 **mthree** | Entry Level - C Software Developer | Tampa, FL | 14h ago | Entry-Level | Software Engineering | [Apply](https://mthree.com/careers/job/?gh_jid=4602522006) |
 
 ### 💰 **Financial & Fintech** (2 positions)
 
@@ -191,12 +191,12 @@
 | 🏢 **National Renewable Energy Laboratory** | Postdoctoral Researcher | Golden, CO | 13h ago | Mid-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-lignin-valorization_R13974-1) |
 | 🏢 **National Information Solutions Cooperative (NISC)** | Database Conversion - ETL | Bismarck, ND | 13h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/nisc/jobs/7350315) |
 | 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR31324) |
-| 🏢 **Typeface** | Software Engineer 1 | Palo Alto, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/typeface/jobs/4982116007) |
-| 🏢 **Verisk** | Software Engineer | Holmdel, NJ | 13h ago | Mid-Level | Software Engineering | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708) |
-| 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 13h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/0303-SL-Lockett-Hall/Postdoctoral-Researcher_R00111109) |
-| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oZ3Oyfw8?nl=1&nl=1&fr=false) |
-| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oX3Oyfw6?nl=1&nl=1&fr=false) |
-| 🏢 **Internet Brands** | Associate AI Software Engineer Job ID 2025 | El Segundo, CA | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o63Oyfwf?nl=1&nl=1&fr=false) |
+| 🏢 **Typeface** | Software Engineer 1 | Palo Alto, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/typeface/jobs/4982116007) |
+| 🏢 **Verisk** | Software Engineer | Holmdel, NJ | 14h ago | Mid-Level | Software Engineering | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708) |
+| 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 14h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/0303-SL-Lockett-Hall/Postdoctoral-Researcher_R00111109) |
+| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oZ3Oyfw8?nl=1&nl=1&fr=false) |
+| 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oX3Oyfw6?nl=1&nl=1&fr=false) |
+| 🏢 **Internet Brands** | Associate AI Software Engineer Job ID 2025 | El Segundo, CA | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o63Oyfwf?nl=1&nl=1&fr=false) |
 | 🏢 **BTI Solutions** | Financial Data Analyst | Englewood, NJ | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://btisolutions.wd12.myworkdayjobs.com/External/job/Englewood-Cliffs-NJ/Korean-Bilingual-Financial-Data-Analyst-AO7167434_JR101437) |
 | 🏢 **PennState University** | Data Scientist / Machine Learning Engineer | State College, PA | 14h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Data-Scientist---Machine-Learning-Engineer_REQ_0000072889-2) |
 | 🏢 **PennState University** | Student Researcher | State College, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Researcher_REQ_0000073588-2) |
