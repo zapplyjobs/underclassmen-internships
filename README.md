@@ -144,7 +144,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **JP Morgan Chase** | Data Engineer Associate | Plano, TX | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685563) |
-| 🏢 **The Travelers Companies** | Software Engineer 1 - Aws/Node | Atlanta, GA | 14h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-_R-47940) |
+| 🏢 **The Travelers Companies** | Software Engineer 1 - Aws/Node | Atlanta, GA | 15h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-_R-47940) |
 
 ### 🛡️ **Defense & Aerospace** (2 positions)
 
@@ -189,9 +189,9 @@
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/07e86160-8ac5-424c-892a-7b224e6d28fa/application) |
 | 🏢 **Blue Yonder** | Software Engineer - WFM Product Development | Atlanta, GA | 14h ago | Mid-Level | Software Engineering | [Apply](https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer--WFM-Product-Development_253814-1) |
 | 🏢 **National Renewable Energy Laboratory** | Postdoctoral Researcher | Golden, CO | 14h ago | Mid-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-lignin-valorization_R13974-1) |
-| 🏢 **National Information Solutions Cooperative (NISC)** | Database Conversion - ETL | Bismarck, ND | 14h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/nisc/jobs/7350315) |
-| 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR31324) |
-| 🏢 **Typeface** | Software Engineer 1 | Palo Alto, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/typeface/jobs/4982116007) |
+| 🏢 **National Information Solutions Cooperative (NISC)** | Database Conversion - ETL | Bismarck, ND | 15h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/nisc/jobs/7350315) |
+| 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 15h ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR31324) |
+| 🏢 **Typeface** | Software Engineer 1 | Palo Alto, CA | 15h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/typeface/jobs/4982116007) |
 | 🏢 **Verisk** | Software Engineer | Holmdel, NJ | 15h ago | Mid-Level | Software Engineering | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 15h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/0303-SL-Lockett-Hall/Postdoctoral-Researcher_R00111109) |
 | 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 15h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oZ3Oyfw8?nl=1&nl=1&fr=false) |
@@ -206,8 +206,8 @@
 | 🏢 **Prudential Financial** | Associate Software Engineer , Retirement Strategies | Newark, NJ | 21h ago | Entry-Level | Software Engineering | [Apply](https://pru.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ-USA/Associate-Software-Engineer---Retirement-Strategies_R-122407-2) |
 | 🏢 **The Walt Disney Company** | Software Engineer I | Glendale, CA | 21h ago | Mid-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10136425) |
 | 🏢 **The Walt Disney Company** | Environmental Sustainability Analyst - Project Hire | Burbank, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Environmental-Sustainability-Analyst--Project-Hire-_10136179) |
-| 🏢 **BlueCross BlueShield of Tennessee** | Associate Software Engineer 1 | Chattanooga, TN | 23h ago | Entry-Level | Software Engineering | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-47784) |
-| 🏢 **BlueCross BlueShield of Tennessee** | Associate Software Engineer | Chattanooga, TN | 23h ago | Entry-Level | Software Engineering | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer_R-47896) |
+| 🏢 **BlueCross BlueShield of Tennessee** | Associate Software Engineer 1 | Chattanooga, TN | 1d ago | Entry-Level | Software Engineering | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-47784) |
+| 🏢 **BlueCross BlueShield of Tennessee** | Associate Software Engineer | Chattanooga, TN | 1d ago | Entry-Level | Software Engineering | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer_R-47896) |
 | 🏢 **Auto-Owners Insurance** | Business Intelligence Developer | East Lansing, MI | 1d ago | Mid-Level | Software Engineering | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_10771) |
 | 🏢 **General Dynamics Information Technology** | UiPath Robotic Process Automation Developer Associate | Louisiana, Locations | 1d ago | Entry-Level | Frontend Development | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ210208-1) |
 | 🏢 **Parkhill** | Senior Lidar Specialist | Norman, OK | 1d ago | Senior | Software Engineering | [Apply](https://careers-parkhill.icims.com/jobs/1350/job?mobile=true&needsRedirect=false) |
