@@ -47,6 +47,12 @@ coverage/
 *.temp
 .cache/
 
+# Local debug logs (NEVER commit - contains unencrypted sensitive data)
+.local/
+*.local.log
+routing-debug.json
+*-decrypted.json
+
 # Description fetcher cache (7-day cache for job descriptions)
 .github/data/description-cache/
 

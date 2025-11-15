@@ -93,6 +93,8 @@ jobs:
         DISCORD_SF_CHANNEL_ID:         ${{ secrets.DISCORD_SF_CHANNEL_ID }}
         DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
         DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
+        # Encrypted routing logs password
+        LOG_ENCRYPT_PASSWORD:          ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
     - name: 🔍 AFTER bot - Hash posted_jobs.json
       run: |
@@ -202,6 +204,7 @@ jobs:
                     .github/data/posted_jobs.json \
                     .github/data/seen_jobs.json \
                     .github/audit/latest.md \
+                    .github/audit/routing-encrypted.json \
                     README.md 2>/dev/null || true
 
             # Check if there are still changes to commit
