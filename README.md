@@ -119,10 +119,10 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔵 **Meta** | Data Scientist - Product Analytics | Seattle, WA | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://www.metacareers.com/jobs/1474404313779164) |
-| 🔵 **Meta** | Data Developer | Austin, TX | 4h ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1245571270931878) |
-| 🔵 **Meta** | Software Engineer | Washington, DC | 12h ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1162002992742116) |
-| 🔵 **Meta** | AI Specialist - Product and Applied Research | Menlo Park, CA | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/766813029714580) |
+| 🔵 **Meta** | Data Scientist - Product Analytics | Seattle, WA | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://www.metacareers.com/jobs/1474404313779164) |
+| 🔵 **Meta** | Data Developer | Austin, TX | 5h ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1245571270931878) |
+| 🔵 **Meta** | Software Engineer | Washington, DC | 13h ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1162002992742116) |
+| 🔵 **Meta** | AI Specialist - Product and Applied Research | Menlo Park, CA | 13h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/766813029714580) |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -143,15 +143,15 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Data Engineer Associate | Plano, TX | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685563) |
+| 🏢 **JP Morgan Chase** | Data Engineer Associate | Plano, TX | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685563) |
 | 🏢 **The Travelers Companies** | Software Engineer 1 - Aws/Node | Atlanta, GA | 13h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-_R-47940) |
 
 ### 🛡️ **Defense & Aerospace** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Peraton** | Software Engineering - Associate | Reston, VA | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161382/job?mobile=true&needsRedirect=false) |
-| 🏢 **CACI** | Data Analyst - Systems Analysis Engineer/Scientist Support | Norco, CA | 23h ago | Mid-Level | Data Science & Analytics | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Analyst--Systems-Analysis-Engineer-Scientist-Support-_319036) |
+| 🏢 **Peraton** | Software Engineering - Associate | Reston, VA | 13h ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161382/job?mobile=true&needsRedirect=false) |
+| 🏢 **CACI** | Data Analyst - Systems Analysis Engineer/Scientist Support | Norco, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Analyst--Systems-Analysis-Engineer-Scientist-Support-_319036) |
 
 ### 📊 **Analytics & EdTech** (1 positions)
 
@@ -166,15 +166,15 @@
 | 🏢 **ASSA ABLOY** | Order Processing Technician 1 | Mason City, IA | 5h ago | Mid-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Order-Processing-Technician-I-IA-50401/1260586501/?ats=successfactors) |
 | 🏢 **ASSA ABLOY** | Associate Product Engineer | Mason City, IA | 5h ago | Entry-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Associate-Product-Engineer-IA-50401/1233045501/?ats=successfactors) |
 | 🏢 **skillz** | Associate Software Engineer | Las Vegas, NV | 5h ago | Entry-Level | Software Engineering | [Apply](http://corp.skillz.com/careers-list/?gh_jid=7295606) |
-| 🏢 **Cox** | Data Engineer 1 | Austin, TX | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Data-Engineer-I_R202569416) |
-| 🏢 **Citigroup** | Technology - Application Development | NYC, Locations | 12h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-New-Jersey---USA--2026--Pursuit-_25921196) |
-| 🎨 **Adobe** | University Graduate | Seattle, WA | 12h ago | Entry-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R161169) |
+| 🏢 **Cox** | Data Engineer 1 | Austin, TX | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Data-Engineer-I_R202569416) |
+| 🏢 **Citigroup** | Technology - Application Development | NYC, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-New-Jersey---USA--2026--Pursuit-_25921196) |
+| 🎨 **Adobe** | University Graduate | Seattle, WA | 13h ago | Entry-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R161169) |
 | 🎨 **Adobe** | University Graduate - AI Context Engineer | SF, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---AI-Context-Engineer_R158639) |
-| 🏢 **Horizon NJ Health** | Data Reporting Analyst | Newark, NJ | 12h ago | Mid-Level | Software Engineering | [Apply](https://bcbsnj.wd5.myworkdayjobs.com/hc/job/Newark-NJ---Remote/Data-Reporting-Analyst_2019-10618) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/98319e62-9733-4b8d-a614-0016a6ca9815/application) |
-| 🏢 **Intuit** | Software Engineer 1 | San Diego, CA | 12h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/88424693024) |
+| 🏢 **Horizon NJ Health** | Data Reporting Analyst | Newark, NJ | 13h ago | Mid-Level | Software Engineering | [Apply](https://bcbsnj.wd5.myworkdayjobs.com/hc/job/Newark-NJ---Remote/Data-Reporting-Analyst_2019-10618) |
+| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/98319e62-9733-4b8d-a614-0016a6ca9815/application) |
+| 🏢 **Intuit** | Software Engineer 1 | San Diego, CA | 13h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/88424693024) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/full-stack-swe1/27595/88401821136) |
-| 🏢 **Pariveda Solutions** | Qlik Developer | Remote in USA, Locations | 12h ago | Mid-Level | Software Engineering | [Apply](https://careers-skyepoint.icims.com/jobs/3033/job?mobile=true&needsRedirect=false) |
+| 🏢 **Pariveda Solutions** | Qlik Developer | Remote in USA, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://careers-skyepoint.icims.com/jobs/3033/job?mobile=true&needsRedirect=false) |
 | 🏢 **Cohesity** | AI Software Engineer-New Graduate | Santa Clara, CA | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/AI-Software-Engineer--New-Graduate_R01929) |
 | 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 13h ago | Entry-Level | Software Engineering | [Apply](https://www.thoughtworks.com/careers/jobs/7393760?gh_jid=7393760) |
 | 🏢 **ALTEN Technology** | Data Collection Operator 1 | SF, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007) |
