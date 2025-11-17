@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-56-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-58-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 9 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 11 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 9
+- **🔥 Current Positions**: 11
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 17, 2025
@@ -121,16 +121,18 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Early Career Configuration Management Engineer | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Configuration-Management-Engineer_JR2025466090) |
 
-### 🏢 **Other Companies** (8 positions)
+### 🏢 **Other Companies** (10 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **University of Virginia** | CCL Digital Humanities and Engagement SRA - Student Wage | Charlottesville, VA | 0h ago | Entry-Level | Software Engineering | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1) |
+| 🏢 **Truist Bank** | Software Engineer 1 | Atlanta, GA | 0h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I_R0108391) |
+| 🏢 **RTX** | Software Engineer 1 | Marlborough, MA | 0h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424) |
+| 🏢 **University of Virginia** | CCL Digital Humanities and Engagement SRA - Student Wage | Charlottesville, VA | 1h ago | Entry-Level | Software Engineering | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1) |
 | 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 9h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
 | 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 9h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744) |
-| 🏢 **Fermilab** | Research Associate/ECA | Batavia, IL | 9h ago | Entry-Level | Software Engineering | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Research-Associate-ECA_R_009154) |
+| 🏢 **Fermilab** | Research Associate/ECA | Batavia, IL | 10h ago | Entry-Level | Software Engineering | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Research-Associate-ECA_R_009154) |
 | 🏢 **Circle** | New Grad Software Engineer - Backend 2026 | Salt Lake City, UT | 13h ago | Entry-Level | Backend Development | [Apply](https://careers.circle.com/us/en/job/JR100011-EG) |
-| 🏢 **Citibank** | Technology, Production Support, Full-Time Analyst | New York, NY | 14h ago | Mid-Level | Software Engineering | [Apply](https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496) |
+| 🏢 **Citibank** | Technology, Production Support, Full-Time Analyst | New York, NY | 15h ago | Mid-Level | Software Engineering | [Apply](https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496) |
 | 🏢 **Johnson & Johnson** | Postdoctoral Researcher - Computer Vision - AI/ML Radiology and Oncology | New Hope, PA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Postdoctoral-Researcher--Computer-Vision---AI-ML-Radiology---Oncology_R-042914-1) |
 | 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 17h ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170673) |
 
@@ -163,27 +165,30 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 4 | 44% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 11% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 4 | 36% | No or minimal experience |
+| 🟡 Beginner & Early Career | 6 | 55% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 9% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Boulder, CO**: 2 positions
+- **Atlanta, GA**: 1 positions
+- **Marlborough, MA**: 1 positions
 - **Charlottesville, VA**: 1 positions
 - **Batavia, IL**: 1 positions
 - **Salt Lake City, UT**: 1 positions
 - **New York, NY**: 1 positions
 - **New Hope, PA**: 1 positions
-- **Indiana, Locations**: 1 positions
-- **Hazelwood, MO**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (7 positions)
-🏢 University of Virginia • 🏢 Astreya
+#### 💻 Software Engineering (8 positions)
+🏢 RTX • 🏢 University of Virginia • 🏢 Astreya
+
+#### 🎨 Frontend Development (1 positions)
+🏢 Truist Bank
 
 #### ⚙️ Backend Development (1 positions)
 🏢 Circle
@@ -195,7 +200,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 9 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 11 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -284,7 +289,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 9 current opportunities from 261 companies**
+**🎯 11 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
