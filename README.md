@@ -128,23 +128,18 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Nuro** | Senior Software Engineer - Networking - Teleoperation | Mountain View, CA | 1d ago | Senior | Software Engineering | [Apply](https://nuro.ai/careersitem?gh_jid=7398839) |
 
-### 💰 **Financial & Fintech** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Data Engineer Associate | Plano, TX | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685563) |
-
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Early Career Configuration Management Engineer | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Configuration-Management-Engineer_JR2025466090) |
 
-### 🏢 **Other Companies** (4 positions)
+### 🏢 **Other Companies** (5 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 0h ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170673) |
+| 🏢 **Johnson & Johnson** | Postdoctoral Researcher - Computer Vision - AI/ML Radiology and Oncology | New Hope, PA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Postdoctoral-Researcher--Computer-Vision---AI-ML-Radiology---Oncology_R-042914-1) |
+| 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 1h ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170673) |
 | 🏢 **ASSA ABLOY** | Order Processing Technician 1 | Mason City, IA | 1d ago | Mid-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Order-Processing-Technician-I-IA-50401/1260586501/?ats=successfactors) |
 | 🏢 **ASSA ABLOY** | Associate Product Engineer | Mason City, IA | 1d ago | Entry-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Associate-Product-Engineer-IA-50401/1233045501/?ats=successfactors) |
 | 🏢 **skillz** | Associate Software Engineer | Las Vegas, NV | 1d ago | Entry-Level | Software Engineering | [Apply](http://corp.skillz.com/careers-list/?gh_jid=7295606) |
@@ -178,21 +173,21 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 3 | 33% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 3 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 44% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 22% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Mason City, IA**: 2 positions
+- **New Hope, PA**: 1 positions
 - **Indiana, Locations**: 1 positions
 - **Hazelwood, MO**: 1 positions
 - **Seattle, WA**: 1 positions
 - **Austin, TX**: 1 positions
 - **Mountain View, CA**: 1 positions
 - **Las Vegas, NV**: 1 positions
-- **Plano, TX**: 1 positions
 
 ---
 
@@ -200,8 +195,11 @@
 #### 💻 Software Engineering (7 positions)
 🏢 Cardinal Health • 🏢 The Boeing Company • 🔵 Meta
 
-#### 📊 Data Science & Analytics (2 positions)
-🔵 Meta • 🏢 JP Morgan Chase
+#### 🧠 Machine Learning & AI (1 positions)
+🏢 Johnson & Johnson
+
+#### 📊 Data Science & Analytics (1 positions)
+🔵 Meta
 
 ---
 
