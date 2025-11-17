@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-55-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 8 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 7
+- **🔥 Current Positions**: 8
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 17, 2025
@@ -121,11 +121,12 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Early Career Configuration Management Engineer | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Configuration-Management-Engineer_JR2025466090) |
 
-### 🏢 **Other Companies** (6 positions)
+### 🏢 **Other Companies** (7 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 0h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
+| 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
+| 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744) |
 | 🏢 **Fermilab** | Research Associate/ECA | Batavia, IL | 1h ago | Entry-Level | Software Engineering | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Research-Associate-ECA_R_009154) |
 | 🏢 **Circle** | New Grad Software Engineer - Backend 2026 | Salt Lake City, UT | 4h ago | Entry-Level | Backend Development | [Apply](https://careers.circle.com/us/en/job/JR100011-EG) |
 | 🏢 **Citibank** | Technology, Production Support, Full-Time Analyst | New York, NY | 6h ago | Mid-Level | Software Engineering | [Apply](https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496) |
@@ -161,14 +162,14 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 43% | No or minimal experience |
-| 🟡 Beginner & Early Career | 3 | 43% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 14% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 38% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 50% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 13% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Boulder, CO**: 1 positions
+- **Boulder, CO**: 2 positions
 - **Batavia, IL**: 1 positions
 - **Salt Lake City, UT**: 1 positions
 - **New York, NY**: 1 positions
@@ -179,8 +180,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (5 positions)
-🏢 Astreya • 🏢 Fermilab • 🏢 Citibank
+#### 💻 Software Engineering (6 positions)
+🏢 Astreya • 🏢 Fermilab
 
 #### ⚙️ Backend Development (1 positions)
 🏢 Circle
@@ -192,7 +193,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 7 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 8 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -281,7 +282,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 7 current opportunities from 261 companies**
+**🎯 8 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
