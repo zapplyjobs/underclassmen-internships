@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-62-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-61-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 15 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 14 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 15
+- **🔥 Current Positions**: 14
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 17, 2025
@@ -115,12 +115,6 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🛡️ **Defense & Aerospace** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Boeing Company** | Early Career Configuration Management Engineer | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Configuration-Management-Engineer_JR2025466090) |
-
 ### 🏢 **Other Companies** (14 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
@@ -128,7 +122,7 @@
 | 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 1h ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170761) |
 | 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 18h ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170673) |
 | 🏢 **Warner Bros.** | Data Scientist 1 - Media Mix Modeling | Atlanta, GA | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Data-Scientist-I---Media-Mix-Modeling_R000093713) |
-| 🏢 **Truist Bank** | Software Engineer 1 | Atlanta, GA | 1h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I_R0108391) |
+| 🏢 **Truist Bank** | Software Engineer 1 | Atlanta, GA | 2h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I_R0108391) |
 | 🏢 **Northrop Grumman** | 2026 Future Technical Leaders - Ftl - Engineering and Sciences','E&S','Engineer | Halethorpe, MD | 2h ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2026-Future-Technical-Leaders--FTL--Engineering-and-Sciences--E-S--Engineer_R10214696) |
 | 🏢 **Maybern** | Graduate Software Engineer | NYC, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058/application) |
 | 🏢 **RTX** | Software Engineer 1 | Marlborough, MA | 2h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424) |
@@ -138,7 +132,7 @@
 | 🏢 **Fermilab** | Research Associate/ECA | Batavia, IL | 11h ago | Entry-Level | Software Engineering | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Research-Associate-ECA_R_009154) |
 | 🏢 **Circle** | New Grad Software Engineer - Backend 2026 | Salt Lake City, UT | 14h ago | Entry-Level | Backend Development | [Apply](https://careers.circle.com/us/en/job/JR100011-EG) |
 | 🏢 **Citibank** | Technology, Production Support, Full-Time Analyst | New York, NY | 16h ago | Mid-Level | Software Engineering | [Apply](https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496) |
-| 🏢 **Johnson & Johnson** | Postdoctoral Researcher - Computer Vision - AI/ML Radiology and Oncology | New Hope, PA | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Postdoctoral-Researcher--Computer-Vision---AI-ML-Radiology---Oncology_R-042914-1) |
+| 🏢 **Johnson & Johnson** | Postdoctoral Researcher - Computer Vision - AI/ML Radiology and Oncology | New Hope, PA | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Postdoctoral-Researcher--Computer-Vision---AI-ML-Radiology---Oncology_R-042914-1) |
 
 
 
@@ -169,9 +163,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 33% | No or minimal experience |
-| 🟡 Beginner & Early Career | 7 | 47% | 1-2 years of experience |
-| 🔴 Manager         | 3 | 20% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 4 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 7 | 50% | 1-2 years of experience |
+| 🔴 Manager         | 3 | 21% | 2+ years of experience |
 
 ---
 
@@ -188,7 +182,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (11 positions)
+#### 💻 Software Engineering (10 positions)
 🏢 Cardinal Health • 🏢 Northrop Grumman • 🏢 Maybern
 
 #### 📊 Data Science & Analytics (1 positions)
@@ -207,7 +201,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 15 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 14 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -296,7 +290,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 15 current opportunities from 261 companies**
+**🎯 14 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
