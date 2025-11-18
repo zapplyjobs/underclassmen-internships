@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-86-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-88-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 39 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 41 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 39
+- **🔥 Current Positions**: 41
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: November 18, 2025
@@ -121,11 +121,17 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🍎 **Apple** | Software Engineer, IS&T Early Career | Sunnyvale, CA | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 
+### 🚀 **Startups & Growth** (1 positions)
+
+| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
+
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🎮 **Twitch** | Software Engineer 1 | SF, Locations | 23h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8293494002) |
+| 🎮 **Twitch** | Software Engineer 1 | SF, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8293494002) |
 
 ### 💰 **Financial & Fintech** (1 positions)
 
@@ -139,11 +145,12 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Systems Engineer - Operations/Systems Analyst | Arlington, VA | 23h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025481489-1) |
 
-### 🏢 **Other Companies** (35 positions)
+### 🏢 **Other Companies** (36 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 6h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
+| 🏢 **PennState University** | Research Assistant | State College, PA | 0h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-w--Dr-Squicciarini_REQ_0000073686) |
+| 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 7h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
 | 📹 **Zoom** | Software Development | Remote in USA, Locations | 7h ago | Mid-Level | Software Engineering | [Apply](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) |
 | 🏢 **AGCO** | Industry Analyst | Omaha, NE | 14h ago | Mid-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Johannesburg-Industry-Analyst-APA/1338544900/?ats=successfactors) |
 | 🏢 **Major League Baseball** | Video & Technology Associate | Reading, PA | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003) |
@@ -152,13 +159,13 @@
 | 🏢 **Major League Baseball** | Associate Software Engineer - Full-Stack Development | Philadelphia, PA | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003) |
 | 🏢 **Major League Baseball** | Associate – Amateur Scouting | NYC, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
 | 🏢 **Air Liquide** | Modelling & Simulation Engineer | Houston, TX | 17h ago | Mid-Level | Frontend Development | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193) |
-| 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
+| 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 18h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
 | 🏢 **Figure** | Data Labeler | San Jose, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
 | 🏢 **Kiva** | Impact Analyst | Remote in USA, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/kivaorg/jobs/7342411) |
 | 🏢 **Boston Consulting Group** | Data Scientist | Boston, MA | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.bcg.com/global/en/job/55555) |
-| 🏢 **Emerson Electric** | Software Engineering Development Program - Sedp | Elyria, OH | 22h ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028990) |
-| 🏢 **Northwell Health** | Associate Software Engineer | Manhasset, NY | 22h ago | Entry-Level | Software Engineering | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/172407) |
+| 🏢 **Emerson Electric** | Software Engineering Development Program - Sedp | Elyria, OH | 23h ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028990) |
+| 🏢 **Northwell Health** | Associate Software Engineer | Manhasset, NY | 23h ago | Entry-Level | Software Engineering | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/172407) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 23h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/87a09f6d-a884-4ca2-8e8f-11c577f40688/application) |
 | 🏢 **Nike** | Software Engineer 1 - Innovation | Beaverton, OR | 23h ago | Mid-Level | Software Engineering | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-74170) |
 | 🏢 **RTX** | Software Engineer 1 | Aurora, CO | 23h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01807223) |
@@ -208,9 +215,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 14 | 36% | No or minimal experience |
-| 🟡 Beginner & Early Career | 22 | 56% | 1-2 years of experience |
-| 🔴 Manager         | 3 | 8% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 15 | 37% | No or minimal experience |
+| 🟡 Beginner & Early Career | 23 | 56% | 1-2 years of experience |
+| 🔴 Manager         | 3 | 7% | 2+ years of experience |
 
 ---
 
@@ -220,15 +227,15 @@
 - **NYC, Locations**: 2 positions
 - **Indiana, Locations**: 2 positions
 - **Boulder, CO**: 2 positions
+- **Wilmington, DE**: 1 positions
+- **State College, PA**: 1 positions
 - **Sunnyvale, CA**: 1 positions
-- **Omaha, NE**: 1 positions
-- **Reading, PA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (33 positions)
-🏢 OPENLANE • 🍎 Apple • 📹 Zoom
+#### 💻 Software Engineering (35 positions)
+🏢 mthree • 🏢 PennState University • 🏢 OPENLANE
 
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Major League Baseball • 🏢 American Express • 🏢 Boston Consulting Group
@@ -246,7 +253,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 39 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -335,7 +342,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 39 current opportunities from 261 companies**
+**🎯 41 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
