@@ -138,7 +138,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Boeing Company** | Systems Engineer - Operations/Systems Analyst | Arlington, VA | 22h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025481489-1) |
+| 🏢 **The Boeing Company** | Systems Engineer - Operations/Systems Analyst | Arlington, VA | 23h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025481489-1) |
 
 ### 🏢 **Other Companies** (35 positions)
 
@@ -147,15 +147,15 @@
 | 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 6h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
 | 📹 **Zoom** | Software Development | Remote in USA, Locations | 6h ago | Mid-Level | Software Engineering | [Apply](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) |
 | 🏢 **AGCO** | Industry Analyst | Omaha, NE | 13h ago | Mid-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Johannesburg-Industry-Analyst-APA/1338544900/?ats=successfactors) |
-| 🏢 **Major League Baseball** | Video & Technology Associate | Reading, PA | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003) |
-| 🏢 **Major League Baseball** | Major League Video and Technology Associate | Philadelphia, PA | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003) |
-| 🏢 **Major League Baseball** | Associate Software Engineer - Data Engineering | Philadelphia, PA | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500706003) |
-| 🏢 **Major League Baseball** | Associate Software Engineer - Full-Stack Development | Philadelphia, PA | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003) |
+| 🏢 **Major League Baseball** | Video & Technology Associate | Reading, PA | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003) |
+| 🏢 **Major League Baseball** | Major League Video and Technology Associate | Philadelphia, PA | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003) |
+| 🏢 **Major League Baseball** | Associate Software Engineer - Data Engineering | Philadelphia, PA | 14h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500706003) |
+| 🏢 **Major League Baseball** | Associate Software Engineer - Full-Stack Development | Philadelphia, PA | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003) |
 | 🏢 **Major League Baseball** | Associate – Amateur Scouting | NYC, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
 | 🏢 **Air Liquide** | Modelling & Simulation Engineer | Houston, TX | 16h ago | Mid-Level | Frontend Development | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193) |
 | 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
 | 🏢 **Figure** | Data Labeler | San Jose, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
-| 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
+| 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
 | 🏢 **Kiva** | Impact Analyst | Remote in USA, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/kivaorg/jobs/7342411) |
 | 🏢 **Boston Consulting Group** | Data Scientist | Boston, MA | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.bcg.com/global/en/job/55555) |
 | 🏢 **Emerson Electric** | Software Engineering Development Program - Sedp | Elyria, OH | 22h ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028990) |
