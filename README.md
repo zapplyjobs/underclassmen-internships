@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-87-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-86-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 40 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 39 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 40
+- **🔥 Current Positions**: 39
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: November 18, 2025
@@ -127,12 +127,11 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🎮 **Twitch** | Software Engineer 1 | SF, Locations | 23h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8293494002) |
 
-### 💰 **Financial & Fintech** (2 positions)
+### 💰 **Financial & Fintech** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 21h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
-| 🏢 **JP Morgan Chase** | Software Engineer 1 - Full-stack | Seattle, WA | 21h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677017) |
+| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 22h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
 
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
@@ -151,8 +150,8 @@
 | 🏢 **Major League Baseball** | Major League Video and Technology Associate | Philadelphia, PA | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003) |
 | 🏢 **Major League Baseball** | Associate Software Engineer - Data Engineering | Philadelphia, PA | 14h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500706003) |
 | 🏢 **Major League Baseball** | Associate Software Engineer - Full-Stack Development | Philadelphia, PA | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003) |
-| 🏢 **Major League Baseball** | Associate – Amateur Scouting | NYC, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
-| 🏢 **Air Liquide** | Modelling & Simulation Engineer | Houston, TX | 16h ago | Mid-Level | Frontend Development | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193) |
+| 🏢 **Major League Baseball** | Associate – Amateur Scouting | NYC, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
+| 🏢 **Air Liquide** | Modelling & Simulation Engineer | Houston, TX | 17h ago | Mid-Level | Frontend Development | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193) |
 | 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
 | 🏢 **Figure** | Data Labeler | San Jose, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
@@ -209,8 +208,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 14 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 23 | 57% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 14 | 36% | No or minimal experience |
+| 🟡 Beginner & Early Career | 22 | 56% | 1-2 years of experience |
 | 🔴 Manager         | 3 | 8% | 2+ years of experience |
 
 ---
@@ -228,7 +227,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (34 positions)
+#### 💻 Software Engineering (33 positions)
 🏢 OPENLANE • 🍎 Apple • 📹 Zoom
 
 #### 📊 Data Science & Analytics (3 positions)
@@ -247,7 +246,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 40 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 39 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -336,7 +335,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 40 current opportunities from 261 companies**
+**🎯 39 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
