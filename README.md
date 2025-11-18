@@ -144,7 +144,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
+| 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
 | 📹 **Zoom** | Software Development | Remote in USA, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) |
 | 🏢 **AGCO** | Industry Analyst | Omaha, NE | 10h ago | Mid-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Johannesburg-Industry-Analyst-APA/1338544900/?ats=successfactors) |
 | 🏢 **Major League Baseball** | Video & Technology Associate | Reading, PA | 10h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003) |
@@ -158,8 +158,8 @@
 | 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
 | 🏢 **Kiva** | Impact Analyst | Remote in USA, Locations | 18h ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/kivaorg/jobs/7342411) |
 | 🏢 **Boston Consulting Group** | Data Scientist | Boston, MA | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.bcg.com/global/en/job/55555) |
-| 🏢 **Emerson Electric** | Software Engineering Development Program - Sedp | Elyria, OH | 18h ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028990) |
-| 🏢 **Northwell Health** | Associate Software Engineer | Manhasset, NY | 18h ago | Entry-Level | Software Engineering | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/172407) |
+| 🏢 **Emerson Electric** | Software Engineering Development Program - Sedp | Elyria, OH | 19h ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028990) |
+| 🏢 **Northwell Health** | Associate Software Engineer | Manhasset, NY | 19h ago | Entry-Level | Software Engineering | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/172407) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/87a09f6d-a884-4ca2-8e8f-11c577f40688/application) |
 | 🏢 **Nike** | Software Engineer 1 - Innovation | Beaverton, OR | 19h ago | Mid-Level | Software Engineering | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-74170) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6b51f4c1-0469-4e2a-9961-ba111741a561/application) |
