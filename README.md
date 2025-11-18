@@ -131,8 +131,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 17h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
-| 🏢 **JP Morgan Chase** | Software Engineer 1 - Full-stack | Seattle, WA | 17h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677017) |
+| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 18h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
+| 🏢 **JP Morgan Chase** | Software Engineer 1 - Full-stack | Seattle, WA | 18h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677017) |
 
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
@@ -162,7 +162,7 @@
 | 🏢 **Northwell Health** | Associate Software Engineer | Manhasset, NY | 18h ago | Entry-Level | Software Engineering | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/172407) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/87a09f6d-a884-4ca2-8e8f-11c577f40688/application) |
 | 🏢 **Nike** | Software Engineer 1 - Innovation | Beaverton, OR | 18h ago | Mid-Level | Software Engineering | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-74170) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 18h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6b51f4c1-0469-4e2a-9961-ba111741a561/application) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6b51f4c1-0469-4e2a-9961-ba111741a561/application) |
 | 🏢 **RTX** | Software Engineer 1 | Aurora, CO | 19h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01807223) |
 | 🏢 **RTX** | Software Engineer 1 | Marlborough, MA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424) |
 | 🏢 **Nelnet** | IT Software Engineer – Entry Level | Madison, WI | 19h ago | Entry-Level | Software Engineering | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/IT-Software-Engineer---Entry-Level_R21980) |
