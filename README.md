@@ -131,8 +131,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 2h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
-| 🏢 **JP Morgan Chase** | Software Engineer 1 - Full-stack | Seattle, WA | 2h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677017) |
+| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 3h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
+| 🏢 **JP Morgan Chase** | Software Engineer 1 - Full-stack | Seattle, WA | 3h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677017) |
 
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
@@ -161,9 +161,9 @@
 | 🏢 **Apex Fintech Solutions** | Software Engineer 1 - Aldp | Austin, TX | 4h ago | Mid-Level | Software Engineering | [Apply](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103499) |
 | 🏢 **The Wharton School** | Pre-Doctoral Research Specialist | Philadelphia, PA | 4h ago | Mid-Level | Software Engineering | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114193) |
 | 🏢 **The Wharton School** | Pre-Doctoral Research Specialist | Philadelphia, PA | 4h ago | Mid-Level | Software Engineering | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176) |
-| 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 10h ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170761) |
+| 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 11h ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170761) |
 | 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 1d ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170673) |
-| 🏢 **Warner Bros.** | Data Scientist 1 - Media Mix Modeling | Atlanta, GA | 10h ago | Mid-Level | Data Science & Analytics | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Data-Scientist-I---Media-Mix-Modeling_R000093713) |
+| 🏢 **Warner Bros.** | Data Scientist 1 - Media Mix Modeling | Atlanta, GA | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Data-Scientist-I---Media-Mix-Modeling_R000093713) |
 | 🏢 **Truist Bank** | Software Engineer 1 | Atlanta, GA | 11h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I_R0108391) |
 | 🏢 **Northrop Grumman** | 2026 Future Technical Leaders - Ftl - Engineering and Sciences','E&S','Engineer | Halethorpe, MD | 11h ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2026-Future-Technical-Leaders--FTL--Engineering-and-Sciences--E-S--Engineer_R10214696) |
 | 🏢 **Maybern** | Graduate Software Engineer | NYC, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058/application) |
