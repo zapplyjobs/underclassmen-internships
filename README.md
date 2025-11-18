@@ -131,8 +131,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 20h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
-| 🏢 **JP Morgan Chase** | Software Engineer 1 - Full-stack | Seattle, WA | 20h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677017) |
+| 🏢 **JP Morgan Chase** | Emerging Talent Software Engineers | Tampa, FL | 21h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
+| 🏢 **JP Morgan Chase** | Software Engineer 1 - Full-stack | Seattle, WA | 21h ago | Mid-Level | Software Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677017) |
 
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
@@ -151,8 +151,8 @@
 | 🏢 **Major League Baseball** | Major League Video and Technology Associate | Philadelphia, PA | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003) |
 | 🏢 **Major League Baseball** | Associate Software Engineer - Data Engineering | Philadelphia, PA | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500706003) |
 | 🏢 **Major League Baseball** | Associate Software Engineer - Full-Stack Development | Philadelphia, PA | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003) |
-| 🏢 **Major League Baseball** | Associate – Amateur Scouting | NYC, Locations | 21h ago | Entry-Level | Software Engineering | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
-| 🏢 **Air Liquide** | Modelling & Simulation Engineer | Houston, TX | 15h ago | Mid-Level | Frontend Development | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193) |
+| 🏢 **Major League Baseball** | Associate – Amateur Scouting | NYC, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
+| 🏢 **Air Liquide** | Modelling & Simulation Engineer | Houston, TX | 16h ago | Mid-Level | Frontend Development | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193) |
 | 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 16h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
 | 🏢 **Figure** | Data Labeler | San Jose, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
