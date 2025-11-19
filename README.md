@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-128-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-125-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-22-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 81 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 78 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 81
+- **🔥 Current Positions**: 78
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 22 premium opportunities
 - **📅 Last Updated**: November 19, 2025
@@ -126,20 +126,20 @@
 | Applied ML Engineer AI/ML Evaluation & Simulation | Cupertino, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200616700) |
 | Physical Design Engineer - Machine Learning | Sunnyvale, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200608195) |
 | Front End Engineer - Apple Data Platforms | Cupertino, CA | 15h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.apple.com/en-us/details/200623468) |
-| Software Triage Engineer - Siri Attention and Invocation | Cupertino, CA | 15h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200630271) |
-| Integration Engineer | Santa Clara, CA | 15h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200629915) |
-| AIML Resident - Responsible AI & Human Evaluation | Lafayette, KS | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630788) |
-| AIML Resident - Machine Learning Platform Technologies - Mlpt | Santa Clara, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630802) |
-| IOS Engineer - Photography Editing & Creativity Tools | Cupertino, CA | 15h ago | Mid-Level | Mobile Development | [Apply](https://jobs.apple.com/en-us/details/200630605) |
-| AIML Resident - Siri Agent Modeling | Cupertino, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630837) |
-| AIML Resident - Robot Learning | Santa Clara, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630834) |
-| AIML Resident | Cupertino, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630840) |
-| AIML Resident - Search & Answer Quality EPM | Cupertino, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630787) |
-| AIML Resident - Knowledge Answer Quality & Richness | Santa Clara, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630798) |
-| AIML Resident - Privacy-Preserving Machine Learning - Priml | Cupertino, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630780) |
-| AIML Resident - Machine Learning Research - Speech | Cupertino, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630777) |
-| AIML Triage Engineer - Machine Learning Platform and Technologies | Santa Clara, CA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200631366) |
-| AIML Resident - Machine Intelligence Neural Design - Mind | Pittsburgh, PA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630786) |
+| Software Triage Engineer - Siri Attention and Invocation | Cupertino, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200630271) |
+| Integration Engineer | Santa Clara, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200629915) |
+| AIML Resident - Responsible AI & Human Evaluation | Lafayette, KS | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630788) |
+| AIML Resident - Machine Learning Platform Technologies - Mlpt | Santa Clara, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630802) |
+| IOS Engineer - Photography Editing & Creativity Tools | Cupertino, CA | 16h ago | Mid-Level | Mobile Development | [Apply](https://jobs.apple.com/en-us/details/200630605) |
+| AIML Resident - Siri Agent Modeling | Cupertino, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630837) |
+| AIML Resident - Robot Learning | Santa Clara, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630834) |
+| AIML Resident | Cupertino, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630840) |
+| AIML Resident - Search & Answer Quality EPM | Cupertino, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630787) |
+| AIML Resident - Knowledge Answer Quality & Richness | Santa Clara, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630798) |
+| AIML Resident - Privacy-Preserving Machine Learning - Priml | Cupertino, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630780) |
+| AIML Resident - Machine Learning Research - Speech | Cupertino, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630777) |
+| AIML Triage Engineer - Machine Learning Platform and Technologies | Santa Clara, CA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200631366) |
+| AIML Resident - Machine Intelligence Neural Design - Mind | Pittsburgh, PA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630786) |
 | Software Engineer – IS&T Early Career | Sunnyvale, CA | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852) |
 | Machine Learning Engineer - Visual Intelligence | Seattle, WA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200586055) |
 | Software Engineer, IS&T Early Career | Sunnyvale, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
@@ -170,16 +170,16 @@
 | 🏢 **The Boeing Company** | Systems Engineer - Operations/Systems Analyst | Arlington, VA | 1d ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025481489-1) |
 | 🏢 **Leidos** | Junior Mobile Application Developer | Ashburn, VA | 16h ago | Entry-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Jr-Mobile-Application-Developer_R-00170740) |
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 16h ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
-| 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 15h ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
+| 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 16h ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
 
-### 🏢 **Other Companies** (51 positions)
+### 🏢 **Other Companies** (48 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 0h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 0h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363/application) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363/application) |
 | 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
 | 🏢 **Q2** | Software Engineer | Austin, TX | 3h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
 | 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 3h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
@@ -189,15 +189,14 @@
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 3h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 3h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **T-Mobile** | Analyst - Credit Risk - Data Science & Modeling | Frisco, TX | 8h ago | Mid-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699) |
-| 🏢 **Fidelity Investments** | Software Engineer | Westlake, TX | 15h ago | Mid-Level | Software Engineering | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer_2117099-1) |
-| 🏢 **Banner Health** | Information Analyst | Phoenix, AZ | 15h ago | Mid-Level | Software Engineering | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Information-Analyst_R4424658) |
+| 🏢 **Fidelity Investments** | Software Engineer | Westlake, TX | 16h ago | Mid-Level | Software Engineering | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer_2117099-1) |
+| 🏢 **Banner Health** | Information Analyst | Phoenix, AZ | 16h ago | Mid-Level | Software Engineering | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Information-Analyst_R4424658) |
 | 🏢 **Newrez** | Associate Enterprise Analytics Analyst | Ambler, PA | 16h ago | Entry-Level | Data Science & Analytics | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Associate-Enterprise-Analytics-Analyst_R8923) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC | Woodridge, IL | 16h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmological-Physics---Advanced-Computing--CPAC-_421370) |
 | 🏢 **The Hartford ** | Associate Tech - Data Analytics - Cyber | Charlotte, NC | 16h ago | Entry-Level | Data Science & Analytics | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284) |
 | 🏢 **Karat** | Software Engineer - Swe1 or Swe2 - United States | Washington, Locations | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/karat/jobs/8296251002) |
-| 🏢 **Metropolitan Transportation Authority** | Computer Specialist | NYC, Locations | 16h ago | Mid-Level | Software Engineering | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQhNyfwc?nl=1&nl=1&fr=false) |
-| 🏢 **Mass General Brigham** | Research Fellow - Deep Learning | Boston, MA | 16h ago | Mid-Level | Machine Learning & AI | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Fellow---Deep-Learning_RQ4030525) |
-| 🏢 **TDS** | Software Engineer 1 | Remote in USA, Locations | 17h ago | Mid-Level | Software Engineering | [Apply](https://external-telecom-teldta.icims.com/jobs/28142/job?mobile=true&needsRedirect=false) |
+| 🏢 **Metropolitan Transportation Authority** | Computer Specialist | NYC, Locations | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQhNyfwc?nl=1&nl=1&fr=false) |
+| 🏢 **Mass General Brigham** | Research Fellow - Deep Learning | Boston, MA | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Fellow---Deep-Learning_RQ4030525) |
 | 🏢 **RTX** | Software Engineer 2 - Software Engineer 2 | Aurora, CO | 17h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591) |
 | 🏢 **RTX** | Software Engineer 1 | Aurora, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01807223) |
 | 🏢 **SeatGeek** | Software Engineer – New Grad | NYC, Locations | 17h ago | Entry-Level | Software Engineering | [Apply](https://seatgeek.com/jobs/7406634?gh_jid=7406634) |
@@ -219,14 +218,12 @@
 | 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
 | 🏢 **Kiva** | Impact Analyst | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/kivaorg/jobs/7342411) |
 | 🏢 **Boston Consulting Group** | Data Scientist | Boston, MA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.bcg.com/global/en/job/55555) |
-| 🏢 **Emerson Electric** | Software Engineering Development Program - Sedp | Elyria, OH | 1d ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028990) |
 | 🏢 **Northwell Health** | Associate Software Engineer | Manhasset, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/172407) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/87a09f6d-a884-4ca2-8e8f-11c577f40688/application) |
 | 🏢 **Nike** | Software Engineer 1 - Innovation | Beaverton, OR | 1d ago | Mid-Level | Software Engineering | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-74170) |
 | 🏢 **Apex Fintech Solutions** | Software Engineer 1 - Aldp | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103499) |
 | 🏢 **The Wharton School** | Pre-Doctoral Research Specialist | Philadelphia, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114193) |
 | 🏢 **The Wharton School** | Pre-Doctoral Research Specialist | Philadelphia, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176) |
-| 🏢 **Cardinal Health** | Senior Analyst - Application Development and Maintenance | Indiana, Locations | 1d ago | Senior | Software Engineering | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170761) |
 
 
 
@@ -257,9 +254,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 26 | 32% | No or minimal experience |
-| 🟡 Beginner & Early Career | 54 | 67% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 1% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 26 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 52 | 67% | 1-2 years of experience |
+| 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
@@ -268,15 +265,15 @@
 - **Santa Clara, CA**: 5 positions
 - **SF, Locations**: 5 positions
 - **Philadelphia, PA**: 5 positions
-- **Remote in USA, Locations**: 4 positions
 - **San Francisco, CA**: 3 positions
 - **Austin, TX**: 3 positions
 - **Sunnyvale, CA**: 3 positions
+- **NYC, Locations**: 3 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (54 positions)
+#### 💻 Software Engineering (51 positions)
 🏢 Malvern Panalytical • 🏢 Space Dynamics Laboratory • 🏢 Citizen Health
 
 #### 🧠 Machine Learning & AI (15 positions)
@@ -301,7 +298,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 81 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 78 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -390,7 +387,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 81 current opportunities from 261 companies**
+**🎯 78 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
