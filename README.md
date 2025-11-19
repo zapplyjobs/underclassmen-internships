@@ -121,11 +121,11 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Xcode Internals Engineer | Cupertino, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200586465) |
-| Virtual Memory Kernel Engineer | Cupertino, CA | 1h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200611790) |
-| Applied ML Engineer AI/ML Evaluation & Simulation | Cupertino, CA | 1h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200616700) |
-| Physical Design Engineer - Machine Learning | Sunnyvale, CA | 1h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200608195) |
-| Front End Engineer - Apple Data Platforms | Cupertino, CA | 1h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.apple.com/en-us/details/200623468) |
+| Xcode Internals Engineer | Cupertino, CA | 2h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200586465) |
+| Virtual Memory Kernel Engineer | Cupertino, CA | 2h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200611790) |
+| Applied ML Engineer AI/ML Evaluation & Simulation | Cupertino, CA | 2h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200616700) |
+| Physical Design Engineer - Machine Learning | Sunnyvale, CA | 2h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200608195) |
+| Front End Engineer - Apple Data Platforms | Cupertino, CA | 2h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.apple.com/en-us/details/200623468) |
 | Software Triage Engineer - Siri Attention and Invocation | Cupertino, CA | 2h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200630271) |
 | Integration Engineer | Santa Clara, CA | 2h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200629915) |
 | AIML Resident - Responsible AI & Human Evaluation | Lafayette, KS | 2h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630788) |
@@ -142,13 +142,13 @@
 | AIML Resident - Machine Intelligence Neural Design - Mind | Pittsburgh, PA | 2h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630786) |
 | Software Engineer – IS&T Early Career | Sunnyvale, CA | 2h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852) |
 | Machine Learning Engineer - Visual Intelligence | Seattle, WA | 2h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200586055) |
-| Software Engineer, IS&T Early Career | Sunnyvale, CA | 10h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
+| Software Engineer, IS&T Early Career | Sunnyvale, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 
 ### 🚀 **Startups & Growth** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 3h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
+| 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 4h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
@@ -179,8 +179,8 @@
 | 🏢 **Banner Health** | Information Analyst | Phoenix, AZ | 2h ago | Mid-Level | Software Engineering | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Information-Analyst_R4424658) |
 | 🏢 **Newrez** | Associate Enterprise Analytics Analyst | Ambler, PA | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Associate-Enterprise-Analytics-Analyst_R8923) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC | Woodridge, IL | 2h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmological-Physics---Advanced-Computing--CPAC-_421370) |
-| 🏢 **The Hartford ** | Associate Tech - Data Analytics - Cyber | Charlotte, NC | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284) |
-| 🏢 **Karat** | Software Engineer - Swe1 or Swe2 - United States | Washington, Locations | 2h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/karat/jobs/8296251002) |
+| 🏢 **The Hartford ** | Associate Tech - Data Analytics - Cyber | Charlotte, NC | 3h ago | Entry-Level | Data Science & Analytics | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284) |
+| 🏢 **Karat** | Software Engineer - Swe1 or Swe2 - United States | Washington, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/karat/jobs/8296251002) |
 | 🏢 **Metropolitan Transportation Authority** | Computer Specialist | NYC, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQhNyfwc?nl=1&nl=1&fr=false) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363/application) |
 | 🏢 **Mass General Brigham** | Research Fellow - Deep Learning | Boston, MA | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Fellow---Deep-Learning_RQ4030525) |
@@ -189,14 +189,14 @@
 | 🏢 **RTX** | Software Engineer 1 | Aurora, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01807223) |
 | 🏢 **RTX** | Software Engineer 1 | Marlborough, MA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424) |
 | 🏢 **SeatGeek** | Software Engineer – New Grad | NYC, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://seatgeek.com/jobs/7406634?gh_jid=7406634) |
-| 🏢 **NBCUniversal** | Sports Production & Operations Trainee Program - Spot - NBC Sports | Stamford, CT | 3h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094272489) |
-| 🏢 **MLabs** | Founding Software Engineer | SF, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/CCD61C931E/apply) |
-| 🏢 **MLabs** | Software Engineer | SF, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/F7F6222FDD/apply) |
-| 🏢 **MLabs** | Software Engineer – New Grads | SF, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/apply) |
-| 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 21h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
-| 🏢 **PennState University** | Research Assistant | State College, PA | 3h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-w--Dr-Squicciarini_REQ_0000073686) |
-| 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
-| 📹 **Zoom** | Software Development | Remote in USA, Locations | 10h ago | Mid-Level | Software Engineering | [Apply](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) |
+| 🏢 **NBCUniversal** | Sports Production & Operations Trainee Program - Spot - NBC Sports | Stamford, CT | 4h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094272489) |
+| 🏢 **MLabs** | Founding Software Engineer | SF, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/CCD61C931E/apply) |
+| 🏢 **MLabs** | Software Engineer | SF, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/F7F6222FDD/apply) |
+| 🏢 **MLabs** | Software Engineer – New Grads | SF, Locations | 4h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/apply) |
+| 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 22h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
+| 🏢 **PennState University** | Research Assistant | State College, PA | 4h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-w--Dr-Squicciarini_REQ_0000073686) |
+| 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
+| 📹 **Zoom** | Software Development | Remote in USA, Locations | 11h ago | Mid-Level | Software Engineering | [Apply](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) |
 | 🏢 **AGCO** | Industry Analyst | Omaha, NE | 18h ago | Mid-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Johannesburg-Industry-Analyst-APA/1338544900/?ats=successfactors) |
 | 🏢 **Major League Baseball** | Video & Technology Associate | Reading, PA | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003) |
 | 🏢 **Major League Baseball** | Major League Video and Technology Associate | Philadelphia, PA | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003) |
@@ -204,7 +204,7 @@
 | 🏢 **Major League Baseball** | Associate Software Engineer - Full-Stack Development | Philadelphia, PA | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7500695003) |
 | 🏢 **Major League Baseball** | Associate – Amateur Scouting | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
 | 🏢 **Air Liquide** | Modelling & Simulation Engineer | Houston, TX | 21h ago | Mid-Level | Frontend Development | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193) |
-| 🏢 **Figure** | Data Labeler | San Jose, CA | 21h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
+| 🏢 **Figure** | Data Labeler | San Jose, CA | 22h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 🏢 **American Express** | Data Engineer - Digital Workplace | Phoenix, AZ | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38763370) |
 | 🏢 **Kiva** | Impact Analyst | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/kivaorg/jobs/7342411) |
 | 🏢 **Boston Consulting Group** | Data Scientist | Boston, MA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.bcg.com/global/en/job/55555) |
