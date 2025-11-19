@@ -140,8 +140,8 @@
 | AIML Resident - Machine Learning Research - Speech | Cupertino, CA | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630777) |
 | AIML Triage Engineer - Machine Learning Platform and Technologies | Santa Clara, CA | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200631366) |
 | AIML Resident - Machine Intelligence Neural Design - Mind | Pittsburgh, PA | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630786) |
-| Software Engineer – IS&T Early Career | Sunnyvale, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852) |
-| Machine Learning Engineer - Visual Intelligence | Seattle, WA | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200586055) |
+| Software Engineer – IS&T Early Career | Sunnyvale, CA | 18h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852) |
+| Machine Learning Engineer - Visual Intelligence | Seattle, WA | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200586055) |
 | Software Engineer, IS&T Early Career | Sunnyvale, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 
 ### 🚀 **Startups & Growth** (2 positions)
@@ -180,7 +180,7 @@
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 2h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 4h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 18h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363/application) |
-| 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 4h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
+| 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 5h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
 | 🏢 **Q2** | Software Engineer | Austin, TX | 5h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
 | 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 5h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
 | 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 5h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
