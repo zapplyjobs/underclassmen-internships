@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-127-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-128-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-22-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 80 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 81 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 80
+- **🔥 Current Positions**: 81
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 22 premium opportunities
 - **📅 Last Updated**: November 19, 2025
@@ -140,8 +140,8 @@
 | AIML Resident - Machine Learning Research - Speech | Cupertino, CA | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630777) |
 | AIML Triage Engineer - Machine Learning Platform and Technologies | Santa Clara, CA | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200631366) |
 | AIML Resident - Machine Intelligence Neural Design - Mind | Pittsburgh, PA | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630786) |
-| Software Engineer – IS&T Early Career | Sunnyvale, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852) |
-| Machine Learning Engineer - Visual Intelligence | Seattle, WA | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200586055) |
+| Software Engineer – IS&T Early Career | Sunnyvale, CA | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852) |
+| Machine Learning Engineer - Visual Intelligence | Seattle, WA | 13h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200586055) |
 | Software Engineer, IS&T Early Career | Sunnyvale, CA | 21h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 
 ### 🚀 **Startups & Growth** (2 positions)
@@ -172,10 +172,11 @@
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 13h ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 12h ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
 
-### 🏢 **Other Companies** (50 positions)
+### 🏢 **Other Companies** (51 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 0h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
 | 🏢 **Q2** | Software Engineer | Austin, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
 | 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
 | 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 0h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
@@ -193,7 +194,7 @@
 | 🏢 **Metropolitan Transportation Authority** | Computer Specialist | NYC, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQhNyfwc?nl=1&nl=1&fr=false) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363/application) |
 | 🏢 **Mass General Brigham** | Research Fellow - Deep Learning | Boston, MA | 13h ago | Mid-Level | Machine Learning & AI | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Fellow---Deep-Learning_RQ4030525) |
-| 🏢 **TDS** | Software Engineer 1 | Remote in USA, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://external-telecom-teldta.icims.com/jobs/28142/job?mobile=true&needsRedirect=false) |
+| 🏢 **TDS** | Software Engineer 1 | Remote in USA, Locations | 14h ago | Mid-Level | Software Engineering | [Apply](https://external-telecom-teldta.icims.com/jobs/28142/job?mobile=true&needsRedirect=false) |
 | 🏢 **RTX** | Software Engineer 2 - Software Engineer 2 | Aurora, CO | 14h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591) |
 | 🏢 **RTX** | Software Engineer 1 | Aurora, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01807223) |
 | 🏢 **RTX** | Software Engineer 1 | Marlborough, MA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424) |
@@ -257,7 +258,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 25 | 31% | No or minimal experience |
-| 🟡 Beginner & Early Career | 54 | 68% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 55 | 68% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 1% | 2+ years of experience |
 
 ---
@@ -269,14 +270,14 @@
 - **Philadelphia, PA**: 5 positions
 - **NYC, Locations**: 4 positions
 - **Remote in USA, Locations**: 4 positions
+- **San Francisco, CA**: 3 positions
 - **Austin, TX**: 3 positions
-- **Sunnyvale, CA**: 3 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (53 positions)
-🏢 Q2 • 🏢 Amae Health • 🏢 Optimum
+#### 💻 Software Engineering (54 positions)
+🏢 Wanderlog • 🏢 Q2 • 🏢 Amae Health
 
 #### 🧠 Machine Learning & AI (15 positions)
 🍎 Apple
@@ -300,7 +301,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 80 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 81 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -389,7 +390,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 80 current opportunities from 261 companies**
+**🎯 81 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
