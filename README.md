@@ -148,7 +148,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 9h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
+| 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 10h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
@@ -180,7 +180,7 @@
 | 🏢 **Banner Health** | Information Analyst | Phoenix, AZ | 8h ago | Mid-Level | Software Engineering | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Information-Analyst_R4424658) |
 | 🏢 **Newrez** | Associate Enterprise Analytics Analyst | Ambler, PA | 8h ago | Entry-Level | Data Science & Analytics | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Associate-Enterprise-Analytics-Analyst_R8923) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC | Woodridge, IL | 8h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmological-Physics---Advanced-Computing--CPAC-_421370) |
-| 🏢 **The Hartford ** | Associate Tech - Data Analytics - Cyber | Charlotte, NC | 8h ago | Entry-Level | Data Science & Analytics | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284) |
+| 🏢 **The Hartford ** | Associate Tech - Data Analytics - Cyber | Charlotte, NC | 9h ago | Entry-Level | Data Science & Analytics | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284) |
 | 🏢 **Karat** | Software Engineer - Swe1 or Swe2 - United States | Washington, Locations | 9h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/karat/jobs/8296251002) |
 | 🏢 **Metropolitan Transportation Authority** | Computer Specialist | NYC, Locations | 9h ago | Mid-Level | Software Engineering | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQhNyfwc?nl=1&nl=1&fr=false) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363/application) |
@@ -190,10 +190,10 @@
 | 🏢 **RTX** | Software Engineer 1 | Aurora, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01807223) |
 | 🏢 **RTX** | Software Engineer 1 | Marlborough, MA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I--Onsite-_01806424) |
 | 🏢 **SeatGeek** | Software Engineer – New Grad | NYC, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://seatgeek.com/jobs/7406634?gh_jid=7406634) |
-| 🏢 **NBCUniversal** | Sports Production & Operations Trainee Program - Spot - NBC Sports | Stamford, CT | 9h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094272489) |
-| 🏢 **MLabs** | Founding Software Engineer | SF, Locations | 9h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/CCD61C931E/apply) |
-| 🏢 **MLabs** | Software Engineer | SF, Locations | 9h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/F7F6222FDD/apply) |
-| 🏢 **MLabs** | Software Engineer – New Grads | SF, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/apply) |
+| 🏢 **NBCUniversal** | Sports Production & Operations Trainee Program - Spot - NBC Sports | Stamford, CT | 10h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094272489) |
+| 🏢 **MLabs** | Founding Software Engineer | SF, Locations | 10h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/CCD61C931E/apply) |
+| 🏢 **MLabs** | Software Engineer | SF, Locations | 10h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/F7F6222FDD/apply) |
+| 🏢 **MLabs** | Software Engineer – New Grads | SF, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/apply) |
 | 🏢 **MLabs** | Software Engineer (New Grads) | San Francisco, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/mlabs/j/9FD344525A/) |
 | 🏢 **PennState University** | Research Assistant | State College, PA | 10h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-w--Dr-Squicciarini_REQ_0000073686) |
 | 🏢 **OPENLANE** | Junior Software Engineer | Remote in USA, Locations | 17h ago | Entry-Level | Software Engineering | [Apply](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
