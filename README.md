@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-106-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-105-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-19-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 59 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 58 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 59
+- **🔥 Current Positions**: 58
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 19 premium opportunities
 - **📅 Last Updated**: November 20, 2025
@@ -158,7 +158,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 15h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
+| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
 
 ### 🛡️ **Defense & Aerospace** (4 positions)
 
@@ -169,7 +169,7 @@
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 1d ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
 
-### 🏢 **Other Companies** (32 positions)
+### 🏢 **Other Companies** (31 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -179,7 +179,7 @@
 | 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 12h ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Draper** | MES Programmer | Cambridge, MA | 12h ago | Mid-Level | Software Engineering | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892) |
-| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 22h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
+| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 23h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 23h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
 | 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
 | 🏢 **Q2** | Software Engineer | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
@@ -189,7 +189,6 @@
 | 🏢 **IMC** | Software Engineer, Early Career | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
 | 🏢 **T-Mobile** | Analyst - Credit Risk - Data Science & Modeling | Frisco, TX | 1d ago | Mid-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699) |
-| 🏢 **Fidelity Investments** | Software Engineer | Westlake, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer_2117099-1) |
 | 🏢 **Newrez** | Associate Enterprise Analytics Analyst | Ambler, PA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Associate-Enterprise-Analytics-Analyst_R8923) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmological-Physics---Advanced-Computing--CPAC-_421370) |
 | 🏢 **The Hartford ** | Associate Tech - Data Analytics - Cyber | Charlotte, NC | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284) |
@@ -235,8 +234,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 16 | 27% | No or minimal experience |
-| 🟡 Beginner & Early Career | 43 | 73% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 16 | 28% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 72% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -254,7 +253,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (34 positions)
+#### 💻 Software Engineering (33 positions)
 🏢 Citizen Health • 🔧 ServiceNow • 🏢 Clearway Energy
 
 #### 🧠 Machine Learning & AI (15 positions)
@@ -282,7 +281,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 59 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 58 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -371,7 +370,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 59 current opportunities from 261 companies**
+**🎯 58 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
