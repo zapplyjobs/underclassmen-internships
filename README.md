@@ -144,7 +144,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000094496491) |
+| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000094496491) |
 
 ### 🚀 **Startups & Growth** (2 positions)
 
@@ -177,7 +177,7 @@
 | 🏢 **NBCUniversal** | Sports Production & Operations Trainee Program - Spot - NBC Sports | Stamford, CT | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094272489) |
 | 🏢 **Cummins** | Product Engineer: System Performance Engineer | Columbus, IN | 0h ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763) |
 | 🏢 **Cummins** | Digital Tools Software Developer | Columbus, IN | 0h ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106) |
-| 🏢 **Earnest** | Senior Analytics Engineer | SF, Locations | 0h ago | Senior | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/earnest/job/7407303?gh_jid=7407303) |
+| 🏢 **Earnest** | Senior Analytics Engineer | SF, Locations | 1h ago | Senior | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/earnest/job/7407303?gh_jid=7407303) |
 | 🏢 **Hawk-Eye Innovations** | Cricket Systems Operator | United Kingdom, Locations | 1h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/d0fdf1aa-c4e4-4d2a-a3d3-f9bcc131efa9/application) |
 | 🏢 **Cisco** | Software Engineer Backend/Platform Systems 1 | Boston, MA | 1h ago | Mid-Level | Backend Development | [Apply](https://careers.cisco.com/global/en/job/2000046) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems 1 | Boston, MA | 1h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073) |
