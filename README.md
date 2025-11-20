@@ -158,7 +158,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
+| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
 
 ### 🛡️ **Defense & Aerospace** (4 positions)
 
