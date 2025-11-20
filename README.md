@@ -146,20 +146,20 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Flexport** | Software Engineer I, Finance | San Francisco, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7354795) |
+| 🏢 **Flexport** | Software Engineer I, Finance | San Francisco, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7354795) |
 | 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 6h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
+| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 7h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
 
 ### 🛡️ **Defense & Aerospace** (4 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🚀 **SpaceX** | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 3h ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
+| 🚀 **SpaceX** | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 4h ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
 | 🏢 **Leidos** | Junior Mobile Application Developer | Ashburn, VA | 1d ago | Entry-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Jr-Mobile-Application-Developer_R-00170740) |
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 1d ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
@@ -172,14 +172,14 @@
 | 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 3h ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 17h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Draper** | MES Programmer | Cambridge, MA | 3h ago | Mid-Level | Software Engineering | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892) |
-| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 13h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
+| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 14h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 14h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
 | 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
-| 🏢 **Q2** | Software Engineer | Austin, TX | 16h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
-| 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 16h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
-| 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 16h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
-| 🏢 **SkillStorm** | Entry Level Software Developer | Plano, TX | 16h ago | Entry-Level | Software Engineering | [Apply](https://careers.skillstorm.com/jobs/entry-level-software-developer-42267) |
+| 🏢 **Q2** | Software Engineer | Austin, TX | 17h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
+| 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 17h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
+| 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 17h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
+| 🏢 **SkillStorm** | Entry Level Software Developer | Plano, TX | 17h ago | Entry-Level | Software Engineering | [Apply](https://careers.skillstorm.com/jobs/entry-level-software-developer-42267) |
 | 🏢 **IMC** | Software Engineer, Early Career | Chicago, IL | 17h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 17h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
 | 🏢 **T-Mobile** | Analyst - Credit Risk - Data Science & Modeling | Frisco, TX | 22h ago | Mid-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699) |
