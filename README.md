@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-106-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-110-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-19-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 59 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 63 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 59
+- **🔥 Current Positions**: 63
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 19 premium opportunities
 - **📅 Last Updated**: November 20, 2025
@@ -169,18 +169,22 @@
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 1d ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
 
-### 🏢 **Other Companies** (32 positions)
+### 🏢 **Other Companies** (36 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Hawk-Eye Innovations** | Cricket Systems Operator | United Kingdom, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/d0fdf1aa-c4e4-4d2a-a3d3-f9bcc131efa9/application) |
+| 🏢 **Cisco** | Software Engineer Backend/Platform Systems 1 | Boston, MA | 0h ago | Mid-Level | Backend Development | [Apply](https://careers.cisco.com/global/en/job/2000046) |
+| 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems 1 | Boston, MA | 0h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073) |
+| 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 16h ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
+| 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
+| 🏢 **The Campbell's Company** | Insights Analyst | Philadelphia, PA | 0h ago | Mid-Level | Software Engineering | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Insights-Analyst_Req-61534-1) |
 | 🏢 **AssetMark** | Associate Data Engineer | Charlotte, NC | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003533) |
 | 🏢 **CVS Health** | Associate Software Development Engineer | Richardson, TX | 2h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) |
 | 🏢 **WellSky** | Associate Software Engineer | Overland Park, KS | 2h ago | Entry-Level | Software Engineering | [Apply](https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/8113495b-b98c-41e7-959e-540293b875fd/application) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
 | 🏢 **Clearway Energy** | Analyst – Power Market Fundamentals | SF, Locations | 15h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clearwayjobs/jobs/4960648007) |
-| 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 15h ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
-| 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Draper** | MES Programmer | Cambridge, MA | 16h ago | Mid-Level | Software Engineering | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892) |
 | 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 1d ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
@@ -235,8 +239,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 18 | 31% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 69% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 18 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 45 | 71% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -245,17 +249,17 @@
 - **Cupertino, CA**: 10 positions
 - **Santa Clara, CA**: 6 positions
 - **SF, Locations**: 5 positions
+- **Boston, MA**: 3 positions
 - **Charlotte, NC**: 2 positions
 - **San Francisco, CA**: 2 positions
 - **Austin, TX**: 2 positions
 - **Ashburn, VA**: 2 positions
-- **NYC, Locations**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (33 positions)
-🏢 CVS Health • 🏢 WellSky • 🏢 Citizen Health
+#### 💻 Software Engineering (36 positions)
+🏢 Hawk-Eye Innovations • 🏢 Cisco • 🏢 The Campbell's Company
 
 #### 🧠 Machine Learning & AI (15 positions)
 🍎 Apple
@@ -266,14 +270,14 @@
 #### 📊 Data Science & Analytics (3 positions)
 🏢 AssetMark • 🏢 Newrez • 🏢 The Hartford 
 
+#### ⚙️ Backend Development (2 positions)
+🏢 Cisco • 🏢 AppLovin
+
 #### 🛡️ Security Engineering (1 positions)
 🏢 Cisco
 
 #### 🌐 Full Stack Development (1 positions)
 🚀 SpaceX
-
-#### ⚙️ Backend Development (1 positions)
-🏢 AppLovin
 
 #### ☁️ DevOps & Infrastructure (1 positions)
 🍎 Apple
@@ -282,7 +286,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 59 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 63 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -371,7 +375,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 59 current opportunities from 261 companies**
+**🎯 63 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
