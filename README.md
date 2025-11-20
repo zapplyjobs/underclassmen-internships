@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-109-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-111-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-21-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-20-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 62 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 64 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 62
+- **🔥 Current Positions**: 64
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 21 premium opportunities
+- **⭐ FAANG+ Jobs**: 20 premium opportunities
 - **📅 Last Updated**: November 20, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,13 +115,12 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (21 positions)
+### 🏢 **FAANG+** (20 positions)
 
-#### 🍎 **Apple** (21 positions)
+#### 🍎 **Apple** (20 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Xcode Internals Engineer | Cupertino, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200586465) |
 | Virtual Memory Kernel Engineer | Cupertino, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200611790) |
 | Applied ML Engineer AI/ML Evaluation & Simulation | Cupertino, CA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200616700) |
 | Physical Design Engineer - Machine Learning | Sunnyvale, CA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200608195) |
@@ -150,25 +149,33 @@
 | 🏢 **Flexport** | Software Engineer I, Finance | San Francisco, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7354795) |
 | 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
 
-### 🛡️ **Defense & Aerospace** (3 positions)
+### 🛒 **Consumer & E-Commerce** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
+
+### 🛡️ **Defense & Aerospace** (4 positions)
+
+| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| 🚀 **SpaceX** | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 0h ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
 | 🏢 **Leidos** | Junior Mobile Application Developer | Ashburn, VA | 1d ago | Entry-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Jr-Mobile-Application-Developer_R-00170740) |
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 1d ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
 
-### 🏢 **Other Companies** (36 positions)
+### 🏢 **Other Companies** (37 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Draper** | MES Programmer | Cambridge, MA | 0h ago | Mid-Level | Software Engineering | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892) |
 | 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 10h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 10h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
-| 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
-| 🏢 **Q2** | Software Engineer | Austin, TX | 12h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
-| 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 12h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
-| 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 12h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
+| 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
+| 🏢 **Q2** | Software Engineer | Austin, TX | 13h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
+| 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
+| 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 13h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
 | 🏢 **SkillStorm** | Entry Level Software Developer | Plano, TX | 13h ago | Entry-Level | Software Engineering | [Apply](https://careers.skillstorm.com/jobs/entry-level-software-developer-42267) |
 | 🏢 **IMC** | Software Engineer, Early Career | Chicago, IL | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 13h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
@@ -228,14 +235,14 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 22 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 40 | 65% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 21 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 43 | 67% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Cupertino, CA**: 11 positions
+- **Cupertino, CA**: 10 positions
 - **Santa Clara, CA**: 5 positions
 - **San Francisco, CA**: 3 positions
 - **SF, Locations**: 3 positions
@@ -247,8 +254,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (37 positions)
-🏢 Malvern Panalytical • 🏢 Space Dynamics Laboratory • 🏢 Citizen Health
+#### 💻 Software Engineering (38 positions)
+🏢 Draper • 🏢 IXL Learning • 🏢 Malvern Panalytical
 
 #### 🧠 Machine Learning & AI (15 positions)
 🍎 Apple
@@ -258,6 +265,9 @@
 
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Newrez • 🏢 The Hartford  • 🏢 Major League Baseball
+
+#### 🌐 Full Stack Development (1 positions)
+🚀 SpaceX
 
 #### ⚙️ Backend Development (1 positions)
 🏢 AppLovin
@@ -272,7 +282,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 62 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 64 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -361,7 +371,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 62 current opportunities from 261 companies**
+**🎯 64 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
