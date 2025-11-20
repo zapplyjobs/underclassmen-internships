@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-110-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-109-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-20-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-19-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 63 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 62 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 63
+- **🔥 Current Positions**: 62
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 20 premium opportunities
+- **⭐ FAANG+ Jobs**: 19 premium opportunities
 - **📅 Last Updated**: November 20, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,9 +115,9 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (20 positions)
+### 🏢 **FAANG+** (19 positions)
 
-#### 🍎 **Apple** (20 positions)
+#### 🍎 **Apple** (19 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -140,20 +140,19 @@
 | AIML Triage Engineer - Machine Learning Platform and Technologies | Santa Clara, CA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200631366) |
 | AIML Resident - Machine Intelligence Neural Design - Mind | Pittsburgh, PA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630786) |
 | Machine Learning Engineer - Visual Intelligence | Seattle, WA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200586055) |
-| Software Engineer, IS&T Early Career | Sunnyvale, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 
 ### 🚀 **Startups & Growth** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Flexport** | Software Engineer I, Finance | San Francisco, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7354795) |
+| 🏢 **Flexport** | Software Engineer I, Finance | San Francisco, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7354795) |
 | 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 7h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
+| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 8h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
 
 ### 🛡️ **Defense & Aerospace** (4 positions)
 
@@ -172,14 +171,14 @@
 | 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 4h ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 18h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Draper** | MES Programmer | Cambridge, MA | 4h ago | Mid-Level | Software Engineering | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892) |
-| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 14h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
+| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 15h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 15h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
 | 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
 | 🏢 **Q2** | Software Engineer | Austin, TX | 17h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
 | 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 17h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
-| 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 17h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
-| 🏢 **SkillStorm** | Entry Level Software Developer | Plano, TX | 17h ago | Entry-Level | Software Engineering | [Apply](https://careers.skillstorm.com/jobs/entry-level-software-developer-42267) |
+| 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 18h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
+| 🏢 **SkillStorm** | Entry Level Software Developer | Plano, TX | 18h ago | Entry-Level | Software Engineering | [Apply](https://careers.skillstorm.com/jobs/entry-level-software-developer-42267) |
 | 🏢 **IMC** | Software Engineer, Early Career | Chicago, IL | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 18h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
 | 🏢 **T-Mobile** | Analyst - Credit Risk - Data Science & Modeling | Frisco, TX | 23h ago | Mid-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699) |
@@ -234,8 +233,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 20 | 32% | No or minimal experience |
-| 🟡 Beginner & Early Career | 43 | 68% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 19 | 31% | No or minimal experience |
+| 🟡 Beginner & Early Career | 43 | 69% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -247,13 +246,13 @@
 - **Philadelphia, PA**: 3 positions
 - **San Francisco, CA**: 2 positions
 - **Austin, TX**: 2 positions
-- **Sunnyvale, CA**: 2 positions
 - **Ashburn, VA**: 2 positions
+- **NYC, Locations**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (37 positions)
+#### 💻 Software Engineering (36 positions)
 🏢 Clearway Energy • 🏢 Draper • 🏢 IXL Learning
 
 #### 🧠 Machine Learning & AI (15 positions)
@@ -281,7 +280,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 63 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 62 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -370,7 +369,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 63 current opportunities from 261 companies**
+**🎯 62 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
