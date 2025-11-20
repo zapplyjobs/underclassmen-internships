@@ -158,13 +158,13 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
+| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
 
 ### 🛡️ **Defense & Aerospace** (4 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🚀 **SpaceX** | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 15h ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
+| 🚀 **SpaceX** | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 16h ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
 | 🏢 **Leidos** | Junior Mobile Application Developer | Ashburn, VA | 1d ago | Entry-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Jr-Mobile-Application-Developer_R-00170740) |
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 1d ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
@@ -173,10 +173,10 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **AssetMark** | Associate Data Engineer | Charlotte, NC | 1h ago | Entry-Level | Data Science & Analytics | [Apply](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003533) |
-| 🏢 **CVS Health** | Associate Software Development Engineer | Richardson, TX | 1h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) |
-| 🏢 **WellSky** | Associate Software Engineer | Overland Park, KS | 1h ago | Entry-Level | Software Engineering | [Apply](https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/8113495b-b98c-41e7-959e-540293b875fd/application) |
+| 🏢 **AssetMark** | Associate Data Engineer | Charlotte, NC | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003533) |
+| 🏢 **CVS Health** | Associate Software Development Engineer | Richardson, TX | 2h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) |
+| 🏢 **WellSky** | Associate Software Engineer | Overland Park, KS | 2h ago | Entry-Level | Software Engineering | [Apply](https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/8113495b-b98c-41e7-959e-540293b875fd/application) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
 | 🏢 **Clearway Energy** | Analyst – Power Market Fundamentals | SF, Locations | 14h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clearwayjobs/jobs/4960648007) |
 | 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 15h ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
