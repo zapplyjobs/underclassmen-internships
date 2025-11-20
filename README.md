@@ -164,7 +164,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🚀 **SpaceX** | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 12h ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
+| 🚀 **SpaceX** | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 13h ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
 | 🏢 **Leidos** | Junior Mobile Application Developer | Ashburn, VA | 1d ago | Entry-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Jr-Mobile-Application-Developer_R-00170740) |
 | 🏢 **Leidos** | Mobile Application Developer | Ashburn, VA | 1d ago | Mid-Level | Mobile Development | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
@@ -173,9 +173,9 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/8113495b-b98c-41e7-959e-540293b875fd/application) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/8113495b-b98c-41e7-959e-540293b875fd/application) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
-| 🏢 **Clearway Energy** | Analyst – Power Market Fundamentals | SF, Locations | 11h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clearwayjobs/jobs/4960648007) |
+| 🏢 **Clearway Energy** | Analyst – Power Market Fundamentals | SF, Locations | 12h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clearwayjobs/jobs/4960648007) |
 | 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 12h ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Draper** | MES Programmer | Cambridge, MA | 12h ago | Mid-Level | Software Engineering | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892) |
