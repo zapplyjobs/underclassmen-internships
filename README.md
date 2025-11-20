@@ -147,7 +147,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Flexport** | Software Engineer I, Finance | San Francisco, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7354795) |
+| 🏢 **Flexport** | Software Engineer I, Finance | San Francisco, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7354795) |
 | 🏢 **mthree** | Junior Software Engineer | Wilmington, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
 
 ### 🛡️ **Defense & Aerospace** (3 positions)
@@ -162,18 +162,18 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 9h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
-| 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 9h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
+| 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 10h ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
+| 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 10h ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
 | 🏢 **Wanderlog** | Full-Stack Software Engineer | San Francisco, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078) |
 | 🏢 **Q2** | Software Engineer | Austin, TX | 12h ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
 | 🏢 **Amae Health** | Associate Software Engineer | New York, NY | 12h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amaehealth/jobs/4050820009) |
 | 🏢 **Optimum** | Software Development Engineer I | Bethpage, NY | 12h ago | Mid-Level | Software Engineering | [Apply](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) |
-| 🏢 **SkillStorm** | Entry Level Software Developer | Plano, TX | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers.skillstorm.com/jobs/entry-level-software-developer-42267) |
-| 🏢 **IMC** | Software Engineer, Early Career | Chicago, IL | 12h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
-| 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 12h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
-| 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 12h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
-| 🏢 **T-Mobile** | Analyst - Credit Risk - Data Science & Modeling | Frisco, TX | 17h ago | Mid-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699) |
+| 🏢 **SkillStorm** | Entry Level Software Developer | Plano, TX | 13h ago | Entry-Level | Software Engineering | [Apply](https://careers.skillstorm.com/jobs/entry-level-software-developer-42267) |
+| 🏢 **IMC** | Software Engineer, Early Career | Chicago, IL | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
+| 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 13h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
+| 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 13h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
+| 🏢 **T-Mobile** | Analyst - Credit Risk - Data Science & Modeling | Frisco, TX | 18h ago | Mid-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699) |
 | 🏢 **Fidelity Investments** | Software Engineer | Westlake, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer_2117099-1) |
 | 🏢 **Banner Health** | Information Analyst | Phoenix, AZ | 1d ago | Mid-Level | Software Engineering | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Information-Analyst_R4424658) |
 | 🏢 **Newrez** | Associate Enterprise Analytics Analyst | Ambler, PA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Associate-Enterprise-Analytics-Analyst_R8923) |
