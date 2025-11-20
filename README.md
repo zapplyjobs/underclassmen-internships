@@ -144,7 +144,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000094496491) |
+| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 15h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000094496491) |
 
 ### 🚀 **Startups & Growth** (2 positions)
 
@@ -172,14 +172,14 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Cardinal Health** | Operations Analytics Analyst | Goshen, NY | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NY-Montgomery/Operations-Analytics-Analyist_20171058) |
-| 🏢 **Bank of America** | Software Engineer 1 - Year Up | Charlotte, NC | 1h ago | Mid-Level | Software Engineering | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Software-Engineer-I---Year-Up---Charlotte--NC_25044048-1) |
+| 🏢 **Cardinal Health** | Operations Analytics Analyst | Goshen, NY | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NY-Montgomery/Operations-Analytics-Analyist_20171058) |
+| 🏢 **Bank of America** | Software Engineer 1 - Year Up | Charlotte, NC | 2h ago | Mid-Level | Software Engineering | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Software-Engineer-I---Year-Up---Charlotte--NC_25044048-1) |
 | 🏢 **Caterpillar Inc.** | Performance Simulation/Application Associate Engineer | Tucson, AZ | 2h ago | Entry-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Performance-Simulation-Application-Associate-Engineer_R0000336454) |
 | 🏢 **NBCUniversal** | Associate Data Engineer | Hammersmith, London | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094660032) |
 | 🏢 **NBCUniversal** | Sports Production & Operations Trainee Program - Spot - NBC Sports | Stamford, CT | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094272489) |
 | 🏢 **Cummins** | Product Engineer: System Performance Engineer | Columbus, IN | 2h ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763) |
 | 🏢 **Cummins** | Digital Tools Software Developer | Columbus, IN | 2h ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106) |
-| 🏢 **Earnest** | Senior Analytics Engineer | SF, Locations | 2h ago | Senior | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/earnest/job/7407303?gh_jid=7407303) |
+| 🏢 **Earnest** | Senior Analytics Engineer | SF, Locations | 3h ago | Senior | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/earnest/job/7407303?gh_jid=7407303) |
 | 🏢 **Hawk-Eye Innovations** | Cricket Systems Operator | United Kingdom, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/d0fdf1aa-c4e4-4d2a-a3d3-f9bcc131efa9/application) |
 | 🏢 **Cisco** | Software Engineer Backend/Platform Systems 1 | Boston, MA | 3h ago | Mid-Level | Backend Development | [Apply](https://careers.cisco.com/global/en/job/2000046) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems 1 | Boston, MA | 3h ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073) |
