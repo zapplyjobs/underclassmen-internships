@@ -126,7 +126,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔴 **Oracle** | Java Software Engineer - Oracle Health and Analytics | Seattle, WA | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172) |
+| 🔴 **Oracle** | Java Software Engineer - Oracle Health and Analytics | Seattle, WA | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172) |
 | 🏢 **Esri** | Web Developer 1 - UI for Arcgis Enterprise | West Redlands, Redlands | 13h ago | Mid-Level | Frontend Development | [Apply](https://www.esri.com/careers/4923120007?gh_jid=4923120007) |
 
 ### 💻 **Enterprise Software** (1 positions)
@@ -175,13 +175,13 @@
 | 🏢 **Wash U** | Database Analyst - Part-Time/Remote - School of Law | St. Louis, MO | 11h ago | Mid-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Database-Analyst--Part-Time-Remote----School-of-Law_JR91345) |
 | 🏢 **Zeiss** | 3D Tomography Application Engineer | Boise, ID | 12h ago | Mid-Level | Software Engineering | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1) |
 | 🏢 **American Express** | Data Engineer 1 - Infra Data & Analytics | NYC, Locations | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38902972) |
-| 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 12h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205) |
+| 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 13h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 14h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/3051-Digital-Media-Center/Postdoctoral-Researcher_R00111216) |
-| 🏢 **TalentWerx** | E01 Full Stack Developer 1 | Remote in USA, Locations | 12h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.lever.co/talentwerx.io/429066bc-94ea-428b-aa25-83d9ff0c710e/apply) |
-| 🏢 **Comcast** | Analyst - Enterprise Analytics | Philadelphia, PA | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst--Enterprise-Analytics_R424630) |
-| 🏢 **Entrata** | Data Analyst 1 | United States, Locations | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/entrata/e53e2bfd-e02c-48b3-9528-53d860847655/apply) |
-| 🏢 **Thrive Global** | AI Innovation Fellow | Remote in USA, Locations | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://ats.rippling.com/thriveglobal/jobs/4a65f5a4-f64f-4a5e-96b1-5413911e6ce0) |
-| 🏢 **T-Rex Solutions** | Software Engineer 1 | Odenton, MD | 12h ago | Mid-Level | Software Engineering | [Apply](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8301876002) |
+| 🏢 **TalentWerx** | E01 Full Stack Developer 1 | Remote in USA, Locations | 13h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.lever.co/talentwerx.io/429066bc-94ea-428b-aa25-83d9ff0c710e/apply) |
+| 🏢 **Comcast** | Analyst - Enterprise Analytics | Philadelphia, PA | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst--Enterprise-Analytics_R424630) |
+| 🏢 **Entrata** | Data Analyst 1 | United States, Locations | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/entrata/e53e2bfd-e02c-48b3-9528-53d860847655/apply) |
+| 🏢 **Thrive Global** | AI Innovation Fellow | Remote in USA, Locations | 13h ago | Mid-Level | Machine Learning & AI | [Apply](https://ats.rippling.com/thriveglobal/jobs/4a65f5a4-f64f-4a5e-96b1-5413911e6ce0) |
+| 🏢 **T-Rex Solutions** | Software Engineer 1 | Odenton, MD | 13h ago | Mid-Level | Software Engineering | [Apply](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8301876002) |
 | 🏢 **Early Warning** | Software Engineer - Java - Contract | SF, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/New-York-City/Software-Engineer---Java--Contract-_REQ2025955) |
 | 🏢 **Early Warning** | Data Scientist 1 | SF, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/New-York-City/Data-Scientist-I_REQ2025986) |
 | 🏢 **Charles Schwab** | Junior Software Development Engineer | Chicago, IL | 13h ago | Entry-Level | Software Engineering | [Apply](https://career-schwab.icims.com/jobs/117180/job?mobile=true&needsRedirect=false) |
