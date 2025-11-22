@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-124-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-122-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 77 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 75 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 77
+- **🔥 Current Positions**: 75
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 22, 2025
@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
+| 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
 | 🍎 **Apple** | AIML Resident - Health | NYC, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630790) |
 | 🍎 **Apple** | Systems Software Engineer | San Diego, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200617621) |
 
@@ -148,7 +148,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Systems Engineer - Operations/Systems Analyst | Arlington, VA | 16h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025485949-1) |
 
-### 🏢 **Other Companies** (69 positions)
+### 🏢 **Other Companies** (67 positions)
 
 #### 🏢 **RWS** (13 positions)
 
@@ -172,7 +172,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 15h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
 | 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 15h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 15h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
+| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
 | 🏢 **Caterpillar Inc.** | Human-Machine Interface Digital Analyst | Alpharetta, GA | 16h ago | Mid-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Human-Machine-Interface-Digital-Analyst_R0000336409) |
 | 🏢 **Caterpillar Inc.** | Performance Simulation/Application Associate Engineer | Tucson, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Performance-Simulation-Application-Associate-Engineer_R0000336454) |
 | 🏢 **Redstone Federal Credit Union** | Data Analyst 1 - Finance | Huntsville, AL | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692) |
@@ -224,8 +224,6 @@
 | 🏢 **Cisco** | Software Engineer Backend/Platform Systems 1 | Boston, MA | 1d ago | Mid-Level | Backend Development | [Apply](https://careers.cisco.com/global/en/job/2000046) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems 1 | Boston, MA | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073) |
 | 🏢 **Akima** | Game Developer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.akima.com/jobs/20304?lang=en-us&icims=1) |
-| 🏢 **CVS Health** | Associate Software Development Engineer | Richardson, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) |
-| 🏢 **WellSky** | Associate Software Engineer | Overland Park, KS | 1d ago | Entry-Level | Software Engineering | [Apply](https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933) |
 
 
 
@@ -256,8 +254,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 20 | 26% | No or minimal experience |
-| 🟡 Beginner & Early Career | 56 | 73% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 18 | 24% | No or minimal experience |
+| 🟡 Beginner & Early Career | 56 | 75% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 1% | 2+ years of experience |
 
 ---
@@ -275,7 +273,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (41 positions)
+#### 💻 Software Engineering (39 positions)
 🏢 Thoughtworks • 🏢 Jerry • 🏢 Caterpillar Inc.
 
 #### 🧠 Machine Learning & AI (17 positions)
@@ -300,7 +298,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 77 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 75 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -389,7 +387,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 77 current opportunities from 261 companies**
+**🎯 75 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
