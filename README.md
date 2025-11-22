@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
+| 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
 | 🍎 **Apple** | AIML Resident - Health | NYC, Locations | 23h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630790) |
 | 🍎 **Apple** | Systems Software Engineer | San Diego, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200617621) |
 
@@ -171,9 +171,9 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
-| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters | Woodridge, IL | 12h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1) |
-| 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 12h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
+| 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
+| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters | Woodridge, IL | 13h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1) |
+| 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
 | 🏢 **Oshkosh** | NASCAR Track Support Engineer-Entry Level | Huntersville, NC | 13h ago | Entry-Level | Software Engineering | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R42834) |
 | 🏢 **Caterpillar Inc.** | Human-Machine Interface Digital Analyst | Alpharetta, GA | 13h ago | Mid-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Human-Machine-Interface-Digital-Analyst_R0000336409) |
@@ -184,9 +184,9 @@
 | 🏢 **Visual Concepts** | Game Analyst - NBA 2K | Novato, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/visualconcepts/jobs/7489198003) |
 | 🏢 **Via** | Data Science Associate | NYC, Locations | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/via/jobs/8304049002) |
 | 🏢 **Mass General Brigham** | Applications Analyst 1 | Boston, MA | 13h ago | Mid-Level | Software Engineering | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4042883) |
-| 🏢 **Becker Friedman Institute for Economics** | Research Professional | Chicago, IL | 13h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003) |
-| 🏢 **Perle** | Mandarin Language Specialist (USA-based) | Remote in USA, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc) |
-| 🏢 **Perle** | Farsi Language Specialist | Remote in USA, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2) |
+| 🏢 **Becker Friedman Institute for Economics** | Research Professional | Chicago, IL | 14h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003) |
+| 🏢 **Perle** | Mandarin Language Specialist (USA-based) | Remote in USA, Locations | 14h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc) |
+| 🏢 **Perle** | Farsi Language Specialist | Remote in USA, Locations | 14h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2) |
 | 🏢 **MLabs** | Applied AI Engineer | NYC, Locations | 14h ago | Mid-Level | Machine Learning & AI | [Apply](https://apply.workable.com/mlabs/j/7D9F037556/apply) |
 | 🏢 **Invenergy** | Analyst 014 Geospatial - GIS | Chicago, IL | 14h ago | Mid-Level | Software Engineering | [Apply](https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Geospatial--GIS-_R09844-1) |
 | 🏢 **Visa** | Software Engineer New College Grad - Highlands Ranch - CO | Highlands Ranch, CO | 18h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094855525) |
