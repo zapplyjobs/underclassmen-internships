@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-118-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-113-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 71 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 66 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 71
+- **🔥 Current Positions**: 66
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 22, 2025
@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
+| 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
 | 🍎 **Apple** | AIML Resident - Health | NYC, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630790) |
 | 🍎 **Apple** | Systems Software Engineer | San Diego, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200617621) |
 
@@ -142,7 +142,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Travelers Companies** | Software Engineer 1 - MERN - AWS | Sparks, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN-_R-48121) |
 
-### 🏢 **Other Companies** (64 positions)
+### 🏢 **Other Companies** (59 positions)
 
 #### 🏢 **RWS** (13 positions)
 
@@ -166,7 +166,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 17h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
 | 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 17h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
+| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
 | 🏢 **Redstone Federal Credit Union** | Data Analyst 1 - Finance | Huntsville, AL | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692) |
 | 🏢 **SandboxAQ** | Software Engineering Resident - AI | Remote in USA, Locations | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.sandboxaq.com/job-openings?gh_jid=5718741004) |
 | 🏢 **KBR** | Software Engineer 1 | Colorado Springs, CO | 18h ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1) |
@@ -199,7 +199,6 @@
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
 | 🏢 **CompassX Group** | Data Analyst - Business-Facing / Data Prep | Remote in USA, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/compassx/c1ea4296-67e6-4a67-9522-eabc9e14a542/apply) |
 | 🏢 **NBCUniversal** | Associate Data Engineer | Hammersmith, London | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094660032) |
-| 🏢 **NBCUniversal** | Analyst – Distribution Insights & Analytics | NYC, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000093278906) |
 | 🏢 **Cummins** | Product Engineer: System Performance Engineer | Columbus, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763) |
 | 🏢 **Cummins** | Digital Tools Software Developer | Columbus, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106) |
 | 🏢 **Flex** | Software Engineer 1 - Backend - New Grad | Remote in USA, Locations | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/flex/jobs/4632053005) |
@@ -211,10 +210,6 @@
 | 🏢 **Acuity** | Leadership Program - Business Systems Analyst | Atlanta, GA | 1d ago | Senior | Frontend Development | [Apply](https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Business-Systems-Analyst-Hybrid-GA-30309/1338234400/?ats=successfactors) |
 | 🏢 **Clearway Energy** | Analyst – Power Market Fundamentals | San Diego, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clearwayjobs/jobs/4935477007) |
 | 🏢 **RTX** | 2026 Raytheon Vision Systems Software Engineer 2 - Goleta, CA | Goleta, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA602-Goleta-RVS-Bldg-B01-6825-Cortona-Drive-Building-B01-Goleta-CA-93117-USA/XMLNAME-2026-Raytheon-Vision-Systems-Software-Engineer-II---Onsite---Goleta--CA_01807672) |
-| 🏢 **Hawk-Eye Innovations** | Cricket Systems Operator | United Kingdom, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/d0fdf1aa-c4e4-4d2a-a3d3-f9bcc131efa9/application) |
-| 🏢 **Cisco** | Software Engineer Backend/Platform Systems 1 | Boston, MA | 1d ago | Mid-Level | Backend Development | [Apply](https://careers.cisco.com/global/en/job/2000046) |
-| 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems 1 | Boston, MA | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073) |
-| 🏢 **Akima** | Game Developer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers.akima.com/jobs/20304?lang=en-us&icims=1) |
 
 
 
@@ -245,42 +240,42 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 16 | 23% | No or minimal experience |
-| 🟡 Beginner & Early Career | 54 | 76% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 1% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 16 | 24% | No or minimal experience |
+| 🟡 Beginner & Early Career | 49 | 74% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 2% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Remote in USA, Locations**: 7 positions
-- **NYC, Locations**: 6 positions
-- **Boston, MA**: 4 positions
+- **NYC, Locations**: 5 positions
 - **Chicago, IL**: 3 positions
 - **Arizona, Locations**: 3 positions
 - **Austin, TX**: 3 positions
-- **Huntsville, AL**: 2 positions
+- **Boston, MA**: 2 positions
 - **Tennessee, Locations**: 2 positions
+- **San Diego, CA**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (35 positions)
+#### 💻 Software Engineering (32 positions)
 🏢 Thoughtworks • 🏢 Jerry • 🏢 KBR
 
 #### 🧠 Machine Learning & AI (17 positions)
 🏢 SandboxAQ • 🏢 MLabs • 🏢 RWS
 
-#### 📊 Data Science & Analytics (11 positions)
+#### 📊 Data Science & Analytics (10 positions)
 🏢 Humana • 🏢 Redstone Federal Credit Union • 🔴 Oracle
 
 #### 🎨 Frontend Development (4 positions)
 🏢 Intuit • 🏢 Esri • 🏢 QuinStreet
 
-#### ⚙️ Backend Development (2 positions)
-🏢 Flex • 🏢 Cisco
-
 #### 📱 Mobile Development (1 positions)
 🏢 T-Mobile
+
+#### ⚙️ Backend Development (1 positions)
+🏢 Flex
 
 #### 🎨 Design (1 positions)
 🏢 Rambus
@@ -289,7 +284,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 71 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 66 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -378,7 +373,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 71 current opportunities from 261 companies**
+**🎯 66 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
