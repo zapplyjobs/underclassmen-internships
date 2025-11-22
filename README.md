@@ -120,7 +120,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 9h ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
-| 🍎 **Apple** | AIML Resident - Health | NYC, Locations | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630790) |
+| 🍎 **Apple** | AIML Resident - Health | NYC, Locations | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630790) |
 | 🍎 **Apple** | Systems Software Engineer | San Diego, CA | 23h ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200617621) |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -183,9 +183,9 @@
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters | Woodridge, IL | 8h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1) |
 | 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 8h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
 | 🏢 **Wash U** | Postdoctoral Research Associate - Radiology | St. Louis, MO | 8h ago | Entry-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Radiology_JR91414) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 8h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
-| 🏢 **Oshkosh** | NASCAR Track Support Engineer-Entry Level | Huntersville, NC | 8h ago | Entry-Level | Software Engineering | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R42834) |
-| 🏢 **Caterpillar Inc.** | Human-Machine Interface Digital Analyst | Alpharetta, GA | 8h ago | Mid-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Human-Machine-Interface-Digital-Analyst_R0000336409) |
+| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 9h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
+| 🏢 **Oshkosh** | NASCAR Track Support Engineer-Entry Level | Huntersville, NC | 9h ago | Entry-Level | Software Engineering | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R42834) |
+| 🏢 **Caterpillar Inc.** | Human-Machine Interface Digital Analyst | Alpharetta, GA | 9h ago | Mid-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Human-Machine-Interface-Digital-Analyst_R0000336409) |
 | 🏢 **Caterpillar Inc.** | Performance Simulation/Application Associate Engineer | Tucson, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Performance-Simulation-Application-Associate-Engineer_R0000336454) |
 | 🏢 **Redstone Federal Credit Union** | Data Analyst 1 - Finance | Huntsville, AL | 9h ago | Mid-Level | Data Science & Analytics | [Apply](https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692) |
 | 🏢 **SandboxAQ** | Software Engineering Resident - AI | Remote in USA, Locations | 9h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.sandboxaq.com/job-openings?gh_jid=5718741004) |
@@ -204,7 +204,7 @@
 | 🏢 **Invenergy** | Analyst 014 Geospatial - GIS | Chicago, IL | 10h ago | Mid-Level | Software Engineering | [Apply](https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Geospatial--GIS-_R09844-1) |
 | 🏢 **Visa** | Software Engineer New College Grad - Highlands Ranch - CO | Highlands Ranch, CO | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094855525) |
 | 🏢 **Visa** | Software Engineer | Austin, TX | 15h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094854096) |
-| 🏢 **Zeiss** | 3D Tomography Application Engineer | Boise, ID | 23h ago | Mid-Level | Software Engineering | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1) |
+| 🏢 **Zeiss** | 3D Tomography Application Engineer | Boise, ID | 1d ago | Mid-Level | Software Engineering | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1) |
 | 🏢 **American Express** | Data Engineer 1 - Infra Data & Analytics | NYC, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38902972) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 1d ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 1d ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/3051-Digital-Media-Center/Postdoctoral-Researcher_R00111216) |
