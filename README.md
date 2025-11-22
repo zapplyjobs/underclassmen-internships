@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-105-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-101-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 58 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 54 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 58
+- **🔥 Current Positions**: 54
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 22, 2025
@@ -134,7 +134,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **mthree** | Junior Software Engineer | Newark, DE | 19h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
+| 🏢 **mthree** | Junior Software Engineer | Newark, DE | 20h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
 
 ### 💰 **Financial & Fintech** (1 positions)
 
@@ -142,7 +142,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Travelers Companies** | Software Engineer 1 - MERN - AWS | Sparks, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN-_R-48121) |
 
-### 🏢 **Other Companies** (51 positions)
+### 🏢 **Other Companies** (47 positions)
 
 #### 🏢 **RWS** (13 positions)
 
@@ -167,16 +167,16 @@
 | 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 18h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
 | 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
-| 🏢 **Redstone Federal Credit Union** | Data Analyst 1 - Finance | Huntsville, AL | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692) |
-| 🏢 **SandboxAQ** | Software Engineering Resident - AI | Remote in USA, Locations | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.sandboxaq.com/job-openings?gh_jid=5718741004) |
-| 🏢 **KBR** | Software Engineer 1 | Colorado Springs, CO | 18h ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1) |
+| 🏢 **Redstone Federal Credit Union** | Data Analyst 1 - Finance | Huntsville, AL | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692) |
+| 🏢 **SandboxAQ** | Software Engineering Resident - AI | Remote in USA, Locations | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.sandboxaq.com/job-openings?gh_jid=5718741004) |
+| 🏢 **KBR** | Software Engineer 1 | Colorado Springs, CO | 19h ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1) |
 | 🏢 **Visual Concepts** | Game Analyst - NBA 2K | Novato, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/visualconcepts/jobs/7489198003) |
 | 🏢 **Via** | Data Science Associate | NYC, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/via/jobs/8304049002) |
 | 🏢 **Mass General Brigham** | Applications Analyst 1 | Boston, MA | 19h ago | Mid-Level | Software Engineering | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4042883) |
 | 🏢 **Becker Friedman Institute for Economics** | Research Professional | Chicago, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003) |
 | 🏢 **Perle** | Mandarin Language Specialist (USA-based) | Remote in USA, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc) |
 | 🏢 **Perle** | Farsi Language Specialist | Remote in USA, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2) |
-| 🏢 **MLabs** | Applied AI Engineer | NYC, Locations | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://apply.workable.com/mlabs/j/7D9F037556/apply) |
+| 🏢 **MLabs** | Applied AI Engineer | NYC, Locations | 20h ago | Mid-Level | Machine Learning & AI | [Apply](https://apply.workable.com/mlabs/j/7D9F037556/apply) |
 | 🏢 **Visa** | Software Engineer New College Grad - Highlands Ranch - CO | Highlands Ranch, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094855525) |
 | 🏢 **Visa** | Software Engineer | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094854096) |
 | 🏢 **Wash U** | Database Analyst - Part-Time/Remote - School of Law | St. Louis, MO | 1d ago | Mid-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Database-Analyst--Part-Time-Remote----School-of-Law_JR91345) |
@@ -198,10 +198,6 @@
 | 🏢 **Early Warning** | Data Scientist 1 | SF, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/New-York-City/Data-Scientist-I_REQ2025986) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
 | 🏢 **CompassX Group** | Data Analyst - Business-Facing / Data Prep | Remote in USA, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/compassx/c1ea4296-67e6-4a67-9522-eabc9e14a542/apply) |
-| 🏢 **NBCUniversal** | Associate Data Engineer | Hammersmith, London | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000094660032) |
-| 🏢 **Cummins** | Product Engineer: System Performance Engineer | Columbus, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763) |
-| 🏢 **Cummins** | Digital Tools Software Developer | Columbus, IN | 1d ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106) |
-| 🏢 **Flex** | Software Engineer 1 - Backend - New Grad | Remote in USA, Locations | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/flex/jobs/4632053005) |
 
 
 
@@ -232,14 +228,14 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 14 | 24% | No or minimal experience |
-| 🟡 Beginner & Early Career | 44 | 76% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 12 | 22% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 78% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Remote in USA, Locations**: 6 positions
+- **Remote in USA, Locations**: 5 positions
 - **NYC, Locations**: 5 positions
 - **Chicago, IL**: 3 positions
 - **Arizona, Locations**: 3 positions
@@ -251,13 +247,13 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (26 positions)
+#### 💻 Software Engineering (24 positions)
 🏢 Thoughtworks • 🏢 Jerry • 🏢 KBR
 
 #### 🧠 Machine Learning & AI (17 positions)
 🏢 SandboxAQ • 🏢 MLabs • 🏢 RWS
 
-#### 📊 Data Science & Analytics (10 positions)
+#### 📊 Data Science & Analytics (9 positions)
 🏢 Humana • 🏢 Redstone Federal Credit Union • 🔴 Oracle
 
 #### 🎨 Frontend Development (3 positions)
@@ -266,14 +262,11 @@
 #### 📱 Mobile Development (1 positions)
 🏢 T-Mobile
 
-#### ⚙️ Backend Development (1 positions)
-🏢 Flex
-
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 58 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 54 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -362,7 +355,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 58 current opportunities from 261 companies**
+**🎯 54 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
