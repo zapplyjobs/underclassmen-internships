@@ -134,7 +134,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **mthree** | Junior Software Engineer | Newark, DE | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
+| 🏢 **mthree** | Junior Software Engineer | Newark, DE | 19h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
 
 ### 💰 **Financial & Fintech** (1 positions)
 
@@ -167,16 +167,16 @@
 | 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 17h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
 | 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 17h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
-| 🏢 **Redstone Federal Credit Union** | Data Analyst 1 - Finance | Huntsville, AL | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692) |
-| 🏢 **SandboxAQ** | Software Engineering Resident - AI | Remote in USA, Locations | 17h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.sandboxaq.com/job-openings?gh_jid=5718741004) |
-| 🏢 **KBR** | Software Engineer 1 | Colorado Springs, CO | 17h ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1) |
+| 🏢 **Redstone Federal Credit Union** | Data Analyst 1 - Finance | Huntsville, AL | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692) |
+| 🏢 **SandboxAQ** | Software Engineering Resident - AI | Remote in USA, Locations | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.sandboxaq.com/job-openings?gh_jid=5718741004) |
+| 🏢 **KBR** | Software Engineer 1 | Colorado Springs, CO | 18h ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1) |
 | 🏢 **Visual Concepts** | Game Analyst - NBA 2K | Novato, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/visualconcepts/jobs/7489198003) |
 | 🏢 **Via** | Data Science Associate | NYC, Locations | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/via/jobs/8304049002) |
 | 🏢 **Mass General Brigham** | Applications Analyst 1 | Boston, MA | 18h ago | Mid-Level | Software Engineering | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4042883) |
 | 🏢 **Becker Friedman Institute for Economics** | Research Professional | Chicago, IL | 18h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003) |
 | 🏢 **Perle** | Mandarin Language Specialist (USA-based) | Remote in USA, Locations | 18h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc) |
 | 🏢 **Perle** | Farsi Language Specialist | Remote in USA, Locations | 18h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2) |
-| 🏢 **MLabs** | Applied AI Engineer | NYC, Locations | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://apply.workable.com/mlabs/j/7D9F037556/apply) |
+| 🏢 **MLabs** | Applied AI Engineer | NYC, Locations | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://apply.workable.com/mlabs/j/7D9F037556/apply) |
 | 🏢 **Visa** | Software Engineer New College Grad - Highlands Ranch - CO | Highlands Ranch, CO | 23h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094855525) |
 | 🏢 **Visa** | Software Engineer | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094854096) |
 | 🏢 **Wash U** | Database Analyst - Part-Time/Remote - School of Law | St. Louis, MO | 1d ago | Mid-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Database-Analyst--Part-Time-Remote----School-of-Law_JR91345) |
