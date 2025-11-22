@@ -127,7 +127,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔴 **Oracle** | Java Software Engineer - Oracle Health and Analytics | Seattle, WA | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172) |
+| 🔴 **Oracle** | Java Software Engineer - Oracle Health and Analytics | Seattle, WA | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172) |
 | 🏢 **Esri** | Web Developer 1 - UI for Arcgis Enterprise | West Redlands, Redlands | 19h ago | Mid-Level | Frontend Development | [Apply](https://www.esri.com/careers/4923120007?gh_jid=4923120007) |
 
 ### 💻 **Enterprise Software** (1 positions)
@@ -185,13 +185,13 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
-| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters | Woodridge, IL | 2h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1) |
+| 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 3h ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
+| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters | Woodridge, IL | 3h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Coastal-urban Flooding | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Coastal-urban-Flooding_421450) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - MSD Computational Materials | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---MSD-Computational-Materials_421447) |
-| 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 2h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
-| 🏢 **Brookhaven Lab** | Post-Doc Research | Shirley, NY | 2h ago | Mid-Level | Software Engineering | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doc-Research_JR102105) |
-| 🏢 **Wash U** | Postdoctoral Research Associate - Radiology | St. Louis, MO | 2h ago | Entry-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Radiology_JR91414) |
+| 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 3h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
+| 🏢 **Brookhaven Lab** | Post-Doc Research | Shirley, NY | 3h ago | Mid-Level | Software Engineering | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doc-Research_JR102105) |
+| 🏢 **Wash U** | Postdoctoral Research Associate - Radiology | St. Louis, MO | 3h ago | Entry-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Radiology_JR91414) |
 | 🏢 **Wash U** | Database Analyst - Part-Time/Remote - School of Law | St. Louis, MO | 17h ago | Mid-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Database-Analyst--Part-Time-Remote----School-of-Law_JR91345) |
 | 🏢 **T-Mobile** | Associate Engineer | Frisco, TX | 3h ago | Entry-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer_REQ338007) |
 | 🏢 **T-Mobile** | Associate Software Engineer | Atlanta, GA | 1d ago | Entry-Level | Mobile Development | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ337809-1) |
@@ -206,7 +206,7 @@
 | 🏢 **Visual Concepts** | Game Analyst - NBA 2K | Novato, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/visualconcepts/jobs/7489198003) |
 | 🏢 **Via** | Data Science Associate | NYC, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/via/jobs/8304049002) |
 | 🏢 **Mass General Brigham** | Applications Analyst 1 | Boston, MA | 3h ago | Mid-Level | Software Engineering | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4042883) |
-| 🏢 **Becker Friedman Institute for Economics** | Research Professional | Chicago, IL | 3h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003) |
+| 🏢 **Becker Friedman Institute for Economics** | Research Professional | Chicago, IL | 4h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003) |
 | 🏢 **Perle** | Mandarin Language Specialist (USA-based) | Remote in USA, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc) |
 | 🏢 **Perle** | Farsi Language Specialist | Remote in USA, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2) |
 | 🏢 **RTX** | Modeling Simulation & Analysis Engineer 2 | Tucson, AZ | 4h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ849-RMS-AP-Bldg-849-1151-East-Hermans-Road-Building-849-Tucson-AZ-85756-USA/Modeling-Simulation---Analysis-Engineer-II---Onsite_01797315) |
@@ -220,7 +220,7 @@
 | 🏢 **Visa** | Software Engineer | Austin, TX | 9h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094854096) |
 | 🏢 **Zeiss** | 3D Tomography Application Engineer | Boise, ID | 18h ago | Mid-Level | Software Engineering | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Boise/XMLNAME-3D-Tomography-Application-Engineer_JR_1044312-1) |
 | 🏢 **American Express** | Data Engineer 1 - Infra Data & Analytics | NYC, Locations | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38902972) |
-| 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 18h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205) |
+| 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 19h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 20h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/3051-Digital-Media-Center/Postdoctoral-Researcher_R00111216) |
 | 🏢 **TalentWerx** | E01 Full Stack Developer 1 | Remote in USA, Locations | 19h ago | Mid-Level | Full Stack Development | [Apply](https://jobs.lever.co/talentwerx.io/429066bc-94ea-428b-aa25-83d9ff0c710e/apply) |
 | 🏢 **Entrata** | Data Analyst 1 | United States, Locations | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/entrata/e53e2bfd-e02c-48b3-9528-53d860847655/apply) |
@@ -240,7 +240,7 @@
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/9b5fade0-0721-433d-9692-3585442456f6/application) |
 | 🏢 **AtkinsRéalis** | Technical Services Intern | Richmond, BC | 19h ago | Entry-Level | Software Engineering | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CABCRichmond9851-VanHorne-Way/Technical-Services-Student_R-141403) |
 | 🏢 **QuinStreet** | Entry-level Software Engineer | San Mateo, CA | 19h ago | Entry-Level | Frontend Development | [Apply](https://www.quinstreet.com/careers/?gh_jid=7412282) |
-| 🏢 **The Voleon Group** | Data Analyst | Berkeley, CA | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/voleon/e47d5699-5c1a-4b17-bbf4-c948efc0151d/apply) |
+| 🏢 **The Voleon Group** | Data Analyst | Berkeley, CA | 20h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/voleon/e47d5699-5c1a-4b17-bbf4-c948efc0151d/apply) |
 | 🏢 **Talroo** | Associate Software Engineer | Austin, TX | 20h ago | Entry-Level | Software Engineering | [Apply](https://www.talroo.com/careers/apply/?gh_jid=1003689) |
 | 🏢 **MultiCare Health System** | Software Engineer 1 - Scm | Tacoma, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR58833-1) |
 | 🏢 **Cardinal Health** | Operations Analytics Analyst | Goshen, NY | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NY-Montgomery/Operations-Analytics-Analyist_20171058) |
