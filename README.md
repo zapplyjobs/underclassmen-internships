@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-88-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-85-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 41 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 38 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 41
+- **🔥 Current Positions**: 38
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -135,7 +135,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **mthree** | Junior Software Engineer | Newark, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
 
-### 🏢 **Other Companies** (36 positions)
+### 🏢 **Other Companies** (33 positions)
 
 #### 🏢 **RWS** (12 positions)
 
@@ -177,9 +177,6 @@
 | 🏢 **Thrive Global** | AI Innovation Fellow | Remote in USA, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://ats.rippling.com/thriveglobal/jobs/4a65f5a4-f64f-4a5e-96b1-5413911e6ce0) |
 | 🏢 **T-Rex Solutions** | Software Engineer 1 | Odenton, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8301876002) |
 | 🏢 **Charles Schwab** | Junior Software Development Engineer | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://career-schwab.icims.com/jobs/117180/job?mobile=true&needsRedirect=false) |
-| 🏢 **Intuit** | Software Engineer 1 - Virtual Expert Platform - Vep','Intuit | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-i-virtual-expert-platform-vep-intuit/27595/88653386992) |
-| 🏢 **Parkhill** | Data Analytics Student | Austin, TX | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://careers-parkhill.icims.com/jobs/1628/job?mobile=true&needsRedirect=false) |
-| 🏢 **Kimley-Horn** | Software Analyst | Norcross, GA | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers-kimley-horn.icims.com/jobs/20825/job?mobile=true&needsRedirect=false) |
 
 
 
@@ -210,8 +207,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 34 | 83% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 6 | 16% | No or minimal experience |
+| 🟡 Beginner & Early Career | 32 | 84% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -223,29 +220,26 @@
 - **Boston, MA**: 2 positions
 - **Arizona, Locations**: 2 positions
 - **Tennessee, Locations**: 2 positions
-- **Austin, TX**: 2 positions
 - **Palo Alto, CA**: 1 positions
+- **Huntsville, AL**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (19 positions)
+#### 💻 Software Engineering (18 positions)
 🏢 Thoughtworks • 🏢 Jerry • 🏢 KBR
 
 #### 🧠 Machine Learning & AI (15 positions)
 🏢 SandboxAQ • 🏢 MLabs • 🏢 RWS
 
-#### 📊 Data Science & Analytics (6 positions)
+#### 📊 Data Science & Analytics (5 positions)
 🏢 Humana • 🏢 Redstone Federal Credit Union • 🔴 Oracle
-
-#### 🎨 Frontend Development (1 positions)
-🏢 Intuit
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 38 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -334,7 +328,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 41 current opportunities from 261 companies**
+**🎯 38 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
