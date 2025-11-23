@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-85-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-84-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 38 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 37 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 38
+- **🔥 Current Positions**: 37
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 2 premium opportunities
+- **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: November 23, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,12 +115,11 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (2 positions)
+### 🏢 **FAANG+** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
-| 🍎 **Apple** | AIML Resident - Health | NYC, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630790) |
 
 ### 🚀 **Startups & Growth** (1 positions)
 
@@ -207,8 +206,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 31 | 82% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 19% | No or minimal experience |
+| 🟡 Beginner & Early Career | 30 | 81% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -216,8 +215,8 @@
 ## 🌍 Top Locations
 - **Remote in USA, Locations**: 5 positions
 - **Chicago, IL**: 3 positions
-- **NYC, Locations**: 3 positions
 - **Boston, MA**: 2 positions
+- **NYC, Locations**: 2 positions
 - **Arizona, Locations**: 2 positions
 - **Tennessee, Locations**: 2 positions
 - **New Mexico, Locations**: 1 positions
@@ -229,7 +228,7 @@
 #### 💻 Software Engineering (22 positions)
 🏢 Perle • 🏢 Centene
 
-#### 🧠 Machine Learning & AI (14 positions)
+#### 🧠 Machine Learning & AI (13 positions)
 🏢 SandboxAQ • 🏢 MLabs • 🏢 RWS
 
 #### 📊 Data Science & Analytics (2 positions)
@@ -239,7 +238,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 38 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 37 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -328,7 +327,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 38 current opportunities from 261 companies**
+**🎯 37 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
