@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-95-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-93-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 48 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 46 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 48
+- **🔥 Current Positions**: 46
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -142,9 +142,9 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Travelers Companies** | Software Engineer 1 - MERN - AWS | Sparks, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN-_R-48121) |
 
-### 🏢 **Other Companies** (41 positions)
+### 🏢 **Other Companies** (39 positions)
 
-#### 🏢 **RWS** (13 positions)
+#### 🏢 **RWS** (12 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -160,7 +160,6 @@
 | AI Data Specialist - Texas - US | Texas, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply) |
 | AI Data Specialist - Georgia - US | Georgia, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply) |
 | AI Data Specialist - AI Data Specialist Team | Tennessee, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/9fe421ef-db2e-43f1-bcfd-43eb37db08d3/apply) |
-| AI Data Specialist - Hebrew | Arizona, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/861865e6-efc9-4d65-ba8d-a2c18454262b/apply) |
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -191,7 +190,6 @@
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/9b5fade0-0721-433d-9692-3585442456f6/application) |
 | 🏢 **QuinStreet** | Entry-level Software Engineer | San Mateo, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://www.quinstreet.com/careers/?gh_jid=7412282) |
 | 🏢 **The Voleon Group** | Data Analyst | Berkeley, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/voleon/e47d5699-5c1a-4b17-bbf4-c948efc0151d/apply) |
-| 🏢 **Talroo** | Associate Software Engineer | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.talroo.com/careers/apply/?gh_jid=1003689) |
 
 
 
@@ -222,8 +220,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 10 | 21% | No or minimal experience |
-| 🟡 Beginner & Early Career | 38 | 79% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 9 | 20% | No or minimal experience |
+| 🟡 Beginner & Early Career | 37 | 80% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -232,19 +230,19 @@
 - **Remote in USA, Locations**: 4 positions
 - **NYC, Locations**: 4 positions
 - **Chicago, IL**: 3 positions
-- **Arizona, Locations**: 3 positions
-- **Austin, TX**: 3 positions
 - **Boston, MA**: 2 positions
+- **Arizona, Locations**: 2 positions
 - **Tennessee, Locations**: 2 positions
+- **Austin, TX**: 2 positions
 - **Palo Alto, CA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (22 positions)
+#### 💻 Software Engineering (21 positions)
 🏢 Thoughtworks • 🏢 Jerry • 🏢 KBR
 
-#### 🧠 Machine Learning & AI (16 positions)
+#### 🧠 Machine Learning & AI (15 positions)
 🏢 SandboxAQ • 🏢 MLabs • 🏢 RWS
 
 #### 📊 Data Science & Analytics (7 positions)
@@ -257,7 +255,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 48 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 46 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -346,7 +344,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 48 current opportunities from 261 companies**
+**🎯 46 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
