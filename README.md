@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-83-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-82-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 36 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 35 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 36
+- **🔥 Current Positions**: 35
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -135,7 +135,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **mthree** | Junior Software Engineer | Newark, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
 
-### 🏢 **Other Companies** (31 positions)
+### 🏢 **Other Companies** (30 positions)
 
 #### 🏢 **RWS** (12 positions)
 
@@ -174,7 +174,6 @@
 | 🏢 **Visa** | Software Engineer New College Grad - Highlands Ranch - CO | Highlands Ranch, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094855525) |
 | 🏢 **Visa** | Software Engineer | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094854096) |
 | 🏢 **Wash U** | Database Analyst - Part-Time/Remote - School of Law | St. Louis, MO | 1d ago | Mid-Level | Software Engineering | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Database-Analyst--Part-Time-Remote----School-of-Law_JR91345) |
-| 🏢 **American Express** | Data Engineer 1 - Infra Data & Analytics | NYC, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38902972) |
 
 
 
@@ -206,15 +205,15 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 5 | 14% | No or minimal experience |
-| 🟡 Beginner & Early Career | 31 | 86% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 30 | 86% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **NYC, Locations**: 4 positions
 - **Chicago, IL**: 3 positions
 - **Remote in USA, Locations**: 3 positions
+- **NYC, Locations**: 3 positions
 - **Boston, MA**: 2 positions
 - **Arizona, Locations**: 2 positions
 - **Tennessee, Locations**: 2 positions
@@ -230,14 +229,14 @@
 #### 🧠 Machine Learning & AI (14 positions)
 🏢 SandboxAQ • 🏢 MLabs • 🏢 RWS
 
-#### 📊 Data Science & Analytics (4 positions)
+#### 📊 Data Science & Analytics (3 positions)
 🏢 Humana • 🏢 Redstone Federal Credit Union • 🔴 Oracle
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 36 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 35 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -326,7 +325,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 36 current opportunities from 261 companies**
+**🎯 35 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
