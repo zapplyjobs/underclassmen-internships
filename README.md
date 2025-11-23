@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-93-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-88-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 46 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 41 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 46
+- **🔥 Current Positions**: 41
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -123,12 +123,11 @@
 | 🍎 **Apple** | AIML Resident - Health | NYC, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.apple.com/en-us/details/200630790) |
 | 🍎 **Apple** | Systems Software Engineer | San Diego, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200617621) |
 
-### 🏢 **Top Tech** (2 positions)
+### 🏢 **Top Tech** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🔴 **Oracle** | Java Software Engineer - Oracle Health and Analytics | Seattle, WA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172) |
-| 🏢 **Esri** | Web Developer 1 - UI for Arcgis Enterprise | West Redlands, Redlands | 1d ago | Mid-Level | Frontend Development | [Apply](https://www.esri.com/careers/4923120007?gh_jid=4923120007) |
 
 ### 🚀 **Startups & Growth** (1 positions)
 
@@ -136,13 +135,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **mthree** | Junior Software Engineer | Newark, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
 
-### 💰 **Financial & Fintech** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Travelers Companies** | Software Engineer 1 - MERN - AWS | Sparks, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--MERN-_R-48121) |
-
-### 🏢 **Other Companies** (39 positions)
+### 🏢 **Other Companies** (36 positions)
 
 #### 🏢 **RWS** (12 positions)
 
@@ -187,9 +180,6 @@
 | 🏢 **Intuit** | Software Engineer 1 - Virtual Expert Platform - Vep','Intuit | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-i-virtual-expert-platform-vep-intuit/27595/88653386992) |
 | 🏢 **Parkhill** | Data Analytics Student | Austin, TX | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://careers-parkhill.icims.com/jobs/1628/job?mobile=true&needsRedirect=false) |
 | 🏢 **Kimley-Horn** | Software Analyst | Norcross, GA | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers-kimley-horn.icims.com/jobs/20825/job?mobile=true&needsRedirect=false) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/9b5fade0-0721-433d-9692-3585442456f6/application) |
-| 🏢 **QuinStreet** | Entry-level Software Engineer | San Mateo, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://www.quinstreet.com/careers/?gh_jid=7412282) |
-| 🏢 **The Voleon Group** | Data Analyst | Berkeley, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/voleon/e47d5699-5c1a-4b17-bbf4-c948efc0151d/apply) |
 
 
 
@@ -220,8 +210,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 9 | 20% | No or minimal experience |
-| 🟡 Beginner & Early Career | 37 | 80% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 17% | No or minimal experience |
+| 🟡 Beginner & Early Career | 34 | 83% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -239,23 +229,23 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (21 positions)
+#### 💻 Software Engineering (19 positions)
 🏢 Thoughtworks • 🏢 Jerry • 🏢 KBR
 
 #### 🧠 Machine Learning & AI (15 positions)
 🏢 SandboxAQ • 🏢 MLabs • 🏢 RWS
 
-#### 📊 Data Science & Analytics (7 positions)
+#### 📊 Data Science & Analytics (6 positions)
 🏢 Humana • 🏢 Redstone Federal Credit Union • 🔴 Oracle
 
-#### 🎨 Frontend Development (3 positions)
-🏢 Intuit • 🏢 Esri • 🏢 QuinStreet
+#### 🎨 Frontend Development (1 positions)
+🏢 Intuit
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 46 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -344,7 +334,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 46 current opportunities from 261 companies**
+**🎯 41 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
