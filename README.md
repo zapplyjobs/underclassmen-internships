@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-70-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-68-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 23 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 21 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 23
+- **🔥 Current Positions**: 21
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -121,19 +121,13 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
 
-### 🚀 **Startups & Growth** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🏢 **mthree** | Junior Software Engineer | Newark, DE | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006) |
-
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer-1_R0149307) |
 
-### 🏢 **Other Companies** (20 positions)
+### 🏢 **Other Companies** (19 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -156,7 +150,6 @@
 | 🏢 **Via** | Data Science Associate | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/via/jobs/8304049002) |
 | 🏢 **Mass General Brigham** | Applications Analyst 1 | Boston, MA | 1d ago | Mid-Level | Software Engineering | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4042883) |
 | 🏢 **Becker Friedman Institute for Economics** | Research Professional | Chicago, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003) |
-| 🏢 **MLabs** | Applied AI Engineer | NYC, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://apply.workable.com/mlabs/j/7D9F037556/apply) |
 
 
 
@@ -187,8 +180,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 30% | No or minimal experience |
-| 🟡 Beginner & Early Career | 16 | 70% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 6 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 15 | 71% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -197,29 +190,29 @@
 - **Remote in USA, Locations**: 5 positions
 - **Boston, MA**: 2 positions
 - **Chicago, IL**: 2 positions
-- **NYC, Locations**: 2 positions
 - **New Mexico, Locations**: 1 positions
 - **Fredericksburg, VA**: 1 positions
 - **Woodridge, IL**: 1 positions
 - **Shirley, NY**: 1 positions
+- **Palo Alto, CA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (18 positions)
+#### 💻 Software Engineering (17 positions)
 🏢 Perle • 🏢 Centene
 
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Humana • 🏢 Redstone Federal Credit Union • 🏢 CoStar Group
 
-#### 🧠 Machine Learning & AI (2 positions)
-🏢 SandboxAQ • 🏢 MLabs
+#### 🧠 Machine Learning & AI (1 positions)
+🏢 SandboxAQ
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 23 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 21 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -308,7 +301,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 23 current opportunities from 261 companies**
+**🎯 21 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
