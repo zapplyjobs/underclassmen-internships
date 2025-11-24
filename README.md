@@ -125,8 +125,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
-| 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 7h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 8h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
 | 🏢 **Perle** | Ukrainian Language Specialist (Canada or US-based) | Remote in USA, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354) |
 | 🏢 **Perle** | Portuguese Language Specialist | Remote in USA, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/fdf883df-c148-45ee-8c75-673d1c4b005d) |
 | 🏢 **Centene** | Business Solutions Developer 1 | New Mexico, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216) |
