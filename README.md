@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Data Scientist Associate | Washington, DC | 8h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686901) |
+| 🏢 **JP Morgan Chase** | Data Scientist Associate | Washington, DC | 9h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686901) |
 
 ### 🏢 **Other Companies** (5 positions)
 
