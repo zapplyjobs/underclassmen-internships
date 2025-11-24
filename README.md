@@ -125,7 +125,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Data Scientist Associate | Washington, DC | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686901) |
+| 🏢 **JP Morgan Chase** | Data Scientist Associate | Washington, DC | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686901) |
 
 ### 🏢 **Other Companies** (7 positions)
 
@@ -133,7 +133,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
 | 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 14h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
-| 🏢 **EXL** | Data Scientist | United States, Locations | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7049) |
+| 🏢 **EXL** | Data Scientist | United States, Locations | 23h ago | Mid-Level | Data Science & Analytics | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7049) |
 | 🏢 **Viridien** | Seismic Imaging Analyst | Houston, TX | 23h ago | Mid-Level | Software Engineering | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2) |
 | 🏢 **Anduril** | Skillbridge Software Engineer | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4989142007) |
 | 🏢 **Perle** | Ukrainian Language Specialist (Canada or US-based) | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354) |
