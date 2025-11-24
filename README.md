@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-53-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 6 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 6
+- **🔥 Current Positions**: 7
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 24, 2025
@@ -114,6 +114,12 @@
 ---
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
+
+### 🏢 **Top Tech** (1 positions)
+
+| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| 🎮 **NVIDIA** | Research Scientist – New College Grad 2026 - Programming Systems | Santa Clara, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Programming-Systems---New-College-Grad-2026_JR2008644) |
 
 ### 💰 **Financial & Fintech** (1 positions)
 
@@ -160,8 +166,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 33% | No or minimal experience |
-| 🟡 Beginner & Early Career | 4 | 67% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 3 | 43% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 57% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -170,13 +176,14 @@
 - **Waco, TX**: 2 positions
 - **Remote in USA, Locations**: 2 positions
 - **Washington, DC**: 1 positions
+- **Santa Clara, CA**: 1 positions
 - **New Mexico, Locations**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (5 positions)
-🏢 L3Harris Technologies • 🏢 Perle
+#### 💻 Software Engineering (6 positions)
+🏢 L3Harris Technologies • 🏢 NVIDIA
 
 #### 📊 Data Science & Analytics (1 positions)
 🏢 JP Morgan Chase
@@ -185,7 +192,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 6 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 7 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -274,7 +281,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 6 current opportunities from 261 companies**
+**🎯 7 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
