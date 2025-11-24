@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-58-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-52-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 11 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 5 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 11
+- **🔥 Current Positions**: 5
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 24, 2025
@@ -115,26 +115,15 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🛡️ **Defense & Aerospace** (1 positions)
+### 🏢 **Other Companies** (5 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer-1_R0149307) |
-
-### 🏢 **Other Companies** (10 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
-| 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 1h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
 | 🏢 **Perle** | Ukrainian Language Specialist (Canada or US-based) | Remote in USA, Locations | 15h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354) |
 | 🏢 **Perle** | Portuguese Language Specialist | Remote in USA, Locations | 15h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/fdf883df-c148-45ee-8c75-673d1c4b005d) |
 | 🏢 **Centene** | Business Solutions Developer 1 | New Mexico, Locations | 15h ago | Mid-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216) |
-| 🏢 **Humana** | Associate Data Scientist - Marketing Analytics Capabilities | Boston, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489) |
-| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1) |
-| 🏢 **Thoughtworks** | Consultant Graduate Developer | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123) |
-| 🏢 **Brookhaven Lab** | Post-Doc Research | Shirley, NY | 1d ago | Mid-Level | Software Engineering | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doc-Research_JR102105) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application) |
 
 
 
@@ -165,8 +154,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 36% | No or minimal experience |
-| 🟡 Beginner & Early Career | 7 | 64% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 1 | 20% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 80% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -175,26 +164,18 @@
 - **Waco, TX**: 2 positions
 - **Remote in USA, Locations**: 2 positions
 - **New Mexico, Locations**: 1 positions
-- **Fredericksburg, VA**: 1 positions
-- **Boston, MA**: 1 positions
-- **Woodridge, IL**: 1 positions
-- **Chicago, IL**: 1 positions
-- **Shirley, NY**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (10 positions)
+#### 💻 Software Engineering (5 positions)
 🏢 L3Harris Technologies • 🏢 Perle
-
-#### 📊 Data Science & Analytics (1 positions)
-🏢 Humana
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 11 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 5 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -283,7 +264,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 11 current opportunities from 261 companies**
+**🎯 5 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
