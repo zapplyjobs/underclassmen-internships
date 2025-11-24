@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **JP Morgan Chase** | Data Scientist Associate | Washington, DC | 3h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686901) |
+| 🏢 **JP Morgan Chase** | Data Scientist Associate | Washington, DC | 4h ago | Entry-Level | Data Science & Analytics | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686901) |
 
 ### 🏢 **Other Companies** (5 positions)
 
@@ -127,9 +127,9 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 5h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
 | 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 5h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
-| 🏢 **Perle** | Ukrainian Language Specialist (Canada or US-based) | Remote in USA, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354) |
-| 🏢 **Perle** | Portuguese Language Specialist | Remote in USA, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/fdf883df-c148-45ee-8c75-673d1c4b005d) |
-| 🏢 **Centene** | Business Solutions Developer 1 | New Mexico, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216) |
+| 🏢 **Perle** | Ukrainian Language Specialist (Canada or US-based) | Remote in USA, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354) |
+| 🏢 **Perle** | Portuguese Language Specialist | Remote in USA, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/fdf883df-c148-45ee-8c75-673d1c4b005d) |
+| 🏢 **Centene** | Business Solutions Developer 1 | New Mexico, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OH/Business-Solutions-Developer-I_1601216) |
 
 
 
