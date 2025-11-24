@@ -125,8 +125,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
-| 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 19h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 20h ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
 | 🏢 **EXL** | Data Scientist | United States, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7049) |
 | 🏢 **Viridien** | Seismic Imaging Analyst | Houston, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2) |
 | 🏢 **Anduril** | Skillbridge Software Engineer | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4989142007) |
