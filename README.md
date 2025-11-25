@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-65-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-66-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 18 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 19 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 18
+- **🔥 Current Positions**: 19
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 25, 2025
@@ -115,20 +115,21 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (18 positions)
+### 🏢 **Other Companies** (19 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 9h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
+| 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 10h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
 | 🏢 **Alkami Technology** | Technical Implementation Engineer 1 | Remote in USA, Locations | 10h ago | Mid-Level | Software Engineering | [Apply](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447) |
 | 🏢 **University of Chicago** | Data Science Analyst | Chicago, IL | 10h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117) |
 | 🏢 **University of Chicago** | Data Science Analyst - LMS Support | Chicago, IL | 13h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1) |
 | 🏢 **Northern Trust** | Senior Analyst Artificial Intelligence Enterprise Engineer | Chicago, IL | 10h ago | Senior | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471) |
 | 🏢 **RWS** | AI Data Specialist | Arizona, Locations | 11h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/d75ef549-303a-442d-bd9e-b4ce7641de4a/application) |
-| 🏢 **Zoox** | Software Engineer - Automation Tools and Infrastructure | San Mateo, CA | 12h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply) |
-| 🏢 **Nutanix** | Software Engineer 1 - Python - Linux | Durham, NC | 12h ago | Mid-Level | Design | [Apply](https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false) |
-| 🏢 **Huntington Ingalls Industries** | Engineer Model-Based | Newport News, VA | 12h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MODEL-BASED-1-Virg/1344828800/?ats=successfactors) |
+| 🏢 **Boston Consulting Group** | AI Engineer | Boston, MA | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.bcg.com/global/en/job/55995) |
+| 🏢 **Zoox** | Software Engineer - Automation Tools and Infrastructure | San Mateo, CA | 13h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply) |
+| 🏢 **Nutanix** | Software Engineer 1 - Python - Linux | Durham, NC | 13h ago | Mid-Level | Design | [Apply](https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false) |
+| 🏢 **Huntington Ingalls Industries** | Engineer Model-Based | Newport News, VA | 13h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MODEL-BASED-1-Virg/1344828800/?ats=successfactors) |
 | 🏢 **NOV** | Sustaining Product Engineer | Tulsa, OK | 13h ago | Mid-Level | Software Engineering | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504) |
 | 🏢 **RTX** | Software Engineer 1 | Aurora, CO | 13h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01808762) |
 | 🏢 **Rogers Behavioral Health** | Child and Adolescent Therapist | Eden Prairie, MN | 14h ago | Mid-Level | Backend Development | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Minneapolis-Clinic-Eden-Prairie-MN/Child-and-Adolescent-Therapist---PHP-IOP_R5566) |
@@ -168,8 +169,8 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 2 | 11% | No or minimal experience |
-| 🟡 Beginner & Early Career | 15 | 83% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 6% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 16 | 84% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 5% | 2+ years of experience |
 
 ---
 
@@ -179,9 +180,9 @@
 - **Remote in USA, Locations**: 1 positions
 - **Arizona, Locations**: 1 positions
 - **Palo Alto, CA**: 1 positions
+- **Boston, MA**: 1 positions
 - **San Mateo, CA**: 1 positions
 - **Durham, NC**: 1 positions
-- **Newport News, VA**: 1 positions
 
 ---
 
@@ -189,8 +190,8 @@
 #### 💻 Software Engineering (10 positions)
 🏢 Alkami Technology • 🏢 University of Chicago • 🏢 Jerry
 
-#### 🧠 Machine Learning & AI (3 positions)
-🏢 Northern Trust • 🏢 RWS • 🏢 Altos Labs
+#### 🧠 Machine Learning & AI (4 positions)
+🏢 Northern Trust • 🏢 RWS • 🏢 Boston Consulting Group
 
 #### 🎨 Frontend Development (1 positions)
 🏢 IMEG
@@ -211,7 +212,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 18 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 19 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -300,7 +301,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 18 current opportunities from 261 companies**
+**🎯 19 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
