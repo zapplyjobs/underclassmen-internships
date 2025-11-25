@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-66-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-65-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 19 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 18 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 19
+- **🔥 Current Positions**: 18
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 25, 2025
@@ -121,18 +121,18 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Qualtrics** | Senior Specialist - People Analytics | Provo, UT | 0h ago | Senior | Data Science & Analytics | [Apply](https://www.qualtrics.com/careers/us/en/job/7268113?gh_jid=7268113) |
 
-### 🏢 **Other Companies** (18 positions)
+### 🏢 **Other Companies** (17 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 11h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
 | 🏢 **Alkami Technology** | Technical Implementation Engineer 1 | Remote in USA, Locations | 11h ago | Mid-Level | Software Engineering | [Apply](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447) |
-| 🏢 **University of Chicago** | Data Science Analyst | Chicago, IL | 11h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117) |
-| 🏢 **University of Chicago** | Data Science Analyst - LMS Support | Chicago, IL | 14h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1) |
-| 🏢 **Northern Trust** | Senior Analyst Artificial Intelligence Enterprise Engineer | Chicago, IL | 11h ago | Senior | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471) |
+| 🏢 **University of Chicago** | Data Science Analyst | Chicago, IL | 12h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117) |
+| 🏢 **University of Chicago** | Data Science Analyst - LMS Support | Chicago, IL | 15h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1) |
+| 🏢 **Northern Trust** | Senior Analyst Artificial Intelligence Enterprise Engineer | Chicago, IL | 12h ago | Senior | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471) |
 | 🏢 **RWS** | AI Data Specialist | Arizona, Locations | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/d75ef549-303a-442d-bd9e-b4ce7641de4a/application) |
-| 🏢 **Boston Consulting Group** | AI Engineer | Boston, MA | 13h ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.bcg.com/global/en/job/55995) |
+| 🏢 **Boston Consulting Group** | AI Engineer | Boston, MA | 14h ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.bcg.com/global/en/job/55995) |
 | 🏢 **Zoox** | Software Engineer - Automation Tools and Infrastructure | San Mateo, CA | 14h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply) |
 | 🏢 **Nutanix** | Software Engineer 1 - Python - Linux | Durham, NC | 14h ago | Mid-Level | Design | [Apply](https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false) |
 | 🏢 **Huntington Ingalls Industries** | Engineer Model-Based | Newport News, VA | 14h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MODEL-BASED-1-Virg/1344828800/?ats=successfactors) |
@@ -142,7 +142,6 @@
 | 🏢 **Altos Labs** | Machine Learning Engineer/Scientist - Multi Modality | SF, Locations | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/altoslabs/jobs/5709084004) |
 | 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
 | 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
-| 🏢 **EXL** | Data Scientist | United States, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7049) |
 
 
 
@@ -174,7 +173,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 2 | 11% | No or minimal experience |
-| 🟡 Beginner & Early Career | 15 | 79% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 14 | 78% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 11% | 2+ years of experience |
 
 ---
@@ -198,8 +197,8 @@
 #### 🧠 Machine Learning & AI (4 positions)
 🏢 Northern Trust • 🏢 RWS • 🏢 Boston Consulting Group
 
-#### 📊 Data Science & Analytics (2 positions)
-🏢 Qualtrics • 🏢 EXL
+#### 📊 Data Science & Analytics (1 positions)
+🏢 Qualtrics
 
 #### 🎨 Frontend Development (1 positions)
 🏢 IMEG
@@ -217,7 +216,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 19 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 18 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -306,7 +305,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 19 current opportunities from 261 companies**
+**🎯 18 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
