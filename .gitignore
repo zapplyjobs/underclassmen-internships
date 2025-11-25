@@ -79,3 +79,6 @@ sources.json
 
 # Dependencies
 node_modules/
+
+# Temporary directories
+G/

@@ -65,6 +65,11 @@ jobs:
         echo "Last 3 job IDs:"
         tail -3 .github/data/posted_jobs.json
 
+    - name: Export jobs to encrypted JSON (for external job boards)
+      run: node .github/scripts/jobs-data-exporter.js
+      env:
+        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
+
     - name: Post new jobs via Enhanced Bot
       run: node .github/scripts/save-discord-logs.js > .github/logs/discord-bot.log 2>&1
       env:
