@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-69-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-67-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 22 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 20 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 22
+- **🔥 Current Positions**: 20
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 25, 2025
@@ -121,15 +121,15 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🎮 **NVIDIA** | Research Scientist – New College Grad 2026 - Programming Systems | Santa Clara, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Programming-Systems---New-College-Grad-2026_JR2008644) |
 
-### 🏢 **Other Companies** (21 positions)
+### 🏢 **Other Companies** (19 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 5h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
 | 🏢 **Alkami Technology** | Technical Implementation Engineer 1 | Remote in USA, Locations | 5h ago | Mid-Level | Software Engineering | [Apply](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447) |
-| 🏢 **University of Chicago** | Data Science Analyst | Chicago, IL | 5h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117) |
-| 🏢 **University of Chicago** | Data Science Analyst - LMS Support | Chicago, IL | 8h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1) |
-| 🏢 **Northern Trust** | Senior Analyst Artificial Intelligence Enterprise Engineer | Chicago, IL | 5h ago | Senior | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471) |
+| 🏢 **University of Chicago** | Data Science Analyst | Chicago, IL | 6h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117) |
+| 🏢 **University of Chicago** | Data Science Analyst - LMS Support | Chicago, IL | 9h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1) |
+| 🏢 **Northern Trust** | Senior Analyst Artificial Intelligence Enterprise Engineer | Chicago, IL | 6h ago | Senior | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471) |
 | 🏢 **RWS** | AI Data Specialist | Arizona, Locations | 6h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 7h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/d75ef549-303a-442d-bd9e-b4ce7641de4a/application) |
 | 🏢 **Zoox** | Software Engineer - Automation Tools and Infrastructure | San Mateo, CA | 8h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply) |
@@ -144,8 +144,6 @@
 | 🏢 **EXL** | Data Scientist | United States, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7049) |
 | 🏢 **Viridien** | Seismic Imaging Analyst | Houston, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR101070-2) |
 | 🏢 **Anduril** | Skillbridge Software Engineer | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4989142007) |
-| 🏢 **Perle** | Ukrainian Language Specialist (Canada or US-based) | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/b344304f-21d2-4604-9778-1afac2c3f354) |
-| 🏢 **Perle** | Portuguese Language Specialist | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/fdf883df-c148-45ee-8c75-673d1c4b005d) |
 
 
 
@@ -176,16 +174,16 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 14% | No or minimal experience |
-| 🟡 Beginner & Early Career | 18 | 82% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 3 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 16 | 80% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 5% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Chicago, IL**: 4 positions
-- **Remote in USA, Locations**: 3 positions
 - **Waco, TX**: 2 positions
+- **Remote in USA, Locations**: 1 positions
 - **Arizona, Locations**: 1 positions
 - **Palo Alto, CA**: 1 positions
 - **San Mateo, CA**: 1 positions
@@ -195,7 +193,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (14 positions)
+#### 💻 Software Engineering (12 positions)
 🏢 Alkami Technology • 🏢 University of Chicago • 🏢 Jerry
 
 #### 🧠 Machine Learning & AI (3 positions)
@@ -220,7 +218,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 22 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 20 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -309,7 +307,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 22 current opportunities from 261 companies**
+**🎯 20 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
