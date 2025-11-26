@@ -153,7 +153,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 13h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
+| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 14h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
 
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
@@ -166,8 +166,8 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **General Dynamics Mission Systems** | Systems Engineer – Entry Level | Scottsdale, AZ | 2h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68794/job?mobile=true&needsRedirect=false) |
-| 🏢 **Auto-Owners Insurance** | Business Intelligence Engineer | East Lansing, MI | 2h ago | Mid-Level | Software Engineering | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_12122-1) |
-| 🏢 **McAfee** | AI Training Data Acquisition Analyst | Frisco, TX | 2h ago | Mid-Level | Frontend Development | [Apply](https://mcafee.wd1.myworkdayjobs.com/external/job/United-States/AI-Training-Data-Acquisition-Analyst_JR0032205) |
+| 🏢 **Auto-Owners Insurance** | Business Intelligence Engineer | East Lansing, MI | 3h ago | Mid-Level | Software Engineering | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_12122-1) |
+| 🏢 **McAfee** | AI Training Data Acquisition Analyst | Frisco, TX | 3h ago | Mid-Level | Frontend Development | [Apply](https://mcafee.wd1.myworkdayjobs.com/external/job/United-States/AI-Training-Data-Acquisition-Analyst_JR0032205) |
 | 🏢 **EliseAI** | Software Engineer | NYC, Locations | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/EliseAI/1ffbd278-a5fe-443c-984f-521d61a97353/application) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88846669312) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88843312032) |
@@ -182,7 +182,7 @@
 | 🏢 **Cars Commerce** | Software Engineer - Frontend | Remote in USA, Locations | 11h ago | Mid-Level | Frontend Development | [Apply](https://cars.wd12.myworkdayjobs.com/en-US/cars/job/United-States-Remote/Software-Engineer_JR10748) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 11h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1345564800/?ats=successfactors) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 11h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a53c897a-9549-450b-8315-a24e4a26fffe/application) |
-| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
+| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/43674d9c-52f7-447f-ac48-d202c7269611/application) |
 | 🏢 **Northrop Grumman** | Systems Engineer | Sunnyvale, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2-3_R10215560) |
 | 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 12h ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
