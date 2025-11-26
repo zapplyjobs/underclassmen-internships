@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-86-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-105-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-13-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 39 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 58 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 39
+- **🔥 Current Positions**: 58
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 0 premium opportunities
+- **⭐ FAANG+ Jobs**: 13 premium opportunities
 - **📅 Last Updated**: November 26, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,6 +115,26 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
+### 🏢 **FAANG+** (13 positions)
+
+#### 📦 **Amazon** (13 positions)
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132823/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132829/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132847/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132810/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132842/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132849/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher | India, Locations | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132861/agentic-ai-teacher) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132851/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher | India, Locations | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132864/agentic-ai-teacher) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132856/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132850/agentic-ai-teacher-agi-ds) |
+| Agentic AI Teacher | India, Locations | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132863/agentic-ai-teacher) |
+| Agentic AI Teacher - Agi Ds | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132844/agentic-ai-teacher-agi-ds) |
+
 ### 🏢 **Top Tech** (3 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
@@ -133,12 +153,18 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 10h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
+| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 11h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
 
-### 🏢 **Other Companies** (34 positions)
+### 🏢 **Other Companies** (40 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **McAfee** | AI Training Data Acquisition Analyst | Frisco, TX | 0h ago | Mid-Level | Frontend Development | [Apply](https://mcafee.wd1.myworkdayjobs.com/external/job/United-States/AI-Training-Data-Acquisition-Analyst_JR0032205) |
+| 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88843312032) |
+| 🏢 **Niagara Bottling** | Manufacturing Technology Engineer 1 | Walnut, CA | 0h ago | Mid-Level | Software Engineering | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Manufacturing-Technology-Engineer-II_R50331-1) |
+| 🏢 **True Anomaly** | Front End Software Engineer 1 | Long Beach, CA | 0h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992058007) |
+| 🏢 **John Deere** | Part-Time Student - Data Analytics | Grimes, IA | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://johndeere.eightfold.ai/careers/job/137469617377) |
+| 🏢 **Mechanics Bank** | Associate Software Development Business Systems Analyst | Tulsa, OK | 0h ago | Entry-Level | Software Engineering | [Apply](https://mechanicsbank.wd5.myworkdayjobs.com/MechanicsBank/job/Tulsa-Oklahoma/Associate-Software-Development-Business-Systems-Analyst_R5513) |
 | 🏢 **CVS Health** | Associate Software Development Engineer | New Mexico, Locations | 6h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Associate-Software-Development-Engineer_R0754288) |
 | 🏢 **United Parcel Service (UPS)** | Software Development Engineer 1 - Salesforce | Georgia, Locations | 7h ago | Mid-Level | Software Engineering | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/Software-Development-Engineer-I---Salesforce_R25023930) |
 | 🏢 **Motorola** | Software Engineer | Allen, TX | 8h ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer_R58624) |
@@ -147,7 +173,7 @@
 | 🏢 **Bank of America** | Data Technology Analyst - Year Up | NYC, Locations | 8h ago | Mid-Level | Software Engineering | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Data-Technology-Analyst---Year-Up_25046810) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 8h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1345564800/?ats=successfactors) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 8h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a53c897a-9549-450b-8315-a24e4a26fffe/application) |
-| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 8h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
+| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 9h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/43674d9c-52f7-447f-ac48-d202c7269611/application) |
 | 🏢 **Northrop Grumman** | Systems Engineer | Sunnyvale, CA | 9h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2-3_R10215560) |
 | 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
@@ -203,36 +229,36 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 12 | 31% | No or minimal experience |
-| 🟡 Beginner & Early Career | 25 | 64% | 1-2 years of experience |
-| 🔴 Manager         | 2 | 5% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 14 | 24% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 72% | 1-2 years of experience |
+| 🔴 Manager         | 2 | 3% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Boston, MA**: 12 positions
 - **Chicago, IL**: 5 positions
+- **India, Locations**: 3 positions
 - **Remote in USA, Locations**: 3 positions
+- **Tulsa, OK**: 2 positions
 - **SF, Locations**: 2 positions
-- **Boston, MA**: 2 positions
-- **New Mexico, Locations**: 1 positions
-- **San Jose, CA**: 1 positions
-- **Georgia, Locations**: 1 positions
-- **Santa Clara, CA**: 1 positions
+- **Frisco, TX**: 1 positions
+- **Mountain View, CA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (20 positions)
-🏢 CVS Health • 🏢 United Parcel Service (UPS) • 🏢 NVIDIA
+#### 💻 Software Engineering (23 positions)
+🏢 Niagara Bottling • 🏢 True Anomaly • 🏢 Mechanics Bank
 
-#### 🧠 Machine Learning & AI (7 positions)
-🎬 TikTok • 🏢 NVIDIA • 🏢 The Allen Institute for AI
+#### 🧠 Machine Learning & AI (20 positions)
+📦 Amazon
 
-#### 📊 Data Science & Analytics (5 positions)
-🏢 Caterpillar Inc. • 🏢 BeOne • 🏢 KnowBe4
+#### 📊 Data Science & Analytics (6 positions)
+🏢 John Deere • 🏢 Caterpillar Inc. • 🏢 BeOne
 
-#### 🎨 Frontend Development (3 positions)
-🏢 Cars Commerce • 🏢 Guidehouse • 🏢 IMEG
+#### 🎨 Frontend Development (5 positions)
+🏢 McAfee • 🏢 Intuit • 🏢 Cars Commerce
 
 #### ☁️ DevOps & Infrastructure (2 positions)
 🏢 GE Healthcare • 🏢 Zoox
@@ -247,7 +273,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 39 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 58 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -336,7 +362,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 39 current opportunities from 261 companies**
+**🎯 58 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
