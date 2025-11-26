@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-67-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-65-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 20 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 18 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,10 +69,10 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 20
+- **🔥 Current Positions**: 18
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
-- **📅 Last Updated**: November 25, 2025
+- **📅 Last Updated**: November 26, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Qualtrics** | Senior Specialist - People Analytics | Provo, UT | 9h ago | Senior | Data Science & Analytics | [Apply](https://www.qualtrics.com/careers/us/en/job/7268113?gh_jid=7268113) |
 
-### 🏢 **Other Companies** (19 positions)
+### 🏢 **Other Companies** (17 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -129,21 +129,19 @@
 | 🏢 **The Allen Institute for AI** | Young Investigator - Flexolmo | Berkeley, CA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128) |
 | 🏢 **BAE Systems** | Entry Level Software Engineer | Totowa, NJ | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US118690BREXTERNAL/Entry-Level-Software-Engineer) |
 | 🏢 **Guidehouse** | Junior Data Scientist | Arlington, VA | 7h ago | Entry-Level | Frontend Development | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Junior-Data-Scientist_34033) |
-| 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 19h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
-| 🏢 **Alkami Technology** | Technical Implementation Engineer 1 | Remote in USA, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447) |
+| 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 20h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
+| 🏢 **Alkami Technology** | Technical Implementation Engineer 1 | Remote in USA, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447) |
 | 🏢 **University of Chicago** | Data Science Analyst | Chicago, IL | 20h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117) |
 | 🏢 **University of Chicago** | Data Science Analyst - LMS Support | Chicago, IL | 23h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1) |
 | 🏢 **Northern Trust** | Senior Analyst Artificial Intelligence Enterprise Engineer | Chicago, IL | 20h ago | Senior | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471) |
-| 🏢 **RWS** | AI Data Specialist | Arizona, Locations | 20h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply) |
+| 🏢 **RWS** | AI Data Specialist | Arizona, Locations | 21h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply) |
 | 🏢 **Boston Consulting Group** | AI Engineer | Boston, MA | 22h ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.bcg.com/global/en/job/55995) |
-| 🏢 **Zoox** | Software Engineer - Automation Tools and Infrastructure | San Mateo, CA | 22h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply) |
-| 🏢 **Nutanix** | Software Engineer 1 - Python - Linux | Durham, NC | 22h ago | Mid-Level | Design | [Apply](https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false) |
-| 🏢 **Huntington Ingalls Industries** | Engineer Model-Based | Newport News, VA | 22h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MODEL-BASED-1-Virg/1344828800/?ats=successfactors) |
-| 🏢 **NOV** | Sustaining Product Engineer | Tulsa, OK | 22h ago | Mid-Level | Software Engineering | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504) |
-| 🏢 **Rogers Behavioral Health** | Child and Adolescent Therapist | Eden Prairie, MN | 23h ago | Mid-Level | Backend Development | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Minneapolis-Clinic-Eden-Prairie-MN/Child-and-Adolescent-Therapist---PHP-IOP_R5566) |
+| 🏢 **Zoox** | Software Engineer - Automation Tools and Infrastructure | San Mateo, CA | 23h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply) |
+| 🏢 **Nutanix** | Software Engineer 1 - Python - Linux | Durham, NC | 23h ago | Mid-Level | Design | [Apply](https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false) |
+| 🏢 **Huntington Ingalls Industries** | Engineer Model-Based | Newport News, VA | 23h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MODEL-BASED-1-Virg/1344828800/?ats=successfactors) |
+| 🏢 **NOV** | Sustaining Product Engineer | Tulsa, OK | 23h ago | Mid-Level | Software Engineering | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504) |
+| 🏢 **Rogers Behavioral Health** | Child and Adolescent Therapist | Eden Prairie, MN | 1d ago | Mid-Level | Backend Development | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Minneapolis-Clinic-Eden-Prairie-MN/Child-and-Adolescent-Therapist---PHP-IOP_R5566) |
 | 🏢 **Altos Labs** | Machine Learning Engineer/Scientist - Multi Modality | SF, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/altoslabs/jobs/5709084004) |
-| 🏢 **L3Harris Technologies** | Associate Software Engineer | Waco, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039600/?ats=successfactors) |
-| 🏢 **L3Harris Technologies** | Assoc – Software Engineer - Waco - TX | Waco, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Waco-Assoc,-Software-Engineer-(Waco,-TX)-TX-76705/1345039700/?ats=successfactors) |
 
 
 
@@ -174,26 +172,26 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 20% | No or minimal experience |
-| 🟡 Beginner & Early Career | 14 | 70% | 1-2 years of experience |
-| 🔴 Manager         | 2 | 10% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 17% | No or minimal experience |
+| 🟡 Beginner & Early Career | 13 | 72% | 1-2 years of experience |
+| 🔴 Manager         | 2 | 11% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Chicago, IL**: 4 positions
-- **Waco, TX**: 2 positions
 - **Seattle, WA**: 1 positions
 - **Berkeley, CA**: 1 positions
 - **Totowa, NJ**: 1 positions
 - **Arlington, VA**: 1 positions
 - **Provo, UT**: 1 positions
 - **Remote in USA, Locations**: 1 positions
+- **Arizona, Locations**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (8 positions)
+#### 💻 Software Engineering (6 positions)
 🏢 BAE Systems • 🏢 Alkami Technology • 🏢 University of Chicago
 
 #### 🧠 Machine Learning & AI (5 positions)
@@ -218,7 +216,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 20 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 18 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -307,7 +305,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 20 current opportunities from 261 companies**
+**🎯 18 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -315,6 +313,6 @@ No archived jobs available.
 
 ---
 
-**Last Updated**: November 25, 2025 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: November 26, 2025 • **Next Update**: Daily at 9 AM UTC
 
 </div>
