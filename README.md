@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-78-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-82-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 31 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 35 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 31
+- **🔥 Current Positions**: 35
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 26, 2025
@@ -125,34 +125,38 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 2h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
+| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 3h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
 
-### 🏢 **Other Companies** (29 positions)
+### 🏢 **Other Companies** (33 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Motorola** | Software Engineer | Allen, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer_R58624) |
+| 🏢 **Bio-Techne** | Associate Web Developer | Minneapolis, MN | 0h ago | Entry-Level | Software Engineering | [Apply](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Denver-CO/Associate-Web-Developer_JR101338) |
+| 🏢 **Cars Commerce** | Software Engineer - Frontend | Remote in USA, Locations | 0h ago | Mid-Level | Frontend Development | [Apply](https://cars.wd12.myworkdayjobs.com/en-US/cars/job/United-States-Remote/Software-Engineer_JR10748) |
+| 🏢 **Bank of America** | Data Technology Analyst - Year Up | NYC, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Data-Technology-Analyst---Year-Up_25046810) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1345564800/?ats=successfactors) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a53c897a-9549-450b-8315-a24e4a26fffe/application) |
-| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/43674d9c-52f7-447f-ac48-d202c7269611/application) |
+| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a53c897a-9549-450b-8315-a24e4a26fffe/application) |
+| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/43674d9c-52f7-447f-ac48-d202c7269611/application) |
 | 🏢 **Northrop Grumman** | Systems Engineer | Sunnyvale, CA | 1h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2-3_R10215560) |
-| 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
+| 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
 | 🏢 **The Museum of Science** | Associate CRM Systems Developer | Boston, MA | 2h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/themuseumofscience/jobs/5011562008) |
 | 🏢 **Sinclair** | Software Development Engineer - Level 1 - Direct-to-Consumer Streaming | Santa Monica, CA | 2h ago | Entry-Level | Software Engineering | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/14900) |
-| 🏢 **GE Healthcare** | Software Engineer 1 - MIM Platform | Orange, OH | 2h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---MIM-Platform_R4031385-1) |
-| 🏢 **BeOne** | Data Science and Analytics 2 - Data Science & Digital Innovation | Cambridge, MA | 2h ago | Mid-Level | Data Science & Analytics | [Apply](https://beigene.wd5.myworkdayjobs.com/beigene/job/Cambridge/Data-Science-and-Analytics-II--Data-Science---Digital-Innovation_R32023) |
+| 🏢 **GE Healthcare** | Software Engineer 1 - MIM Platform | Orange, OH | 3h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---MIM-Platform_R4031385-1) |
+| 🏢 **BeOne** | Data Science and Analytics 2 - Data Science & Digital Innovation | Cambridge, MA | 3h ago | Mid-Level | Data Science & Analytics | [Apply](https://beigene.wd5.myworkdayjobs.com/beigene/job/Cambridge/Data-Science-and-Analytics-II--Data-Science---Digital-Innovation_R32023) |
 | 🏢 **KnowBe4** | Revenue Systems and Analytics Analyst | Clearwater, FL | 3h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8307207002) |
 | 🏢 **Sony Interactive Entertainment** | Software Engineer 2 | San Diego, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712397004) |
 | 🏢 **Stackline** | Data Scientist 1 | Seattle, WA | 3h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/stackline/jobs/4633616005) |
-| 🏢 **The Allen Institute for AI** | Young Investigator - Flexolmo | Berkeley, CA | 3h ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128) |
+| 🏢 **The Allen Institute for AI** | Young Investigator - Flexolmo | Berkeley, CA | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128) |
 | 🏢 **BAE Systems** | Entry Level Software Engineer | Totowa, NJ | 10h ago | Entry-Level | Software Engineering | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US118690BREXTERNAL/Entry-Level-Software-Engineer) |
 | 🏢 **Guidehouse** | Junior Data Scientist | Arlington, VA | 10h ago | Entry-Level | Frontend Development | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Junior-Data-Scientist_34033) |
-| 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 22h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
-| 🏢 **Alkami Technology** | Technical Implementation Engineer 1 | Remote in USA, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447) |
+| 🏢 **IMEG** | Building Performance Engineering New Grad - St. Louis - MO | Chicago, IL | 23h ago | Entry-Level | Frontend Development | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/St-Louis-MO/Building-Performance-Engineering-New-Grad----St-Louis--MO_R-15526) |
+| 🏢 **Alkami Technology** | Technical Implementation Engineer 1 | Remote in USA, Locations | 23h ago | Mid-Level | Software Engineering | [Apply](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Technical-Implementation-Engineer-I_JR-000447) |
 | 🏢 **University of Chicago** | Data Science Analyst | Chicago, IL | 23h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32117) |
 | 🏢 **University of Chicago** | Data Science Analyst - LMS Support | Chicago, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst---LMS-Support_JR32045-1) |
 | 🏢 **Northern Trust** | Senior Analyst Artificial Intelligence Enterprise Engineer | Chicago, IL | 23h ago | Senior | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Sr-Analyst-Artificial-Intelligence-Enterprise-Engineer_R148471) |
-| 🏢 **RWS** | AI Data Specialist | Arizona, Locations | 23h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply) |
+| 🏢 **RWS** | AI Data Specialist | Arizona, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/rws/ea392478-af4d-497b-942f-5bdc14e24c96/apply) |
 | 🏢 **Boston Consulting Group** | AI Engineer | Boston, MA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.bcg.com/global/en/job/55995) |
 | 🏢 **Zoox** | Software Engineer - Automation Tools and Infrastructure | San Mateo, CA | 1d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://jobs.lever.co/zoox/77b65c9f-0f61-4395-bd38-051e2f27b8d2/apply) |
 | 🏢 **Nutanix** | Software Engineer 1 - Python - Linux | Durham, NC | 1d ago | Mid-Level | Design | [Apply](https://jobs.jobvite.com/nutanix/job/oTkVyfwq?nl=1&nl=1&fr=false) |
@@ -190,27 +194,27 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 23% | No or minimal experience |
-| 🟡 Beginner & Early Career | 22 | 71% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 8 | 23% | No or minimal experience |
+| 🟡 Beginner & Early Career | 25 | 71% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 6% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Chicago, IL**: 5 positions
+- **Remote in USA, Locations**: 3 positions
 - **SF, Locations**: 2 positions
-- **Remote in USA, Locations**: 2 positions
 - **Boston, MA**: 2 positions
+- **Allen, TX**: 1 positions
+- **Minneapolis, MN**: 1 positions
+- **NYC, Locations**: 1 positions
 - **Palo Alto, CA**: 1 positions
-- **Peoria, IL**: 1 positions
-- **Sunnyvale, CA**: 1 positions
-- **Santa Monica, CA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (15 positions)
-🏢 McDonald's • 🏢 Jerry • 🏢 Citizen Health
+#### 💻 Software Engineering (18 positions)
+🏢 Motorola • 🏢 Bio-Techne • 🏢 Bank of America
 
 #### 📊 Data Science & Analytics (5 positions)
 🏢 Caterpillar Inc. • 🏢 BeOne • 🏢 KnowBe4
@@ -218,11 +222,11 @@
 #### 🧠 Machine Learning & AI (5 positions)
 🏢 The Allen Institute for AI • 🏢 Northern Trust • 🏢 RWS
 
+#### 🎨 Frontend Development (3 positions)
+🏢 Cars Commerce • 🏢 Guidehouse • 🏢 IMEG
+
 #### ☁️ DevOps & Infrastructure (2 positions)
 🏢 GE Healthcare • 🏢 Zoox
-
-#### 🎨 Frontend Development (2 positions)
-🏢 Guidehouse • 🏢 IMEG
 
 #### 🎨 Design (1 positions)
 🏢 Nutanix
@@ -234,7 +238,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 31 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 35 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -323,7 +327,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 31 current opportunities from 261 companies**
+**🎯 35 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
