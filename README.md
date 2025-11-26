@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-86-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-87-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 39 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 40 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 39
+- **🔥 Current Positions**: 40
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 26, 2025
@@ -133,12 +133,13 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 4h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
+| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 5h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
 
-### 🏢 **Other Companies** (34 positions)
+### 🏢 **Other Companies** (35 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **CVS Health** | Associate Software Development Engineer | New Mexico, Locations | 0h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Associate-Software-Development-Engineer_R0754288) |
 | 🏢 **United Parcel Service (UPS)** | Software Development Engineer 1 - Salesforce | Georgia, Locations | 1h ago | Mid-Level | Software Engineering | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/Software-Development-Engineer-I---Salesforce_R25023930) |
 | 🏢 **Motorola** | Software Engineer | Allen, TX | 2h ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer_R58624) |
 | 🏢 **Bio-Techne** | Associate Web Developer | Minneapolis, MN | 2h ago | Entry-Level | Software Engineering | [Apply](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Denver-CO/Associate-Web-Developer_JR101338) |
@@ -146,7 +147,7 @@
 | 🏢 **Bank of America** | Data Technology Analyst - Year Up | NYC, Locations | 2h ago | Mid-Level | Software Engineering | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Data-Technology-Analyst---Year-Up_25046810) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 2h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1345564800/?ats=successfactors) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 2h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a53c897a-9549-450b-8315-a24e4a26fffe/application) |
-| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 2h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
+| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 3h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/43674d9c-52f7-447f-ac48-d202c7269611/application) |
 | 🏢 **Northrop Grumman** | Systems Engineer | Sunnyvale, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2-3_R10215560) |
 | 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
@@ -203,8 +204,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 11 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 26 | 67% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 12 | 30% | No or minimal experience |
+| 🟡 Beginner & Early Career | 26 | 65% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 5% | 2+ years of experience |
 
 ---
@@ -214,16 +215,16 @@
 - **Remote in USA, Locations**: 3 positions
 - **SF, Locations**: 2 positions
 - **Boston, MA**: 2 positions
+- **New Mexico, Locations**: 1 positions
 - **San Jose, CA**: 1 positions
 - **Georgia, Locations**: 1 positions
 - **Santa Clara, CA**: 1 positions
-- **California, Locations**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (20 positions)
-🏢 United Parcel Service (UPS) • 🏢 NVIDIA • 🏢 Motorola
+#### 💻 Software Engineering (21 positions)
+🏢 CVS Health • 🏢 United Parcel Service (UPS) • 🏢 NVIDIA
 
 #### 🧠 Machine Learning & AI (7 positions)
 🎬 TikTok • 🏢 NVIDIA • 🏢 The Allen Institute for AI
@@ -247,7 +248,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 39 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 40 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -336,7 +337,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 39 current opportunities from 261 companies**
+**🎯 40 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
