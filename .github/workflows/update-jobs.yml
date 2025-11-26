@@ -58,10 +58,13 @@ jobs:
       run: npm install discord.js@14
 
     - name: 🔍 BEFORE bot - Hash posted_jobs.json
+      id: before-hash
       run: |
         echo "📊 BEFORE BOT EXECUTION:"
         echo "File size: $(stat -c'%s' .github/data/posted_jobs.json 2>/dev/null || stat -f'%z' .github/data/posted_jobs.json)"
-        echo "SHA256: $(sha256sum .github/data/posted_jobs.json 2>/dev/null || shasum -a 256 .github/data/posted_jobs.json)"
+        BEFORE_HASH=$(sha256sum .github/data/posted_jobs.json 2>/dev/null | cut -d' ' -f1 || shasum -a 256 .github/data/posted_jobs.json | cut -d' ' -f1)
+        echo "SHA256: $BEFORE_HASH"
+        echo "hash=$BEFORE_HASH" >> $GITHUB_OUTPUT
         echo "Last 3 job IDs:"
         tail -3 .github/data/posted_jobs.json
 
@@ -71,7 +74,8 @@ jobs:
         LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
     - name: Post new jobs via Enhanced Bot
-      run: node .github/scripts/save-discord-logs.js > .github/logs/discord-bot.log 2>&1
+      run: |
+        node .github/scripts/save-discord-logs.js 2>&1 | tee .github/logs/discord-bot.log
       env:
         DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
@@ -102,15 +106,46 @@ jobs:
         LOG_ENCRYPT_PASSWORD:          ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
     - name: 🔍 AFTER bot - Hash posted_jobs.json
+      id: after-hash
       run: |
         echo "📊 AFTER BOT EXECUTION:"
         echo "File size: $(stat -c'%s' .github/data/posted_jobs.json 2>/dev/null || stat -f'%z' .github/data/posted_jobs.json)"
-        echo "SHA256: $(sha256sum .github/data/posted_jobs.json 2>/dev/null || shasum -a 256 .github/data/posted_jobs.json)"
+        AFTER_HASH=$(sha256sum .github/data/posted_jobs.json 2>/dev/null | cut -d' ' -f1 || shasum -a 256 .github/data/posted_jobs.json | cut -d' ' -f1)
+        echo "SHA256: $AFTER_HASH"
+        echo "hash=$AFTER_HASH" >> $GITHUB_OUTPUT
         echo "Last 3 job IDs:"
         tail -3 .github/data/posted_jobs.json
         echo ""
         echo "Git diff check:"
         git diff .github/data/posted_jobs.json | head -20 || echo "No diff detected by git"
+
+    - name: 🔍 Verify database was updated
+      run: |
+        echo "📊 VERIFYING DATABASE UPDATE..."
+        echo ""
+
+        BEFORE_HASH="${{ steps.before-hash.outputs.hash }}"
+        AFTER_HASH="${{ steps.after-hash.outputs.hash }}"
+
+        echo "Before hash: $BEFORE_HASH"
+        echo "After hash:  $AFTER_HASH"
+        echo ""
+
+        if [ "$BEFORE_HASH" == "$AFTER_HASH" ]; then
+          echo "❌❌❌ CRITICAL ERROR: posted_jobs.json was NOT modified! ❌❌❌"
+          echo ""
+          echo "This means the bot posted jobs but failed to save to database."
+          echo "Result: Jobs will be posted again next run (duplicate detection broken)"
+          echo ""
+          echo "Check bot logs above for save errors."
+          echo "This workflow will now fail to alert the team."
+          exit 1
+        else
+          echo "✅ SUCCESS: Database was updated correctly"
+          echo ""
+          echo "File hash changed, confirming bot saved posted job IDs."
+          echo "Duplicate detection is working properly."
+        fi
 
     - name: Upload private logs (collaborators only)
       if: always()
