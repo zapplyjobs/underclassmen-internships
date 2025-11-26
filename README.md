@@ -133,7 +133,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 7h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
+| 🏢 **The Travelers Companies** | Software Engineer 1 - AWS - JavaScript | Hartford, CT | 8h ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--JavaScript--React-_R-48162) |
 
 ### 🏢 **Other Companies** (35 positions)
 
@@ -147,14 +147,14 @@
 | 🏢 **Bank of America** | Data Technology Analyst - Year Up | NYC, Locations | 5h ago | Mid-Level | Software Engineering | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Data-Technology-Analyst---Year-Up_25046810) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 5h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1345564800/?ats=successfactors) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 5h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a53c897a-9549-450b-8315-a24e4a26fffe/application) |
-| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
+| 🏢 **Caterpillar Inc.** | Digital Data Analyst | Peoria, IL | 6h ago | Mid-Level | Data Science & Analytics | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Digital-Data-Analyst_R0000335361) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 6h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/43674d9c-52f7-447f-ac48-d202c7269611/application) |
 | 🏢 **Northrop Grumman** | Systems Engineer | Sunnyvale, CA | 6h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2-3_R10215560) |
 | 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 6h ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
 | 🏢 **The Museum of Science** | Associate CRM Systems Developer | Boston, MA | 7h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/themuseumofscience/jobs/5011562008) |
 | 🏢 **Sinclair** | Software Development Engineer - Level 1 - Direct-to-Consumer Streaming | Santa Monica, CA | 7h ago | Entry-Level | Software Engineering | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/14900) |
-| 🏢 **GE Healthcare** | Software Engineer 1 - MIM Platform | Orange, OH | 7h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---MIM-Platform_R4031385-1) |
-| 🏢 **BeOne** | Data Science and Analytics 2 - Data Science & Digital Innovation | Cambridge, MA | 7h ago | Mid-Level | Data Science & Analytics | [Apply](https://beigene.wd5.myworkdayjobs.com/beigene/job/Cambridge/Data-Science-and-Analytics-II--Data-Science---Digital-Innovation_R32023) |
+| 🏢 **GE Healthcare** | Software Engineer 1 - MIM Platform | Orange, OH | 8h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---MIM-Platform_R4031385-1) |
+| 🏢 **BeOne** | Data Science and Analytics 2 - Data Science & Digital Innovation | Cambridge, MA | 8h ago | Mid-Level | Data Science & Analytics | [Apply](https://beigene.wd5.myworkdayjobs.com/beigene/job/Cambridge/Data-Science-and-Analytics-II--Data-Science---Digital-Innovation_R32023) |
 | 🏢 **KnowBe4** | Revenue Systems and Analytics Analyst | Clearwater, FL | 8h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8307207002) |
 | 🏢 **Sony Interactive Entertainment** | Software Engineer 2 | San Diego, CA | 8h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712397004) |
 | 🏢 **Stackline** | Data Scientist 1 | Seattle, WA | 8h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/stackline/jobs/4633616005) |
