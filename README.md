@@ -128,7 +128,7 @@
 | 📦 **Amazon** | Agentic AI Teacher - Agi Ds | Boston, MA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132856/agentic-ai-teacher-agi-ds) |
 | 📦 **Amazon** | Agentic AI Teacher - Agi Ds | Boston, MA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132850/agentic-ai-teacher-agi-ds) |
 | 📦 **Amazon** | Agentic AI Teacher - Agi Ds | Boston, MA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132844/agentic-ai-teacher-agi-ds) |
-| 🎬 **ByteDance** | Machine Learning Graduate - 2026 Start | Seattle, WA | 18h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7542674819873081608/detail) |
+| 🎬 **ByteDance** | Machine Learning Graduate - 2026 Start | Seattle, WA | 19h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7542674819873081608/detail) |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -136,7 +136,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🎮 **NVIDIA** | DL System Software Engineer – New College Graduate - AI Platform | Santa Clara, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-System-Software-Engineer--AI-Platform---New-College-Graduate-2025_JR2007061) |
 | 🎮 **NVIDIA** | Research Scientist – New College Grad 2026 - Fundamental LLM Research for Knowledge - Reasoning And Agents | California, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-LLM-Research-for-Knowledge--Reasoning--and-Agents---New-College-Grad-2026_JR2008820) |
-| 🔴 **Oracle** | PhD Applied Scientist - Oracle Health & Analytics | United States, Locations | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/317554) |
+| 🔴 **Oracle** | PhD Applied Scientist - Oracle Health & Analytics | United States, Locations | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/317554) |
 
 ### 🛒 **Consumer & E-Commerce** (3 positions)
 
@@ -156,27 +156,27 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Leidos** | Residential Technical Reviewer | Peoria, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Peoria-IL/Residential-Technical-Reviewer_R-00171066-1) |
+| 🏢 **Leidos** | Residential Technical Reviewer | Peoria, IL | 20h ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Peoria-IL/Residential-Technical-Reviewer_R-00171066-1) |
 | 🏢 **Leidos** | Software Systems Engineer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Systems-Engineer_R-00171075) |
 
 ### 🏢 **Other Companies** (49 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Blueprint Technologies** | Software Engineer 1 | Bellevue, WA | 5h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/7271702) |
-| 🏢 **CLEAR** | Software Engineer, New Grad, Backend | New York, NY | 5h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7403318) |
-| 🏢 **CLEAR** | Software Engineer, New Grad, Fullstack | New York, NY | 5h ago | Entry-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430247) |
+| 🏢 **Blueprint Technologies** | Software Engineer 1 | Bellevue, WA | 6h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/7271702) |
+| 🏢 **CLEAR** | Software Engineer, New Grad, Backend | New York, NY | 6h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7403318) |
+| 🏢 **CLEAR** | Software Engineer, New Grad, Fullstack | New York, NY | 6h ago | Entry-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430247) |
 | 🏢 **Magna** | Student Engineering ADAS Algorithm | Lowell, MA | 19h ago | Entry-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Product-Engineering_R00221215) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6a543e11-e135-4888-8f5b-de7e2a356e23/application) |
 | 🏢 **Wolters Kluwer** | Associate Product Software Engineer | Waltham, MA | 19h ago | Entry-Level | Software Engineering | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Associate-Product-Software-Engineer_R0052913) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Design-and-Synchrotron-Characterization-for-Freeze-Induced-Ion-Separation_421467-1) |
 | 🏢 **Reevo** | Builder – New Grad - AI Engineer | SF, Locations | 19h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/reevo/2a1f4f7f-86d3-41f4-bda1-3867ff82eb0d/application) |
 | 🏢 **Manulife Financial** | Data Analyst - International Group Program | Massachusetts, Locations | 19h ago | Entry-Level | Data Science & Analytics | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/USA-Massachusetts---Full-Time-Remote/Data-Analyst---International-Group-Program_JR25050035-3) |
-| 🏢 **Medtronic** | Front-end Software Engineer 1 | Northridge, LA | 19h ago | Mid-Level | Frontend Development | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Front-end-Software-Engineer-I_R53681) |
-| 🏢 **Nextiva** | LLM Optimization - AI SEO / GEO | Scottsdale, AZ | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.nextiva.com/company/careers-listing?gh_jid=8307771002) |
-| 🏢 **William Blair** | Working in Technology - Wit - Data Science | Chicago, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://www.williamblair.com/Careers/job-description?gh_jid=4960393007) |
-| 🏢 **EverDriven** | Business Intelligence Analyst | Greenwood Village, CO | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/everdriven/jobs/5010416008) |
-| 🏢 **Phamily** | Software Engineer | NYC, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5013584008) |
+| 🏢 **Medtronic** | Front-end Software Engineer 1 | Northridge, LA | 20h ago | Mid-Level | Frontend Development | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Front-end-Software-Engineer-I_R53681) |
+| 🏢 **Nextiva** | LLM Optimization - AI SEO / GEO | Scottsdale, AZ | 20h ago | Mid-Level | Machine Learning & AI | [Apply](https://www.nextiva.com/company/careers-listing?gh_jid=8307771002) |
+| 🏢 **William Blair** | Working in Technology - Wit - Data Science | Chicago, IL | 20h ago | Mid-Level | Software Engineering | [Apply](https://www.williamblair.com/Careers/job-description?gh_jid=4960393007) |
+| 🏢 **EverDriven** | Business Intelligence Analyst | Greenwood Village, CO | 20h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/everdriven/jobs/5010416008) |
+| 🏢 **Phamily** | Software Engineer | NYC, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5013584008) |
 | 🏢 **PennState University** | Part-Time Research Assistant-Population Research Institute | State College, PA | 20h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Population-Research-Institute_REQ_0000073860-1) |
 | 🏢 **PennState University** | Part-Time Grad | State College, PA | 20h ago | Entry-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1) |
 | 🏢 **PennState University** | Part-Time Research Assistant - Astronomy Department | State College, PA | 20h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000073928-1) |
@@ -184,8 +184,8 @@
 | 🏢 **University of Texas - Austin** | Postdoctoral Fellow - Transmission Electron Microscopy | Austin, TX | 20h ago | Mid-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435) |
 | 🏢 **InfStones** | Application Engineer | Dallas, TX | 20h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/infstones/f4aa3e0f-172e-41db-b7a2-0133836d9bf7/apply) |
 | 🏢 **Ford Motor Company** | 2026 Ford Undergraduate Program - Tech & Data Automation | United States, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55690) |
-| 🏢 **TrueBuilt** | Founding Engineer | Remote in USA, Locations | 22h ago | Mid-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004) |
-| 🏢 **Uare.ai** | Software Engineer – Early Career | Mountain View, CA | 22h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/uareai/jobs/4036519009) |
+| 🏢 **TrueBuilt** | Founding Engineer | Remote in USA, Locations | 23h ago | Mid-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004) |
+| 🏢 **Uare.ai** | Software Engineer – Early Career | Mountain View, CA | 23h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/uareai/jobs/4036519009) |
 | 🏢 **Select Milk Producers** | Data Analyst I | La Crosse, WI | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/en-US/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
 | 🏢 **Bass Pro Shops** | CLUB Data Analyst I | locations Lincoln, NE | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Lincoln-NE-Base-Camp/CLUB-Data-Analyst-I_R242594) |
 | 🏢 **General Dynamics Mission Systems** | Systems Engineer – Entry Level | Scottsdale, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68794/job?mobile=true&needsRedirect=false) |
