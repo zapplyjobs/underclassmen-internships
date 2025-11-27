@@ -1,10 +1,9 @@
 name: Update Zapply Jobs
 
 on:
-  # TEMPORARILY DISABLED - Investigating duplicate posts in tech-jobs and remote-usa channels
-  # schedule:
-  #   # Run every 15 minutes (GitHub Actions scheduler has 5-15 min jitter for high-frequency schedules)
-  #   - cron: '*/15 * * * *'
+  schedule:
+    # Run every 15 minutes (GitHub Actions scheduler has 5-15 min jitter for high-frequency schedules)
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
