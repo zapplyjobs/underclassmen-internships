@@ -131,15 +131,49 @@ jobs:
         echo "After hash:  $AFTER_HASH"
         echo ""
 
-        if [ "$BEFORE_HASH" == "$AFTER_HASH" ]; then
-          echo "❌❌❌ CRITICAL ERROR: posted_jobs.json was NOT modified! ❌❌❌"
+        # First, check for actual posting errors (highest priority)
+        if grep -q "❌ Error posting job" .github/logs/discord-bot.log 2>/dev/null; then
+          echo "❌❌❌ CRITICAL ERROR: Jobs failed to post to Discord! ❌❌❌"
           echo ""
-          echo "This means the bot posted jobs but failed to save to database."
-          echo "Result: Jobs will be posted again next run (duplicate detection broken)"
-          echo ""
-          echo "Check bot logs above for save errors."
-          echo "This workflow will now fail to alert the team."
+          echo "Bot encountered errors while posting jobs."
+          echo "Check bot logs above for details."
           exit 1
+        fi
+
+        # Second, check if file unchanged (could be expected or error)
+        if [ "$BEFORE_HASH" == "$AFTER_HASH" ]; then
+          echo "⚠️  Database file unchanged - investigating reason..."
+          echo ""
+
+          # Check if all jobs were filtered (expected behavior)
+          if grep -q "After blacklist filter: 0 jobs" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: All jobs filtered by blacklist (expected behavior)"
+            echo ""
+            echo "All new jobs matched blacklist criteria - no jobs posted."
+            echo "This is normal and prevents posting unwanted duplicates."
+            exit 0
+          elif grep -q "No new jobs to post" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: No new jobs found (expected behavior)"
+            echo ""
+            echo "All jobs were already posted previously."
+            echo "Duplicate detection working correctly."
+            exit 0
+          elif grep -q "ℹ️ No new jobs to post" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: No new jobs to post (expected behavior)"
+            echo ""
+            echo "Either no new jobs found or all filtered as duplicates."
+            exit 0
+          else
+            # File unchanged but we don't know why - this is suspicious!
+            echo "❌❌❌ CRITICAL ERROR: posted_jobs.json was NOT modified! ❌❌❌"
+            echo ""
+            echo "Database unchanged but bot should have posted jobs."
+            echo "This could indicate a save failure or other issue."
+            echo ""
+            echo "Check bot logs above for save errors."
+            echo "This workflow will now fail to alert the team."
+            exit 1
+          fi
         else
           echo "✅ SUCCESS: Database was updated correctly"
           echo ""
