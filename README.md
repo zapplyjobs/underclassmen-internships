@@ -13,7 +13,7 @@
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-13-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
-![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
+![License](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-purple?style=flat&logo=creativecommons)
 
 <!-- Row 2: Repository Stats -->
 ![GitHub stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=yellow)
@@ -367,6 +367,30 @@ No archived jobs available.
 - ⭐ **Community-driven** with contributions from developers worldwide
 
 > *Have you featured or mentioned our repo? Let us know and we'll add you here!*
+
+---
+
+## 📜 License
+
+This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+### ✅ You CAN:
+- **Use** for personal job searching and career development
+- **Fork and modify** for educational or non-commercial projects
+- **Share** with proper attribution to Zapply
+- **Build upon** this work for non-profit purposes
+
+### ❌ You CANNOT:
+- **Sell or commercialize** this data (e.g., recruiting agencies, paid job boards)
+- **Remove attribution** to Zapply or claim as your own work
+- **Relicense** derivatives under more permissive terms (ShareAlike applies)
+- **Use for commercial SaaS** or subscription services
+
+### 💼 Commercial Use?
+Interested in using this data commercially? Contact us at **hello@zapply.com** for licensing options.
+
+### 📄 Full License
+[View Full CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) | [Human-Readable Summary](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
