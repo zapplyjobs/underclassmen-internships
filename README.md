@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-113-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-112-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 66 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 65 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 66
+- **🔥 Current Positions**: 65
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 9 premium opportunities
 - **📅 Last Updated**: November 28, 2025
@@ -141,15 +141,14 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Booz Allen** | University Data Scientist - Data Scientist | McLean, VA | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081) |
+| 🏢 **Booz Allen** | University Data Scientist - Data Scientist | McLean, VA | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081) |
 
-### 🛒 **Consumer & E-Commerce** (3 positions)
+### 🛒 **Consumer & E-Commerce** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🎬 **TikTok** | Graduate Engineer - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US | Seattle, WA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7533377193083177234) |
 | 🎬 **TikTok** | Research Engineer Graduate - Ads ML Infrastructure - PhD | San Jose, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7559990747538671879) |
-| 🎬 **TikTok** | （General Hire）Machine Learning Engineer Graduate - E-Commerce - 2026 Start','Phd | San Jose, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7516666201355962632) |
 
 ### 🛡️ **Defense & Aerospace** (2 positions)
 
@@ -170,18 +169,18 @@
 | 🏢 **Argonne National Laboratory** | Givens Associates | Woodridge, IL | 0h ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Givens-Associates_414347) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Design-and-Synchrotron-Characterization-for-Freeze-Induced-Ion-Separation_421467-1) |
 | 🏢 **Cisive** | Software Developer | Maryland, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
-| 🏢 **FocusKPI** | AI Engineer Trainee | Remote in USA, Locations | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://focuskpi.applytojob.com/apply/8wVLzr3Ubt/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding) |
+| 🏢 **FocusKPI** | AI Engineer Trainee | Remote in USA, Locations | 1h ago | Mid-Level | Machine Learning & AI | [Apply](https://focuskpi.applytojob.com/apply/8wVLzr3Ubt/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding) |
 | 🏢 **CLEAR** | Software Engineer – New Grad - Web | NYC, Locations | 4h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430253) |
-| 🏢 **CLEAR** | Software Engineer, New Grad, Backend | New York, NY | 11h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7403318) |
-| 🏢 **CLEAR** | Software Engineer, New Grad, Fullstack | New York, NY | 11h ago | Entry-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430247) |
-| 🏢 **Astemo** | Graduate Engineering Development Program | Southfield, MI | 4h ago | Entry-Level | Software Engineering | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868) |
-| 🏢 **Ashland** | Entry Level Technical Service Scientist | Wilmington, DE | 4h ago | Entry-Level | Software Engineering | [Apply](https://ashland.wd12.myworkdayjobs.com/AshlandCareers1/job/US-DE-WILMINGTON/Technical-Service-Scientist_2025-0466) |
-| 🏢 **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 4h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
-| 🏢 **PennState University** | Assistant Professor in Data Journalism/Artificial Intelligence | State College, PA | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Professor-in-Data-Journalism-Artificial-Intelligence_REQ_0000073726-1) |
+| 🏢 **CLEAR** | Software Engineer, New Grad, Backend | New York, NY | 12h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7403318) |
+| 🏢 **CLEAR** | Software Engineer, New Grad, Fullstack | New York, NY | 12h ago | Entry-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430247) |
+| 🏢 **Astemo** | Graduate Engineering Development Program | Southfield, MI | 5h ago | Entry-Level | Software Engineering | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868) |
+| 🏢 **Ashland** | Entry Level Technical Service Scientist | Wilmington, DE | 5h ago | Entry-Level | Software Engineering | [Apply](https://ashland.wd12.myworkdayjobs.com/AshlandCareers1/job/US-DE-WILMINGTON/Technical-Service-Scientist_2025-0466) |
+| 🏢 **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 5h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
+| 🏢 **PennState University** | Assistant Professor in Data Journalism/Artificial Intelligence | State College, PA | 5h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Professor-in-Data-Journalism-Artificial-Intelligence_REQ_0000073726-1) |
 | 🏢 **PennState University** | Part-Time Research Assistant-Population Research Institute | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Population-Research-Institute_REQ_0000073860-1) |
 | 🏢 **PennState University** | Part-Time Grad | State College, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1) |
 | 🏢 **PennState University** | Part-Time Research Assistant - Astronomy Department | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000073928-1) |
-| 🏢 **Blueprint Technologies** | Software Engineer 1 | Bellevue, WA | 11h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/7271702) |
+| 🏢 **Blueprint Technologies** | Software Engineer 1 | Bellevue, WA | 12h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/7271702) |
 | 🏢 **Magna** | Student Engineering ADAS Algorithm | Lowell, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Product-Engineering_R00221215) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6a543e11-e135-4888-8f5b-de7e2a356e23/application) |
 | 🏢 **Wolters Kluwer** | Associate Product Software Engineer | Waltham, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Associate-Product-Software-Engineer_R0052913) |
@@ -240,8 +239,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 25 | 38% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 62% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 24 | 37% | No or minimal experience |
+| 🟡 Beginner & Early Career | 41 | 63% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -262,7 +261,7 @@
 #### 💻 Software Engineering (31 positions)
 🔴 Oracle • 🏢 Chevron Corporation • 🏢 Argonne National Laboratory
 
-#### 🧠 Machine Learning & AI (19 positions)
+#### 🧠 Machine Learning & AI (18 positions)
 🏢 FocusKPI • 🏢 PennState University • 🎬 TikTok
 
 #### 📊 Data Science & Analytics (8 positions)
@@ -281,7 +280,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 66 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 65 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -370,7 +369,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 66 current opportunities from 261 companies**
+**🎯 65 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
