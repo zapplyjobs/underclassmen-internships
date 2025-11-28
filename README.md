@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-105-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-113-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 58 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 66 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 58
+- **🔥 Current Positions**: 66
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 9 premium opportunities
 - **📅 Last Updated**: November 28, 2025
@@ -130,10 +130,11 @@
 | 📦 **Amazon** | Agentic AI Teacher - Agi Ds | Boston, MA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132844/agentic-ai-teacher-agi-ds) |
 | 🎬 **ByteDance** | Machine Learning Graduate - 2026 Start | Seattle, WA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7542674819873081608/detail) |
 
-### 🏢 **Top Tech** (1 positions)
+### 🏢 **Top Tech** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 0h ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
 | 🔴 **Oracle** | PhD Applied Scientist - Oracle Health & Analytics | United States, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/317554) |
 
 ### 🚀 **Startups & Growth** (1 positions)
@@ -157,10 +158,18 @@
 | 🏢 **Leidos** | Residential Technical Reviewer | Peoria, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Peoria-IL/Residential-Technical-Reviewer_R-00171066-1) |
 | 🏢 **Leidos** | Software Systems Engineer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Systems-Engineer_R-00171075) |
 
-### 🏢 **Other Companies** (41 positions)
+### 🏢 **Other Companies** (48 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Snyk** | Strategic Analytics Associate | Boston, MA | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Strategic-Analytics-Associate_JR100179) |
+| 🏢 **Chevron Corporation** | Earth Scientist | Houston, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567) |
+| 🏢 **CoxHealth** | Financial Data Analyst - Budget and Finance | Springfield, MO | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Financial-Data-Analyst---Budget-and-Finance_R10717) |
+| 🏢 **Argonne National Laboratory** | W.J. Cody Associates | Woodridge, IL | 0h ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/WJ-Cody-Associates_414348) |
+| 🏢 **Argonne National Laboratory** | Graduate Research Aide - Nuclear Engineering | Woodridge, IL | 0h ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425) |
+| 🏢 **Argonne National Laboratory** | Givens Associates | Woodridge, IL | 0h ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Givens-Associates_414347) |
+| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Design-and-Synchrotron-Characterization-for-Freeze-Induced-Ion-Separation_421467-1) |
+| 🏢 **Cisive** | Software Developer | Maryland, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
 | 🏢 **FocusKPI** | AI Engineer Trainee | Remote in USA, Locations | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://focuskpi.applytojob.com/apply/8wVLzr3Ubt/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding) |
 | 🏢 **CLEAR** | Software Engineer – New Grad - Web | NYC, Locations | 4h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430253) |
 | 🏢 **CLEAR** | Software Engineer, New Grad, Backend | New York, NY | 11h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7403318) |
@@ -176,7 +185,6 @@
 | 🏢 **Magna** | Student Engineering ADAS Algorithm | Lowell, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Product-Engineering_R00221215) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6a543e11-e135-4888-8f5b-de7e2a356e23/application) |
 | 🏢 **Wolters Kluwer** | Associate Product Software Engineer | Waltham, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Associate-Product-Software-Engineer_R0052913) |
-| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Design-and-Synchrotron-Characterization-for-Freeze-Induced-Ion-Separation_421467-1) |
 | 🏢 **Reevo** | Builder – New Grad - AI Engineer | SF, Locations | 1d ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/reevo/2a1f4f7f-86d3-41f4-bda1-3867ff82eb0d/application) |
 | 🏢 **Manulife Financial** | Data Analyst - International Group Program | Massachusetts, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/USA-Massachusetts---Full-Time-Remote/Data-Analyst---International-Group-Program_JR25050035-3) |
 | 🏢 **Medtronic** | Front-end Software Engineer 1 | Northridge, LA | 1d ago | Mid-Level | Frontend Development | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Front-end-Software-Engineer-I_R53681) |
@@ -232,33 +240,33 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 20 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 38 | 66% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 25 | 38% | No or minimal experience |
+| 🟡 Beginner & Early Career | 41 | 62% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Boston, MA**: 9 positions
+- **Boston, MA**: 10 positions
 - **State College, PA**: 5 positions
+- **Woodridge, IL**: 4 positions
+- **United States, Locations**: 3 positions
 - **NYC, Locations**: 3 positions
 - **Mountain View, CA**: 3 positions
 - **Remote in USA, Locations**: 2 positions
 - **New York, NY**: 2 positions
-- **Seattle, WA**: 2 positions
-- **San Jose, CA**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (25 positions)
-🏢 CLEAR • 🏢 Astemo • 🏢 Ashland
+#### 💻 Software Engineering (31 positions)
+🔴 Oracle • 🏢 Chevron Corporation • 🏢 Argonne National Laboratory
 
 #### 🧠 Machine Learning & AI (19 positions)
 🏢 FocusKPI • 🏢 PennState University • 🎬 TikTok
 
-#### 📊 Data Science & Analytics (6 positions)
-🏢 Booz Allen • 🔴 Oracle • 🏢 Manulife Financial
+#### 📊 Data Science & Analytics (8 positions)
+🏢 Snyk • 🏢 CoxHealth • 🏢 Booz Allen
 
 #### 🎨 Frontend Development (6 positions)
 🏢 Reevo • 🏢 Medtronic • 🏢 TrueBuilt
@@ -273,7 +281,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 58 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 66 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -362,7 +370,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 58 current opportunities from 261 companies**
+**🎯 66 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
