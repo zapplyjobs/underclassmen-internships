@@ -132,7 +132,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Booz Allen** | University Data Scientist - Data Scientist | McLean, VA | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081) |
+| 🏢 **Booz Allen** | University Data Scientist - Data Scientist | McLean, VA | 23h ago | Mid-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081) |
 
 ### 🛒 **Consumer & E-Commerce** (2 positions)
 
@@ -152,10 +152,10 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Arlington County VA** | Engineering Support Associate | Arlington, VA | 0h ago | Entry-Level | Software Engineering | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167) |
-| 🏢 **Newfront Insurance** | Software Engineer | United States, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/newfront/6e7a8110-b040-4a99-bc11-25a88727c31f/application) |
+| 🏢 **Newfront Insurance** | Software Engineer | United States, Locations | 1h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/newfront/6e7a8110-b040-4a99-bc11-25a88727c31f/application) |
 | 🏢 **PennState University** | Postdoctoral Researcher Positions at Penn State Center for Exoplanets and Habitable Worlds | State College, PA | 1h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1) |
-| 🏢 **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 22h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
-| 🏢 **PennState University** | Assistant Professor in Data Journalism/Artificial Intelligence | State College, PA | 22h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Professor-in-Data-Journalism-Artificial-Intelligence_REQ_0000073726-1) |
+| 🏢 **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 23h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
+| 🏢 **PennState University** | Assistant Professor in Data Journalism/Artificial Intelligence | State College, PA | 23h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Professor-in-Data-Journalism-Artificial-Intelligence_REQ_0000073726-1) |
 | 🏢 **PennState University** | Part-Time Research Assistant-Population Research Institute | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Population-Research-Institute_REQ_0000073860-1) |
 | 🏢 **PennState University** | Part-Time Grad | State College, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1) |
 | 🏢 **PennState University** | Part-Time Research Assistant - Astronomy Department | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000073928-1) |
@@ -171,8 +171,8 @@
 | 🏢 **CLEAR** | Software Engineer – New Grad - Web | NYC, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430253) |
 | 🏢 **CLEAR** | Software Engineer, New Grad, Backend | New York, NY | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7403318) |
 | 🏢 **CLEAR** | Software Engineer, New Grad, Fullstack | New York, NY | 1d ago | Entry-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430247) |
-| 🏢 **Astemo** | Graduate Engineering Development Program | Southfield, MI | 22h ago | Entry-Level | Software Engineering | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868) |
-| 🏢 **Ashland** | Entry Level Technical Service Scientist | Wilmington, DE | 22h ago | Entry-Level | Software Engineering | [Apply](https://ashland.wd12.myworkdayjobs.com/AshlandCareers1/job/US-DE-WILMINGTON/Technical-Service-Scientist_2025-0466) |
+| 🏢 **Astemo** | Graduate Engineering Development Program | Southfield, MI | 23h ago | Entry-Level | Software Engineering | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868) |
+| 🏢 **Ashland** | Entry Level Technical Service Scientist | Wilmington, DE | 23h ago | Entry-Level | Software Engineering | [Apply](https://ashland.wd12.myworkdayjobs.com/AshlandCareers1/job/US-DE-WILMINGTON/Technical-Service-Scientist_2025-0466) |
 | 🏢 **Blueprint Technologies** | Software Engineer 1 | Bellevue, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/7271702) |
 | 🏢 **Magna** | Student Engineering ADAS Algorithm | Lowell, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Product-Engineering_R00221215) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/6a543e11-e135-4888-8f5b-de7e2a356e23/application) |
