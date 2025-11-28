@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-92-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-93-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 45 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 46 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 45
+- **🔥 Current Positions**: 46
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 28, 2025
@@ -125,7 +125,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 17h ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
+| 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 18h ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
 | 🔴 **Oracle** | PhD Applied Scientist - Oracle Health & Analytics | United States, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/317554) |
 
 ### 🚀 **Startups & Growth** (1 positions)
@@ -147,18 +147,19 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Leidos** | Residential Technical Reviewer | Peoria, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Peoria-IL/Residential-Technical-Reviewer_R-00171066-1) |
 
-### 🏢 **Other Companies** (38 positions)
+### 🏢 **Other Companies** (39 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Arlington County VA** | Engineering Support Associate | Arlington, VA | 0h ago | Entry-Level | Software Engineering | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167) |
 | 🏢 **Newfront Insurance** | Software Engineer | United States, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/newfront/6e7a8110-b040-4a99-bc11-25a88727c31f/application) |
-| 🏢 **PennState University** | Postdoctoral Researcher Positions at Penn State Center for Exoplanets and Habitable Worlds | State College, PA | 0h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1) |
+| 🏢 **PennState University** | Postdoctoral Researcher Positions at Penn State Center for Exoplanets and Habitable Worlds | State College, PA | 1h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1) |
 | 🏢 **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 22h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
 | 🏢 **PennState University** | Assistant Professor in Data Journalism/Artificial Intelligence | State College, PA | 22h ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Professor-in-Data-Journalism-Artificial-Intelligence_REQ_0000073726-1) |
 | 🏢 **PennState University** | Part-Time Research Assistant-Population Research Institute | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Population-Research-Institute_REQ_0000073860-1) |
 | 🏢 **PennState University** | Part-Time Grad | State College, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1) |
 | 🏢 **PennState University** | Part-Time Research Assistant - Astronomy Department | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000073928-1) |
-| 🏢 **Snyk** | Strategic Analytics Associate | Boston, MA | 17h ago | Entry-Level | Data Science & Analytics | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Strategic-Analytics-Associate_JR100179) |
+| 🏢 **Snyk** | Strategic Analytics Associate | Boston, MA | 18h ago | Entry-Level | Data Science & Analytics | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Strategic-Analytics-Associate_JR100179) |
 | 🏢 **Chevron Corporation** | Earth Scientist | Houston, TX | 18h ago | Mid-Level | Software Engineering | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567) |
 | 🏢 **CoxHealth** | Financial Data Analyst - Budget and Finance | Springfield, MO | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Financial-Data-Analyst---Budget-and-Finance_R10717) |
 | 🏢 **Argonne National Laboratory** | W.J. Cody Associates | Woodridge, IL | 18h ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/WJ-Cody-Associates_414348) |
@@ -167,7 +168,7 @@
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Design-and-Synchrotron-Characterization-for-Freeze-Induced-Ion-Separation_421467-1) |
 | 🏢 **Cisive** | Software Developer | Maryland, Locations | 18h ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
 | 🏢 **FocusKPI** | AI Engineer Trainee | Remote in USA, Locations | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://focuskpi.applytojob.com/apply/8wVLzr3Ubt/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding) |
-| 🏢 **CLEAR** | Software Engineer – New Grad - Web | NYC, Locations | 21h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430253) |
+| 🏢 **CLEAR** | Software Engineer – New Grad - Web | NYC, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430253) |
 | 🏢 **CLEAR** | Software Engineer, New Grad, Backend | New York, NY | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7403318) |
 | 🏢 **CLEAR** | Software Engineer, New Grad, Fullstack | New York, NY | 1d ago | Entry-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430247) |
 | 🏢 **Astemo** | Graduate Engineering Development Program | Southfield, MI | 22h ago | Entry-Level | Software Engineering | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868) |
@@ -219,8 +220,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 21 | 47% | No or minimal experience |
-| 🟡 Beginner & Early Career | 24 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 22 | 48% | No or minimal experience |
+| 🟡 Beginner & Early Career | 24 | 52% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -238,8 +239,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (27 positions)
-🏢 Newfront Insurance • 🏢 PennState University • 🔴 Oracle
+#### 💻 Software Engineering (28 positions)
+🏢 Arlington County VA • 🏢 Newfront Insurance • 🏢 PennState University
 
 #### 🧠 Machine Learning & AI (8 positions)
 🏢 FocusKPI • 🏢 PennState University • 🎬 TikTok
@@ -260,7 +261,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 45 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 46 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -349,7 +350,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 45 current opportunities from 261 companies**
+**🎯 46 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
