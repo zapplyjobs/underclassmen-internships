@@ -134,7 +134,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 0h ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
+| 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
 | 🔴 **Oracle** | PhD Applied Scientist - Oracle Health & Analytics | United States, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/317554) |
 
 ### 🚀 **Startups & Growth** (1 positions)
