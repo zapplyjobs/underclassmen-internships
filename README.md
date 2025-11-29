@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-77-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-75-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 30 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 28 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 30
+- **🔥 Current Positions**: 28
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 29, 2025
@@ -119,20 +119,13 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
+| 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
 
 ### 🚀 **Startups & Growth** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Booz Allen** | University Data Scientist - Data Scientist | McLean, VA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081) |
-
-### 🛒 **Consumer & E-Commerce** (2 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🎬 **TikTok** | Graduate Engineer - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US | Seattle, WA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7533377193083177234) |
-| 🎬 **TikTok** | Research Engineer Graduate - Ads ML Infrastructure - PhD | San Jose, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7559990747538671879) |
 
 ### 🏢 **Other Companies** (26 positions)
 
@@ -145,14 +138,14 @@
 | 🏢 **IBC Bank** | Power BI Developer 1 | San Antonio, TX | 5h ago | Mid-Level | Software Engineering | [Apply](https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/San-Antonio-TX/Power-BI-Developer-I_R14897) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 5h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/be6d20e8-8a59-45d5-9ac1-a735b2dcb27d/application) |
 | 🏢 **Circle** | New Grad Software Engineer - Backend 2026 | Salt Lake City, UT | 5h ago | Entry-Level | Backend Development | [Apply](https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1) |
-| 🏢 **Arlington County VA** | Engineering Support Associate | Arlington, VA | 5h ago | Entry-Level | Software Engineering | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167) |
+| 🏢 **Arlington County VA** | Engineering Support Associate | Arlington, VA | 6h ago | Entry-Level | Software Engineering | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167) |
 | 🏢 **Newfront Insurance** | Software Engineer | United States, Locations | 6h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/newfront/6e7a8110-b040-4a99-bc11-25a88727c31f/application) |
 | 🏢 **PennState University** | Postdoctoral Researcher Positions at Penn State Center for Exoplanets and Habitable Worlds | State College, PA | 6h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1) |
 | 🏢 **PennState University** | Postdoctoral Scholar-Neutrino Physics | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
 | 🏢 **PennState University** | Assistant Professor in Data Journalism/Artificial Intelligence | State College, PA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Assistant-Professor-in-Data-Journalism-Artificial-Intelligence_REQ_0000073726-1) |
-| 🏢 **Snyk** | Strategic Analytics Associate | Boston, MA | 23h ago | Entry-Level | Data Science & Analytics | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Strategic-Analytics-Associate_JR100179) |
-| 🏢 **Chevron Corporation** | Earth Scientist | Houston, TX | 23h ago | Mid-Level | Software Engineering | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567) |
-| 🏢 **CoxHealth** | Financial Data Analyst - Budget and Finance | Springfield, MO | 23h ago | Mid-Level | Data Science & Analytics | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Financial-Data-Analyst---Budget-and-Finance_R10717) |
+| 🏢 **Snyk** | Strategic Analytics Associate | Boston, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Strategic-Analytics-Associate_JR100179) |
+| 🏢 **Chevron Corporation** | Earth Scientist | Houston, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567) |
+| 🏢 **CoxHealth** | Financial Data Analyst - Budget and Finance | Springfield, MO | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Financial-Data-Analyst---Budget-and-Finance_R10717) |
 | 🏢 **Argonne National Laboratory** | W.J. Cody Associates | Woodridge, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/WJ-Cody-Associates_414348) |
 | 🏢 **Argonne National Laboratory** | Graduate Research Aide - Nuclear Engineering | Woodridge, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425) |
 | 🏢 **Argonne National Laboratory** | Givens Associates | Woodridge, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Givens-Associates_414347) |
@@ -194,8 +187,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 14 | 47% | No or minimal experience |
-| 🟡 Beginner & Early Career | 16 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 12 | 43% | No or minimal experience |
+| 🟡 Beginner & Early Career | 16 | 57% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -219,11 +212,11 @@
 #### 📊 Data Science & Analytics (5 positions)
 🏢 General Dynamics Information Technology • 🏢 Bass Pro Shops • 🏢 Snyk
 
-#### 🧠 Machine Learning & AI (4 positions)
-🏢 FocusKPI • 🏢 PennState University • 🎬 TikTok
-
 #### ⚙️ Backend Development (2 positions)
 🏢 Circle • 🏢 CLEAR
+
+#### 🧠 Machine Learning & AI (2 positions)
+🏢 FocusKPI • 🏢 PennState University
 
 #### 🌐 Full Stack Development (1 positions)
 🏢 CLEAR
@@ -232,7 +225,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 30 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 28 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -321,7 +314,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 30 current opportunities from 261 companies**
+**🎯 28 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
