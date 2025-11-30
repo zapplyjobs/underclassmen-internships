@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-61-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-59-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 14 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 14
+- **🔥 Current Positions**: 12
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 30, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
-### 🏢 **Other Companies** (13 positions)
+### 🏢 **Other Companies** (11 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -136,8 +136,6 @@
 | 🏢 **Bass Pro Shops** | Data Analyst 1 | Lincoln, NE | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Lincoln-NE-Base-Camp/CLUB-Data-Analyst-I_R242594) |
 | 🏢 **Huntington Bancshares** | Technology Delivery Analyst | Columbus, OH | 1d ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067557) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/be6d20e8-8a59-45d5-9ac1-a735b2dcb27d/application) |
-| 🏢 **Circle** | New Grad Software Engineer - Backend 2026 | Salt Lake City, UT | 1d ago | Entry-Level | Backend Development | [Apply](https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1) |
-| 🏢 **Arlington County VA** | Engineering Support Associate | Arlington, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167) |
 
 
 
@@ -168,8 +166,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 29% | No or minimal experience |
-| 🟡 Beginner & Early Career | 10 | 71% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 2 | 17% | No or minimal experience |
+| 🟡 Beginner & Early Career | 10 | 83% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -187,20 +185,17 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (9 positions)
+#### 💻 Software Engineering (8 positions)
 🏢 Citi • 🏢 Magna • 💰 Affirm
 
 #### 📊 Data Science & Analytics (4 positions)
 🏢 Citi • 🏢 Select Milk Producers  • 🏢 General Dynamics Information Technology
 
-#### ⚙️ Backend Development (1 positions)
-🏢 Circle
-
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 14 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 12 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -289,7 +284,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 14 current opportunities from 261 companies**
+**🎯 12 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
