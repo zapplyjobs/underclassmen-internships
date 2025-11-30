@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-65-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-64-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 18 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 17 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,10 +69,10 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 18
+- **🔥 Current Positions**: 17
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
-- **📅 Last Updated**: November 29, 2025
+- **📅 Last Updated**: November 30, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
@@ -121,12 +121,12 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
 
-### 🏢 **Other Companies** (17 positions)
+### 🏢 **Other Companies** (16 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **CVS Health** | Application Developer | Arizona, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420) |
-| 🏢 **General Dynamics Information Technology** | Data Scientist | Tampa, FL | 23h ago | Mid-Level | Data Science & Analytics | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist--On-site-in-Tampa--FL-_RQ210904-1) |
+| 🏢 **CVS Health** | Application Developer | Arizona, Locations | 21h ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420) |
+| 🏢 **General Dynamics Information Technology** | Data Scientist | Tampa, FL | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist--On-site-in-Tampa--FL-_RQ210904-1) |
 | 🏢 **Bass Pro Shops** | Data Analyst 1 | Lincoln, NE | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Lincoln-NE-Base-Camp/CLUB-Data-Analyst-I_R242594) |
 | 🏢 **Huntington Bancshares** | Technology Delivery Analyst | Columbus, OH | 1d ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067557) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/be6d20e8-8a59-45d5-9ac1-a735b2dcb27d/application) |
@@ -141,7 +141,6 @@
 | 🏢 **Argonne National Laboratory** | Graduate Research Aide - Nuclear Engineering | Woodridge, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425) |
 | 🏢 **Cisive** | Software Developer | Maryland, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
 | 🏢 **FocusKPI** | AI Engineer Trainee | Remote in USA, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://focuskpi.applytojob.com/apply/8wVLzr3Ubt/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding) |
-| 🏢 **CLEAR** | Software Engineer – New Grad - Web | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/clear/jobs/7430253) |
 
 
 
@@ -172,8 +171,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 39% | No or minimal experience |
-| 🟡 Beginner & Early Career | 11 | 61% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 6 | 35% | No or minimal experience |
+| 🟡 Beginner & Early Career | 11 | 65% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -191,7 +190,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (12 positions)
+#### 💻 Software Engineering (11 positions)
 🏢 CVS Health • 🏢 Huntington Bancshares • 🏢 Jerry
 
 #### 📊 Data Science & Analytics (4 positions)
@@ -207,7 +206,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 18 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 17 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -296,7 +295,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 18 current opportunities from 261 companies**
+**🎯 17 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -304,6 +303,6 @@ No archived jobs available.
 
 ---
 
-**Last Updated**: November 29, 2025 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: November 30, 2025 • **Next Update**: Daily at 9 AM UTC
 
 </div>
