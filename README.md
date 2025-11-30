@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-64-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-58-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 17 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 11 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 17
+- **🔥 Current Positions**: 11
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 30, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🔴 **Oracle** | Java Student Developer Advocate | United States, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239) |
 
-### 🏢 **Other Companies** (16 positions)
+### 🏢 **Other Companies** (10 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -135,12 +135,6 @@
 | 🏢 **Newfront Insurance** | Software Engineer | United States, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/newfront/6e7a8110-b040-4a99-bc11-25a88727c31f/application) |
 | 🏢 **PennState University** | Postdoctoral Researcher Positions at Penn State Center for Exoplanets and Habitable Worlds | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1) |
 | 🏢 **Snyk** | Strategic Analytics Associate | Boston, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Strategic-Analytics-Associate_JR100179) |
-| 🏢 **Chevron Corporation** | Earth Scientist | Houston, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2024-2025-Earth-Scientist-Full-Time_R000064567) |
-| 🏢 **CoxHealth** | Financial Data Analyst - Budget and Finance | Springfield, MO | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Financial-Data-Analyst---Budget-and-Finance_R10717) |
-| 🏢 **Argonne National Laboratory** | W.J. Cody Associates | Woodridge, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/WJ-Cody-Associates_414348) |
-| 🏢 **Argonne National Laboratory** | Graduate Research Aide - Nuclear Engineering | Woodridge, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425) |
-| 🏢 **Cisive** | Software Developer | Maryland, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
-| 🏢 **FocusKPI** | AI Engineer Trainee | Remote in USA, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://focuskpi.applytojob.com/apply/8wVLzr3Ubt/AI-Engineer-Trainee-Remote-Experience-With-AI-Coding) |
 
 
 
@@ -171,42 +165,39 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 6 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 11 | 65% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 4 | 36% | No or minimal experience |
+| 🟡 Beginner & Early Career | 7 | 64% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **United States, Locations**: 2 positions
-- **Woodridge, IL**: 2 positions
 - **Arizona, Locations**: 1 positions
 - **Tampa, FL**: 1 positions
 - **Lincoln, NE**: 1 positions
 - **Columbus, OH**: 1 positions
 - **Palo Alto, CA**: 1 positions
 - **Salt Lake City, UT**: 1 positions
+- **Arlington, VA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (11 positions)
+#### 💻 Software Engineering (7 positions)
 🏢 CVS Health • 🏢 Huntington Bancshares • 🏢 Jerry
 
-#### 📊 Data Science & Analytics (4 positions)
+#### 📊 Data Science & Analytics (3 positions)
 🏢 General Dynamics Information Technology • 🏢 Bass Pro Shops • 🏢 Snyk
 
 #### ⚙️ Backend Development (1 positions)
 🏢 Circle
 
-#### 🧠 Machine Learning & AI (1 positions)
-🏢 FocusKPI
-
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 17 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 11 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -295,7 +286,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 17 current opportunities from 261 companies**
+**🎯 11 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
