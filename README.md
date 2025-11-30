@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-59-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-61-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 14 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 12
+- **🔥 Current Positions**: 14
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 30, 2025
@@ -119,14 +119,17 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
+| 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
-### 🏢 **Other Companies** (11 positions)
+### 🏢 **Other Companies** (13 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
-| 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 3h ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
+| 🏢 **Citi** | Technology - Application Development - Full Time Analyst | Tampa, FL | 0h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348) |
+| 🏢 **Citi** | Reference Data Analyst | Cheektowaga, NY | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Reference-Data-Analyst_25922156) |
+| 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 0h ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
+| 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 4h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
+| 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 4h ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
 | 🏢 **Select Milk Producers ** | Data Analyst 1 | Winona, MN | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
 | 🏢 **CVS Health** | Application Developer | Arizona, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420) |
 | 🏢 **General Dynamics Information Technology** | Data Scientist | Tampa, FL | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist--On-site-in-Tampa--FL-_RQ210904-1) |
@@ -135,7 +138,6 @@
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/be6d20e8-8a59-45d5-9ac1-a735b2dcb27d/application) |
 | 🏢 **Circle** | New Grad Software Engineer - Backend 2026 | Salt Lake City, UT | 1d ago | Entry-Level | Backend Development | [Apply](https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/New-Grad-Software-Engineer--Backend-2024_JR100011-1) |
 | 🏢 **Arlington County VA** | Engineering Support Associate | Arlington, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1167) |
-| 🏢 **Newfront Insurance** | Software Engineer | United States, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/newfront/6e7a8110-b040-4a99-bc11-25a88727c31f/application) |
 
 
 
@@ -166,30 +168,30 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 33% | No or minimal experience |
-| 🟡 Beginner & Early Career | 8 | 67% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 4 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 10 | 71% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Tampa, FL**: 2 positions
+- **Goleta, CA**: 1 positions
+- **Cheektowaga, NY**: 1 positions
 - **NYC, Locations**: 1 positions
 - **Long Beach, CA**: 1 positions
 - **Corpus Christi, TX**: 1 positions
 - **Winona, MN**: 1 positions
 - **Arizona, Locations**: 1 positions
-- **Tampa, FL**: 1 positions
-- **Lincoln, NE**: 1 positions
-- **Columbus, OH**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (8 positions)
-💰 Affirm • 🏢 True Anomaly • 🏢 Texas A&M University - Corpus Christi
+#### 💻 Software Engineering (9 positions)
+🏢 Citi • 🏢 Magna • 💰 Affirm
 
-#### 📊 Data Science & Analytics (3 positions)
-🏢 Select Milk Producers  • 🏢 General Dynamics Information Technology • 🏢 Bass Pro Shops
+#### 📊 Data Science & Analytics (4 positions)
+🏢 Citi • 🏢 Select Milk Producers  • 🏢 General Dynamics Information Technology
 
 #### ⚙️ Backend Development (1 positions)
 🏢 Circle
@@ -198,7 +200,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 12 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 14 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -287,7 +289,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 12 current opportunities from 261 companies**
+**🎯 14 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
