@@ -41,6 +41,8 @@ coverage/
 *.old.*
 *.bak
 *~
+*_backup.*
+*_pre_*_backup.*
 
 # Temporary files
 *.tmp
