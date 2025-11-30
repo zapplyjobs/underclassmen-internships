@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Select Milk Producers ** | Data Analyst 1 | Winona, MN | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
+| 🏢 **Select Milk Producers ** | Data Analyst 1 | Winona, MN | 6h ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
 | 🏢 **CVS Health** | Application Developer | Arizona, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420) |
 | 🏢 **General Dynamics Information Technology** | Data Scientist | Tampa, FL | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist--On-site-in-Tampa--FL-_RQ210904-1) |
 | 🏢 **Bass Pro Shops** | Data Analyst 1 | Lincoln, NE | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Lincoln-NE-Base-Camp/CLUB-Data-Analyst-I_R242594) |
