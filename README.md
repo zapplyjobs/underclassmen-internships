@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-59-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-57-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 10 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 12
+- **🔥 Current Positions**: 10
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 30, 2025
@@ -119,23 +119,21 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
+| 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
-### 🏢 **Other Companies** (11 positions)
+### 🏢 **Other Companies** (9 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Citi** | Technology - Application Development - Full Time Analyst | Tampa, FL | 1h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348) |
 | 🏢 **Citi** | Reference Data Analyst | Cheektowaga, NY | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Reference-Data-Analyst_25922156) |
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 1h ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
-| 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 4h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
-| 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 4h ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
+| 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 5h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
+| 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 5h ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
 | 🏢 **Select Milk Producers ** | Data Analyst 1 | Winona, MN | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
 | 🏢 **CVS Health** | Application Developer | Arizona, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420) |
 | 🏢 **General Dynamics Information Technology** | Data Scientist | Tampa, FL | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist--On-site-in-Tampa--FL-_RQ210904-1) |
 | 🏢 **Bass Pro Shops** | Data Analyst 1 | Lincoln, NE | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Lincoln-NE-Base-Camp/CLUB-Data-Analyst-I_R242594) |
-| 🏢 **Huntington Bancshares** | Technology Delivery Analyst | Columbus, OH | 1d ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067557) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/be6d20e8-8a59-45d5-9ac1-a735b2dcb27d/application) |
 
 
 
@@ -166,8 +164,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 10 | 83% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 2 | 20% | No or minimal experience |
+| 🟡 Beginner & Early Career | 8 | 80% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -185,7 +183,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (8 positions)
+#### 💻 Software Engineering (6 positions)
 🏢 Citi • 🏢 Magna • 💰 Affirm
 
 #### 📊 Data Science & Analytics (4 positions)
@@ -195,7 +193,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 12 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 10 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -284,7 +282,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 12 current opportunities from 261 companies**
+**🎯 10 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
