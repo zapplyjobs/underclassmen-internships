@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-73-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-74-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 26 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 27 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 26
+- **🔥 Current Positions**: 27
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 1, 2025
@@ -126,16 +126,17 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💰 **Affirm** | Software Engineer, Early Career | San Francisco, CA | 5h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
+| 💰 **Affirm** | Software Engineer, Early Career | San Francisco, CA | 6h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
-### 🏢 **Other Companies** (22 positions)
+### 🏢 **Other Companies** (23 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Huntington Bancshares** | Technology Delivery Analyst | Columbus, OH | 0h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067553) |
+| 🏢 **GE Vernova** | Radiological Engineer | Wilmington, NC | 0h ago | Mid-Level | Software Engineering | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/Radiological-Engineer_R5024530-1) |
+| 🏢 **Huntington Bancshares** | Technology Delivery Analyst | Columbus, OH | 1h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067553) |
 | 🏢 **Geico** | RAD Business Systems Analyst | Bethesda, MD | 3h ago | Mid-Level | Software Engineering | [Apply](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/RAD-Business-Systems-Analyst_R0059698) |
-| 🏢 **RTX** | Systems Engineer 1 | Fulton, MD | 3h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Systems-Engineer-I--Onsite-_01801525) |
+| 🏢 **RTX** | Systems Engineer 1 | Fulton, MD | 4h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Systems-Engineer-I--Onsite-_01801525) |
 | 🏢 **RTX** | Fleet Data Management Customer Data Analyst | Hartford, CT | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/F135-Fleet-Data-Management-Customer-Data-Analyst----Onsite-_01805732) |
 | 🏢 **Cummins** | AI/ML Systems Engineer | Columbus, IN | 5h ago | Mid-Level | Machine Learning & AI | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409) |
 | 🏢 **Citi** | Technology - Application Development - Full-Time Analyst | NYC, Locations | 5h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-New-Jersey---USA--2026_25920349) |
@@ -144,7 +145,7 @@
 | 🏢 **Citi** | Reference Data Analyst | Cheektowaga, NY | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Reference-Data-Analyst_25922156) |
 | 🏢 **Emerson Electric** | Software Engineer | Austin, TX | 5h ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028581) |
 | 🏢 **CTEH** | Field Data Specialist | Webster, TX | 5h ago | Mid-Level | Software Engineering | [Apply](https://montrose.wd1.myworkdayjobs.com/cteh/job/USA-AR-Little-Rock--Northshore-Dr/Field-Data-Specialist_R7641) |
-| 🏢 **Strata Decision Technology** | Analyst – Data Integration | Chicago, IL | 15h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/stratacareers/jobs/7542763003) |
+| 🏢 **Strata Decision Technology** | Analyst – Data Integration | Chicago, IL | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/stratacareers/jobs/7542763003) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 16h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061) |
 | 🏢 **Proofpoint** | People Data Analyst | Pittsburgh, PA | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/People-Data-Analyst_R13109) |
 | 🏢 **Brookhaven Lab** | Postdoctoral Research Associate | Shirley, NY | 17h ago | Entry-Level | Software Engineering | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR101323) |
@@ -185,8 +186,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 27% | No or minimal experience |
-| 🟡 Beginner & Early Career | 19 | 73% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 26% | No or minimal experience |
+| 🟡 Beginner & Early Career | 20 | 74% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -194,18 +195,18 @@
 ## 🌍 Top Locations
 - **NYC, Locations**: 3 positions
 - **Austin, TX**: 2 positions
+- **Wilmington, NC**: 1 positions
 - **Columbus, OH**: 1 positions
 - **Bethesda, MD**: 1 positions
 - **Fulton, MD**: 1 positions
 - **Columbus, IN**: 1 positions
 - **Webster, TX**: 1 positions
-- **San Francisco, CA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (21 positions)
-🏢 Huntington Bancshares • 🏢 Geico • 🏢 RTX
+#### 💻 Software Engineering (22 positions)
+🏢 GE Vernova • 🏢 Huntington Bancshares • 🏢 Geico
 
 #### 📊 Data Science & Analytics (4 positions)
 🏢 Proofpoint • 🏢 Citi • 🏢 RTX
@@ -217,7 +218,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 26 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 27 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -306,7 +307,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 26 current opportunities from 261 companies**
+**🎯 27 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
