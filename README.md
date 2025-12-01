@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-62-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-63-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 15 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 16 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 15
+- **🔥 Current Positions**: 16
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 1, 2025
@@ -122,10 +122,11 @@
 | 🎮 **NVIDIA** | Developer Technology Engineer – New College Grad - Public Sector | Santa Clara, CA | 10h ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) |
 | 🔴 **Oracle** | Software Developer 1 | Canada, Locations | 2h ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316967) |
 
-### 💰 **Financial & Fintech** (1 positions)
+### 💰 **Financial & Fintech** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 💰 **Affirm** | Software Engineer, Early Career | San Francisco, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
 ### 🏢 **Other Companies** (12 positions)
@@ -174,27 +175,27 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 6 | 40% | No or minimal experience |
-| 🟡 Beginner & Early Career | 9 | 60% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 9 | 56% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **NYC, Locations**: 2 positions
+- **San Francisco, CA**: 1 positions
 - **Canada, Locations**: 1 positions
 - **Woodridge, IL**: 1 positions
 - **Jacksonville, FL**: 1 positions
 - **Santa Clara, CA**: 1 positions
 - **Pittsburgh, PA**: 1 positions
 - **Shirley, NY**: 1 positions
-- **Austin, TX**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (12 positions)
-🔴 Oracle • 🏢 Argonne National Laboratory • 🏢 Citi
+#### 💻 Software Engineering (13 positions)
+💰 Affirm • 🔴 Oracle • 🏢 Argonne National Laboratory
 
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Proofpoint • 🏢 Citi • 🏢 Select Milk Producers 
@@ -203,7 +204,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 15 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 16 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -292,7 +293,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 15 current opportunities from 261 companies**
+**🎯 16 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
