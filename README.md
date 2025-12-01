@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-66-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-67-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 19 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 20 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 19
+- **🔥 Current Positions**: 20
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 1, 2025
@@ -126,13 +126,14 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💰 **Affirm** | Software Engineer, Early Career | San Francisco, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
+| 💰 **Affirm** | Software Engineer, Early Career | San Francisco, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 20h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
-### 🏢 **Other Companies** (15 positions)
+### 🏢 **Other Companies** (16 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Cummins** | AI/ML Systems Engineer | Columbus, IN | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409) |
 | 🏢 **Citi** | Technology - Application Development - Full-Time Analyst | NYC, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-New-Jersey---USA--2026_25920349) |
 | 🏢 **Citi** | Technology - Application Development | Jacksonville, FL | 11h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581) |
 | 🏢 **Citi** | Technology - Application Development - Full Time Analyst | Tampa, FL | 20h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348) |
@@ -178,8 +179,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 37% | No or minimal experience |
-| 🟡 Beginner & Early Career | 12 | 63% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 35% | No or minimal experience |
+| 🟡 Beginner & Early Career | 13 | 65% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -187,12 +188,12 @@
 ## 🌍 Top Locations
 - **NYC, Locations**: 3 positions
 - **Austin, TX**: 2 positions
+- **Columbus, IN**: 1 positions
 - **Webster, TX**: 1 positions
 - **San Francisco, CA**: 1 positions
 - **Canada, Locations**: 1 positions
 - **Woodridge, IL**: 1 positions
 - **Jacksonville, FL**: 1 positions
-- **Santa Clara, CA**: 1 positions
 
 ---
 
@@ -203,11 +204,14 @@
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Proofpoint • 🏢 Citi • 🏢 Select Milk Producers 
 
+#### 🧠 Machine Learning & AI (1 positions)
+🏢 Cummins
+
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 19 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 20 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -296,7 +300,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 19 current opportunities from 261 companies**
+**🎯 20 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
