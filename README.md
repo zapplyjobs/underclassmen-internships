@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 4h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
+| 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 5h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
 ### 🏢 **Other Companies** (9 positions)
 
@@ -130,9 +130,9 @@
 | 🏢 **Citi** | Technology - Application Development - Full Time Analyst | Tampa, FL | 4h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348) |
 | 🏢 **Citi** | Reference Data Analyst | Cheektowaga, NY | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Reference-Data-Analyst_25922156) |
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 4h ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
-| 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 7h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
-| 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 7h ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
-| 🏢 **Select Milk Producers ** | Data Analyst 1 | Winona, MN | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
+| 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 8h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
+| 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 8h ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
+| 🏢 **Select Milk Producers ** | Data Analyst 1 | Winona, MN | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
 | 🏢 **CVS Health** | Application Developer | Arizona, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Application-Developer_R0707420) |
 
 
