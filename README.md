@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-63-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-66-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 16 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 19 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 16
+- **🔥 Current Positions**: 19
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 1, 2025
@@ -129,18 +129,21 @@
 | 💰 **Affirm** | Software Engineer, Early Career | San Francisco, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 20h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 
-### 🏢 **Other Companies** (12 positions)
+### 🏢 **Other Companies** (15 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 11h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061) |
+| 🏢 **Citi** | Technology - Application Development - Full-Time Analyst | NYC, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-New-Jersey---USA--2026_25920349) |
 | 🏢 **Citi** | Technology - Application Development | Jacksonville, FL | 11h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581) |
 | 🏢 **Citi** | Technology - Application Development - Full Time Analyst | Tampa, FL | 19h ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348) |
-| 🏢 **Citi** | Reference Data Analyst | Cheektowaga, NY | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Reference-Data-Analyst_25922156) |
+| 🏢 **Citi** | Reference Data Analyst | Cheektowaga, NY | 20h ago | Mid-Level | Data Science & Analytics | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Reference-Data-Analyst_25922156) |
+| 🏢 **Emerson Electric** | Software Engineer | Austin, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028581) |
+| 🏢 **CTEH** | Field Data Specialist | Webster, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://montrose.wd1.myworkdayjobs.com/cteh/job/USA-AR-Little-Rock--Northshore-Dr/Field-Data-Specialist_R7641) |
+| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee | Woodridge, IL | 11h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061) |
 | 🏢 **Proofpoint** | People Data Analyst | Pittsburgh, PA | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/People-Data-Analyst_R13109) |
-| 🏢 **Brookhaven Lab** | Postdoctoral Research Associate | Shirley, NY | 11h ago | Entry-Level | Software Engineering | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR101323) |
+| 🏢 **Brookhaven Lab** | Postdoctoral Research Associate | Shirley, NY | 12h ago | Entry-Level | Software Engineering | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR101323) |
 | 🏢 **Morgan Stanley** | Java Developer - Associate | NYC, Locations | 16h ago | Entry-Level | Software Engineering | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825) |
-| 🏢 **University of Texas - Austin** | Research Engineering/Scientist Associate 1 | Austin, TX | 16h ago | Entry-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412) |
+| 🏢 **University of Texas - Austin** | Research Engineering/Scientist Associate 1 | Austin, TX | 17h ago | Entry-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412) |
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
 | 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 23h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
 | 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 23h ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
@@ -175,27 +178,27 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 9 | 56% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 37% | No or minimal experience |
+| 🟡 Beginner & Early Career | 12 | 63% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **NYC, Locations**: 2 positions
+- **NYC, Locations**: 3 positions
+- **Austin, TX**: 2 positions
+- **Webster, TX**: 1 positions
 - **San Francisco, CA**: 1 positions
 - **Canada, Locations**: 1 positions
 - **Woodridge, IL**: 1 positions
 - **Jacksonville, FL**: 1 positions
 - **Santa Clara, CA**: 1 positions
-- **Pittsburgh, PA**: 1 positions
-- **Shirley, NY**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (13 positions)
-💰 Affirm • 🔴 Oracle • 🏢 Argonne National Laboratory
+#### 💻 Software Engineering (16 positions)
+🏢 Citi • 🏢 Emerson Electric • 🏢 CTEH
 
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Proofpoint • 🏢 Citi • 🏢 Select Milk Producers 
@@ -204,7 +207,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 16 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 19 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -293,7 +296,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 16 current opportunities from 261 companies**
+**🎯 19 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
