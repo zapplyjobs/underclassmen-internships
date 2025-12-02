@@ -134,7 +134,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Booz Allen** | Full-Stack Developer - Junior | Huntsville, AL | 0h ago | Entry-Level | Software Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230138) |
+| 🏢 **Booz Allen** | Full-Stack Developer - Junior | Huntsville, AL | 1h ago | Entry-Level | Software Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230138) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
@@ -153,7 +153,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **CACI** | Research Data Analyst | Fort Bragg, NC | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Fort-Bragg/Research-Data-Analyst_320026) |
+| 🏢 **CACI** | Research Data Analyst | Fort Bragg, NC | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Fort-Bragg/Research-Data-Analyst_320026) |
 
 ### 🏢 **Other Companies** (41 positions)
 
@@ -163,8 +163,8 @@
 | 🏢 **LOTTE BIOLOGICS** | Associate Data Engineer | East Syracuse, NY | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/4895261008) |
 | 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 0h ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD--Li-Lab----School-of-Computer-Science_2023911) |
 | 🏢 **OneMain Financial** | Data Science Analyst | Charlotte, NC | 0h ago | Mid-Level | Software Engineering | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530) |
-| 🏢 **Medtronic** | Associate Advanced Analytics Analyst | Minneapolis, MN | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Assoc-Adv-Analytics-Analyst_R53734-1) |
-| 🏢 **City of Amarillo** | GIS Analyst 1 | Amarillo, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267) |
+| 🏢 **Medtronic** | Associate Advanced Analytics Analyst | Minneapolis, MN | 1h ago | Entry-Level | Data Science & Analytics | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Assoc-Adv-Analytics-Analyst_R53734-1) |
+| 🏢 **City of Amarillo** | GIS Analyst 1 | Amarillo, TX | 1h ago | Mid-Level | Software Engineering | [Apply](https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267) |
 | 🏢 **Corning** | Ion Exchange Development Technician | Elmira, NY | 3h ago | Mid-Level | Software Engineering | [Apply](https://corningjobs.corning.com/job/Corning-Ion-Exchange-Development-Technician-NY-14831/1345630700/?ats=successfactors) |
 | 🏢 **Fidelity Investments** | Associate Full Stack Engineer | Merrimack, NH | 4h ago | Entry-Level | Full Stack Development | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1) |
 | 🏢 **RTX** | 2026 Full-time - Java Software Engineer I - Onsite (Onsite will be removed) | State College, PA | 9h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01809812) |
@@ -175,7 +175,7 @@
 | 🏢 **Carrier Global** | Sustainability Engineer | East Syracuse, NY | 13h ago | Mid-Level | Software Engineering | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/ELP---Sustainability-Engineer_30190750) |
 | 🏢 **Comcast** | C++ Engineer - ONSITE: Chicago - IL or Denver','CO | Chicago, IL | 14h ago | Mid-Level | Software Engineering | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219) |
 | 🏢 **Lineage Logistics** | Associate Report Developer | Novi, MI | 14h ago | Entry-Level | Software Engineering | [Apply](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857) |
-| 🏢 **Amplitude** | Software Engineer 1 - Data Warehouse | SF, Locations | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8224986002) |
+| 🏢 **Amplitude** | Software Engineer 1 - Data Warehouse | SF, Locations | 17h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8224986002) |
 | 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) |
 | 🏢 **Magna** | Data Analyst | Toledo, OH | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
