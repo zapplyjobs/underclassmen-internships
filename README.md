@@ -147,15 +147,15 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **CVS Health** | Data Scientist - Retail Analytics | Needham, MA | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Scientist---Retail-Analytics_R0653105) |
+| 🏢 **Carrier Global** | Sustainability Engineer | East Syracuse, NY | 0h ago | Mid-Level | Software Engineering | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/ELP---Sustainability-Engineer_30190750) |
+| 🏢 **CVS Health** | Data Scientist - Retail Analytics | Needham, MA | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Scientist---Retail-Analytics_R0653105) |
 | 🏢 **Comcast** | C++ Engineer - ONSITE: Chicago - IL or Denver','CO | Chicago, IL | 1h ago | Mid-Level | Software Engineering | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219) |
 | 🏢 **Lineage Logistics** | Associate Report Developer | Novi, MI | 1h ago | Entry-Level | Software Engineering | [Apply](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857) |
-| 🏢 **Amplitude** | Software Engineer 1 - Data Warehouse | SF, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8224986002) |
-| 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 3h ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) |
-| 🏢 **Magna** | Data Analyst | Toledo, OH | 3h ago | Mid-Level | Data Science & Analytics | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
+| 🏢 **Amplitude** | Software Engineer 1 - Data Warehouse | SF, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8224986002) |
+| 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 4h ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) |
+| 🏢 **Magna** | Data Analyst | Toledo, OH | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
 | 🏢 **CWAN** | Financial Data Analyst | Boise, ID | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Boise-Office/Financial-Data-Analyst_R3162-2) |
-| 🏢 **Varian** | Data Analysis and Simulation Professional 2 | Morrisville, NC | 5h ago | Mid-Level | Software Engineering | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Data-Analysis-and-Simulation-Professional-2_R-24837-1) |
 | 🏢 **University of Wyoming** | Assistant Professor | Laramie, WY | 7h ago | Mid-Level | Software Engineering | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253301) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 7h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/9a0e0c96-7f02-47e6-bad9-504143f9165d/application) |
 | 🏢 **ION Group** | Software Developer - Leadership Development Program - Uniondale | Uniondale, NY | 7h ago | Senior | Software Engineering | [Apply](https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply) |
@@ -227,13 +227,13 @@
 - **San Diego, CA**: 2 positions
 - **Santa Clara, CA**: 2 positions
 - **Austin, TX**: 2 positions
-- **Needham, MA**: 1 positions
+- **East Syracuse, NY**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
 #### 💻 Software Engineering (30 positions)
-🏢 Comcast • 🏢 Lineage Logistics • 🏢 Amplitude
+🏢 Carrier Global • 🏢 Comcast • 🏢 Lineage Logistics
 
 #### 📊 Data Science & Analytics (8 positions)
 🏢 CVS Health • 🏢 Magna • 🛻 Lyft
