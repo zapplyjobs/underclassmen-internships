@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Tencent** | Associate Machine Learning Engineer | Palo Alto, CA | 7h ago | Entry-Level | Machine Learning & AI | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Engineer-Associate_R106543) |
+| 🏢 **Tencent** | Associate Machine Learning Engineer | Palo Alto, CA | 8h ago | Entry-Level | Machine Learning & AI | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Engineer-Associate_R106543) |
 
 ### 🏢 **Top Tech** (4 positions)
 
@@ -127,8 +127,8 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🎮 **NVIDIA** | Developer Technology Engineer – New College Grad - Public Sector | Santa Clara, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) |
 | 🔴 **Oracle** | Software Developer 1 | Canada, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316967) |
-| 📱 **Qualcomm** | Software Engineer - Core Platform Test - Software Engineering | San Diego, CA | 16h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://qualcomm.eightfold.ai/careers/job/446715563394) |
-| 📱 **Qualcomm** | Software Engineer - Platform Test - Systems Test Engineering | San Diego, CA | 19h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://qualcomm.eightfold.ai/careers/job/446715660332) |
+| 📱 **Qualcomm** | Software Engineer - Core Platform Test - Software Engineering | San Diego, CA | 17h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://qualcomm.eightfold.ai/careers/job/446715563394) |
+| 📱 **Qualcomm** | Software Engineer - Platform Test - Systems Test Engineering | San Diego, CA | 20h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://qualcomm.eightfold.ai/careers/job/446715660332) |
 
 ### 🚀 **Startups & Growth** (1 positions)
 
@@ -140,7 +140,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🛻 **Lyft** | Data Scientist - Algorithms Pricing - Optimization | SF, Locations | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/lyft/job/8148208002?gh_jid=8148208002) |
+| 🛻 **Lyft** | Data Scientist - Algorithms Pricing - Optimization | SF, Locations | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/lyft/job/8148208002?gh_jid=8148208002) |
 
 ### 💰 **Financial & Fintech** (2 positions)
 
@@ -163,15 +163,15 @@
 | 🏢 **OneMain Financial** | Data Science Analyst | Charlotte, NC | 0h ago | Mid-Level | Software Engineering | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530) |
 | 🏢 **Medtronic** | Associate Advanced Analytics Analyst | Minneapolis, MN | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Assoc-Adv-Analytics-Analyst_R53734-1) |
 | 🏢 **City of Amarillo** | GIS Analyst 1 | Amarillo, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267) |
-| 🏢 **NOV** | Software Engineer | Houston, TX | 2h ago | Mid-Level | Software Engineering | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38641) |
-| 🏢 **Corning** | Ion Exchange Development Technician | Elmira, NY | 2h ago | Mid-Level | Software Engineering | [Apply](https://corningjobs.corning.com/job/Corning-Ion-Exchange-Development-Technician-NY-14831/1345630700/?ats=successfactors) |
+| 🏢 **NOV** | Software Engineer | Houston, TX | 3h ago | Mid-Level | Software Engineering | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38641) |
+| 🏢 **Corning** | Ion Exchange Development Technician | Elmira, NY | 3h ago | Mid-Level | Software Engineering | [Apply](https://corningjobs.corning.com/job/Corning-Ion-Exchange-Development-Technician-NY-14831/1345630700/?ats=successfactors) |
 | 🏢 **Fidelity Investments** | Associate Full Stack Engineer | Merrimack, NH | 3h ago | Entry-Level | Full Stack Development | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1) |
 | 🏢 **RTX** | 2026 Full-time - Java Software Engineer I - Onsite (Onsite will be removed) | State College, PA | 8h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01809812) |
 | 🏢 **RTX** | Systems Engineer 1 | Fulton, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Systems-Engineer-I--Onsite-_01801525) |
-| 🏢 **CoStar Group** | Associate Machine Learning Engineer | Sunnyvale, CA | 8h ago | Entry-Level | Machine Learning & AI | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862) |
+| 🏢 **CoStar Group** | Associate Machine Learning Engineer | Sunnyvale, CA | 9h ago | Entry-Level | Machine Learning & AI | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862) |
 | 🏢 **Morningstar** | Associate Software Engineer | Chicago, IL | 12h ago | Entry-Level | Software Engineering | [Apply](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer_REQ-054479) |
 | 🏢 **Etsy** | Software Engineer 1 - Machine Learning | Brooklyn, NY | 12h ago | Mid-Level | Machine Learning & AI | [Apply](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer--ML-Training-Data_JR5230) |
-| 🏢 **Carrier Global** | Sustainability Engineer | East Syracuse, NY | 12h ago | Mid-Level | Software Engineering | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/ELP---Sustainability-Engineer_30190750) |
+| 🏢 **Carrier Global** | Sustainability Engineer | East Syracuse, NY | 13h ago | Mid-Level | Software Engineering | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/ELP---Sustainability-Engineer_30190750) |
 | 🏢 **CVS Health** | Data Scientist - Retail Analytics | Needham, MA | 13h ago | Mid-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Scientist---Retail-Analytics_R0653105) |
 | 🏢 **Comcast** | C++ Engineer - ONSITE: Chicago - IL or Denver','CO | Chicago, IL | 14h ago | Mid-Level | Software Engineering | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219) |
 | 🏢 **Lineage Logistics** | Associate Report Developer | Novi, MI | 14h ago | Entry-Level | Software Engineering | [Apply](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857) |
@@ -180,9 +180,9 @@
 | 🏢 **Magna** | Data Analyst | Toledo, OH | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
 | 🏢 **CWAN** | Financial Data Analyst | Boise, ID | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Boise-Office/Financial-Data-Analyst_R3162-2) |
-| 🏢 **University of Wyoming** | Assistant Professor | Laramie, WY | 19h ago | Mid-Level | Software Engineering | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253301) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/9a0e0c96-7f02-47e6-bad9-504143f9165d/application) |
-| 🏢 **ION Group** | Software Developer - Leadership Development Program - Uniondale | Uniondale, NY | 19h ago | Senior | Software Engineering | [Apply](https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply) |
+| 🏢 **University of Wyoming** | Assistant Professor | Laramie, WY | 20h ago | Mid-Level | Software Engineering | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253301) |
+| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 20h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/9a0e0c96-7f02-47e6-bad9-504143f9165d/application) |
+| 🏢 **ION Group** | Software Developer - Leadership Development Program - Uniondale | Uniondale, NY | 20h ago | Senior | Software Engineering | [Apply](https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply) |
 | 🏢 **Cisco** | Software Engineer Full Stack & Application Development 1 | San Jose, CA | 20h ago | Mid-Level | Full Stack Development | [Apply](https://careers.cisco.com/global/en/job/2000087) |
 | 🏢 **GE Vernova** | Radiological Engineer | Wilmington, NC | 21h ago | Mid-Level | Software Engineering | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/Radiological-Engineer_R5024530-1) |
 | 🏢 **Huntington Bancshares** | Technology Delivery Analyst | Columbus, OH | 22h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067553) |
