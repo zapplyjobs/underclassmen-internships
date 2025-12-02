@@ -147,14 +147,15 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Etsy** | Software Engineer 1 - Machine Learning | Brooklyn, NY | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer--ML-Training-Data_JR5230) |
+| 🏢 **Morningstar** | Associate Software Engineer | Chicago, IL | 0h ago | Entry-Level | Software Engineering | [Apply](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer_REQ-054479) |
+| 🏢 **Etsy** | Software Engineer 1 - Machine Learning | Brooklyn, NY | 1h ago | Mid-Level | Machine Learning & AI | [Apply](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer--ML-Training-Data_JR5230) |
 | 🏢 **Carrier Global** | Sustainability Engineer | East Syracuse, NY | 1h ago | Mid-Level | Software Engineering | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/ELP---Sustainability-Engineer_30190750) |
-| 🏢 **CVS Health** | Data Scientist - Retail Analytics | Needham, MA | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Scientist---Retail-Analytics_R0653105) |
+| 🏢 **CVS Health** | Data Scientist - Retail Analytics | Needham, MA | 2h ago | Mid-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Scientist---Retail-Analytics_R0653105) |
 | 🏢 **Comcast** | C++ Engineer - ONSITE: Chicago - IL or Denver','CO | Chicago, IL | 2h ago | Mid-Level | Software Engineering | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219) |
 | 🏢 **Lineage Logistics** | Associate Report Developer | Novi, MI | 2h ago | Entry-Level | Software Engineering | [Apply](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857) |
 | 🏢 **Amplitude** | Software Engineer 1 - Data Warehouse | SF, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8224986002) |
-| 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 4h ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) |
-| 🏢 **Magna** | Data Analyst | Toledo, OH | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
+| 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 5h ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) |
+| 🏢 **Magna** | Data Analyst | Toledo, OH | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camera | Goleta, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
 | 🏢 **CWAN** | Financial Data Analyst | Boise, ID | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Boise-Office/Financial-Data-Analyst_R3162-2) |
 | 🏢 **University of Wyoming** | Assistant Professor | Laramie, WY | 8h ago | Mid-Level | Software Engineering | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253301) |
@@ -183,7 +184,6 @@
 | 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
 | 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Christi, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
 | 🏢 **The Campbell's Company** | Packaging Engineer - Sustainability | Philadelphia, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Packaging-Engineer---Sustainability_Req-62127) |
-| 🏢 **Select Milk Producers ** | Data Analyst 1 | Winona, MN | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657) |
 
 
 
@@ -214,15 +214,15 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 9 | 20% | No or minimal experience |
-| 🟡 Beginner & Early Career | 35 | 78% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 10 | 22% | No or minimal experience |
+| 🟡 Beginner & Early Career | 34 | 76% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 2% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Chicago, IL**: 3 positions
 - **NYC, Locations**: 3 positions
-- **Chicago, IL**: 2 positions
 - **SF, Locations**: 2 positions
 - **San Jose, CA**: 2 positions
 - **San Diego, CA**: 2 positions
@@ -233,10 +233,10 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (30 positions)
-🏢 Carrier Global • 🏢 Comcast • 🏢 Lineage Logistics
+#### 💻 Software Engineering (31 positions)
+🏢 Morningstar • 🏢 Carrier Global • 🏢 Comcast
 
-#### 📊 Data Science & Analytics (8 positions)
+#### 📊 Data Science & Analytics (7 positions)
 🏢 CVS Health • 🏢 Magna • 🛻 Lyft
 
 #### 🧠 Machine Learning & AI (4 positions)
