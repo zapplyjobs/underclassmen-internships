@@ -156,6 +156,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Johnson & Johnson** | Post Doc LLM for Clinical Trials | New Hope, PA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Post-Doc-LLM-for-Clinical-Trials_R-047138-1) |
 | 🏢 **Auto-Owners Insurance** | Business Intelligence Developer | East Lansing, MI | 1h ago | Mid-Level | Software Engineering | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154) |
 | 🏢 **HCSC** | Data Scientist | Chicago, IL | 2h ago | Mid-Level | Data Science & Analytics | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Data-Scientist_R0045413-1) |
 | 🏢 **Estes Forwarding Worldwide** | Software Engineer 1 - Core Services | Richmond, VA | 2h ago | Mid-Level | Software Engineering | [Apply](https://careers-efwnow.icims.com/jobs/6859/job?mobile=true&needsRedirect=false) |
@@ -174,8 +175,8 @@
 | 🏢 **General Dynamics Information Technology** | Human Performance Data Scientist 1 | Florida, Locations | 15h ago | Mid-Level | Data Science & Analytics | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954) |
 | 🏢 **Waystar** | ML Engineer 2 | Atlanta, GA | 15h ago | Mid-Level | Machine Learning & AI | [Apply](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/ML-Engineer-II_R2882-1) |
 | 🏢 **Northrop Grumman** | Associate Systems Modeling Simulations Engineer/Systems Modeling Simulations Engineer | Camarillo, CA | 15h ago | Entry-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Systems-Modeling-Simulations-Engineer-Systems-Modeling-Simulations-Engineer_R10216012) |
-| 🏢 **MatX** | Machine Learning Researcher – New College Grad 2025 | Mountain View, CA | 15h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/matx/jobs/4461372008) |
-| 🏢 **BlackRock** | Analyst – Python Engineer | Wilmington, DE | 15h ago | Mid-Level | Software Engineering | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst---Python-Engineer_R258097) |
+| 🏢 **MatX** | Machine Learning Researcher – New College Grad 2025 | Mountain View, CA | 16h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/matx/jobs/4461372008) |
+| 🏢 **BlackRock** | Analyst – Python Engineer | Wilmington, DE | 16h ago | Mid-Level | Software Engineering | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst---Python-Engineer_R258097) |
 | 🏢 **Carnegie Mellon University** | Research Associate - Electrical and Computer Engineering | Pittsburgh, PA | 16h ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193) |
 | 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD--Li-Lab----School-of-Computer-Science_2023911) |
 | 🏢 **Sierra Space** | Business Intelligence Developer 1 | Centennial, CO | 16h ago | Mid-Level | Software Engineering | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO-Arapahoe-2---CO_ARA/Business-Intelligence-Developer-I_R25115-1) |
@@ -191,13 +192,12 @@
 | 🏢 **Yext** | Software Engineer | Washington, DC | 18h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/yext/jobs/7011931) |
 | 🏢 **Moloco** | Machine Learning Infra SWE | San Carlos, CA | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/moloco/jobs/6599200003) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1315513100/?ats=successfactors) |
-| 🏢 **Finix** | Software Engineer – Early Career | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/finix/d6f2a487-01ab-4909-aaad-89fc5cbec3ff/apply) |
 | 🏢 **Regal** | AI Product Specialist | NYC, Locations | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/regalvoice/a0291985-c8cf-41f4-88c1-3a150d1aeb24/apply) |
 | 🏢 **PermitFlow** | Full Stack Software Engineer Graduate | NYC, Locations | 19h ago | Entry-Level | Full Stack Development | [Apply](https://jobs.ashbyhq.com/permitflow/7fab96f1-04a1-4c33-81d5-f254271c83b6/application) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/8dd7987e-2f3b-4e1e-9773-4bb2f136dd22/application) |
 | 🏢 **NextEra Energy** | Associate AI & Analytics Engineer | Palm Beach Gardens, FL | 19h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-AI-&-Analytics-Engineer-FL-33408/1346759200/?ats=successfactors) |
 | 🏢 **Zip** | Software Engineer – New Grad - 2026 Start | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/zip/482e918e-411c-481f-94d4-e4c4db36a7f3/application) |
-| 🏢 **Berkshire Hathaway Energy** | Tech 1 – Mapping | Las Vegas, NV | 19h ago | Mid-Level | Software Engineering | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893) |
+| 🏢 **Berkshire Hathaway Energy** | Tech 1 – Mapping | Las Vegas, NV | 20h ago | Mid-Level | Software Engineering | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893) |
 | 🏢 **Caterpillar Inc.** | Design Standard Tech | Rapid City, SD | 23h ago | Mid-Level | Design | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rapid-City-South-Dakota/Design-Standard-Tech_R0000331400) |
 | 🏢 **LOTTE BIOLOGICS** | Associate Data Engineer | East Syracuse, NY | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/4895261008) |
 | 🏢 **OneMain Financial** | Data Science Analyst | Charlotte, NC | 1d ago | Mid-Level | Software Engineering | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530) |
@@ -248,18 +248,18 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 23 | 31% | No or minimal experience |
-| 🟡 Beginner & Early Career | 47 | 64% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 22 | 30% | No or minimal experience |
+| 🟡 Beginner & Early Career | 48 | 65% | 1-2 years of experience |
 | 🔴 Manager         | 4 | 5% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **NYC, Locations**: 5 positions
-- **SF, Locations**: 5 positions
 - **Chicago, IL**: 4 positions
 - **Palo Alto, CA**: 4 positions
 - **Columbus, OH**: 4 positions
+- **SF, Locations**: 4 positions
 - **Mountain View, CA**: 3 positions
 - **Santa Clara, CA**: 3 positions
 - **Charlotte, NC**: 2 positions
@@ -268,7 +268,7 @@
 
 ## 🔍 Filter by Role Category
 #### 💻 Software Engineering (39 positions)
-🏢 Auto-Owners Insurance • 🏢 Estes Forwarding Worldwide • 🟦 Microsoft
+🏢 Johnson & Johnson • 🏢 Auto-Owners Insurance • 🏢 Estes Forwarding Worldwide
 
 #### 📊 Data Science & Analytics (13 positions)
 🏢 HCSC • 🏢 Dimensional Fund Advisors • 🏢 Daimler Truck
