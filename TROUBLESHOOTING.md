@@ -1,6 +1,6 @@
 # Troubleshooting Guide - Job Posting System
 
-**Last Updated:** November 24, 2025
+**Last Updated:** December 3, 2025
 
 This document provides diagnostic tools and procedures for troubleshooting issues with the job posting system.
 
@@ -240,6 +240,119 @@ const legacyId = '<legacy-id-from-health-check>';
 console.log('Legacy ID in database:', posted.includes(legacyId));
 "
 ```
+
+---
+
+### Issue #5: Duplicate Job Postings to Same Channel
+
+**Symptoms:**
+- Same job posted multiple times to the SAME channel
+- Example: "Data Scientist @ Lyft" posted 2-3 times to #tech channel
+- Database shows job ID is present, but job still reposts
+- Occurs after database reaches 5000 capacity
+
+**Root Cause: Database Capacity Eviction (Identified Dec 3, 2025)**
+
+When `posted_jobs.json` reaches 5000 entries:
+1. New jobs added → Database exceeds 5000
+2. **Oldest jobs evicted** to maintain 5000 limit
+3. Evicted jobs reappear in source data
+4. Bot treats them as "new" → Posts again → Duplicate
+
+**Timeline:**
+- Nov 10, 2025: Database had 4,984 jobs (below limit)
+- Nov 10-20, 2025: Database hit 5000 capacity
+- Nov 20-present: Database at capacity, churning jobs daily
+- Dec 2, 2025: Duplicate postings observed (Lyft, Adobe jobs)
+
+**Solution: Archive System (Deployed Dec 3, 2025)**
+
+**Commit:** `f9eb1503` - Archive system with job reopening detection
+
+**How it works:**
+1. **Automatic archiving:** When database reaches 4500 jobs, archives oldest 1000
+2. **Monthly archives:** `.github/data/archive/posted_jobs_YYYY_MM.json`
+3. **2-month lookback:** Checks recent archives before posting
+4. **Job reopening detection:** Allows reposting if >2 months old + recent posting date
+
+**Expected behavior after deployment:**
+```
+First run:
+📦 FIRST-TIME ARCHIVE: Bootstrapping with 1500 jobs
+✅ Archive verified: 1500 total jobs in 2025-12
+💾 Active database now has 3501 jobs
+
+Subsequent runs:
+- Database grows to 4500 → Archives 1000 → Drops to 3500
+- Checks archives before posting (2-month lookback)
+- Job from 1 month ago: ✅ Skipped (found in archive)
+- Job from 3 months ago + recent date: ♻️ Reposted (job reopening)
+```
+
+**Monitoring:**
+
+Check workflow logs for these indicators:
+
+✅ **Success indicators:**
+```
+📚 Loaded archive: 2025-12 (1500 jobs)
+💾 Active database now has 3501 jobs
+📦 CAPACITY REACHED: Archiving oldest 1000 jobs
+```
+
+♻️ **Job reopening (expected):**
+```
+♻️ Job reopening detected: <job-id>
+   Archived: 3 months ago, Source date: 5 days ago
+```
+
+❌ **Issues to watch for:**
+```
+❌ ERROR during archiving: <error>
+⚠️ Corrupted archive 2025-12, ignoring: <error>
+⚠️ Emergency trim to 5000 jobs
+```
+
+**Verification:**
+
+1. **Check archive directory created:**
+   ```bash
+   ls -la .github/data/archive/
+   # Expected: posted_jobs_2025_12.json (after first run)
+   ```
+
+2. **Check database size stays in range:**
+   ```bash
+   echo "Database size: $(node -p 'require(\"./.github/data/posted_jobs.json\").length')"
+   # Expected: 3500-4500 (not 5000)
+   ```
+
+3. **Check for duplicate postings:**
+   - Monitor Discord channels for next 24-48 hours
+   - Should NOT see same job posted multiple times to same channel
+
+**Testing locally:**
+
+Set low threshold to test archiving:
+```bash
+ARCHIVE_THRESHOLD=10 node .github/scripts/enhanced-discord-bot.js
+# Archives when >10 jobs (instead of 4500)
+```
+
+**Rollback procedure (if issues):**
+
+If archive system causes problems:
+```bash
+git revert f9eb1503
+git push origin main
+```
+
+This will restore the old behavior (eviction at 5000 limit).
+
+**Related files:**
+- Implementation: `.github/scripts/enhanced-discord-bot.js`
+- Archive directory: `.github/data/archive/`
+- Commit: `f9eb1503`
 
 ---
 
