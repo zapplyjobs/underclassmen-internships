@@ -356,6 +356,112 @@ This will restore the old behavior (eviction at 5000 limit).
 
 ---
 
+### Issue #6: Jobs Stuck in Pending Queue - Enrichment Pipeline Failure
+
+**Symptoms:**
+- Hundreds of jobs stuck in pending status for many hours
+- new_jobs.json frozen (not updating)
+- Workflow shows success but no Discord posts
+- Enrichment step fails silently
+
+**Example:**
+```
+Queue items: 863
+Status breakdown:
+  "enriched": 50 (stale batch from 14 hours ago)
+  "pending": 813 (stuck waiting for enrichment)
+
+Last enriched: 2025-12-03T07:36:00.079Z (14 hours ago)
+new_jobs.json last modified: 5+ hours ago
+```
+
+**Root Cause: Missing Jobboard Dependencies (Identified Dec 3, 2025)**
+
+**The Issue:**
+1. Job description enrichment requires puppeteer (headless browser)
+2. Workflow was not installing jobboard dependencies
+3. Description fetcher failed silently (puppeteer binaries missing)
+4. Logs redirected to file, errors invisible in workflow output
+5. Queue accumulated pending jobs indefinitely
+
+**Timeline:**
+- Nov 10-20, 2025: Committed 3,285 node_modules files to git (wrong fix attempt)
+- Platform-specific binaries caused additional silent failures
+- Dec 3 07:36 UTC: Last successful enrichment
+- Dec 3 22:00 UTC: Issue discovered (813 jobs stuck for 14+ hours)
+
+**Solution: Dependencies + Visible Logs (Deployed Dec 3, 2025)**
+
+**Commit:** `8225c829` - Fix job posting pipeline issues
+
+**How it works:**
+1. **Install jobboard dependencies in workflow:**
+   ```yaml
+   - name: Install jobboard dependencies
+     run: |
+       cd jobboard
+       npm install --production --no-audit --no-fund
+       cd ..
+   ```
+
+2. **Make logs visible with tee:**
+   ```yaml
+   - name: Update job listings
+     run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
+   ```
+
+3. **Always display logs:**
+   ```yaml
+   - name: Display job-fetcher logs (always run)
+     if: always()
+     run: |
+       echo "📋 Job Fetcher Output (last 100 lines):"
+       tail -100 .github/logs/job-fetcher.log || echo "Log file not found"
+   ```
+
+4. **Remove committed node_modules files:**
+   ```bash
+   git rm -r --cached node_modules/
+   # Removed 3,285 files from git tracking
+   ```
+
+**Expected behavior after deployment:**
+```
+First run after fix:
+📝 Fetching job descriptions for 17 jobs...
+✅ Saved pending queue: 17 total (0 pending, 17 enriched, 0 posted)
+🎉 Posting complete! Successfully posted: 12, Failed: 0
+```
+
+**Verification:**
+```bash
+# Check workflow logs are visible
+gh run view <run-id> --log | grep "📝 Fetching job descriptions"
+
+# Check jobboard dependencies installed
+gh run view <run-id> --log | grep "Install jobboard dependencies"
+
+# Expected output:
+# added 1460 packages in 31s
+```
+
+**Prevention:**
+- Never commit node_modules to git (add to .gitignore)
+- Always install dependencies in workflow, not pre-commit
+- Use visible logging (tee) instead of silent redirection (>)
+- Monitor pending queue size daily
+
+**Related Issue:**
+- Issue #5: Database capacity duplicates (different root cause)
+- Both issues caused no Discord posts but for different reasons
+
+**Related files:**
+- Workflow: `.github/workflows/update-jobs.yml`
+- Jobboard dependencies: `jobboard/package.json`
+- Commit: `8225c829` (New-Grad-Jobs), `4cd4c230` (Internships)
+
+---
+
 ## 🛠️ Workflow Debugging
 
 ### Check Workflow Status
