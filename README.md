@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🟦 **Microsoft** | Software Engineer | Mountain View, CA | 11h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631205) |
+| 🟦 **Microsoft** | Software Engineer | Mountain View, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631205) |
 | 🏢 **Tencent** | Data Science Associate | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Associate_R106542) |
 | 🏢 **Tencent** | Associate Machine Learning Engineer | Palo Alto, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Engineer-Associate_R106543) |
 
@@ -138,7 +138,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Booz Allen** | Full-Stack Developer - Junior | Huntsville, AL | 1d ago | Entry-Level | Software Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230138) |
-| 🏢 **mthree** | Java Developer | Boston, MA | 17h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006) |
+| 🏢 **mthree** | Java Developer | Boston, MA | 18h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
@@ -167,8 +167,8 @@
 | 🏢 **Huntington Bancshares** | Technology Delivery Analyst - Elevate | Columbus, OH | 12h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067580) |
 | 🏢 **Huntington Bancshares** | Technology Delivery Analyst | Columbus, OH | 13h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst_R0067555) |
 | 🏢 **Huntington Bancshares** | Technology Delivery Analyst - Elevate | Columbus, OH | 13h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067576) |
-| 🏢 **Dimensional Fund Advisors** | Associate – Investment Analytics and Data - Portfolio Analytics | Charlotte, NC | 15h ago | Entry-Level | Data Science & Analytics | [Apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613) |
-| 🏢 **Daimler Truck** | System Engineering Analytics Engineer 1 | Portland, OR | 15h ago | Mid-Level | Data Science & Analytics | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/System-Engineering-Analytics-Engineer-I_DT-16155) |
+| 🏢 **Dimensional Fund Advisors** | Associate – Investment Analytics and Data - Portfolio Analytics | Charlotte, NC | 16h ago | Entry-Level | Data Science & Analytics | [Apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Associate--Investment-Analytics-and-Data--Portfolio-Analytics-_2025-8613) |
+| 🏢 **Daimler Truck** | System Engineering Analytics Engineer 1 | Portland, OR | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/System-Engineering-Analytics-Engineer-I_DT-16155) |
 | 🏢 **Aegis Therapies** | IT Data Warehouse Specialist | Fort Smith, AR | 16h ago | Mid-Level | Backend Development | [Apply](https://aegistherapies.wd1.myworkdayjobs.com/aegiscareers/job/Fort-Smith-AR/IT-Data-Warehouse-Specialist_R0043523) |
 | 🏢 **U.S. Bank** | C# / .NET Software Application Support / Engineer | Brookfield, WI | 16h ago | Mid-Level | Software Engineering | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/C----NET-Software-Application-Support---Engineer_2025-0028171) |
 | 🏢 **General Dynamics Information Technology** | Software Developer Associate | Annapolis Junction, MD | 16h ago | Entry-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate_RQ211011) |
@@ -177,7 +177,7 @@
 | 🏢 **Northrop Grumman** | Associate Systems Modeling Simulations Engineer/Systems Modeling Simulations Engineer | Camarillo, CA | 16h ago | Entry-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Systems-Modeling-Simulations-Engineer-Systems-Modeling-Simulations-Engineer_R10216012) |
 | 🏢 **MatX** | Machine Learning Researcher – New College Grad 2025 | Mountain View, CA | 16h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/matx/jobs/4461372008) |
 | 🏢 **BlackRock** | Analyst – Python Engineer | Wilmington, DE | 16h ago | Mid-Level | Software Engineering | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst---Python-Engineer_R258097) |
-| 🏢 **Carnegie Mellon University** | Research Associate - Electrical and Computer Engineering | Pittsburgh, PA | 16h ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193) |
+| 🏢 **Carnegie Mellon University** | Research Associate - Electrical and Computer Engineering | Pittsburgh, PA | 17h ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193) |
 | 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD--Li-Lab----School-of-Computer-Science_2023911) |
 | 🏢 **Sierra Space** | Business Intelligence Developer 1 | Centennial, CO | 17h ago | Mid-Level | Software Engineering | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO-Arapahoe-2---CO_ARA/Business-Intelligence-Developer-I_R25115-1) |
 | 🏢 **Cadent** | Data Analytics - Junior Associate | NYC, Locations | 17h ago | Entry-Level | Data Science & Analytics | [Apply](https://careers-cadent.icims.com/jobs/1271/job?mobile=true&needsRedirect=false) |
@@ -187,8 +187,8 @@
 | 🏢 **Commerce Architects** | Software Engineer | Spokane, WA | 17h ago | Senior | Software Engineering | [Apply](https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply) |
 | 🏢 **Fermat** | Software Engineer – New Grad | SF, Locations | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/fermat/6a40e7b5-d9bb-40a6-8b5e-cdcf566d60f1/application) |
 | 🏢 **SageSure** | Associate Data Analyst | NYC, Locations | 18h ago | Entry-Level | Data Science & Analytics | [Apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4620339006) |
-| 🏢 **Signifyd** | Data Scientist 1 | Remote in USA, Locations | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7437634) |
-| 🏢 **Motional** | Machine Learning Engineer - Prediction | Boston, MA | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://motional.com/open-positions/?gh_jid=7545187003#/7545187003) |
+| 🏢 **Signifyd** | Data Scientist 1 | Remote in USA, Locations | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7437634) |
+| 🏢 **Motional** | Machine Learning Engineer - Prediction | Boston, MA | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://motional.com/open-positions/?gh_jid=7545187003#/7545187003) |
 | 🏢 **Yext** | Software Engineer | Washington, DC | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/yext/jobs/7011931) |
 | 🏢 **Moloco** | Machine Learning Infra SWE | San Carlos, CA | 19h ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/moloco/jobs/6599200003) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 20h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1315513100/?ats=successfactors) |
