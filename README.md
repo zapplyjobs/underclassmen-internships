@@ -119,7 +119,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🟦 **Microsoft** | Software Engineer | Mountain View, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631205) |
+| 🟦 **Microsoft** | Software Engineer | Mountain View, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631205) |
 | 🏢 **Tencent** | Data Science Associate | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Associate_R106542) |
 | 🏢 **Tencent** | Associate Machine Learning Engineer | Palo Alto, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Engineer-Associate_R106543) |
 
@@ -137,7 +137,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Booz Allen** | Full-Stack Developer - Junior | Huntsville, AL | 1d ago | Entry-Level | Software Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230138) |
-| 🏢 **mthree** | Java Developer | Boston, MA | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006) |
+| 🏢 **mthree** | Java Developer | Boston, MA | 20h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622541006) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
@@ -155,7 +155,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Johnson & Johnson** | Post Doc LLM for Clinical Trials | New Hope, PA | 2h ago | Mid-Level | Software Engineering | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Post-Doc-LLM-for-Clinical-Trials_R-047138-1) |
+| 🏢 **Johnson & Johnson** | Post Doc LLM for Clinical Trials | New Hope, PA | 3h ago | Mid-Level | Software Engineering | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Post-Doc-LLM-for-Clinical-Trials_R-047138-1) |
 | 🏢 **Auto-Owners Insurance** | Business Intelligence Developer | East Lansing, MI | 4h ago | Mid-Level | Software Engineering | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154) |
 | 🏢 **HCSC** | Data Scientist | Chicago, IL | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Data-Scientist_R0045413-1) |
 | 🏢 **Estes Forwarding Worldwide** | Software Engineer 1 - Core Services | Richmond, VA | 5h ago | Mid-Level | Software Engineering | [Apply](https://careers-efwnow.icims.com/jobs/6859/job?mobile=true&needsRedirect=false) |
