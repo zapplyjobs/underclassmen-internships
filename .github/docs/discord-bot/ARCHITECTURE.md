@@ -99,7 +99,179 @@ async postJobs() {
 }
 ```
 
-### 3. Logging System (`save-discord-logs.js`)
+### 3. Posted Jobs Management & Archive System
+
+**Database:** `.github/data/posted_jobs.json`
+**Archives:** `.github/data/archive/posted_jobs_YYYY_MM.json`
+**Deployed:** December 3, 2025 (Commit `f9eb1503`)
+
+#### Overview
+
+The Posted Jobs Manager tracks which jobs have been posted to Discord to prevent duplicates. It uses an archive system to manage database capacity while preserving historical data.
+
+#### Core Components
+
+**PostedJobsManager Class**
+```javascript
+class PostedJobsManager {
+  constructor() {
+    this.postedJobs = Set()           // Active database (3500-4500 jobs)
+    this.archivesCache = {}            // Lazy-loaded recent archives
+    this.archiveDir = '.github/data/archive'
+  }
+
+  // Load posted_jobs.json
+  loadPostedJobs() → Set
+
+  // Check if job was posted (with archive lookup)
+  hasBeenPosted(jobId, jobData) → boolean
+
+  // Mark job as posted and save
+  markAsPosted(jobId) → void
+
+  // Save database (triggers archiving if needed)
+  savePostedJobs() → void
+
+  // Archive oldest N jobs
+  archiveOldestJobs(count) → void
+
+  // Find job in recent archives
+  findInArchives(jobId) → {month, found}
+
+  // Calculate age for reopening detection
+  getMonthsSinceArchive(month) → number
+  getDaysSincePosted(date) → number
+}
+```
+
+#### Archive System Logic
+
+**Trigger Conditions:**
+```javascript
+if (postedJobsArray.length > archiveThreshold) {
+  // archiveThreshold = 4500 (default)
+  // Can be overridden with ARCHIVE_THRESHOLD env var
+
+  if (isFirstArchive) {
+    archiveOldestJobs(1500);  // Bootstrap
+  } else {
+    archiveOldestJobs(1000);  // Normal operation
+  }
+}
+```
+
+**Archive File Structure:**
+```json
+// .github/data/archive/posted_jobs_2025_12.json
+[
+  "careers-adobe-com-...",
+  "greenhouse-io-...",
+  "lyft-android-engineer-...",
+  // ... sorted job IDs
+]
+```
+
+**Deduplication with Archives:**
+```
+1. Check active database (posted_jobs.json)
+   ├─ Found → Skip job (already posted)
+   └─ Not found → Check archives
+
+2. Check recent archives (last 2 months)
+   ├─ Found → Check age and date for reopening
+   │  ├─ Archived <2 months → Skip (prevent duplicate)
+   │  ├─ Archived >2 months + recent date → Post (job reopening)
+   │  └─ Archived >3 months + no date → Post (assume reopening)
+   └─ Not found → Post (new job)
+```
+
+#### Job Reopening Detection
+
+**Problem:** Companies reopen positions after months. Need to distinguish between:
+- **Evicted jobs** (still active, should NOT repost)
+- **Reopened jobs** (closed and reopened, SHOULD repost)
+
+**Solution:**
+```javascript
+hasBeenPosted(jobId, jobData) {
+  // Check active database
+  if (this.postedJobs.has(jobId)) return true;
+
+  // Check archives
+  const archiveInfo = this.findInArchives(jobId);
+  if (!archiveInfo) return false; // New job
+
+  const monthsOld = this.getMonthsSinceArchive(archiveInfo.month);
+
+  // Rule 1: Recent archive (<2 months) = don't repost
+  if (monthsOld < 2) return true;
+
+  // Rule 2: Old archive + recent posting date = reopening
+  if (jobData?.date_posted) {
+    const daysOld = this.getDaysSincePosted(jobData.date_posted);
+    if (daysOld <= 30) {
+      console.log('♻️ Job reopening detected');
+      return false; // Allow repost
+    }
+  }
+
+  // Rule 3: Very old (>3 months) without date = assume reopening
+  if (monthsOld >= 3) return false;
+
+  return true; // Default: don't repost
+}
+```
+
+#### Benefits
+
+1. **Fast JSON Parsing:** Database stays at 3500-4500 jobs (vs 5000)
+2. **No Data Loss:** Old jobs archived, not deleted
+3. **Prevents Duplicates:** 2-month lookback catches capacity-related duplicates
+4. **Allows Reopenings:** Date-based logic allows legitimate job reopenings
+5. **Graceful Errors:** Corrupted archives ignored, doesn't crash bot
+
+#### Monitoring
+
+**Success Indicators (Workflow Logs):**
+```
+📚 Loaded archive: 2025-12 (1500 jobs)
+💾 Active database now has 3501 jobs
+📦 CAPACITY REACHED: Archiving oldest 1000 jobs
+♻️ Job reopening detected: <job-id>
+```
+
+**Error Indicators:**
+```
+❌ ERROR during archiving: <error>
+⚠️ Corrupted archive 2025-12, ignoring: <error>
+⚠️ Emergency trim to 5000 jobs
+```
+
+#### Testing
+
+**Local Testing:**
+```bash
+# Set low threshold to trigger archiving
+ARCHIVE_THRESHOLD=10 node .github/scripts/enhanced-discord-bot.js
+```
+
+**Verification:**
+```bash
+# Check archive directory
+ls -la .github/data/archive/
+
+# Check database size (should be 3500-4500, not 5000)
+node -p 'require("./.github/data/posted_jobs.json").length'
+```
+
+#### Related Files
+- Implementation: `.github/scripts/enhanced-discord-bot.js` (lines 215-485)
+- Troubleshooting: `TROUBLESHOOTING.md` (Issue #5)
+- Deployment Commit: `f9eb1503`
+
+---
+
+### 4. Logging System (`save-discord-logs.js`)
 
 **Wrapper Script**
 ```javascript
@@ -142,8 +314,12 @@ fs.symlinkSync(logFile, '.github/logs/latest.log')
 │       └── index.js
 ├── data/
 │   ├── new_jobs.json                # Jobs to post
-│   ├── posted_jobs.json             # Tracking file
-│   └── seen_jobs.json               # Legacy tracking (auto-trimmed)
+│   ├── posted_jobs.json             # Active tracking (3500-4500 jobs)
+│   ├── seen_jobs.json               # Legacy tracking (auto-trimmed)
+│   └── archive/                     # 🆕 Monthly archives (Dec 2025)
+│       ├── posted_jobs_2025_11.json # November archived jobs
+│       ├── posted_jobs_2025_12.json # December archived jobs
+│       └── ...                      # One file per month
 ├── logs/
 │   ├── latest.log                   # Symlink to latest
 │   └── discord-bot-*.log            # Timestamped logs
