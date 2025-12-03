@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-98-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-101-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 51 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 54 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 51
+- **🔥 Current Positions**: 54
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 3, 2025
@@ -156,10 +156,13 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **CACI** | Research Data Analyst | Fort Bragg, NC | 6h ago | Mid-Level | Data Science & Analytics | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Fort-Bragg/Research-Data-Analyst_320026) |
 
-### 🏢 **Other Companies** (40 positions)
+### 🏢 **Other Companies** (43 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Signifyd** | Data Scientist 1 | Remote in USA, Locations | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/signifyd95/jobs/7437634) |
+| 🏢 **Motional** | Machine Learning Engineer - Prediction | Boston, MA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://motional.com/open-positions/?gh_jid=7545187003#/7545187003) |
+| 🏢 **Yext** | Software Engineer | Washington, DC | 0h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/yext/jobs/7011931) |
 | 🏢 **Moloco** | Machine Learning Infra SWE | San Carlos, CA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/moloco/jobs/6599200003) |
 | 🏢 **McDonald's** | Software Engineer 1 | Chicago, IL | 1h ago | Mid-Level | Software Engineering | [Apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1315513100/?ats=successfactors) |
 | 🏢 **Regal** | AI Product Specialist | NYC, Locations | 1h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/regalvoice/a0291985-c8cf-41f4-88c1-3a150d1aeb24/apply) |
@@ -167,24 +170,24 @@
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/8dd7987e-2f3b-4e1e-9773-4bb2f136dd22/application) |
 | 🏢 **NextEra Energy** | Associate AI & Analytics Engineer | Palm Beach Gardens, FL | 1h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-AI-&-Analytics-Engineer-FL-33408/1346759200/?ats=successfactors) |
 | 🏢 **Zip** | Software Engineer – New Grad - 2026 Start | SF, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/zip/482e918e-411c-481f-94d4-e4c4db36a7f3/application) |
-| 🏢 **Berkshire Hathaway Energy** | Tech 1 – Mapping | Las Vegas, NV | 1h ago | Mid-Level | Software Engineering | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893) |
+| 🏢 **Berkshire Hathaway Energy** | Tech 1 – Mapping | Las Vegas, NV | 2h ago | Mid-Level | Software Engineering | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893) |
 | 🏢 **Caterpillar Inc.** | Design Standard Tech | Rapid City, SD | 5h ago | Mid-Level | Design | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rapid-City-South-Dakota/Design-Standard-Tech_R0000331400) |
-| 🏢 **LOTTE BIOLOGICS** | Associate Data Engineer | East Syracuse, NY | 5h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/4895261008) |
-| 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 5h ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD--Li-Lab----School-of-Computer-Science_2023911) |
-| 🏢 **OneMain Financial** | Data Science Analyst | Charlotte, NC | 5h ago | Mid-Level | Software Engineering | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530) |
-| 🏢 **Medtronic** | Associate Advanced Analytics Analyst | Minneapolis, MN | 5h ago | Entry-Level | Data Science & Analytics | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Assoc-Adv-Analytics-Analyst_R53734-1) |
+| 🏢 **LOTTE BIOLOGICS** | Associate Data Engineer | East Syracuse, NY | 6h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/4895261008) |
+| 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 6h ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---CSD--Li-Lab----School-of-Computer-Science_2023911) |
+| 🏢 **OneMain Financial** | Data Science Analyst | Charlotte, NC | 6h ago | Mid-Level | Software Engineering | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530) |
+| 🏢 **Medtronic** | Associate Advanced Analytics Analyst | Minneapolis, MN | 6h ago | Entry-Level | Data Science & Analytics | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Assoc-Adv-Analytics-Analyst_R53734-1) |
 | 🏢 **City of Amarillo** | GIS Analyst 1 | Amarillo, TX | 6h ago | Mid-Level | Software Engineering | [Apply](https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267) |
 | 🏢 **Corning** | Ion Exchange Development Technician | Elmira, NY | 8h ago | Mid-Level | Software Engineering | [Apply](https://corningjobs.corning.com/job/Corning-Ion-Exchange-Development-Technician-NY-14831/1345630700/?ats=successfactors) |
 | 🏢 **Fidelity Investments** | Associate Full Stack Engineer | Merrimack, NH | 9h ago | Entry-Level | Full Stack Development | [Apply](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1) |
 | 🏢 **RTX** | 2026 Full-time - Java Software Engineer I - Onsite (Onsite will be removed) | State College, PA | 14h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01809812) |
 | 🏢 **CoStar Group** | Associate Machine Learning Engineer | Sunnyvale, CA | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862) |
-| 🏢 **Morningstar** | Associate Software Engineer | Chicago, IL | 17h ago | Entry-Level | Software Engineering | [Apply](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer_REQ-054479) |
+| 🏢 **Morningstar** | Associate Software Engineer | Chicago, IL | 18h ago | Entry-Level | Software Engineering | [Apply](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer_REQ-054479) |
 | 🏢 **Etsy** | Software Engineer 1 - Machine Learning | Brooklyn, NY | 18h ago | Mid-Level | Machine Learning & AI | [Apply](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer--ML-Training-Data_JR5230) |
-| 🏢 **Comcast** | C++ Engineer - ONSITE: Chicago - IL or Denver','CO | Chicago, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219) |
-| 🏢 **Lineage Logistics** | Associate Report Developer | Novi, MI | 19h ago | Entry-Level | Software Engineering | [Apply](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857) |
+| 🏢 **Comcast** | C++ Engineer - ONSITE: Chicago - IL or Denver','CO | Chicago, IL | 20h ago | Mid-Level | Software Engineering | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R424219) |
+| 🏢 **Lineage Logistics** | Associate Report Developer | Novi, MI | 20h ago | Entry-Level | Software Engineering | [Apply](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857) |
 | 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 22h ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) |
 | 🏢 **Magna** | Data Analyst | Toledo, OH | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
-| 🏢 **CWAN** | Financial Data Analyst | Boise, ID | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Boise-Office/Financial-Data-Analyst_R3162-2) |
+| 🏢 **CWAN** | Financial Data Analyst | Boise, ID | 23h ago | Mid-Level | Data Science & Analytics | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Boise-Office/Financial-Data-Analyst_R3162-2) |
 | 🏢 **University of Wyoming** | Assistant Professor | Laramie, WY | 1d ago | Mid-Level | Software Engineering | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253301) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/9a0e0c96-7f02-47e6-bad9-504143f9165d/application) |
 | 🏢 **ION Group** | Software Developer - Leadership Development Program - Uniondale | Uniondale, NY | 1d ago | Senior | Software Engineering | [Apply](https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply) |
@@ -230,8 +233,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 16 | 31% | No or minimal experience |
-| 🟡 Beginner & Early Career | 33 | 65% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 16 | 30% | No or minimal experience |
+| 🟡 Beginner & Early Career | 36 | 67% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 4% | 2+ years of experience |
 
 ---
@@ -249,14 +252,14 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (30 positions)
-🏢 McDonald's • 🏢 Citizen Health • 🏢 Zip
+#### 💻 Software Engineering (31 positions)
+🏢 Yext • 🏢 McDonald's • 🏢 Citizen Health
 
-#### 🧠 Machine Learning & AI (8 positions)
-🔒 Palo Alto Networks • 🏢 Moloco • 🏢 Regal
+#### 🧠 Machine Learning & AI (9 positions)
+🏢 Motional • 🔒 Palo Alto Networks • 🏢 Moloco
 
-#### 📊 Data Science & Analytics (7 positions)
-🏢 LOTTE BIOLOGICS • 🏢 Medtronic • 🏢 CACI
+#### 📊 Data Science & Analytics (8 positions)
+🏢 Signifyd • 🏢 LOTTE BIOLOGICS • 🏢 Medtronic
 
 #### 🌐 Full Stack Development (3 positions)
 🏢 PermitFlow • 🏢 Fidelity Investments • 🏢 Cisco
@@ -271,7 +274,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 51 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 54 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -360,7 +363,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 51 current opportunities from 261 companies**
+**🎯 54 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
