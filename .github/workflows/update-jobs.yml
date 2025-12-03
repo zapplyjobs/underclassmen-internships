@@ -41,10 +41,22 @@ jobs:
     - name: Install job fetcher dependencies
       run: npm install axios
 
+    - name: Install jobboard dependencies
+      run: |
+        cd jobboard
+        npm install --production --no-audit --no-fund
+        cd ..
+
     - name: Update job listings
-      run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
+      run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
+
+    - name: Display job-fetcher logs (always run)
+      if: always()
+      run: |
+        echo "📋 Job Fetcher Output (last 100 lines):"
+        tail -100 .github/logs/job-fetcher.log || echo "Log file not found"
 
     - name: Display public status
       run: |
