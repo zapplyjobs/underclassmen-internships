@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "description": "Automated GitHub organization stats to Discord with job description fetching",
   "scripts": {
+    "prepare": "husky install",
+    "lint": "eslint .github/scripts --max-warnings 0",
+    "syntax-check": "find .github/scripts -name '*.js' -type f -exec node -c {} \\;",
     "daily": "node .github/scripts/daily-stats.js",
     "weekly": "node .github/scripts/weekly-summary.js",
     "test:descriptions": "node test-all-platforms.js",
@@ -17,5 +20,16 @@
     "puppeteer": "^24.30.0"
   },
   "author": "zapplyjobs",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix --max-warnings 0",
+      "node -c"
+    ]
+  }
 }
