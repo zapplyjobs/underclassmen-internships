@@ -292,7 +292,7 @@ jobs:
                     .github/data/posted_jobs.json \
                     .github/data/seen_jobs.json \
                     .github/data/pending_posts.json \
-                    .github/data/jobs-data-encrypted.json 
+                    .github/data/jobs-data-encrypted.json \
                     .github/audit/latest.md \
                     .github/audit/routing-encrypted.json \
                     README.md 2>/dev/null || true
