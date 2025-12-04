@@ -29,6 +29,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
+        ref: main  # Always pull latest main branch code
         fetch-depth: 0  # Fetch full history for proper rebasing
         token: ${{ secrets.GITHUB_TOKEN }}  # Use default token for pushing
 
