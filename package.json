@@ -6,6 +6,9 @@
     "prepare": "husky install",
     "lint": "eslint .github/scripts --max-warnings 0",
     "syntax-check": "find .github/scripts -name '*.js' -type f -exec node -c {} \\;",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
     "daily": "node .github/scripts/daily-stats.js",
     "weekly": "node .github/scripts/weekly-summary.js",
     "test:descriptions": "node test-all-platforms.js",
@@ -17,13 +20,17 @@
     "cheerio": "^1.1.2",
     "discord.js": "^14.23.2",
     "node-fetch": "^2.7.0",
-    "puppeteer": "^24.30.0"
+    "puppeteer": "^24.30.0",
+    "sanitize-html": "^2.11.0",
+    "turndown": "^7.1.2",
+    "turndown-plugin-gfm": "^1.0.2"
   },
   "author": "zapplyjobs",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.57.0",
     "husky": "^8.0.3",
+    "jest": "^30.2.0",
     "lint-staged": "^15.2.0"
   },
   "lint-staged": {
