@@ -1,0 +1,119 @@
+name: Cleanup Discord Posts
+
+on:
+  workflow_dispatch:
+    inputs:
+      delete_all_channels:
+        description: 'Delete from all category channels'
+        required: true
+        type: boolean
+        default: true
+      channel_ids:
+        description: 'Specific channel IDs (comma-separated, leave empty if delete_all_channels is true)'
+        required: false
+        type: string
+        default: ''
+      hours_ago:
+        description: 'Delete posts from last N hours (leave empty unless needed)'
+        required: false
+        type: string
+        default: ''
+      older_than_hours:
+        description: 'Delete posts OLDER than N hours (168 = 7 days, leave empty for all)'
+        required: false
+        type: string
+        default: ''
+      clear_database:
+        description: 'Also clear posted_jobs.json (sync database with Discord cleanup)'
+        required: true
+        type: boolean
+        default: false
+      dry_run:
+        description: 'Dry run (preview without deleting)'
+        required: true
+        type: boolean
+        default: true
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      working-directory: .github/scripts
+      run: npm install discord.js@14
+
+    - name: Run cleanup script
+      run: node .github/scripts/cleanup-discord-posts.js
+      env:
+        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+        DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels }}
+        CHANNEL_IDS: ${{ inputs.channel_ids }}
+        HOURS_AGO: ${{ inputs.hours_ago }}
+        OLDER_THAN_HOURS: ${{ inputs.older_than_hours }}
+        DRY_RUN: ${{ inputs.dry_run }}
+        # Category channel IDs (using GitHub Secrets)
+        DISCORD_TECH_CHANNEL_ID: ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
+        DISCORD_SALES_CHANNEL_ID: ${{ secrets.DISCORD_SALES_CHANNEL_ID }}
+        DISCORD_MARKETING_CHANNEL_ID: ${{ secrets.DISCORD_MARKETING_CHANNEL_ID }}
+        DISCORD_FINANCE_CHANNEL_ID: ${{ secrets.DISCORD_FINANCE_CHANNEL_ID }}
+        DISCORD_HEALTHCARE_CHANNEL_ID: ${{ secrets.DISCORD_HEALTHCARE_CHANNEL_ID }}
+        DISCORD_PRODUCT_CHANNEL_ID: ${{ secrets.DISCORD_PRODUCT_CHANNEL_ID }}
+        DISCORD_SUPPLY_CHANNEL_ID: ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
+        DISCORD_PM_CHANNEL_ID: ${{ secrets.DISCORD_PM_CHANNEL_ID }}
+        DISCORD_HR_CHANNEL_ID: ${{ secrets.DISCORD_HR_CHANNEL_ID }}
+
+    - name: Clear posted_jobs.json (if requested)
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      run: |
+        echo "🗑️ Clearing posted_jobs.json to sync with Discord cleanup..."
+        node .github/scripts/state-sync-manager.js --action=clear-posted
+
+    - name: Verify state after cleanup
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      run: |
+        echo "🔍 Verifying state files after cleanup..."
+        node .github/scripts/state-sync-manager.js --action=verify
+
+    - name: Commit database changes
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .github/data/posted_jobs.json
+        git commit -m "chore: clear posted_jobs.json after Discord cleanup" || echo "No changes to commit"
+        git push || echo "Nothing to push"
+
+    - name: Create cleanup summary
+      if: always()
+      run: |
+        echo "## 🧹 Discord Cleanup Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Mode:** ${{ inputs.dry_run == true && '🔍 DRY RUN (Preview Only)' || '✅ LIVE RUN (Posts Deleted)' }}" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ inputs.delete_all_channels }}" == "true" ]; then
+          echo "**Channels:** All category channels (9 channels)" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "**Channels:** ${{ inputs.channel_ids }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ -n "${{ inputs.hours_ago }}" ]; then
+          echo "**Time Range:** Last ${{ inputs.hours_ago }} hours (newer posts)" >> $GITHUB_STEP_SUMMARY
+        elif [ -n "${{ inputs.older_than_hours }}" ]; then
+          echo "**Time Range:** Older than ${{ inputs.older_than_hours }} hours (older posts)" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "**Time Range:** All posts" >> $GITHUB_STEP_SUMMARY
+        fi
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Check the job logs above for detailed results." >> $GITHUB_STEP_SUMMARY
