@@ -52,7 +52,7 @@ jobs:
       run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
-        ENABLE_MARKDOWN_CONVERSION: false  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
+        ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
 
     - name: Display job-fetcher logs (always run)
       if: always()
@@ -292,6 +292,7 @@ jobs:
                     .github/data/posted_jobs.json \
                     .github/data/seen_jobs.json \
                     .github/data/pending_posts.json \
+                    .github/data/jobs-data-encrypted.json 
                     .github/audit/latest.md \
                     .github/audit/routing-encrypted.json \
                     README.md 2>/dev/null || true
