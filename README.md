@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-129-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-130-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 82 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 83 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 82
+- **🔥 Current Positions**: 83
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: December 4, 2025
@@ -147,10 +147,11 @@
 | 🏢 **Leidos** | Entry Level Software Developer | Bethesda, MD | 9h ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00171449) |
 | 🏢 **CACI** | Research Data Analyst | Fort Bragg, NC | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Fort-Bragg/Research-Data-Analyst_320026) |
 
-### 🏢 **Other Companies** (70 positions)
+### 🏢 **Other Companies** (71 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **University of Maryland Medical System** | Revenue Integrity Data Analyst 1 | Halethorpe, MD | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3743990010554844) |
 | 🏢 **GAP** | Data Scientist 1 | SF, Locations | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/4440-Rosewood-Drive/Data-Scientist-1_R204471) |
 | 🏢 **GumGum** | Software Engineer 1 | Santa Monica, CA | 1h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/gumgum/jobs/7546755003) |
 | 🏢 **National Renewable Energy Laboratory** | Postdoctoral Researcher | Golden, CO | 1h ago | Mid-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058) |
@@ -174,14 +175,14 @@
 | 🏢 **Northrop Grumman** | Software Engineer / Principal Software Engineer - Aht | Offutt AFB, NE | 10h ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer---Principal-Software-Engineer--AHT-_R10216147) |
 | 🏢 **Northrop Grumman** | Software Engineer - Level 1 or 2 | Colorado Springs, CO | 10h ago | Entry-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-1-or-2_R10215885) |
 | 🏢 **Northrop Grumman** | Associate Systems Modeling Simulations Engineer/Systems Modeling Simulations Engineer | Camarillo, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Systems-Modeling-Simulations-Engineer-Systems-Modeling-Simulations-Engineer_R10216012) |
-| 🏢 **Transamerica** | Appian Application Developer | Philadelphia, PA | 11h ago | Mid-Level | Software Engineering | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158) |
-| 🏢 **Highmark Health** | Associate Software Engineer | New Mexico, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J273354) |
+| 🏢 **Transamerica** | Appian Application Developer | Philadelphia, PA | 12h ago | Mid-Level | Software Engineering | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158) |
+| 🏢 **Highmark Health** | Associate Software Engineer | New Mexico, Locations | 12h ago | Entry-Level | Software Engineering | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J273354) |
 | 🏢 **Cloudera** | Software Engineer | Austin, TX | 12h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://cloudera.wd5.myworkdayjobs.com/external_career/job/US-Texas-Austin/Software-Engineer_251356-1) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/0ab1726b-a78b-482f-9946-fe3906977b8b/application) |
 | 🏢 **Princeton University** | Data Management Support 2 | Princeton, NJ | 12h ago | Mid-Level | Software Engineering | [Apply](https://main-princeton.icims.com/jobs/21391/job?mobile=true&needsRedirect=false) |
 | 🏢 **Hologic** | Software Development Engineer | San Diego, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10516) |
 | 🏢 **PennState University** | Postdoctoral Researcher | State College, PA | 12h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher_REQ_0000073974-1) |
-| 🏢 **Johnson & Johnson** | Post Doc LLM for Clinical Trials | New Hope, PA | 16h ago | Mid-Level | Software Engineering | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Post-Doc-LLM-for-Clinical-Trials_R-047138-1) |
+| 🏢 **Johnson & Johnson** | Post Doc LLM for Clinical Trials | New Hope, PA | 17h ago | Mid-Level | Software Engineering | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Post-Doc-LLM-for-Clinical-Trials_R-047138-1) |
 | 🏢 **Auto-Owners Insurance** | Business Intelligence Developer | East Lansing, MI | 18h ago | Mid-Level | Software Engineering | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154) |
 | 🏢 **HCSC** | Data Scientist | Chicago, IL | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Data-Scientist_R0045413-1) |
 | 🏢 **Intuit** | Software Engineer - Full Stack | NYC, Locations | 19h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-full-stack/27595/89117477792) |
@@ -251,8 +252,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 21 | 26% | No or minimal experience |
-| 🟡 Beginner & Early Career | 56 | 68% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 21 | 25% | No or minimal experience |
+| 🟡 Beginner & Early Career | 57 | 69% | 1-2 years of experience |
 | 🔴 Manager         | 5 | 6% | 2+ years of experience |
 
 ---
@@ -276,8 +277,8 @@
 #### 🧠 Machine Learning & AI (13 positions)
 🏢 pony.ai • 🏢 Northern Trust • 🏢 Comcast
 
-#### 📊 Data Science & Analytics (11 positions)
-🏢 GAP • 🏢 CVS Health • 🏢 HCSC
+#### 📊 Data Science & Analytics (12 positions)
+🏢 University of Maryland Medical System • 🏢 GAP • 🏢 CVS Health
 
 #### ⚙️ Backend Development (2 positions)
 🏢 Astranis • 🏢 Aegis Therapies
@@ -298,7 +299,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 82 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 83 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -387,7 +388,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 82 current opportunities from 261 companies**
+**🎯 83 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
