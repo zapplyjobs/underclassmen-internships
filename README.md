@@ -127,16 +127,16 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Travelers Companies** | Data Science Leadership Development Program - Dsldp - Associate Data Scientist | Hartford, CT | 1h ago | Senior | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Associate-Data-Scientist_R-48236) |
+| 🏢 **The Travelers Companies** | Data Science Leadership Development Program - Dsldp - Associate Data Scientist | Hartford, CT | 2h ago | Senior | Data Science & Analytics | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Associate-Data-Scientist_R-48236) |
 
 ### 🛡️ **Defense & Aerospace** (6 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🚀 **SpaceX** | Software Engineer | McGregor, TX | 7h ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8324788002) |
-| 🏢 **The Boeing Company** | Audio Visual Programmer | Reston, VA | 6h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audio-Visual-Programmer_JR2025482477-1) |
-| 🏢 **The Boeing Company** | Entry-Level Software Engineer - Secure Networks & Protocols | Oklahoma City, OK | 6h ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer---Secure-Networks---Protocols_JR2025487455-1) |
-| 🏢 **The Boeing Company** | Audiovisual Programmer | Reston, VA | 6h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Programmer_JR2025487536-1) |
+| 🏢 **The Boeing Company** | Audio Visual Programmer | Reston, VA | 7h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audio-Visual-Programmer_JR2025482477-1) |
+| 🏢 **The Boeing Company** | Entry-Level Software Engineer - Secure Networks & Protocols | Oklahoma City, OK | 7h ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer---Secure-Networks---Protocols_JR2025487455-1) |
+| 🏢 **The Boeing Company** | Audiovisual Programmer | Reston, VA | 7h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Programmer_JR2025487536-1) |
 | 🏢 **Leidos** | Software Engineer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00171275) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 11h ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 
@@ -149,10 +149,10 @@
 | 🏢 **Uline** | Associate Software Developer | Waukegan, IL | 6h ago | Entry-Level | Software Engineering | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R259664) |
 | 🏢 **Uline** | IT Data Analyst - Power BI | Waukegan, IL | 6h ago | Mid-Level | Data Science & Analytics | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/IT-Data-Analyst---Power-BI_R259661-2) |
 | 🏢 **Rockwell Automation** | Research Engineer | Mayfield Heights, OH | 6h ago | Mid-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Research-Engineer_R25-7023) |
-| 🏢 **Guidewire** | AI Engineer | San Mateo, CA | 6h ago | Mid-Level | Frontend Development | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/AI-Engineer---New-Graduate_JR_14030) |
-| 🏢 **PennState University** | Part-Time Research Support | State College, PA | 6h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support_REQ_0000074058-2) |
+| 🏢 **Guidewire** | AI Engineer | San Mateo, CA | 7h ago | Mid-Level | Frontend Development | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/AI-Engineer---New-Graduate_JR_14030) |
+| 🏢 **PennState University** | Part-Time Research Support | State College, PA | 7h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support_REQ_0000074058-2) |
 | 🏢 **PennState University** | Postdoctoral Researcher | State College, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher_REQ_0000073974-1) |
-| 🏢 **CAI** | Systems Analyst | Orlando, FL | 6h ago | Mid-Level | Machine Learning & AI | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Systems-Analyst_R6732) |
+| 🏢 **CAI** | Systems Analyst | Orlando, FL | 7h ago | Mid-Level | Machine Learning & AI | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Systems-Analyst_R6732) |
 | 🏢 **AeroVironment** | Software Engineer 2 - Apps | Moorpark, CA | 7h ago | Mid-Level | Software Engineering | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer-II--Apps-_6262) |
 | 🏢 **Parsons** | Analytics/Dashboarding Analyst - Ada | McLean, VA | 7h ago | Mid-Level | Data Science & Analytics | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Mclean/Analytics-Dashboarding-Analyst--ADA-_R175222-1) |
 | 🏢 **Rolls Royce** | Product and Service Development Engineer 1 - Entertainment | Paramus, NJ | 7h ago | Mid-Level | Software Engineering | [Apply](https://jobs.bmwgroup.com/job/Woodcliff-Lake-Product-and-Service-Development-Engineer-I-Entertainment-New/1269832901/?ats=successfactors) |
