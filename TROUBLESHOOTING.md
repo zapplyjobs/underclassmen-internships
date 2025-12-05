@@ -1,6 +1,6 @@
 # Troubleshooting Guide - Job Posting System
 
-**Last Updated:** December 3, 2025
+**Last Updated:** December 5, 2025
 
 This document provides diagnostic tools and procedures for troubleshooting issues with the job posting system.
 
@@ -447,6 +447,117 @@ gh run view <run-id> --log | grep "Install jobboard dependencies"
 
 **Prevention:**
 - Never commit node_modules to git (add to .gitignore)
+
+---
+
+### Issue #7: No New Jobs Posted After Cleanup (Database Out of Sync)
+
+**Symptoms:**
+- Cleanup workflow completed successfully (deleted Discord posts)
+- Bot reports: "ℹ️ No new jobs to post" in every subsequent run
+- Discord channels are empty but database (`posted_jobs.json`) still has thousands of job IDs
+- All genuinely new jobs are being skipped
+
+**Diagnostic:**
+
+1. **Check database size vs Discord activity:**
+   ```bash
+   # Check posted_jobs.json size
+   wc -l .github/data/posted_jobs.json
+   # If >1000 lines but Discord channels empty → Database out of sync
+
+   # Check recent workflow runs
+   gh run list --workflow=update-jobs.yml --limit 5
+   # Look for pattern: All "success" but no jobs posted
+   ```
+
+2. **Check cleanup workflow logs:**
+   ```bash
+   # Find latest cleanup run
+   gh run list --workflow=cleanup-discord-posts.yml --limit 1
+
+   # View logs for verification step
+   gh run view <run-id> --log | grep -A 10 "Verify state after cleanup"
+   # Look for: "posted_jobs.json cleared" but "Process completed with exit code 1"
+   ```
+
+**Root Cause: Cleanup Verification Blocking Commit (Identified Dec 5, 2025)**
+
+Cleanup workflow sequence:
+1. ✅ Deletes Discord posts successfully
+2. ✅ Clears `posted_jobs.json` to `[]` in GitHub Actions runner
+3. ❌ **Verification step fails** (e.g., encryption validation error)
+4. ❌ **Workflow exits with error** (exit code 1)
+5. ❌ **Commit step never executes** - cleared database never pushed to repo
+
+Result: Discord is empty, but database still has old job IDs → Bot skips all new jobs
+
+**Quick Fix (Manual Database Sync):**
+
+```bash
+cd New-Grad-Jobs  # or New-Grad-Internships-2026
+
+# Clear the database manually
+echo "[]" > .github/data/posted_jobs.json
+
+# Commit and push
+git add .github/data/posted_jobs.json
+git commit -m "fix: manually sync posted_jobs.json with Discord cleanup"
+git push
+```
+
+**Expected Result:**
+- Next workflow run (every 15 min) will detect new jobs
+- Bot will post jobs to Discord again
+- Database will grow with new job IDs
+
+**Permanent Fix (Already Applied - Commit 84d947d8):**
+
+Modified `.github/workflows/cleanup-discord-posts.yml` to make verification non-blocking:
+
+```yaml
+- name: Verify state after cleanup
+  if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+  continue-on-error: true  # Added: Don't block commit
+  run: |
+    echo "🔍 Verifying state files after cleanup..."
+    node .github/scripts/state-sync-manager.js --action=verify || true  # Added: || true
+```
+
+**Why This Works:**
+- Verification is informational only (doesn't modify files)
+- Clearing `posted_jobs.json` is the critical operation
+- Validation failures shouldn't block database sync
+- Main workflow will regenerate any missing files
+
+**Verification After Fix:**
+
+```bash
+# Wait 15 minutes, then check:
+gh run list --workflow=update-jobs.yml --limit 1
+
+# View logs
+gh run view <run_id> --log | grep "📤 Posting"
+# Should see: "📤 Posting X jobs..." (not "No new jobs to post")
+
+# Check database is growing
+wc -l .github/data/posted_jobs.json
+# Should increase from 1 line to 5+, 10+, etc. with each run
+```
+
+**Prevention:**
+- Monitor `posted_jobs.json` size: Alert if >5,000 IDs (stale data)
+- Monitor Discord activity: Alert if 0 posts for >2 hours
+- Monitor workflow patterns: Alert on repeated "No new jobs to post"
+- Design principle: Never let validation block critical operations
+- Use `continue-on-error: true` for informational checks
+
+**Related Documentation:**
+- See ISSUES.md: "Posted Jobs Database Not Syncing After Cleanup"
+- See LESSONS_LEARNED.md: Problem #5 (full root cause analysis)
+- See Memory MCP: `github_discord_cleanup_failure_2025_12_04`
+
+---
 - Always install dependencies in workflow, not pre-commit
 - Use visible logging (tee) instead of silent redirection (>)
 - Monitor pending queue size daily
