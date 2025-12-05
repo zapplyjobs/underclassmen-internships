@@ -97,6 +97,8 @@ jobs:
         DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
         # Multi-channel forum configuration
         DISCORD_TECH_CHANNEL_ID:      ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
+        DISCORD_AI_CHANNEL_ID:        ${{ secrets.DISCORD_AI_CHANNEL_ID }}
+        DISCORD_DS_CHANNEL_ID:        ${{ secrets.DISCORD_DS_CHANNEL_ID }}
         DISCORD_SALES_CHANNEL_ID:     ${{ secrets.DISCORD_SALES_CHANNEL_ID }}
         DISCORD_MARKETING_CHANNEL_ID: ${{ secrets.DISCORD_MARKETING_CHANNEL_ID }}
         DISCORD_FINANCE_CHANNEL_ID:   ${{ secrets.DISCORD_FINANCE_CHANNEL_ID }}
