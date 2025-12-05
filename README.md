@@ -135,13 +135,13 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Leidos** | Software Engineer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00171275) |
-| 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 1h ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 2h ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 
 ### 🏢 **Other Companies** (42 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **CVS Health** | Data Science Analyst - Consumer Engagement | NYC, Locations | 1h ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Analyst---Consumer-Engagement_R0782175) |
+| 🏢 **CVS Health** | Data Science Analyst - Consumer Engagement | NYC, Locations | 2h ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Analyst---Consumer-Engagement_R0782175) |
 | 🏢 **CVS Health** | Associate Cloud Data Engineer | Irving, TX | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617) |
 | 🏢 **Emerson Electric** | Business Data Analyst | Iowa, Locations | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029771) |
 | 🏢 **Lever** | Data Analyst | San Diego, CA | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/leverdemo-8/62a71e00-69ef-4145-bae4-3e8b02778a69/apply) |
@@ -150,7 +150,7 @@
 | 🏢 **Link** | Data Science Level 2 - Advanced AI - NLP | Odenton, MD | 5h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/linkllc/fa8fbdb5-ac85-4e50-a8a9-9857a5942cc3/apply) |
 | 🏢 **Link** | Cryptoanalyst Level 2 - CCA allowed | Odenton, MD | 5h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/linkllc/01986263-6ad2-4a5b-aea4-e1ba8375cfa9/apply) |
 | 🏢 **Savannah River National Laboratory** | Postdoc Research Associate-Computational Scientist | North Augusta, SC | 5h ago | Entry-Level | Software Engineering | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1880) |
-| 🏢 **University of Maryland Medical System** | Revenue Integrity Data Analyst 1 | Halethorpe, MD | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3743990010554844) |
+| 🏢 **University of Maryland Medical System** | Revenue Integrity Data Analyst 1 | Halethorpe, MD | 18h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3743990010554844) |
 | 🏢 **GumGum** | Software Engineer 1 | Santa Monica, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/gumgum/jobs/7546755003) |
 | 🏢 **National Renewable Energy Laboratory** | Postdoctoral Researcher | Golden, CO | 19h ago | Mid-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058) |
 | 🏢 **Astranis** | Software Engineer - Backend - Platform | SF, Locations | 22h ago | Mid-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4622097006) |
