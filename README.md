@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-89-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-87-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 42 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 40 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 42
+- **🔥 Current Positions**: 40
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 1 premium opportunities
+- **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 5, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,12 +115,6 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🟦 **Microsoft** | Software Engineer | Mountain View, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631205) |
-
 ### 🏢 **Top Tech** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
@@ -135,7 +129,7 @@
 | 🏢 **Leidos** | Software Engineer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00171275) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 4h ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 
-### 🏢 **Other Companies** (37 positions)
+### 🏢 **Other Companies** (36 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -175,7 +169,6 @@
 | 🏢 **HCSC** | Data Scientist | Chicago, IL | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Data-Scientist_R0045413-1) |
 | 🏢 **Estes Forwarding Worldwide** | Software Engineer 1 - Core Services | Richmond, VA | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers-efwnow.icims.com/jobs/6859/job?mobile=true&needsRedirect=false) |
 | 🏢 **Intuit** | Software Engineer - Full Stack | NYC, Locations | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-full-stack/27595/89117477792) |
-| 🏢 **DRW Holdings** | AI Researcher | Palo Alto, CA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/7039382) |
 
 
 
@@ -206,9 +199,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 34 | 81% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 2% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 7 | 18% | No or minimal experience |
+| 🟡 Beginner & Early Career | 32 | 80% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 3% | 2+ years of experience |
 
 ---
 
@@ -225,13 +218,13 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (29 positions)
+#### 💻 Software Engineering (28 positions)
 🏢 Peraton • 🏢 CVS Health • 🏢 General Dynamics Mission Systems
 
 #### 📊 Data Science & Analytics (5 positions)
 🏢 Emerson Electric • 🏢 Lever • 🏢 University of Maryland Medical System
 
-#### 🧠 Machine Learning & AI (5 positions)
+#### 🧠 Machine Learning & AI (4 positions)
 🏢 Link • 🏢 pony.ai • 🏢 Northern Trust
 
 #### ⚙️ Backend Development (1 positions)
@@ -247,7 +240,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 42 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 40 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -336,7 +329,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 42 current opportunities from 261 companies**
+**🎯 40 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
