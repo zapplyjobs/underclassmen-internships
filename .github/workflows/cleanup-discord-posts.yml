@@ -1,6 +1,9 @@
 name: Cleanup Discord Posts
 
 on:
+  schedule:
+    # Run weekly on Sundays at 00:00 UTC (7 PM EST Saturday)
+    - cron: '0 0 * * 0'
   workflow_dispatch:
     inputs:
       delete_all_channels:
@@ -58,11 +61,11 @@ jobs:
       env:
         DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
         DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
-        DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels }}
-        CHANNEL_IDS: ${{ inputs.channel_ids }}
-        HOURS_AGO: ${{ inputs.hours_ago }}
-        OLDER_THAN_HOURS: ${{ inputs.older_than_hours }}
-        DRY_RUN: ${{ inputs.dry_run }}
+        DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels || 'true' }}
+        CHANNEL_IDS: ${{ inputs.channel_ids || '' }}
+        HOURS_AGO: ${{ inputs.hours_ago || '' }}
+        OLDER_THAN_HOURS: ${{ inputs.older_than_hours || '168' }}
+        DRY_RUN: ${{ inputs.dry_run || 'false' }}
         # Category channel IDs (using GitHub Secrets)
         DISCORD_TECH_CHANNEL_ID: ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
         DISCORD_SALES_CHANNEL_ID: ${{ secrets.DISCORD_SALES_CHANNEL_ID }}
@@ -73,22 +76,24 @@ jobs:
         DISCORD_SUPPLY_CHANNEL_ID: ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
         DISCORD_PM_CHANNEL_ID: ${{ secrets.DISCORD_PM_CHANNEL_ID }}
         DISCORD_HR_CHANNEL_ID: ${{ secrets.DISCORD_HR_CHANNEL_ID }}
+        DISCORD_AI_CHANNEL_ID: ${{ secrets.DISCORD_AI_CHANNEL_ID }}
+        DISCORD_DS_CHANNEL_ID: ${{ secrets.DISCORD_DS_CHANNEL_ID }}
 
     - name: Clear posted_jobs.json (if requested)
-      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      if: ${{ (inputs.clear_database == true || github.event_name == 'schedule') && (inputs.dry_run == false || github.event_name == 'schedule') }}
       run: |
         echo "🗑️ Clearing posted_jobs.json to sync with Discord cleanup..."
         node .github/scripts/state-sync-manager.js --action=clear-posted
 
     - name: Verify state after cleanup
-      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      if: ${{ (inputs.clear_database == true || github.event_name == 'schedule') && (inputs.dry_run == false || github.event_name == 'schedule') }}
       continue-on-error: true
       run: |
         echo "🔍 Verifying state files after cleanup..."
         node .github/scripts/state-sync-manager.js --action=verify || true
 
     - name: Commit database changes
-      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      if: ${{ (inputs.clear_database == true || github.event_name == 'schedule') && (inputs.dry_run == false || github.event_name == 'schedule') }}
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
@@ -103,8 +108,8 @@ jobs:
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "**Mode:** ${{ inputs.dry_run == true && '🔍 DRY RUN (Preview Only)' || '✅ LIVE RUN (Posts Deleted)' }}" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        if [ "${{ inputs.delete_all_channels }}" == "true" ]; then
-          echo "**Channels:** All category channels (9 channels)" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ inputs.delete_all_channels || 'true' }}" == "true" ]; then
+          echo "**Channels:** All category channels (11 channels)" >> $GITHUB_STEP_SUMMARY
         else
           echo "**Channels:** ${{ inputs.channel_ids }}" >> $GITHUB_STEP_SUMMARY
         fi
