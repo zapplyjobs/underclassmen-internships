@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-102-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-101-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 55 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 54 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 55
+- **🔥 Current Positions**: 54
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 5, 2025
@@ -134,7 +134,7 @@
 | 🏢 **Leidos** | Software Engineer | Huntsville, AL | 1d ago | Mid-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00171275) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 7h ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 
-### 🏢 **Other Companies** (46 positions)
+### 🏢 **Other Companies** (45 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -153,8 +153,8 @@
 | 🏢 **Louisiana State University (LSU)** | Data Collections Specialist | Alexandria, LA | 3h ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Alexandria/Data-Collections-Specialist_R00111435-1) |
 | 🏢 **CVS Health** | Data Science Analyst - Consumer Engagement | NYC, Locations | 7h ago | Mid-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Analyst---Consumer-Engagement_R0782175) |
 | 🏢 **CVS Health** | Associate Cloud Data Engineer | Irving, TX | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617) |
-| 🏢 **Emerson Electric** | Business Data Analyst | Iowa, Locations | 10h ago | Mid-Level | Data Science & Analytics | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029771) |
-| 🏢 **Lever** | Data Analyst | San Diego, CA | 10h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/leverdemo-8/62a71e00-69ef-4145-bae4-3e8b02778a69/apply) |
+| 🏢 **Emerson Electric** | Business Data Analyst | Iowa, Locations | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029771) |
+| 🏢 **Lever** | Data Analyst | San Diego, CA | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/leverdemo-8/62a71e00-69ef-4145-bae4-3e8b02778a69/apply) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Software Engineer | Pittsburgh, PA | 11h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69616/job?mobile=true&needsRedirect=false) |
 | 🏢 **Trane Technologies** | Custom Application Engineer | Fort Smith, AR | 11h ago | Mid-Level | Software Engineering | [Apply](https://careers.tranetechnologies.com/global/en/job/2506845) |
 | 🏢 **Link** | Data Science Level 2 - Advanced AI - NLP | Odenton, MD | 11h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/linkllc/fa8fbdb5-ac85-4e50-a8a9-9857a5942cc3/apply) |
@@ -183,7 +183,6 @@
 | 🏢 **Johnson & Johnson** | Post Doc LLM for Clinical Trials | New Hope, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Post-Doc-LLM-for-Clinical-Trials_R-047138-1) |
 | 🏢 **Auto-Owners Insurance** | Business Intelligence Developer | East Lansing, MI | 1d ago | Mid-Level | Software Engineering | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_12154) |
 | 🏢 **HCSC** | Data Scientist | Chicago, IL | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Data-Scientist_R0045413-1) |
-| 🏢 **Intuit** | Software Engineer - Full Stack | NYC, Locations | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-full-stack/27595/89117477792) |
 
 
 
@@ -214,18 +213,18 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 10 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 44 | 80% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 10 | 19% | No or minimal experience |
+| 🟡 Beginner & Early Career | 43 | 80% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 2% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Columbus, OH**: 5 positions
-- **NYC, Locations**: 3 positions
 - **Waukegan, IL**: 2 positions
 - **Reston, VA**: 2 positions
 - **State College, PA**: 2 positions
+- **NYC, Locations**: 2 positions
 - **Odenton, MD**: 2 positions
 - **SF, Locations**: 2 positions
 - **Philadelphia, PA**: 2 positions
@@ -242,8 +241,8 @@
 #### 🧠 Machine Learning & AI (4 positions)
 🏢 CAI • 🏢 Link • 🏢 pony.ai
 
-#### 🎨 Frontend Development (3 positions)
-🏢 Guidewire • 🏢 Louisiana State University (LSU) • 🏢 Intuit
+#### 🎨 Frontend Development (2 positions)
+🏢 Guidewire • 🏢 Louisiana State University (LSU)
 
 #### 🎨 Design (1 positions)
 🏢 Cadence Design Systems
@@ -258,7 +257,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 55 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 54 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -347,7 +346,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 55 current opportunities from 261 companies**
+**🎯 54 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
