@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-98-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-99-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 51 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 52 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 51
+- **🔥 Current Positions**: 52
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: December 6, 2025
@@ -131,7 +131,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 10h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000097350765) |
+| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 11h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000097350765) |
 
 ### 🚀 **Startups & Growth** (1 positions)
 
@@ -159,12 +159,13 @@
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 19h ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 
-### 🏢 **Other Companies** (37 positions)
+### 🏢 **Other Companies** (38 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Applied Materials** | Data Scientist - New College Grad | Santa Clara, CA | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist--New-College-Grad--Master-s--Santa-Clara--CA-_R2519062) |
 | 🏢 **Applied Materials** | Automation Software Engineer | Austin, TX | 12h ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059) |
-| 🏢 **Applied Materials** | Product Line Management Data Science | Santa Clara, CA | 19h ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1) |
+| 🏢 **Applied Materials** | Product Line Management Data Science | Santa Clara, CA | 20h ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 15h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463680) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 15h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463728) |
 | 🏢 **RTX** | Full-Time | Aurora, CO | 16h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2026-Full-Time---Software-Engineer-I---Onsite--CO-_01810831) |
@@ -230,15 +231,15 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 9 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 40 | 78% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 10 | 19% | No or minimal experience |
+| 🟡 Beginner & Early Career | 40 | 77% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 4% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Santa Clara, CA**: 3 positions
 - **Remote in USA, Locations**: 3 positions
-- **Santa Clara, CA**: 2 positions
 - **Mountain View, CA**: 2 positions
 - **Aurora, CO**: 2 positions
 - **San Diego, CA**: 2 positions
@@ -252,8 +253,8 @@
 #### 💻 Software Engineering (32 positions)
 🔧 ServiceNow • 🏢 Applied Materials • 🏢 RTX
 
-#### 📊 Data Science & Analytics (10 positions)
-🏢 Walmart • 🏢 Dick's Sporting Goods • 🏢 Becton Dickinson
+#### 📊 Data Science & Analytics (11 positions)
+🏢 Applied Materials • 🏢 Walmart • 🏢 Dick's Sporting Goods
 
 #### 🧠 Machine Learning & AI (4 positions)
 🏢 PolyAI • 🏢 RadiantSecurity • 🏢 CAI
@@ -271,7 +272,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 51 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 52 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -360,7 +361,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 51 current opportunities from 261 companies**
+**🎯 52 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
