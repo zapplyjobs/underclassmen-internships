@@ -55,6 +55,13 @@ coverage/
 routing-debug.json
 *-decrypted.json
 
+# GitHub Actions debug logs (NEVER commit - plaintext routing/jobs data for debugging)
+# These files are created when CREATE_DEBUG_LOGS=true environment variable is set
+# They are GitHub Actions artifacts only - NOT for Git history
+.github/logs/
+routing-debug-*.log
+jobs-debug-*.log
+
 # Description fetcher cache (7-day cache for job descriptions)
 .github/data/description-cache/
 
