@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-95-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-96-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 48 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 49 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 48
+- **🔥 Current Positions**: 49
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: December 7, 2025
@@ -131,7 +131,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 16h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000097350765) |
+| 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000097350765) |
 
 ### 🚀 **Startups & Growth** (1 positions)
 
@@ -158,7 +158,7 @@
 | 🏢 **The Boeing Company** | Audiovisual Programmer | Reston, VA | 1d ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Programmer_JR2025487536-1) |
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 1d ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 
-### 🏢 **Other Companies** (35 positions)
+### 🏢 **Other Companies** (36 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -180,6 +180,7 @@
 | 🏢 **Best Friends** | Data Research Specialist | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://bestfriends.wd1.myworkdayjobs.com/bestfriendscareers/job/Remote/Data-Research-Specialist_JR100985) |
 | 🏢 **Becton Dickinson** | Data Analyst 1 | San Diego, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Data-Analyst-1_R-532428-1) |
 | 🏢 **Tempus** | Data Scientist 1 - Real World Data Science | Boston, MA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Scientist-I--Real-World-Data-Science_JR202500985) |
+| 🏢 **Geico** | Process Analyst 1 | Cheektowaga, NY | 1d ago | Mid-Level | Software Engineering | [Apply](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Fredericksburg-VA/Process-Analyst-I_R0061299) |
 | 🏢 **University of Chicago** | Business Intelligence & Analytics Senior Analyst | Chicago, IL | 1d ago | Senior | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249) |
 | 🏢 **Centene** | Provider Data Management Analyst 1 | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Provider-Data-Management-Analyst-I_1621782) |
 | 🏢 **Nutanix** | Software Engineer - Performance and Observability | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.jobvite.com/nutanix/job/o7NWyfw8?nl=1&nl=1&fr=false) |
@@ -227,8 +228,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 8 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 37 | 77% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 8 | 16% | No or minimal experience |
+| 🟡 Beginner & Early Career | 38 | 78% | 1-2 years of experience |
 | 🔴 Manager         | 3 | 6% | 2+ years of experience |
 
 ---
@@ -246,7 +247,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (28 positions)
+#### 💻 Software Engineering (29 positions)
 🏢 The Walt Disney Company • 🏢 Nimble Robotics • 🔧 ServiceNow
 
 #### 📊 Data Science & Analytics (10 positions)
@@ -268,7 +269,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 48 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 49 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -357,7 +358,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 48 current opportunities from 261 companies**
+**🎯 49 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
