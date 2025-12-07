@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-81-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-80-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 34 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 33 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 34
+- **🔥 Current Positions**: 33
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: December 7, 2025
@@ -142,18 +142,18 @@
 | 🏢 **The Boeing Company** | Atmospheric Scientist – Associate or Mid-Level | Albuquerque, NM | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2025487659-1) |
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 1d ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 
-### 🏢 **Other Companies** (27 positions)
+### 🏢 **Other Companies** (26 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Truist Bank** | Business Data Steward - Consumer and Small Business Banking | Richmond, VA | 9h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465) |
+| 🏢 **Truist Bank** | Business Data Steward - Consumer and Small Business Banking | Richmond, VA | 10h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Energy Systems | Woodridge, IL | 11h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Molten Salt Technology | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Molten-Salt-Technology_421498) |
 | 🏢 **The Walt Disney Company** | Software Engineer 1 | Santa Monica, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-CA-USA/Software-Engineer-I_10121013) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 17h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89231681536) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463680) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463728) |
-| 🏢 **Nimble Robotics** | Software Engineer - Robotics | SF, Locations | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/NimbleAI/2a9d9e52-9b84-4653-a423-ba62f1ef7f57/apply) |
+| 🏢 **Nimble Robotics** | Software Engineer - Robotics | SF, Locations | 18h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/NimbleAI/2a9d9e52-9b84-4653-a423-ba62f1ef7f57/apply) |
 | 🏢 **Applied Materials** | Data Scientist - New College Grad | Santa Clara, CA | 18h ago | Entry-Level | Data Science & Analytics | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist--New-College-Grad--Master-s--Santa-Clara--CA-_R2519062) |
 | 🏢 **Applied Materials** | Automation Software Engineer | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059) |
 | 🏢 **Applied Materials** | Product Line Management Data Science | Santa Clara, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1) |
@@ -172,7 +172,6 @@
 | 🏢 **Nutanix** | Software Engineer - Performance and Observability | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.jobvite.com/nutanix/job/o7NWyfw8?nl=1&nl=1&fr=false) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/cf869c73-dd9e-4084-a721-400f5a0c8b9b/application) |
 | 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/10e5448e-4fcc-4981-a598-44437a96b58d/application) |
-| 🏢 **ONYX Insight** | Condition Monitoring Engineer | Broomfield, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply) |
 
 
 
@@ -204,7 +203,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 6 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 26 | 76% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 25 | 76% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 6% | 2+ years of experience |
 
 ---
@@ -222,7 +221,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (20 positions)
+#### 💻 Software Engineering (19 positions)
 🏢 Argonne National Laboratory • 🏢 The Walt Disney Company • 🏢 Nimble Robotics
 
 #### 📊 Data Science & Analytics (6 positions)
@@ -244,7 +243,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 34 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 33 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -333,7 +332,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 34 current opportunities from 261 companies**
+**🎯 33 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
