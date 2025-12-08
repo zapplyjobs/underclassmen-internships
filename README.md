@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-60-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-59-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 13 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 12 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 13
+- **🔥 Current Positions**: 12
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 8, 2025
@@ -121,13 +121,13 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000097350765) |
 
-### 🏢 **Other Companies** (12 positions)
+### 🏢 **Other Companies** (11 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Truist Bank** | Business Data Steward - Consumer and Small Business Banking | Richmond, VA | 20h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465) |
-| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Energy Systems | Woodridge, IL | 21h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958) |
-| 🏢 **The Walt Disney Company** | Software Engineer 1 | Santa Monica, CA | 23h ago | Mid-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-CA-USA/Software-Engineer-I_10121013) |
+| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Energy Systems | Woodridge, IL | 22h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958) |
+| 🏢 **The Walt Disney Company** | Software Engineer 1 | Santa Monica, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-CA-USA/Software-Engineer-I_10121013) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89231681536) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463680) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463728) |
@@ -136,7 +136,6 @@
 | 🏢 **Applied Materials** | Automation Software Engineer | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059) |
 | 🏢 **RTX** | Full-Time | Aurora, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2026-Full-Time---Software-Engineer-I---Onsite--CO-_01810831) |
 | 🏢 **Caesars Entertainment** | Analyst 1 | Las Vegas, NV | 1d ago | Mid-Level | Software Engineering | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/76888) |
-| 🏢 **Walmart** | Senior – Data Scientist | Bentonville, AR | 1d ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2367375-1) |
 
 
 
@@ -168,8 +167,8 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 1 | 8% | No or minimal experience |
-| 🟡 Beginner & Early Career | 11 | 85% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 8% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 11 | 92% | 1-2 years of experience |
+| 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
@@ -192,14 +191,14 @@
 #### 🎨 Frontend Development (4 positions)
 🏢 Truist Bank • 🏢 Intuit
 
-#### 📊 Data Science & Analytics (2 positions)
-🏢 Applied Materials • 🏢 Walmart
+#### 📊 Data Science & Analytics (1 positions)
+🏢 Applied Materials
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 13 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 12 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -288,7 +287,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 13 current opportunities from 261 companies**
+**🎯 12 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
