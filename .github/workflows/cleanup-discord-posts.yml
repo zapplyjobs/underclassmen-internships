@@ -78,6 +78,19 @@ jobs:
         DISCORD_HR_CHANNEL_ID: ${{ secrets.DISCORD_HR_CHANNEL_ID }}
         DISCORD_AI_CHANNEL_ID: ${{ secrets.DISCORD_AI_CHANNEL_ID }}
         DISCORD_DS_CHANNEL_ID: ${{ secrets.DISCORD_DS_CHANNEL_ID }}
+        # Location-specific channels
+        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
+        DISCORD_NY_CHANNEL_ID: ${{ secrets.DISCORD_NY_CHANNEL_ID }}
+        DISCORD_AUSTIN_CHANNEL_ID: ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
+        DISCORD_CHICAGO_CHANNEL_ID: ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
+        DISCORD_SEATTLE_CHANNEL_ID: ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
+        DISCORD_REDMOND_CHANNEL_ID: ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
+        DISCORD_MV_CHANNEL_ID: ${{ secrets.DISCORD_MV_CHANNEL_ID }}
+        DISCORD_SF_CHANNEL_ID: ${{ secrets.DISCORD_SF_CHANNEL_ID }}
+        DISCORD_SUNNYVALE_CHANNEL_ID: ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
+        DISCORD_SAN_BRUNO_CHANNEL_ID: ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
+        DISCORD_BOSTON_CHANNEL_ID: ${{ secrets.DISCORD_BOSTON_CHANNEL_ID }}
+        DISCORD_LA_CHANNEL_ID: ${{ secrets.DISCORD_LA_CHANNEL_ID }}
 
     - name: Clear posted_jobs.json (if requested)
       if: ${{ (inputs.clear_database == true || github.event_name == 'schedule') && (inputs.dry_run == false || github.event_name == 'schedule') }}
