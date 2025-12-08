@@ -118,6 +118,8 @@ jobs:
         DISCORD_SF_CHANNEL_ID:         ${{ secrets.DISCORD_SF_CHANNEL_ID }}
         DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
         DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
+        DISCORD_BOSTON_CHANNEL_ID:     ${{ secrets.DISCORD_BOSTON_CHANNEL_ID }}
+        DISCORD_LA_CHANNEL_ID:         ${{ secrets.DISCORD_LA_CHANNEL_ID }}
         # Encrypted routing logs password
         LOG_ENCRYPT_PASSWORD:          ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
