@@ -104,20 +104,20 @@ jobs:
         DISCORD_LA_CHANNEL_ID: ${{ secrets.DISCORD_LA_CHANNEL_ID }}
 
     - name: Clear posted_jobs.json (if requested)
-      if: ${{ (inputs.clear_database == true || github.event_name == 'schedule') && (inputs.dry_run == false || github.event_name == 'schedule') }}
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
       run: |
         echo "🗑️ Clearing posted_jobs.json to sync with Discord cleanup..."
         node .github/scripts/state-sync-manager.js --action=clear-posted
 
     - name: Verify state after cleanup
-      if: ${{ (inputs.clear_database == true || github.event_name == 'schedule') && (inputs.dry_run == false || github.event_name == 'schedule') }}
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
       continue-on-error: true
       run: |
         echo "🔍 Verifying state files after cleanup..."
         node .github/scripts/state-sync-manager.js --action=verify || true
 
     - name: Commit database changes
-      if: ${{ (inputs.clear_database == true || github.event_name == 'schedule') && (inputs.dry_run == false || github.event_name == 'schedule') }}
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
