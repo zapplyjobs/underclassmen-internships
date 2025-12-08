@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-55-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 8 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 8
+- **🔥 Current Positions**: 7
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 8, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🔧 **ServiceNow** | Software Engineer | Santa Clara, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000097350765) |
 
-### 🏢 **Other Companies** (7 positions)
+### 🏢 **Other Companies** (6 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -131,7 +131,6 @@
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89231681536) |
 | 🏢 **Nimble Robotics** | Software Engineer - Robotics | SF, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/NimbleAI/2a9d9e52-9b84-4653-a423-ba62f1ef7f57/apply) |
 | 🏢 **Applied Materials** | Data Scientist - New College Grad | Santa Clara, CA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist--New-College-Grad--Master-s--Santa-Clara--CA-_R2519062) |
-| 🏢 **Applied Materials** | Automation Software Engineer | Austin, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059) |
 
 
 
@@ -162,8 +161,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 1 | 13% | No or minimal experience |
-| 🟡 Beginner & Early Career | 7 | 88% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 1 | 14% | No or minimal experience |
+| 🟡 Beginner & Early Career | 6 | 86% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -175,12 +174,11 @@
 - **Santa Monica, CA**: 1 positions
 - **Mountain View, CA**: 1 positions
 - **SF, Locations**: 1 positions
-- **Austin, TX**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (5 positions)
+#### 💻 Software Engineering (4 positions)
 🏢 Argonne National Laboratory • 🏢 The Walt Disney Company • 🏢 Nimble Robotics
 
 #### 🎨 Frontend Development (2 positions)
@@ -193,7 +191,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 8 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 7 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -282,7 +280,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 8 current opportunities from 261 companies**
+**🎯 7 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
