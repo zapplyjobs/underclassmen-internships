@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-71-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-70-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 24 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 23 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 24
+- **🔥 Current Positions**: 23
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 8, 2025
@@ -134,14 +134,14 @@
 | 🚀 **SpaceX** | Mission Integration Engineer - Applied Computing - Starshield | West Athens, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8320099002) |
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 1d ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 
-### 🏢 **Other Companies** (20 positions)
+### 🏢 **Other Companies** (19 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Truist Bank** | Business Data Steward - Consumer and Small Business Banking | Richmond, VA | 17h ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465) |
-| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Energy Systems | Woodridge, IL | 18h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958) |
+| 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Energy Systems | Woodridge, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958) |
 | 🏢 **Argonne National Laboratory** | Postdoctoral Appointee - Molten Salt Technology | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Molten-Salt-Technology_421498) |
-| 🏢 **The Walt Disney Company** | Software Engineer 1 | Santa Monica, CA | 20h ago | Mid-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-CA-USA/Software-Engineer-I_10121013) |
+| 🏢 **The Walt Disney Company** | Software Engineer 1 | Santa Monica, CA | 21h ago | Mid-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-CA-USA/Software-Engineer-I_10121013) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89231681536) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463680) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463728) |
@@ -157,7 +157,6 @@
 | 🏢 **RadiantSecurity** | AI Security Context Engineer | United States, Locations | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/radiantsecurity/jobs/5711597004) |
 | 🏢 **Best Friends** | Data Research Specialist | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://bestfriends.wd1.myworkdayjobs.com/bestfriendscareers/job/Remote/Data-Research-Specialist_JR100985) |
 | 🏢 **Becton Dickinson** | Data Analyst 1 | San Diego, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Data-Analyst-1_R-532428-1) |
-| 🏢 **Tempus** | Data Scientist 1 - Real World Data Science | Boston, MA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Scientist-I--Real-World-Data-Science_JR202500985) |
 
 
 
@@ -189,7 +188,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience |
-| 🟡 Beginner & Early Career | 20 | 83% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 19 | 83% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 4% | 2+ years of experience |
 
 ---
@@ -210,11 +209,11 @@
 #### 💻 Software Engineering (12 positions)
 🏢 Argonne National Laboratory • 🏢 The Walt Disney Company • 🏢 Nimble Robotics
 
-#### 📊 Data Science & Analytics (5 positions)
-🏢 Applied Materials • 🏢 Walmart • 🏢 Dick's Sporting Goods
-
 #### 🎨 Frontend Development (4 positions)
 🏢 Truist Bank • 🏢 Intuit
+
+#### 📊 Data Science & Analytics (4 positions)
+🏢 Applied Materials • 🏢 Walmart • 🏢 Dick's Sporting Goods
 
 #### 🧠 Machine Learning & AI (2 positions)
 🏢 PolyAI • 🏢 RadiantSecurity
@@ -226,7 +225,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 24 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 23 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -315,7 +314,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 24 current opportunities from 261 companies**
+**🎯 23 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
