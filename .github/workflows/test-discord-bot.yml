@@ -1,186 +1,90 @@
-name: Test Discord Bot Posting
+name: Test Discord Bot
 
 on:
-  workflow_dispatch:  # Manual trigger only
-    inputs:
-      job_count:
-        description: 'Number of test jobs to create'
-        required: false
-        default: '3'
-        type: choice
-        options:
-          - '1'
-          - '3'
-          - '5'
-          - '10'
-      skip_posted_check:
-        description: 'Skip posted jobs check (force post)'
-        required: false
-        default: false
-        type: boolean
+  pull_request:
+    paths:
+      - '.github/scripts/**'
+      - '.github/workflows/test-discord-bot.yml'
+  workflow_dispatch:
 
 jobs:
-  test-discord-posting:
+  test:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 5
 
     steps:
-    - name: Checkout repository
+    - name: Checkout
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
 
-    - name: Create test jobs
+    - name: Install dependencies
       run: |
-        cat > .github/data/new_jobs.json << 'EOF'
-        [
-          {
-            "job_title": "Test Software Engineer",
-            "employer_name": "Meta",
-            "job_city": "San Francisco",
-            "job_state": "CA",
-            "job_description": "Test job for Discord bot testing",
-            "job_apply_link": "https://example.com/test1",
-            "job_posted_at": "Recently",
-            "job_posted_at_datetime_utc": "2025-01-15T10:00:00Z",
-            "id": "test-meta-swe-sf-${{ github.run_number }}"
-          },
-          {
-            "job_title": "Test Product Manager",
-            "employer_name": "Google",
-            "job_city": "Mountain View",
-            "job_state": "CA",
-            "job_description": "Test PM role for bot testing",
-            "job_apply_link": "https://example.com/test2",
-            "job_posted_at": "Recently",
-            "job_posted_at_datetime_utc": "2025-01-15T09:00:00Z",
-            "id": "test-google-pm-mv-${{ github.run_number }}"
-          },
-          {
-            "job_title": "Test Sales Representative",
-            "employer_name": "Salesforce",
-            "job_city": "New York",
-            "job_state": "NY",
-            "job_description": "Test sales role for bot testing",
-            "job_apply_link": "https://example.com/test3",
-            "job_posted_at": "Recently",
-            "job_posted_at_datetime_utc": "2025-01-15T08:00:00Z",
-            "id": "test-salesforce-sales-ny-${{ github.run_number }}"
-          }
-        ]
-        EOF
+        npm install discord.js axios
 
-        echo "📝 Created test jobs with unique IDs (run #${{ github.run_number }})"
-        echo "Jobs in new_jobs.json:"
-        cat .github/data/new_jobs.json | jq -r '.[] | "  - \(.job_title) @ \(.employer_name)"'
-
-    - name: Clear test job IDs from posted_jobs if needed
-      if: ${{ inputs.skip_posted_check == true || inputs.skip_posted_check == 'true' }}
+    - name: Syntax validation
       run: |
-        echo "🧹 Removing test job IDs from posted_jobs.json..."
+        echo "=== Validating JavaScript syntax ==="
+        node --check .github/scripts/enhanced-discord-bot.js
+        node --check .github/scripts/src/discord/config.js
+        node --check .github/scripts/src/routing/router.js
+        node --check .github/scripts/src/utils/job-normalizer.js
+        node --check .github/scripts/src/utils/job-formatters.js
+        node --check .github/scripts/src/data/posted-jobs-manager-v2.js
+        node --check .github/scripts/src/data/subscription-manager.js
+        echo "✅ All files passed syntax validation"
+
+    - name: Test module imports
+      run: |
+        echo "=== Testing module imports ==="
         node -e "
-        const fs = require('fs');
-        const posted = JSON.parse(fs.readFileSync('.github/data/posted_jobs.json', 'utf8'));
-        const filtered = posted.filter(id => !id.startsWith('test-'));
-        fs.writeFileSync('.github/data/posted_jobs.json', JSON.stringify(filtered, null, 2));
-        console.log('Removed ' + (posted.length - filtered.length) + ' test IDs');
+          const { CHANNEL_CONFIG } = require('./.github/scripts/src/discord/config');
+          const { getJobChannelDetails } = require('./.github/scripts/src/routing/router');
+          const { normalizeJob } = require('./.github/scripts/src/utils/job-normalizer');
+          const { formatPostedDate } = require('./.github/scripts/src/utils/job-formatters');
+          const PostedJobsManager = require('./.github/scripts/src/data/posted-jobs-manager-v2');
+          const SubscriptionManager = require('./.github/scripts/src/data/subscription-manager');
+          console.log('✅ All modules imported successfully');
         "
 
-    - name: Install Discord.js
-      working-directory: .github/scripts
-      run: npm install discord.js@14
-
-    - name: Run Discord bot with logging
-      run: node .github/scripts/save-discord-logs.js
-      env:
-        DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
-        DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
-        DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
-        DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
-        # Multi-channel forum configuration
-        DISCORD_TECH_CHANNEL_ID:      ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
-        DISCORD_SALES_CHANNEL_ID:     ${{ secrets.DISCORD_SALES_CHANNEL_ID }}
-        DISCORD_MARKETING_CHANNEL_ID: ${{ secrets.DISCORD_MARKETING_CHANNEL_ID }}
-        DISCORD_FINANCE_CHANNEL_ID:   ${{ secrets.DISCORD_FINANCE_CHANNEL_ID }}
-        DISCORD_HEALTHCARE_CHANNEL_ID: ${{ secrets.DISCORD_HEALTHCARE_CHANNEL_ID }}
-        DISCORD_PRODUCT_CHANNEL_ID:   ${{ secrets.DISCORD_PRODUCT_CHANNEL_ID }}
-        DISCORD_SUPPLY_CHANNEL_ID:    ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
-        DISCORD_PM_CHANNEL_ID:         ${{ secrets.DISCORD_PM_CHANNEL_ID }}
-        DISCORD_HR_CHANNEL_ID:         ${{ secrets.DISCORD_HR_CHANNEL_ID }}
-        # Location-specific channels
-        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
-        DISCORD_NY_CHANNEL_ID:         ${{ secrets.DISCORD_NY_CHANNEL_ID }}
-        DISCORD_AUSTIN_CHANNEL_ID:     ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
-        DISCORD_CHICAGO_CHANNEL_ID:    ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
-        DISCORD_SEATTLE_CHANNEL_ID:    ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
-        DISCORD_REDMOND_CHANNEL_ID:    ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
-        DISCORD_MV_CHANNEL_ID:         ${{ secrets.DISCORD_MV_CHANNEL_ID }}
-        DISCORD_SF_CHANNEL_ID:         ${{ secrets.DISCORD_SF_CHANNEL_ID }}
-        DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
-        DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
-
-    - name: Display bot logs
-      if: always()
+    - name: Test utility functions
       run: |
-        echo "📋 Discord Bot Execution Log:"
-        echo "=============================="
-        if [ -f ".github/logs/latest.log" ]; then
-          cat .github/logs/latest.log
-        else
-          echo "No log file found"
-        fi
+        echo "=== Testing utility functions ==="
+        node -e "
+          const { normalizeJob } = require('./.github/scripts/src/utils/job-normalizer');
+          const { formatPostedDate, cleanJobDescription } = require('./.github/scripts/src/utils/job-formatters');
 
-    - name: Save logs and test data
-      if: always()
+          // Test normalizeJob
+          const testJob = {
+            title: 'Software Engineer',
+            company_name: 'Test Corp',
+            url: 'https://example.com/job',
+            locations: ['San Francisco, CA']
+          };
+          const normalized = normalizeJob(testJob);
+          if (!normalized.job_title) throw new Error('normalizeJob failed');
+
+          // Test formatPostedDate
+          const formatted = formatPostedDate('2025-01-01');
+          if (typeof formatted !== 'string') throw new Error('formatPostedDate failed');
+
+          // Test cleanJobDescription
+          const cleaned = cleanJobDescription('Test <script>alert(1)</script> description');
+          if (cleaned.includes('script')) throw new Error('cleanJobDescription failed to sanitize');
+
+          console.log('✅ All utility functions working correctly');
+        "
+
+    - name: Test results
+      if: success()
       run: |
-        # Prepare commit
-        git config --local user.email "team@zapply.ai"
-        git config --local user.name "Zapply Team"
-
-        # Add files
-        git add .github/data/new_jobs.json || true
-        git add .github/data/posted_jobs.json || true
-        git add .github/logs/ || true
-
-        # Commit if there are changes
-        if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "Test Discord bot run #${{ github.run_number }}
-
-          Test jobs created and posted
-          Logs saved for debugging"
-
-          git push origin main
-          echo "✅ Changes committed and pushed"
-        else
-          echo "ℹ️ No changes to commit"
-        fi
-
-    - name: Summary
-      if: always()
-      run: |
-        echo "## 🧪 Discord Bot Test Summary" >> $GITHUB_STEP_SUMMARY
-        echo "" >> $GITHUB_STEP_SUMMARY
-        echo "**Run Number:** #${{ github.run_number }}" >> $GITHUB_STEP_SUMMARY
-        echo "**Test Jobs Created:** ${{ inputs.job_count || '3' }}" >> $GITHUB_STEP_SUMMARY
-        echo "**Skip Posted Check:** ${{ inputs.skip_posted_check || 'false' }}" >> $GITHUB_STEP_SUMMARY
-        echo "" >> $GITHUB_STEP_SUMMARY
-
-        if [ -f ".github/logs/latest.log" ]; then
-          echo "### 📊 Bot Results:" >> $GITHUB_STEP_SUMMARY
-          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-          grep -E "Posted:|Error:|No new jobs|Posting .* new jobs" .github/logs/latest.log | head -20 >> $GITHUB_STEP_SUMMARY || echo "No posting results found"
-          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-        fi
-
-        echo "" >> $GITHUB_STEP_SUMMARY
-        echo "### 📁 Files:" >> $GITHUB_STEP_SUMMARY
-        echo "- Logs saved to \`.github/logs/latest.log\`" >> $GITHUB_STEP_SUMMARY
-        echo "- Test jobs in \`.github/data/new_jobs.json\`" >> $GITHUB_STEP_SUMMARY
-        echo "- Posted tracking in \`.github/data/posted_jobs.json\`" >> $GITHUB_STEP_SUMMARY
+        echo "================================================"
+        echo "✅ ALL TESTS PASSED"
+        echo "================================================"
+        echo "- Syntax validation: PASS"
+        echo "- Module imports: PASS"
+        echo "- Utility functions: PASS"
+        echo "================================================"
