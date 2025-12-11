@@ -1,3 +1,6 @@
 node_modules/
 .husky/
 *.log
+
+# Include .github/scripts for linting (override default ignore)
+!.github/
