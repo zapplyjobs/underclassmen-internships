@@ -120,7 +120,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 📦 **Amazon** | Software Dev Engineer 1 | Sunnyvale, CA | 1h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en/jobs/3140907/software-dev-engineer-i) |
-| 🟦 **Microsoft** | Quantum Software Engineer | Redmond, WA | 9h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640339) |
+| 🟦 **Microsoft** | Quantum Software Engineer | Redmond, WA | 10h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640339) |
 | 🟦 **Microsoft** | Applied Scientist | Redmond, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556619598) |
 | 🟦 **Microsoft** | Software Engineer 1 | Redmond, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556629509) |
 
@@ -163,7 +163,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **RELX** | Data Analyst | Philadelphia, PA | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711) |
 | 🏢 **Nordstrom** | Data Engineer 1 - Seattle/WA | Seattle, WA | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047) |
-| 🏢 **Applied Materials** | Data Science Engineer - New College Grad-Master's/PhD | Santa Clara, CA | 5h ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402) |
+| 🏢 **Applied Materials** | Data Science Engineer - New College Grad-Master's/PhD | Santa Clara, CA | 6h ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402) |
 | 🏢 **Applied Materials** | Application Engineer 2 | Santa Clara, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Application-Engineer-II_R2519522) |
 | 🏢 **Matic** | Backend Software Engineer | Mountain View, CA | 6h ago | Mid-Level | Backend Development | [Apply](https://jobs.ashbyhq.com/MaticRobots/230e365c-de86-4f7b-b971-2d25a021b0d4/application) |
 | 🏢 **Masimo** | Data Analytics Engineer | Irvine, CA | 6h ago | Mid-Level | Data Science & Analytics | [Apply](https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3539) |
@@ -195,11 +195,11 @@
 | 🏢 **General Dynamics Mission Systems** | Junior Software Engineer | Dedham, MA | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69724/junior-software-engineer/job) |
 | 🏢 **General Dynamics Mission Systems** | Systems Engineer – Entry Level | Colorado Springs, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69695/job?mobile=true&needsRedirect=false) |
 | 🏢 **BTI Solutions** | Korean Bilingual Software Test Engineer (Entry Level) | Plano, TX | 12h ago | Entry-Level | Software Engineering | [Apply](https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Korean-Bilingual-Software-Test-Engineer--Entry-Level--AO7167525_JR101482) |
-| 🏢 **Public Storage** | Associate Cloud Engineer | Plano, TX | 12h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225) |
+| 🏢 **Public Storage** | Associate Cloud Engineer | Plano, TX | 13h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225) |
 | 🏢 **Guidehouse** | Biostatistician/AI Data Scientist 1 | Atlanta, GA | 15h ago | Mid-Level | Mobile Development | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Biostatistician-AI-Data-Scientist-I_34595-1) |
 | 🏢 **Fullsteam** | Software Engineer | Remote in USA, Locations | 16h ago | Mid-Level | Software Engineering | [Apply](https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Software-Engineer_JR101949) |
 | 🏢 **ION Group** | Software Developer - 2026 Leadership Development Program - Houston | Houston, TX | 16h ago | Senior | Software Engineering | [Apply](https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply) |
-| 🏢 **Welocalize** | Multilingual Audio Personalization Evaluator - English - United States | Remote in USA, Locations | 21h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/welocalize/907a2767-8d04-4a7a-9b61-9d8e373fe695/apply) |
+| 🏢 **Welocalize** | Multilingual Audio Personalization Evaluator - English - United States | Remote in USA, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/welocalize/907a2767-8d04-4a7a-9b61-9d8e373fe695/apply) |
 | 🏢 **Huntington Ingalls Industries** | Database Administrator 1 | Newport News, VA | 22h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-DATABASE-ADMINISTRATOR-1-Virg/1349037400/?ats=successfactors) |
 | 🏢 **General Dynamics Information Technology** | UiPath Robotic Process Automation Developer Associate | Shreveport, LA | 1d ago | Entry-Level | Frontend Development | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UiPath-Robotic-Process-Automation-Developer-Associate_RQ211136) |
 | 🏢 **Internet Brands** | Associate AI Engineer | El Segundo, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o33Oyfwc?nl=1&nl=1&fr=false) |
