@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-151-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-150-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 104 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 103 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 104
+- **🔥 Current Positions**: 103
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: December 12, 2025
@@ -157,7 +157,7 @@
 | 🏢 **CACI** | Data Dictionary Software Engineer 1 | Hanover, MD | 1d ago | Mid-Level | Software Engineering | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288) |
 | 🏢 **CACI** | Entry-Level AI/ML Software Engineer | Remote in USA, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-AI-ML-Software-Engineer_320317) |
 
-### 🏢 **Other Companies** (87 positions)
+### 🏢 **Other Companies** (86 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -180,9 +180,8 @@
 | 🏢 **Northrop Grumman** | Software Engineer - Ent | Colorado Springs, CO | 5h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983) |
 | 🏢 **Northrop Grumman** | Associate Data Engineer/ Data Engineer | Linthicum, MD | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Data-Engineer_R10213226) |
 | 🏢 **Northrop Grumman** | Software Engineer - Level 2 or 3 | Boulder, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Engineer---Level-2-or-3_R10216455-1) |
-| 🏢 **AtkinsRéalis** | Software Developer | Denver, CO | 5h ago | Mid-Level | Software Engineering | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer_R-136762-1) |
+| 🏢 **AtkinsRéalis** | Software Developer | Denver, CO | 6h ago | Mid-Level | Software Engineering | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer_R-136762-1) |
 | 🏢 **Empower** | Associate Software Engineer - Starting Summer 2026 | Greenwood Village, CO | 6h ago | Entry-Level | Software Engineering | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Associate-Software-Engineer---starting-Summer-2026_R0054978-1) |
-| 🏢 **Empower** | Associate Software Engineer | Hartford, CT | 6h ago | Entry-Level | Software Engineering | [Apply](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Associate-Software-Engineer---starting-Summer-2026_R0054979-1) |
 | 🏢 **Howard University** | Research Scientist - Post Doc Research Fellow | Washington, DC | 6h ago | Mid-Level | Software Engineering | [Apply](https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/Research-Scientist--Post-Doc-Research-Fellow-_JR107708-1) |
 | 🏢 **Consolidated Edison** | Associate IT BSD OMS Team | NYC, Locations | 6h ago | Entry-Level | Software Engineering | [Apply](https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/4886) |
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 6h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89411491904) |
@@ -199,8 +198,8 @@
 | 🏢 **Fullsteam** | Software Engineer | Remote in USA, Locations | 12h ago | Mid-Level | Software Engineering | [Apply](https://fullsteam.wd1.myworkdayjobs.com/external/job/Remote---US/Software-Engineer_JR101949) |
 | 🏢 **ION Group** | Software Developer - 2026 Leadership Development Program - Houston | Houston, TX | 13h ago | Senior | Software Engineering | [Apply](https://jobs.lever.co/ion/beb910e6-7ad4-4c72-9b6d-f2666a7ed4aa/apply) |
 | 🏢 **Welocalize** | Multilingual Audio Personalization Evaluator - English - United States | Remote in USA, Locations | 18h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/welocalize/907a2767-8d04-4a7a-9b61-9d8e373fe695/apply) |
-| 🏢 **Huntington Ingalls Industries** | Database Administrator 1 | Newport News, VA | 18h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-DATABASE-ADMINISTRATOR-1-Virg/1349037400/?ats=successfactors) |
-| 🏢 **General Dynamics Information Technology** | UiPath Robotic Process Automation Developer Associate | Shreveport, LA | 21h ago | Entry-Level | Frontend Development | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UiPath-Robotic-Process-Automation-Developer-Associate_RQ211136) |
+| 🏢 **Huntington Ingalls Industries** | Database Administrator 1 | Newport News, VA | 19h ago | Mid-Level | Software Engineering | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-DATABASE-ADMINISTRATOR-1-Virg/1349037400/?ats=successfactors) |
+| 🏢 **General Dynamics Information Technology** | UiPath Robotic Process Automation Developer Associate | Shreveport, LA | 22h ago | Entry-Level | Frontend Development | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UiPath-Robotic-Process-Automation-Developer-Associate_RQ211136) |
 | 🏢 **Internet Brands** | Associate AI Engineer | El Segundo, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o33Oyfwc?nl=1&nl=1&fr=false) |
 | 🏢 **University of Southern California** | WordPress Website Administrator & Designer | San Diego, CA | 1d ago | Mid-Level | Design | [Apply](https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/WordPress-Website-Administrator---Designer_REQ20168294) |
 | 🏢 **Truist Bank** | Vulnerability Assurance Software Engineer 1 | Charlotte, NC | 1d ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Vulnerability-Assurance-Software-Engineer-I_R0108995) |
@@ -278,7 +277,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 36 | 35% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 35 | 34% | No or minimal experience |
 | 🟡 Beginner & Early Career | 63 | 61% | 1-2 years of experience |
 | 🔴 Manager         | 5 | 5% | 2+ years of experience |
 
@@ -297,7 +296,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (67 positions)
+#### 💻 Software Engineering (66 positions)
 🏢 Applied Materials • 🏢 NVIDIA • 🎨 Adobe
 
 #### 📊 Data Science & Analytics (13 positions)
@@ -328,7 +327,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 104 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 103 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -417,7 +416,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 104 current opportunities from 261 companies**
+**🎯 103 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
