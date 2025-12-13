@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-102-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-101-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 55 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 54 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 55
+- **🔥 Current Positions**: 54
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: December 13, 2025
@@ -140,7 +140,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 6h ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
+| 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 7h ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
 
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
@@ -148,7 +148,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Early Career Product Data Management Specialist | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062) |
 
-### 🏢 **Other Companies** (47 positions)
+### 🏢 **Other Companies** (46 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -160,8 +160,8 @@
 | 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 9h ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
 | 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Chicago | Chicago, IL | 9h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986419002) |
 | 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Austin | Austin, TX | 9h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986421002) |
-| 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 9h ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
-| 🏢 **Parsons** | Associate Software Developer | Remote in USA, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Associate-Software-Developer_R175450-1) |
+| 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 10h ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
+| 🏢 **Parsons** | Associate Software Developer | Remote in USA, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Associate-Software-Developer_R175450-1) |
 | 🏢 **Protiviti** | Americas Delivery Center Technology Experienced Analyst | Cincinnati, OH | 10h ago | Mid-Level | Software Engineering | [Apply](https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 10h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89447203920) |
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 17h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89441255264) |
@@ -177,8 +177,6 @@
 | 🏢 **RELX** | Data Analyst | Philadelphia, PA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711) |
 | 🏢 **Nordstrom** | Data Engineer 1 - Seattle/WA | Seattle, WA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047) |
 | 🏢 **Applied Materials** | Data Science Engineer - New College Grad-Master's/PhD | Santa Clara, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402) |
-| 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R160351-1) |
-| 🎨 **Adobe** | Applied Scientist | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist---Engineer_R157087) |
 | 🏢 **Northern Trust** | AI Software Engineer-Enterprise AI | Chicago, IL | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/AI-SW-Engineer--Enterprise-AI_R148468) |
 | 🏢 **Blue Cross and Blue Shield of Minnesota** | Associate Enterprise Data Analyst | Eagan, MN | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Associate-Enterprise-Data-Analyst_R0006011-1) |
 | 🏢 **AspenTech** | Associate GIS Model Engineer | Wayzata, MN | 1d ago | Entry-Level | Software Engineering | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-GIS-Model-Engineer_R8192) |
@@ -188,6 +186,7 @@
 | 🏢 **Ryan Specialty** | Business Intelligence Analyst | Nashville, TN | 1d ago | Mid-Level | Software Engineering | [Apply](https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Nashville---Tennessee---Burton/Business-Intelligence-Analyst_JR25-3719) |
 | 🏢 **Northrop Grumman** | Software Engineer - Ent | Colorado Springs, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983) |
 | 🏢 **Howard University** | Research Scientist - Post Doc Research Fellow | Washington, DC | 1d ago | Mid-Level | Software Engineering | [Apply](https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/Research-Scientist--Post-Doc-Research-Fellow-_JR107708-1) |
+| 🎨 **Adobe** | Applied Scientist | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist---Engineer_R157087) |
 | 🏢 **Consolidated Edison** | Associate IT BSD OMS Team | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/4886) |
 | 🏢 **Caesars Entertainment** | Graduate Data Scientist | Las Vegas, NV | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73987) |
 | 🏢 **SciTec** | Associate / Staff Mission Data Analyst | Aurora, CO | 1d ago | Senior | Data Science & Analytics | [Apply](https://apply.workable.com/scitec/j/301788B4BF/apply) |
@@ -230,8 +229,8 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 19 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 33 | 60% | 1-2 years of experience |
-| 🔴 Manager         | 3 | 5% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 32 | 59% | 1-2 years of experience |
+| 🔴 Manager         | 3 | 6% | 2+ years of experience |
 
 ---
 
@@ -243,12 +242,12 @@
 - **SF, Locations**: 2 positions
 - **Palo Alto, CA**: 2 positions
 - **Santa Clara, CA**: 2 positions
-- **San Jose, CA**: 2 positions
+- **Washington, DC**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (40 positions)
+#### 💻 Software Engineering (39 positions)
 🏢 Medtronic • 🚗 Uber • 🏢 Crusoe
 
 #### 📊 Data Science & Analytics (7 positions)
@@ -273,7 +272,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 55 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 54 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -362,7 +361,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 55 current opportunities from 261 companies**
+**🎯 54 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
