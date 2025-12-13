@@ -120,7 +120,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🟦 **Microsoft** | Software Engineer - Full Stack | Redmond, WA | 18h ago | Mid-Level | Full Stack Development | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640934) |
-| 🟦 **Microsoft** | Software Engineer 2 | Redmond, WA | 18h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556636929) |
+| 🟦 **Microsoft** | Software Engineer 2 | Redmond, WA | 19h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556636929) |
 | 🟦 **Microsoft** | Quantum Software Engineer | Redmond, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640339) |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -151,8 +151,8 @@
 | 🏢 **Crusoe** | Software Engineer – New College Graduate 2026 | SF, Locations | 15h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application) |
 | 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 15h ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
 | 🏢 **Motorola** | Applications Programmer | Chicago, IL | 17h ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
-| 🏢 **Yahoo** | Software Developer Engineer 1 | United States, Locations | 17h ago | Mid-Level | Software Engineering | [Apply](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1) |
-| 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 17h ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
+| 🏢 **Yahoo** | Software Developer Engineer 1 | United States, Locations | 18h ago | Mid-Level | Software Engineering | [Apply](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1) |
+| 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 18h ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
 | 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Chicago | Chicago, IL | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986419002) |
 | 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Austin | Austin, TX | 18h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986421002) |
 | 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 18h ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
