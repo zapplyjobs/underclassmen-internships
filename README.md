@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-102-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-103-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 55 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 56 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 55
+- **🔥 Current Positions**: 56
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: December 13, 2025
@@ -119,8 +119,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🟦 **Microsoft** | Software Engineer - Full Stack | Redmond, WA | 4h ago | Mid-Level | Full Stack Development | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640934) |
-| 🟦 **Microsoft** | Software Engineer 2 | Redmond, WA | 4h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556636929) |
+| 🟦 **Microsoft** | Software Engineer - Full Stack | Redmond, WA | 5h ago | Mid-Level | Full Stack Development | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640934) |
+| 🟦 **Microsoft** | Software Engineer 2 | Redmond, WA | 5h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556636929) |
 | 🟦 **Microsoft** | Quantum Software Engineer | Redmond, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640339) |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -148,12 +148,13 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Early Career Product Data Management Specialist | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062) |
 
-### 🏢 **Other Companies** (47 positions)
+### 🏢 **Other Companies** (48 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Medtronic** | Software Operations Engineer 1 | Northridge, LA | 0h ago | Mid-Level | Software Engineering | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476) |
-| 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
+| 🏢 **Medtronic** | Software Operations Engineer 1 | Northridge, LA | 1h ago | Mid-Level | Software Engineering | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476) |
+| 🏢 **Crusoe** | Software Engineer – New College Graduate 2026 | SF, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application) |
+| 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 2h ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
 | 🏢 **Motorola** | Applications Programmer | Chicago, IL | 3h ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
 | 🏢 **Yahoo** | Software Developer Engineer 1 | United States, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1) |
 | 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 4h ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
@@ -170,11 +171,11 @@
 | 🏢 **Perle** | Cantonese Language Specialist | Remote in USA, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889) |
 | 🏢 **Inductive Automation** | Software Engineer 1 | Folsom, CA | 4h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1/apply) |
 | 🏢 **Tinder** | Data Scientist 2 - Growth | Palo Alto, CA | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) |
-| 🏢 **State Street** | Software Engineer 1 - Web Frameworks - Officer | Burlington, MA | 10h ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1) |
+| 🏢 **State Street** | Software Engineer 1 - Web Frameworks - Officer | Burlington, MA | 11h ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1) |
 | 🏢 **Sensor Tower** | Product Analyst - Digital Advertising | Boston, MA | 11h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply) |
-| 🏢 **Huntington Bancshares** | Technology Delivery Analyst - Elevate | Columbus, OH | 11h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067565) |
+| 🏢 **Huntington Bancshares** | Technology Delivery Analyst - Elevate | Columbus, OH | 12h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067565) |
 | 🏢 **RELX** | Data Analyst | Philadelphia, PA | 20h ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711) |
-| 🏢 **Nordstrom** | Data Engineer 1 - Seattle/WA | Seattle, WA | 20h ago | Mid-Level | Data Science & Analytics | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047) |
+| 🏢 **Nordstrom** | Data Engineer 1 - Seattle/WA | Seattle, WA | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047) |
 | 🏢 **Applied Materials** | Data Science Engineer - New College Grad-Master's/PhD | Santa Clara, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402) |
 | 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R160351-1) |
 | 🎨 **Adobe** | Applied Scientist | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist---Engineer_R157087) |
@@ -229,8 +230,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 19 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 33 | 60% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 20 | 36% | No or minimal experience |
+| 🟡 Beginner & Early Career | 33 | 59% | 1-2 years of experience |
 | 🔴 Manager         | 3 | 5% | 2+ years of experience |
 
 ---
@@ -240,16 +241,16 @@
 - **Remote in USA, Locations**: 3 positions
 - **Redmond, WA**: 3 positions
 - **NYC, Locations**: 3 positions
+- **SF, Locations**: 2 positions
 - **Palo Alto, CA**: 2 positions
 - **Santa Clara, CA**: 2 positions
 - **San Jose, CA**: 2 positions
-- **Washington, DC**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (39 positions)
-🏢 Medtronic • 🚗 Uber • 🏢 Motorola
+#### 💻 Software Engineering (40 positions)
+🏢 Medtronic • 🚗 Uber • 🏢 Crusoe
 
 #### 📊 Data Science & Analytics (7 positions)
 🏢 American Electric Power • 🏢 Tinder • 🏢 RELX
@@ -273,7 +274,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 55 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 56 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -362,7 +363,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 55 current opportunities from 261 companies**
+**🎯 56 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
