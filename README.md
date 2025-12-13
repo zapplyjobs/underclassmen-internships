@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-95-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-96-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 48 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 49 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 48
+- **🔥 Current Positions**: 49
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: December 13, 2025
@@ -148,7 +148,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **The Boeing Company** | Early Career Product Data Management Specialist | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062) |
 
-### 🏢 **Other Companies** (40 positions)
+### 🏢 **Other Companies** (41 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -156,8 +156,8 @@
 | 🏢 **Crusoe** | Software Engineer – New College Graduate 2026 | SF, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application) |
 | 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
 | 🏢 **Motorola** | Applications Programmer | Chicago, IL | 13h ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
-| 🏢 **Yahoo** | Software Developer Engineer 1 | United States, Locations | 13h ago | Mid-Level | Software Engineering | [Apply](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1) |
-| 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 13h ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
+| 🏢 **Yahoo** | Software Developer Engineer 1 | United States, Locations | 14h ago | Mid-Level | Software Engineering | [Apply](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1) |
+| 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 14h ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
 | 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Chicago | Chicago, IL | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986419002) |
 | 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Austin | Austin, TX | 14h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986421002) |
 | 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 14h ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
@@ -170,8 +170,9 @@
 | 🏢 **Perle** | Cantonese Language Specialist | Remote in USA, Locations | 14h ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889) |
 | 🏢 **Inductive Automation** | Software Engineer 1 | Folsom, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1/apply) |
 | 🏢 **Tinder** | Data Scientist 2 - Growth | Palo Alto, CA | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) |
+| 🏢 **State Street** | Software Engineer 1 - Web Frameworks - Officer | Burlington, MA | 20h ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1) |
 | 🏢 **Sensor Tower** | Product Analyst - Digital Advertising | Boston, MA | 21h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply) |
-| 🏢 **Huntington Bancshares** | Technology Delivery Analyst - Elevate | Columbus, OH | 21h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067565) |
+| 🏢 **Huntington Bancshares** | Technology Delivery Analyst - Elevate | Columbus, OH | 22h ago | Mid-Level | Software Engineering | [Apply](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0067565) |
 | 🏢 **RELX** | Data Analyst | Philadelphia, PA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711) |
 | 🏢 **Nordstrom** | Data Engineer 1 - Seattle/WA | Seattle, WA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047) |
 | 🏢 **Northern Trust** | AI Software Engineer-Enterprise AI | Chicago, IL | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/AI-SW-Engineer--Enterprise-AI_R148468) |
@@ -223,7 +224,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 17 | 35% | No or minimal experience |
-| 🟡 Beginner & Early Career | 28 | 58% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 29 | 59% | 1-2 years of experience |
 | 🔴 Manager         | 3 | 6% | 2+ years of experience |
 
 ---
@@ -241,7 +242,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (33 positions)
+#### 💻 Software Engineering (34 positions)
 🏢 Medtronic • 🚗 Uber • 🏢 Crusoe
 
 #### 📊 Data Science & Analytics (7 positions)
@@ -266,7 +267,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 48 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 49 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -355,7 +356,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 48 current opportunities from 261 companies**
+**🎯 49 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
