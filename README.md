@@ -132,7 +132,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **blend360** | Junior Data Scientist | Atlanta, GA | 17h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/Blend360/744000098779875) |
+| 🏢 **blend360** | Junior Data Scientist | Atlanta, GA | 18h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/Blend360/744000098779875) |
 | 🏢 **Medtronic** | Software Operations Engineer 1 | Northridge, LA | 1d ago | Mid-Level | Software Engineering | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476) |
 | 🏢 **Crusoe** | Software Engineer – New College Graduate 2026 | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application) |
 | 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
