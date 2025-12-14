@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-68-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-60-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 21 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 13 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 21
+- **🔥 Current Positions**: 13
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 2 premium opportunities
+- **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 14, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,20 +115,13 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (2 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🟦 **Microsoft** | Software Engineer - Full Stack | Redmond, WA | 1d ago | Mid-Level | Full Stack Development | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640934) |
-| 🟦 **Microsoft** | Software Engineer 2 | Redmond, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556636929) |
-
 ### 🛒 **Consumer & E-Commerce** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
 
-### 🏢 **Other Companies** (18 positions)
+### 🏢 **Other Companies** (12 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -144,12 +137,6 @@
 | 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
 | 🏢 **Parsons** | Associate Software Developer | Remote in USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Associate-Software-Developer_R175450-1) |
 | 🏢 **Protiviti** | Americas Delivery Center Technology Experienced Analyst | Cincinnati, OH | 1d ago | Mid-Level | Software Engineering | [Apply](https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1) |
-| 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89447203920) |
-| 🏢 **Jerry** | Software Engineer 1 | Palo Alto, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/b57be88f-45a9-441c-8304-20b57044a8e3/application) |
-| 🏢 **Colorado School of Mines** | Post-Doctoral Fellow - Noaa | Colorado, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--NOAA_JR107952) |
-| 🏢 **Perle** | Cantonese Language Specialist | Remote in USA, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889) |
-| 🏢 **Inductive Automation** | Software Engineer 1 | Folsom, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/6d0dff06-a258-4b8e-9bb9-b83eec0bd5b1/apply) |
-| 🏢 **Tinder** | Data Scientist 2 - Growth | Palo Alto, CA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) |
 
 
 
@@ -180,8 +167,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 6 | 29% | No or minimal experience |
-| 🟡 Beginner & Early Career | 15 | 71% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 6 | 46% | No or minimal experience |
+| 🟡 Beginner & Early Career | 7 | 54% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
@@ -189,33 +176,27 @@
 ## 🌍 Top Locations
 - **SF, Locations**: 2 positions
 - **Chicago, IL**: 2 positions
-- **Remote in USA, Locations**: 2 positions
-- **Palo Alto, CA**: 2 positions
-- **Redmond, WA**: 2 positions
 - **Atlanta, GA**: 1 positions
 - **Northridge, LA**: 1 positions
 - **New Albany, OH**: 1 positions
+- **United States, Locations**: 1 positions
+- **Federal Way, WA**: 1 positions
+- **Austin, TX**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (16 positions)
+#### 💻 Software Engineering (11 positions)
 🏢 Medtronic • 🚗 Uber • 🏢 Crusoe
 
-#### 📊 Data Science & Analytics (3 positions)
-🏢 blend360 • 🏢 American Electric Power • 🏢 Tinder
-
-#### 🎨 Frontend Development (1 positions)
-🏢 Intuit
-
-#### 🌐 Full Stack Development (1 positions)
-🟦 Microsoft
+#### 📊 Data Science & Analytics (2 positions)
+🏢 blend360 • 🏢 American Electric Power
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 21 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 13 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -304,7 +285,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 21 current opportunities from 261 companies**
+**🎯 13 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
