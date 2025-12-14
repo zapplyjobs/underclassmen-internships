@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-58-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-56-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 11 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 9 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 11
+- **🔥 Current Positions**: 9
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 14, 2025
@@ -127,7 +127,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
 
-### 🏢 **Other Companies** (9 positions)
+### 🏢 **Other Companies** (7 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -138,8 +138,6 @@
 | 🏢 **Motorola** | Applications Programmer | Chicago, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
 | 🏢 **Yahoo** | Software Developer Engineer 1 | United States, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1) |
 | 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
-| 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Chicago | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986419002) |
-| 🏢 **Optiver** | Graduate Software Engineer - 2026 Start - Austin | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/7986421002) |
 
 
 
@@ -170,26 +168,26 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 45% | No or minimal experience |
-| 🟡 Beginner & Early Career | 5 | 45% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 9% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 5 | 56% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 11% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **SF, Locations**: 2 positions
-- **Chicago, IL**: 2 positions
 - **Santa Clara, CA**: 1 positions
 - **Atlanta, GA**: 1 positions
 - **Northridge, LA**: 1 positions
 - **New Albany, OH**: 1 positions
+- **Chicago, IL**: 1 positions
 - **United States, Locations**: 1 positions
 - **Federal Way, WA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (8 positions)
+#### 💻 Software Engineering (6 positions)
 🏢 Medtronic • 🚗 Uber • 🏢 Crusoe
 
 #### 📊 Data Science & Analytics (2 positions)
@@ -202,7 +200,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 11 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 9 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -291,7 +289,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 11 current opportunities from 261 companies**
+**🎯 9 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
