@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-77-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-76-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 30 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 29 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 30
+- **🔥 Current Positions**: 29
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 2 premium opportunities
 - **📅 Last Updated**: December 14, 2025
@@ -132,9 +132,9 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 21h ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
+| 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
 
-### 🏢 **Other Companies** (26 positions)
+### 🏢 **Other Companies** (25 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -163,7 +163,6 @@
 | 🏢 **RELX** | Data Analyst | Philadelphia, PA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711) |
 | 🏢 **Nordstrom** | Data Engineer 1 - Seattle/WA | Seattle, WA | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Engineer-1--Hybrid---Seattle--WA-_R-805047) |
 | 🏢 **Applied Materials** | Data Science Engineer - New College Grad-Master's/PhD | Santa Clara, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402) |
-| 🎨 **Adobe** | Software Development Engineer | San Jose, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R160351-1) |
 
 
 
@@ -194,8 +193,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 23% | No or minimal experience |
-| 🟡 Beginner & Early Career | 22 | 73% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 24% | No or minimal experience |
+| 🟡 Beginner & Early Career | 21 | 72% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 3% | 2+ years of experience |
 
 ---
@@ -213,7 +212,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (22 positions)
+#### 💻 Software Engineering (21 positions)
 🏢 Medtronic • 🚗 Uber • 🏢 Crusoe
 
 #### 📊 Data Science & Analytics (5 positions)
@@ -229,7 +228,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 30 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 29 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -318,7 +317,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 30 current opportunities from 261 companies**
+**🎯 29 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
