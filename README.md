@@ -132,16 +132,16 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 22h ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
+| 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 23h ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
 
 ### 🏢 **Other Companies** (25 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **blend360** | Junior Data Scientist | Atlanta, GA | 8h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/Blend360/744000098779875) |
-| 🏢 **Medtronic** | Software Operations Engineer 1 | Northridge, LA | 21h ago | Mid-Level | Software Engineering | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476) |
-| 🏢 **Crusoe** | Software Engineer – New College Graduate 2026 | SF, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application) |
-| 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
+| 🏢 **blend360** | Junior Data Scientist | Atlanta, GA | 9h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/Blend360/744000098779875) |
+| 🏢 **Medtronic** | Software Operations Engineer 1 | Northridge, LA | 22h ago | Mid-Level | Software Engineering | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476) |
+| 🏢 **Crusoe** | Software Engineer – New College Graduate 2026 | SF, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application) |
+| 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 23h ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
 | 🏢 **Motorola** | Applications Programmer | Chicago, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
 | 🏢 **Yahoo** | Software Developer Engineer 1 | United States, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026780-1) |
 | 🏢 **DaVita** | Associate Analyst - Systems - Rops | Federal Way, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Associate-Analyst--Systems--ROPS-_R0432559) |
