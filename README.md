@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-53-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-50-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 6 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 3 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 6
+- **🔥 Current Positions**: 3
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 15, 2025
@@ -119,22 +119,14 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 2h ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255) |
+| 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 3h ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255) |
 
-### 🛒 **Consumer & E-Commerce** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🚗 **Uber** | 2026 Software Engineering Boost Fellowship - Arizona State University | SF, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false) |
-
-### 🏢 **Other Companies** (4 positions)
+### 🏢 **Other Companies** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **blend360** | Junior Data Scientist | Atlanta, GA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/Blend360/744000098779875) |
 | 🏢 **Medtronic** | Software Operations Engineer 1 | Northridge, LA | 1d ago | Mid-Level | Software Engineering | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476) |
-| 🏢 **Crusoe** | Software Engineer – New College Graduate 2026 | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application) |
-| 🏢 **American Electric Power** | Data Scientist – Sr - Mid - TRANSMISSION Systems & Asset Health | New Albany, OH | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729) |
 
 
 
@@ -165,36 +157,34 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 33% | No or minimal experience |
-| 🟡 Beginner & Early Career | 3 | 50% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 17% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 1 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 1 | 33% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 33% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **SF, Locations**: 2 positions
 - **Santa Clara, CA**: 1 positions
 - **Atlanta, GA**: 1 positions
 - **Northridge, LA**: 1 positions
-- **New Albany, OH**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (3 positions)
-🏢 Medtronic • 🚗 Uber • 🏢 Crusoe
-
-#### 📊 Data Science & Analytics (2 positions)
-🏢 blend360 • 🏢 American Electric Power
-
 #### 🧠 Machine Learning & AI (1 positions)
 🔒 Palo Alto Networks
+
+#### 📊 Data Science & Analytics (1 positions)
+🏢 blend360
+
+#### 💻 Software Engineering (1 positions)
+🏢 Medtronic
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 6 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 3 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -283,7 +273,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 6 current opportunities from 261 companies**
+**🎯 3 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
