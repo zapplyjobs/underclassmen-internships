@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-47-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-62-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 0 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 15 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 0
+- **🔥 Current Positions**: 15
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 15, 2025
@@ -115,9 +115,37 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
+### 🏢 **Top Tech** (1 positions)
+
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |
+| 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 20h ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255) |
+
+### 🚀 **Startups & Growth** (2 positions)
+
+| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Booz Allen** | Data Engineer, Junior | Huntsville, AL | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Junior_R0230617) |
+| 🏢 **Booz Allen** | Full-Stack Developer, Junior | Huntsville, AL | 12h ago | Entry-Level | Software Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230619) |
+
+### 🏢 **Other Companies** (12 positions)
+
+| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 3h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/fcf65235-533d-4db4-b9e3-95657145f018/application) |
+| 🏢 **Visa** | Software Engineer | Bellevue, WA | 3h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000098974315) |
+| 🏢 **Corner Alliance** | Junior Technical Analyst (AI, Automation & IT Operations) | Remote in USA, Locations | 12h ago | Entry-Level | Software Engineering | [Apply](https://corneralliance.applytojob.com/apply/j0cuOwFewe/Junior-Technical-Analyst-AI-Automation-IT-Operations) |
+| 🏢 **Insulet Corporation** | Associate Software Development Engineer in Test | Acton, MA | 12h ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278) |
+| 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
+| 🏢 **Charles Schwab** | Associate Software Engineer | Lone Tree, CO | 12h ago | Entry-Level | Software Engineering | [Apply](https://career-schwab.icims.com/jobs/117784/associate-software-engineer/job) |
+| 🏢 **Thorlabs** | Software Engineer I | West Columbia, SC | 12h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/thorlabs/j/EA6A31C779/) |
+| 🏢 **Sentra** | Software Engineer - New Grad | San Francisco, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719) |
+| 🏢 **General Dynamics Information Technology** | Software Engineer | Tampa, FL | 12h ago | Mid-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ211472-1) |
+| 🏢 **Inductive Automation** | Software Quality Assurance Engineer I | Folsom, CA | 12h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0) |
+| 🏢 **Centene** | Data Engineer 1 | New Mexico, Locations | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077) |
+| 🏢 **GoodShip** | Platform Data Analyst | Remote in USA, Locations | 12h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application) |
+
+
 
 ---
 
@@ -146,25 +174,39 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 0 | NaN% | No or minimal experience |
-| 🟡 Beginner & Early Career | 0 | NaN% | 1-2 years of experience |
-| 🔴 Manager         | 0 | NaN% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 8 | 53% | No or minimal experience |
+| 🟡 Beginner & Early Career | 6 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 7% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-
+- **Remote in USA, Locations**: 2 positions
+- **Huntsville, AL**: 2 positions
+- **Palo Alto, CA**: 1 positions
+- **Bellevue, WA**: 1 positions
+- **Acton, MA**: 1 positions
+- **Dedham, MA**: 1 positions
+- **Lone Tree, CO**: 1 positions
+- **West Columbia, SC**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
+#### 💻 Software Engineering (11 positions)
+🏢 Jerry • 🏢 Visa • 🏢 Corner Alliance
 
+#### 📊 Data Science & Analytics (3 positions)
+🏢 Booz Allen • 🏢 Centene • 🏢 GoodShip
+
+#### 🧠 Machine Learning & AI (1 positions)
+🔒 Palo Alto Networks
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 0 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 15 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -253,7 +295,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 0 current opportunities from 261 companies**
+**🎯 15 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
