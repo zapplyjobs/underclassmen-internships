@@ -141,7 +141,7 @@
 | 🏢 **Thorlabs** | Software Engineer I | West Columbia, SC | 13h ago | Mid-Level | Software Engineering | [Apply](https://apply.workable.com/thorlabs/j/EA6A31C779/) |
 | 🏢 **Sentra** | Software Engineer - New Grad | San Francisco, CA | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719) |
 | 🏢 **General Dynamics Information Technology** | Software Engineer | Tampa, FL | 13h ago | Mid-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ211472-1) |
-| 🏢 **Inductive Automation** | Software Quality Assurance Engineer I | Folsom, CA | 13h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0) |
+| 🏢 **Inductive Automation** | Software Quality Assurance Engineer I | Folsom, CA | 14h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0) |
 | 🏢 **Centene** | Data Engineer 1 | New Mexico, Locations | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077) |
 | 🏢 **GoodShip** | Platform Data Analyst | Remote in USA, Locations | 14h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application) |
 
