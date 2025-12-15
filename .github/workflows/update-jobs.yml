@@ -55,7 +55,7 @@ jobs:
     - name: Update job listings
       run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
-        PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
+        PRIMARY_DATA_SOURCE_URL: ${{ secrets.GRAD_JOBS_PROCESSOR_URL }}
         ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
 
     - name: Display job-fetcher logs (always run)
