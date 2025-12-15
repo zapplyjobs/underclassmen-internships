@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-62-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-64-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 15 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 17 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 15
+- **🔥 Current Positions**: 17
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: December 15, 2025
@@ -128,10 +128,12 @@
 | 🏢 **Booz Allen** | Data Engineer, Junior | Huntsville, AL | 14h ago | Entry-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Junior_R0230617) |
 | 🏢 **Booz Allen** | Full-Stack Developer, Junior | Huntsville, AL | 14h ago | Entry-Level | Software Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230619) |
 
-### 🏢 **Other Companies** (12 positions)
+### 🏢 **Other Companies** (14 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **AT&T** | Senior Member of Technical Staff | Plano, TX | 0h ago | Senior | Software Engineering | [Apply](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Senior-Member-of-Technical-Staff_R-92551) |
+| 🏢 **General Motors** | Entry Level Mainframe Systems Engineer | Warren, MI | 0h ago | Entry-Level | Software Engineering | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087) |
 | 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 5h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/fcf65235-533d-4db4-b9e3-95657145f018/application) |
 | 🏢 **Visa** | Software Engineer | Bellevue, WA | 5h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000098974315) |
 | 🏢 **Corner Alliance** | Junior Technical Analyst (AI, Automation & IT Operations) | Remote in USA, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://corneralliance.applytojob.com/apply/j0cuOwFewe/Junior-Technical-Analyst-AI-Automation-IT-Operations) |
@@ -174,27 +176,27 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 8 | 53% | No or minimal experience |
-| 🟡 Beginner & Early Career | 6 | 40% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 7% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 9 | 53% | No or minimal experience |
+| 🟡 Beginner & Early Career | 6 | 35% | 1-2 years of experience |
+| 🔴 Manager         | 2 | 12% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Remote in USA, Locations**: 2 positions
 - **Huntsville, AL**: 2 positions
+- **Plano, TX**: 1 positions
+- **Warren, MI**: 1 positions
 - **Palo Alto, CA**: 1 positions
 - **Bellevue, WA**: 1 positions
 - **Acton, MA**: 1 positions
 - **Dedham, MA**: 1 positions
-- **Lone Tree, CO**: 1 positions
-- **West Columbia, SC**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (11 positions)
-🏢 Jerry • 🏢 Visa • 🏢 Corner Alliance
+#### 💻 Software Engineering (13 positions)
+🏢 AT&T • 🏢 General Motors • 🏢 Jerry
 
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Booz Allen • 🏢 Centene • 🏢 GoodShip
@@ -206,7 +208,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 15 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 17 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -295,7 +297,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 15 current opportunities from 261 companies**
+**🎯 17 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
