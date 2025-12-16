@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1544-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1543-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-43-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-42-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1497 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1496 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1497
+- **🔥 Current Positions**: 1496
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 43 premium opportunities
+- **⭐ FAANG+ Jobs**: 42 premium opportunities
 - **📅 Last Updated**: December 16, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,7 +115,7 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (146 positions)
+### 🏢 **FAANG+** (145 positions)
 
 #### 🟦 **Microsoft** (13 positions)
 
@@ -276,7 +276,6 @@
 | 🔵 **Meta** | Product Security Engineer (University Grad) | Bellevue, WA | 4mo ago | Entry-Level | Security Engineering | [Apply](https://www.metacareers.com/jobs/609052015548260) |
 | 🔵 **Meta** | Software Engineer - Product | NYC, Locations | 5mo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/9818241978303850) |
 | 🔵 **Meta** | Software Engineer - Product | Cambridge, MA | 5mo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/592280103506066) |
-| 🟢 **Google** | Software Engineer 3 - Multiple Teams | SF, Locations | 1w ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/128765145907110598) |
 | 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 3w ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
 | 🟢 **Google** | Data Scientist – Early Career - Research - PhD | NYC, Locations | 1mo ago | Entry-Level | Data Science & Analytics | [Apply](https://www.google.com/about/careers/applications/jobs/results/106428613359739590) |
 | 🟢 **Google** | Software Engineer – Early Career - PhD - Infrastructure | Madison, WI | 3mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/88714689822761670) |
@@ -290,8 +289,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Datacenter Resiliency Architect – New College Grad 2025 | Santa Clara, CA | 6h ago | Senior | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Resiliency-Architect---New-College-Grad-2025_JR1997786) |
-| Research Scientist - AI-Mediated Reality and Interaction Research | Santa Clara, CA | 9h ago | Mid-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485) |
+| Datacenter Resiliency Architect – New College Grad 2025 | Santa Clara, CA | 7h ago | Senior | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Resiliency-Architect---New-College-Grad-2025_JR1997786) |
+| Research Scientist - AI-Mediated Reality and Interaction Research | Santa Clara, CA | 10h ago | Mid-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485) |
 | GPU and SoC Modelling Architect – New College Grad | Santa Clara, CA | 4d ago | Senior | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934) |
 | Research Scientist - Generalist Embodied Agent Research | Canada, Locations | 4d ago | Mid-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generalist-Embodied-Agent-Research---New-College-Grad-2026_JR2009294) |
 | Research Scientist – New College Grad 2026 - Embodied and Agentic AI | Santa Clara, CA | 6d ago | Entry-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Embodied-and-Agentic-AI---New-College-Grad-2026_JR2009464) |
@@ -342,7 +341,7 @@
 | 🔵 **IBM** | Software Developer | Sandy Springs, GA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285) |
 | 📱 **Qualcomm** | Product Software Engineer | San Diego, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://qualcomm.eightfold.ai/careers/job/446715361809) |
 | 📊 **Databricks** | Software Engineer | Bellevue, Washington | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002) |
-| 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 9h ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000099039370) |
+| 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 10h ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000099039370) |
 | 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 1d ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255) |
 | ⚡ **Tesla** | Software Integration Engineer, Factory Firmware | Fremont, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467) |
 | ⚡ **Tesla** | Kernel Software Engineer | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.tesla.com/careers/search/job/248966) |
@@ -648,7 +647,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Boeing Company** | Software Engineer-Developer - Development | Kent, WA | 9h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer-Developer--Development-_JR2025487408-1) |
+| 🏢 **The Boeing Company** | Software Engineer-Developer - Development | Kent, WA | 10h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer-Developer--Development-_JR2025487408-1) |
 | 🏢 **The Boeing Company** | Early Career Product Data Management Specialist | Hazelwood, MO | 4d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062) |
 | 🏢 **The Boeing Company** | Associate Programmer Analyst | Hazelwood, MO | 5d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Programmer-Analyst_JR2025487618-1) |
 | 🏢 **The Boeing Company** | Technical Orders Product Data Management Specialist | Long Beach, CA | 5d ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Technical-Orders-Product-Data-Management-Specialist_JR2025486739-1) |
@@ -896,11 +895,11 @@
 | 🏢 **Curtiss-Wright Corporation** | Graduate Engineer | Frederick, MD | 9h ago | Entry-Level | Software Engineering | [Apply](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR10597) |
 | 🏢 **Allied Solutions** | Data Integration Analyst 1 | Carmel, IN | 9h ago | Mid-Level | Software Engineering | [Apply](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-File-Analyst--On-Site--IN-_R-010442) |
 | 🏢 **CaseGuard** | Data Annotation Specialist | Arlington, VA | 9h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/caseguard/jobs/5037116008) |
-| 🏢 **Tekion** | Implementation Integrations Analyst 1 | Remote in USA, Locations | 9h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/tekion/jobs/7560070003) |
+| 🏢 **Tekion** | Implementation Integrations Analyst 1 | Remote in USA, Locations | 10h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/tekion/jobs/7560070003) |
 | 🏢 **Tekion** | Data Conversion Specialist 1 | Sharonville, OH | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/tekion/jobs/7505411003) |
-| 🏢 **First Financial ** | Regulatory Data Analyst 1 | Stamford, TX | 9h ago | Mid-Level | Data Science & Analytics | [Apply](https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Abilene-Main/Regulatory-Data-Analyst-I_JR102396) |
-| 🏢 **Rockwell Automation** | Data Science Analyst - Digital | Mayfield Heights, OH | 9h ago | Mid-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Data-Science-Analyst---Digital_R25-7097-1) |
-| 🏢 **Franklin Templeton** | Associate Software Engineer | Stamford, CT | 9h ago | Entry-Level | Software Engineering | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-CT100-Stamford/Associate-Software-Engineer_865347) |
+| 🏢 **First Financial ** | Regulatory Data Analyst 1 | Stamford, TX | 10h ago | Mid-Level | Data Science & Analytics | [Apply](https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Abilene-Main/Regulatory-Data-Analyst-I_JR102396) |
+| 🏢 **Rockwell Automation** | Data Science Analyst - Digital | Mayfield Heights, OH | 10h ago | Mid-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Data-Science-Analyst---Digital_R25-7097-1) |
+| 🏢 **Franklin Templeton** | Associate Software Engineer | Stamford, CT | 10h ago | Entry-Level | Software Engineering | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-CT100-Stamford/Associate-Software-Engineer_865347) |
 | 🏢 **Colorado School of Mines** | Postdoctoral Fellow - Civil and Environmental Engineering | Colorado, Locations | 10h ago | Mid-Level | Software Engineering | [Apply](https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Civil-and-Environmental-Engineering_JR107955) |
 | 🏢 **Colorado School of Mines** | Post-Doctoral Fellow - Noaa | Colorado, Locations | 3d ago | Mid-Level | Software Engineering | [Apply](https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--NOAA_JR107952) |
 | 🏢 **Electronic Arts** | EA Sports Academy Software Engineer | Orlando, FL | 10h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903) |
@@ -911,9 +910,9 @@
 | 🏢 **Wyetech** | Software Engineer 0 | Annapolis Junction, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034/apply) |
 | 🏢 **Wyetech** | Database Engineer 0 | Annapolis Junction, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/686d2ecb-f9df-4775-b26f-253c889b1452/apply) |
 | 🏢 **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 5mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/08805fb2-ec83-47ba-a4bb-a82e47805e94/apply) |
-| 🏢 **AT&T** | Senior Member of Technical Staff | Plano, TX | 11h ago | Senior | Software Engineering | [Apply](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Senior-Member-of-Technical-Staff_R-92551) |
+| 🏢 **AT&T** | Senior Member of Technical Staff | Plano, TX | 12h ago | Senior | Software Engineering | [Apply](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Senior-Member-of-Technical-Staff_R-92551) |
 | 🏢 **AT&T** | Software Developer - Asset Management - SWE I','Government | Columbia, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Software-Developer---Asset-Management--SWE-I---Government-_R-88334) |
-| 🏢 **General Motors** | Entry Level Mainframe Systems Engineer | Warren, MI | 11h ago | Entry-Level | Software Engineering | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087) |
+| 🏢 **General Motors** | Entry Level Mainframe Systems Engineer | Warren, MI | 12h ago | Entry-Level | Software Engineering | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087) |
 | 🏢 **General Motors** | Applied Scientist - AI & Robotics (PhD) - Early Career | Mountain View, CA | 5d ago | Entry-Level | Machine Learning & AI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Applied-Scientist---AI---Robotics--PhD----Early-Career_JR-202523975) |
 | 🏢 **General Motors** | Machine Learning Engineer - AI Research (PhD) | Mountain View, CA | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114) |
 | 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/fcf65235-533d-4db4-b9e3-95657145f018/application) |
@@ -1052,7 +1051,7 @@
 | 🏢 **10a Labs** | Machine Learning Fellowship | NYC, Locations | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/10alabs/jobs/4035700009) |
 | 🏢 **Pathward** | Data Scientist 1 | Louisville, KY | 5d ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/pathward/jobs/5722623004) |
 | 🏢 **EquipmentShare** | MDM – Master Data Management - Parts Specialist | Columbia, MO | 5d ago | Mid-Level | Frontend Development | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=7426308) |
-| 🏢 **Quest Global** | Data Analyst - Python/SQL + Finance knowledge | Houston, TX | 5d ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.quest-global.com/global/en/job/P-113946) |
+| 🏢 **Quest Global** | Data Analyst - Python/SQL + Finance knowledge | Houston, TX | 6d ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.quest-global.com/global/en/job/P-113946) |
 | 🏢 **Quest Global** | Data Migration Engineer/Programmer | Remote in USA, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://careers.quest-global.com/global/en/job/P-113136) |
 | 🏢 **Quest Global** | Full Stack Developer | Charlotte, NC | 1mo ago | Mid-Level | Full Stack Development | [Apply](https://careers.quest-global.com/global/en/job/P-110005) |
 | 🏢 **Quest Global** | Financial Data Analyst | Houston, TX | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.quest-global.com/global/en/job/P-112500) |
@@ -1778,7 +1777,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 648 | 43% | No or minimal experience |
-| 🟡 Beginner & Early Career | 806 | 54% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 805 | 54% | 1-2 years of experience |
 | 🔴 Manager         | 43 | 3% | 2+ years of experience |
 
 ---
@@ -1788,7 +1787,7 @@
 - **Seattle, WA**: 88 positions
 - **NYC, Locations**: 61 positions
 - **Remote in USA, Locations**: 53 positions
-- **SF, Locations**: 50 positions
+- **SF, Locations**: 49 positions
 - **Chicago, IL**: 37 positions
 - **Austin, TX**: 33 positions
 - **Mountain View, CA**: 28 positions
@@ -1796,7 +1795,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (898 positions)
+#### 💻 Software Engineering (897 positions)
 🏢 NVIDIA • 🏢 RTX • 🏢 Rochester Regional Health
 
 #### 🧠 Machine Learning & AI (247 positions)
@@ -1833,7 +1832,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1497 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1496 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1922,7 +1921,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1497 current opportunities from 261 companies**
+**🎯 1496 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
