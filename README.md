@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1545-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1544-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-43-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1498 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1497 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1498
+- **🔥 Current Positions**: 1497
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 43 premium opportunities
 - **📅 Last Updated**: December 16, 2025
@@ -712,7 +712,7 @@
 | 🏢 **Iowa State University** | Postdoctoral Research Associate - Ames National Laboratory | Ames, IA | 3w ago | Entry-Level | Software Engineering | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R18168) |
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (997 positions)
+### 🏢 **Other Companies** (996 positions)
 
 #### 🎨 **Adobe** (16 positions)
 
@@ -1039,7 +1039,6 @@
 | 🏢 **GE Vernova** | GE Vernova Advanced Research 2026 Edison Rotational Program | Schenectady, NY | 3mo ago | Mid-Level | Software Engineering | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research-2026-Edison-Rotational-Program_R5015939-1) |
 | 🏢 **Acelero** | Data Analysis Coordinator | Georgetown, DE | 5d ago | Mid-Level | Software Engineering | [Apply](https://acelero.wd1.myworkdayjobs.com/acelerolearningcareers/job/DE---Milton---Prime-Hook-Road/Data-Services-Coordinator_JR7544) |
 | 🏢 **VCU Health** | AI Engineer 2 | Remote in USA, Locations | 5d ago | Mid-Level | Machine Learning & AI | [Apply](https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Remote/AI-Engineer-II_R40510) |
-| 🏢 **NiSource** | GIS Technician | Petersburg, VA | 5d ago | Mid-Level | Software Engineering | [Apply](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Chester-VA-Op-Ctr/GIS-Technician_R00941372-1) |
 | 🏢 **10a Labs** | Data Assistant | NYC, Locations | 5d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/10alabs/jobs/4075498009) |
 | 🏢 **10a Labs** | Machine Learning Fellowship | NYC, Locations | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/10alabs/jobs/4035700009) |
 | 🏢 **Pathward** | Data Scientist 1 | Louisville, KY | 5d ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/pathward/jobs/5722623004) |
@@ -1774,7 +1773,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 646 | 43% | No or minimal experience |
-| 🟡 Beginner & Early Career | 808 | 54% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 807 | 54% | 1-2 years of experience |
 | 🔴 Manager         | 44 | 3% | 2+ years of experience |
 
 ---
@@ -1792,7 +1791,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (902 positions)
+#### 💻 Software Engineering (901 positions)
 🏢 NVIDIA • 🏢 RTX • 🏢 Rochester Regional Health
 
 #### 🧠 Machine Learning & AI (246 positions)
@@ -1829,7 +1828,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1498 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1497 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1918,7 +1917,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1498 current opportunities from 261 companies**
+**🎯 1497 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
