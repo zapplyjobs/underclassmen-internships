@@ -4,55 +4,28 @@ Thank you for your interest in contributing to our job board! We welcome communi
 
 ## How to Contribute
 
-### 🆕 Adding a New Job
+### 🆕 Submit a Job Posting
 
-If you've found a new grad position that isn't listed in our README, please create an issue with the following information:
+Found a job that should be on our board? Use our easy form:
 
-**Issue Title:** `[NEW JOB] Company Name - Position Title`
+**[Submit a Job](../../issues/new?template=job_submission.yml)**
 
-**Required Information:**
-- Company name
-- Job title
-- Location (city/state or "Remote")
+The form will ask for:
+- Company name and job title
 - Direct application link
-- Experience level (Entry-level, New Grad, etc.)
-- Job category (Software Engineer, Data Scientist, etc.)
+- Location type and locations
+- Experience level
 
-**Issue Template:**
-```
-**Company:** [Company Name]
-**Position:** [Job Title]
-**Location:** [City, State or Remote]
-**Link:** [Direct application URL]
-**Experience Level:** [Entry-level/New Grad/etc.]
-**Category:** [Software Engineer/Data Scientist/etc.]
+### 💡 Request a Feature
 
-**Additional Notes:** [Any relevant details about the role]
-```
+Have an idea to improve the job board?
 
-### 🏢 Adding a New Company
+**[Request a Feature](../../issues/new?template=feature_request.yml)**
 
-Want us to track a company that's not in our tracking list? Create an issue to suggest it!
-
-**Issue Title:** `[NEW COMPANY] Company Name`
-
-**Required Information:**
-- Company name
-- Company website/careers page
-- Why this company should be tracked (e.g., known for hiring new grads, growing startup, etc.)
-- Any specific job categories they frequently post
-
-**Issue Template:**
-```
-**Company:** [Company Name]
-**Careers Page:** [URL to careers page]
-**Company Type:** [FAANG/Startup/Mid-size/etc.]
-**Primary Focus:** [Tech stack/industry focus]
-**Hiring Volume:** [High/Medium/Low for new grad positions]
-
-**Why add this company?**
-[Brief explanation of why this company should be tracked]
-```
+Tell us:
+- What problem you're trying to solve
+- Your proposed solution
+- How important this is to your job search
 
 ## Guidelines
 
@@ -61,27 +34,22 @@ Want us to track a company that's not in our tracking list? Create an issue to s
 - **No Spam:** Please don't submit multiple issues for the same company/position
 - **Check Existing Issues:** Search existing issues before creating a new one
 
-### 🔧 Reporting Broken Links or Issues
+### 🔧 Report a Bug
 
-Found a broken link, outdated job posting, or other issue in our README? Help us fix it!
+Found a broken link, incorrect data, or other issue?
 
-**Issue Title:** `[BUG] Brief description of the issue`
+**[Report a Bug](../../issues/new?template=bug_report.yml)**
 
-**Issue Template:**
-```
-**Issue Type:** [Broken Link/Outdated Job/Formatting Issue/etc.]
-**Location:** [Section of README where issue is found]
-**Description:** [What's wrong?]
-**Expected:** [What should it be?]
-**Evidence:** [Screenshot or additional context if helpful]
-```
+Common issues:
+- Incorrect job data (wrong company, title, location)
+- Broken or expired job links
+- Website display problems
 
 **For Pull Requests:**
 If you'd like to fix the issue yourself:
 1. Fork the repository
-2. Make your changes to the README.md or other relevant files
-3. Submit a pull request with a clear description of what you fixed
-4. Reference any related issues in your PR description
+2. Make your changes
+3. Submit a pull request referencing any related issues
 
 ### 📝 Commit Message Guidelines
 
@@ -148,9 +116,16 @@ The following will be **automatically rejected** by our commit hook:
 3. **Bug Reports:** We'll investigate and fix issues in our next maintenance cycle
 4. **Updates:** Our automated system runs regularly to fetch new positions from tracked companies
 
+## Community
+
+Join our community for real-time help and job search tips:
+
+- **Discord**: [Join Server](https://discord.gg/yKWw28q7Yq)
+- **Reddit**: [r/Zapply](https://reddit.com/r/Zapply)
+
 ## Questions?
 
-If you have questions about contributing, feel free to open a general issue or reach out to the Zapply team.
+For general questions, join our Discord or open a Discussion (when available).
 
 ---
 
