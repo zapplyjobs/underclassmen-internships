@@ -91,3 +91,7 @@ node_modules/
 
 # Temporary directories
 G/
+
+# Prevent internal analysis documents from being committed
+*ANALYSIS*.md
+*ARCHITECTURE*.md
