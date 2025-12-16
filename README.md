@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-70-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-74-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 23 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 27 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,10 +69,10 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 23
+- **🔥 Current Positions**: 27
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 2 premium opportunities
-- **📅 Last Updated**: December 15, 2025
+- **📅 Last Updated**: December 16, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
@@ -122,10 +122,11 @@
 | 🟦 **Microsoft** | Software Engineer - Windows Servicing and Delivery | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631972) |
 | 🟦 **Microsoft** | Software Engineer | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631977) |
 
-### 🏢 **Top Tech** (1 positions)
+### 🏢 **Top Tech** (2 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 0h ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000099039370) |
 | 🔒 **Palo Alto Networks** | Senior Software Engineer in Test Prisma Access - AI Automation Engineer | Santa Clara, CA | 1d ago | Senior | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000098830255) |
 
 ### 🚀 **Startups & Growth** (2 positions)
@@ -135,12 +136,15 @@
 | 🏢 **Booz Allen** | Data Engineer, Junior | Huntsville, AL | 16h ago | Entry-Level | Data Science & Analytics | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Engineer--Junior_R0230617) |
 | 🏢 **Booz Allen** | Full-Stack Developer, Junior | Huntsville, AL | 16h ago | Entry-Level | Software Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230619) |
 
-### 🏢 **Other Companies** (18 positions)
+### 🏢 **Other Companies** (21 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Franklin Templeton** | Associate Software Engineer | Stamford, CT | 0h ago | Entry-Level | Software Engineering | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-CT100-Stamford/Associate-Software-Engineer_865347) |
 | 🏢 **Colorado School of Mines** | Postdoctoral Fellow - Civil and Environmental Engineering | Colorado, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Civil-and-Environmental-Engineering_JR107955) |
+| 🏢 **Intuit** | Software Engineer 1 | San Diego, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89559041648) |
 | 🏢 **Electronic Arts** | EA Sports Academy Software Engineer | Orlando, FL | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903) |
+| 🏢 **2nd Order Solutions** | Data Scientist - Campus | Richmond, VA | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/2os/3c19948d-2c5b-4490-9039-1de7e6374525/apply) |
 | 🏢 **Monterey Technologies** | Junior Software Engineer | Park City, UT | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/mti-inc/6b5e1aff-24f6-42e0-b858-6ffe6071b126/apply) |
 | 🏢 **Wyetech** | Software Engineer 2 | Laurel, MD | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d/apply) |
 | 🏢 **AT&T** | Senior Member of Technical Staff | Plano, TX | 2h ago | Senior | Software Engineering | [Apply](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Senior-Member-of-Technical-Staff_R-92551) |
@@ -187,39 +191,42 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 10 | 43% | No or minimal experience |
-| 🟡 Beginner & Early Career | 11 | 48% | 1-2 years of experience |
-| 🔴 Manager         | 2 | 9% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 12 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 12 | 44% | 1-2 years of experience |
+| 🔴 Manager         | 3 | 11% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Santa Clara, CA**: 2 positions
 - **Redmond, WA**: 2 positions
 - **Remote in USA, Locations**: 2 positions
 - **Huntsville, AL**: 2 positions
+- **Stamford, CT**: 1 positions
 - **Colorado, Locations**: 1 positions
+- **San Diego, CA**: 1 positions
 - **Orlando, FL**: 1 positions
-- **Park City, UT**: 1 positions
-- **Laurel, MD**: 1 positions
-- **Plano, TX**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (19 positions)
-🏢 Colorado School of Mines • 🏢 Electronic Arts • 🏢 Monterey Technologies
+#### 💻 Software Engineering (20 positions)
+🏢 Franklin Templeton • 🏢 Colorado School of Mines • 🏢 Electronic Arts
 
-#### 📊 Data Science & Analytics (3 positions)
-🏢 Booz Allen • 🏢 Centene • 🏢 GoodShip
+#### 📊 Data Science & Analytics (4 positions)
+🏢 2nd Order Solutions • 🏢 Booz Allen • 🏢 Centene
 
-#### 🧠 Machine Learning & AI (1 positions)
+#### 🧠 Machine Learning & AI (2 positions)
 🔒 Palo Alto Networks
+
+#### 🎨 Frontend Development (1 positions)
+🏢 Intuit
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 23 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 27 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -308,7 +315,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 23 current opportunities from 261 companies**
+**🎯 27 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -316,6 +323,6 @@ No archived jobs available.
 
 ---
 
-**Last Updated**: December 15, 2025 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: December 16, 2025 • **Next Update**: Daily at 9 AM UTC
 
 </div>
