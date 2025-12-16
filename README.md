@@ -121,8 +121,8 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer - Windows Servicing and Delivery | Redmond, WA | 9h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631972) |
-| Software Engineer | Redmond, WA | 9h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631977) |
+| Software Engineer - Windows Servicing and Delivery | Redmond, WA | 10h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631972) |
+| Software Engineer | Redmond, WA | 10h ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556631977) |
 | Software Engineer - Full Stack | Redmond, WA | 3d ago | Mid-Level | Full Stack Development | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640934) |
 | Software Engineer 2 | Redmond, WA | 3d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556636929) |
 | Quantum Software Engineer | Redmond, WA | 4d ago | Mid-Level | Software Engineering | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556640339) |
@@ -717,12 +717,12 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer 1 | Mountain View, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571716016) |
-| Softare Engineer 1 | Mountain View, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704) |
-| Software Engineer 1 | San Diego, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89571716080) |
-| Software Engineer 1 | NYC, Locations | 1h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571715968) |
-| Software Engineer 1 | Mountain View, CA | 6h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89565714160) |
-| Software Engineer 1 - AI Foundation | Mountain View, CA | 6h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1-ai-foundation/27595/89565714176) |
+| Software Engineer 1 | Mountain View, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571716016) |
+| Softare Engineer 1 | Mountain View, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704) |
+| Software Engineer 1 | San Diego, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89571716080) |
+| Software Engineer 1 | NYC, Locations | 2h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89571715968) |
+| Software Engineer 1 | Mountain View, CA | 7h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89565714160) |
+| Software Engineer 1 - AI Foundation | Mountain View, CA | 7h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1-ai-foundation/27595/89565714176) |
 | Software Engineer 1 | Mountain View, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89447203920) |
 | Software Engineer 1 | NYC, Locations | 3d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89441255264) |
 | Software Engineer 1 | NYC, Locations | 4d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89411491904) |
@@ -885,8 +885,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **RTX** | Java Software Engineer 1 | State College, PA | 6h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Fulltime---Raytheon-Java-Software-Engineer-I--Onsite-_01812452) |
-| 🏢 **RTX** | 2026 Fulltime - Raytheon Software Integration Engineer I | Marlborough, MA | 9h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Integration-Engineer-I--Onsite-_01812392) |
+| 🏢 **RTX** | Java Software Engineer 1 | State College, PA | 7h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Fulltime---Raytheon-Java-Software-Engineer-I--Onsite-_01812452) |
+| 🏢 **RTX** | 2026 Fulltime - Raytheon Software Integration Engineer I | Marlborough, MA | 10h ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Integration-Engineer-I--Onsite-_01812392) |
 | 🏢 **RTX** | Software Engineer 1 | San Jose, CA | 5d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01811717) |
 | 🏢 **RTX** | System Engineer 2 | Colorado Springs, CO | 5d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO210-9970-Federal-Drive-Colo-Spr-9970-Federal-Drive---Colorado-Springs-CO-80921-USA/System-Engineer-II--Onsite-_01811453) |
 | 🏢 **RTX** | 2026 Full-time - Software Engineer I - Onsite/CO | Aurora, CO | 6d ago | Mid-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01810840) |
@@ -901,12 +901,12 @@
 | 🏢 **First Financial ** | Regulatory Data Analyst 1 | Stamford, TX | 9h ago | Mid-Level | Data Science & Analytics | [Apply](https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Abilene-Main/Regulatory-Data-Analyst-I_JR102396) |
 | 🏢 **Rockwell Automation** | Data Science Analyst - Digital | Mayfield Heights, OH | 9h ago | Mid-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Data-Science-Analyst---Digital_R25-7097-1) |
 | 🏢 **Franklin Templeton** | Associate Software Engineer | Stamford, CT | 9h ago | Entry-Level | Software Engineering | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-CT100-Stamford/Associate-Software-Engineer_865347) |
-| 🏢 **Colorado School of Mines** | Postdoctoral Fellow - Civil and Environmental Engineering | Colorado, Locations | 9h ago | Mid-Level | Software Engineering | [Apply](https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Civil-and-Environmental-Engineering_JR107955) |
+| 🏢 **Colorado School of Mines** | Postdoctoral Fellow - Civil and Environmental Engineering | Colorado, Locations | 10h ago | Mid-Level | Software Engineering | [Apply](https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--Civil-and-Environmental-Engineering_JR107955) |
 | 🏢 **Colorado School of Mines** | Post-Doctoral Fellow - Noaa | Colorado, Locations | 3d ago | Mid-Level | Software Engineering | [Apply](https://mines.wd1.myworkdayjobs.com/mines_careers/job/Colorado/Post-Doctoral-Fellow--NOAA_JR107952) |
-| 🏢 **Electronic Arts** | EA Sports Academy Software Engineer | Orlando, FL | 9h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903) |
-| 🏢 **Anything** | Backend Engineer - AI | SF, Locations | 9h ago | Mid-Level | Backend Development | [Apply](https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application) |
-| 🏢 **Monterey Technologies** | Junior Software Engineer | Park City, UT | 9h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/mti-inc/6b5e1aff-24f6-42e0-b858-6ffe6071b126/apply) |
-| 🏢 **Wyetech** | Software Engineer 2 | Laurel, MD | 9h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d/apply) |
+| 🏢 **Electronic Arts** | EA Sports Academy Software Engineer | Orlando, FL | 10h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/EA-Sports-Academy-Software-Engineer/211903) |
+| 🏢 **Anything** | Backend Engineer - AI | SF, Locations | 10h ago | Mid-Level | Backend Development | [Apply](https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application) |
+| 🏢 **Monterey Technologies** | Junior Software Engineer | Park City, UT | 10h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/mti-inc/6b5e1aff-24f6-42e0-b858-6ffe6071b126/apply) |
+| 🏢 **Wyetech** | Software Engineer 2 | Laurel, MD | 10h ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/a1ca17f8-bbf2-48d0-ba3a-e80f121e4f8d/apply) |
 | 🏢 **Wyetech** | Software Engineer 1 | Annapolis Junction, MD | 6d ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa) |
 | 🏢 **Wyetech** | Software Engineer 0 | Annapolis Junction, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034/apply) |
 | 🏢 **Wyetech** | Database Engineer 0 | Annapolis Junction, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/wyetechllc/686d2ecb-f9df-4775-b26f-253c889b1452/apply) |
@@ -916,13 +916,13 @@
 | 🏢 **General Motors** | Entry Level Mainframe Systems Engineer | Warren, MI | 11h ago | Entry-Level | Software Engineering | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087) |
 | 🏢 **General Motors** | Applied Scientist - AI & Robotics (PhD) - Early Career | Mountain View, CA | 5d ago | Entry-Level | Machine Learning & AI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Applied-Scientist---AI---Robotics--PhD----Early-Career_JR-202523975) |
 | 🏢 **General Motors** | Machine Learning Engineer - AI Research (PhD) | Mountain View, CA | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114) |
-| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/fcf65235-533d-4db4-b9e3-95657145f018/application) |
+| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/fcf65235-533d-4db4-b9e3-95657145f018/application) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
-| 🏢 **Visa** | Software Engineer | Bellevue, WA | 16h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000098974315) |
+| 🏢 **Visa** | Software Engineer | Bellevue, WA | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000098974315) |
 | 🏢 **Corner Alliance** | Junior Technical Analyst (AI, Automation & IT Operations) | Remote in USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://corneralliance.applytojob.com/apply/j0cuOwFewe/Junior-Technical-Analyst-AI-Automation-IT-Operations) |
 | 🏢 **Insulet Corporation** | Associate Software Development Engineer in Test | Acton, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278) |
 | 🏢 **Insulet Corporation** | Associate Project Engineer - Acton MA | Acton, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Associate-Project-Engineer--Hybrid---Acton--MA-_REQ-2025-13447) |
@@ -1065,7 +1065,7 @@
 | 🏢 **Horizon media** | Associate Data Science | NYC, Locations | 6d ago | Entry-Level | Software Engineering | [Apply](https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0016354) |
 | 🏢 **Horizon media** | Analyst Advanced Analytics | NYC, Locations | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Analyst--Advanced-Analytics_R0016043) |
 | 🏢 **QBE Insurance** | Software Engineering Associate | Philadelphia, PA | 6d ago | Entry-Level | Software Engineering | [Apply](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---ThreeNEO/Software-Engineering-Associate_347265) |
-| 🏢 **Fermilab** | Compact Muon Solenoid Postdoctoral Research Associate | Batavia, IL | 6d ago | Entry-Level | Software Engineering | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/CMS-Postdoc--2026-number-1-of-2-_R_009151) |
+| 🏢 **Fermilab** | Compact Muon Solenoid Postdoctoral Research Associate | Batavia, IL | 1w ago | Entry-Level | Software Engineering | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/CMS-Postdoc--2026-number-1-of-2-_R_009151) |
 | 🏢 **Transamerica** | Appian Application Developer | Philadelphia, PA | 1w ago | Mid-Level | Software Engineering | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Programmer-Analyst_R20060159-1) |
 | 🏢 **Transamerica** | Appian Application Developer | Philadelphia, PA | 1w ago | Mid-Level | Software Engineering | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158) |
 | 🏢 **Marriott International** | Senior Systems Engineer - Corporate Systems | Bethesda, MD | 1w ago | Senior | Software Engineering | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25195783) |
