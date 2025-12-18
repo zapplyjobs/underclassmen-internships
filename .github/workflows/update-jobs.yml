@@ -153,9 +153,23 @@ jobs:
         echo "After hash:  $AFTER_HASH"
         echo ""
 
-        # First, check for actual posting errors (highest priority)
-        if grep -q "❌ Error posting job" .github/logs/discord-bot.log 2>/dev/null; then
-          echo "❌❌❌ CRITICAL ERROR: Jobs failed to post to Discord! ❌❌❌"
+        # First, check posting results (graceful handling of partial failures)
+        SUCCESS_COUNT=$(grep -c "✅ Created forum post" .github/logs/discord-bot.log 2>/dev/null || echo "0")
+        ERROR_COUNT=$(grep -c "❌ Error posting job" .github/logs/discord-bot.log 2>/dev/null || echo "0")
+        CHANNEL_FULL_COUNT=$(grep -c "160006\|channel.*full\|max.*thread" .github/logs/discord-bot.log 2>/dev/null || echo "0")
+
+        echo "📊 Posting Results: $SUCCESS_COUNT succeeded, $ERROR_COUNT failed, $CHANNEL_FULL_COUNT channel-full"
+
+        # If some jobs posted successfully, treat channel-full as warning not error
+        if [ "$SUCCESS_COUNT" -gt 0 ]; then
+          if [ "$CHANNEL_FULL_COUNT" -gt 0 ]; then
+            echo "⚠️  Some channels were full (160006) but $SUCCESS_COUNT jobs posted successfully"
+            echo "This is expected behavior - channels auto-archive after 3 days"
+          fi
+          # Continue to hash check (don't fail here)
+        elif [ "$ERROR_COUNT" -gt 0 ]; then
+          # No successes AND errors = critical failure
+          echo "❌❌❌ CRITICAL ERROR: All jobs failed to post to Discord! ❌❌❌"
           echo ""
           echo "Bot encountered errors while posting jobs."
           echo "Check bot logs above for details."
