@@ -867,6 +867,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Renaissance** | Data Analyst 1 | Remote in USA, Locations | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5019428008) |
 | 🏢 **WGU** | Associate Software Engineer | Salt Lake City, UT | 2h ago | Entry-Level | Software Engineering | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023879) |
 | 🏢 **Rogers Behavioral Health** | Therapist - Child & Adolescent | St Paul, MN | 2h ago | Mid-Level | Backend Development | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R5758) |
 | 🏢 **Rogers Behavioral Health** | Child and Adolescent Therapist | Eden Prairie, MN | 3w ago | Mid-Level | Backend Development | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Minneapolis-Clinic-Eden-Prairie-MN/Child-and-Adolescent-Therapist---PHP-IOP_R5566) |
@@ -905,7 +906,7 @@
 | 🏢 **Mercury Insurance** | Mercury Ignite Data Science Graduate Development Program | California, Locations | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers-mercuryinsurance.icims.com/jobs/5990/job?mobile=true&needsRedirect=false) |
 | 🏢 **Enova** | Software Engineer | Chicago, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/enova/jobs/3972487) |
 | 🏢 **DTCC** | Software Engineer | NYC, Locations | 19h ago | Mid-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212337) |
-| 🟦 **LinkedIn** | Software Engineer - Frontend | Mountain View, CA | 19h ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000099403125) |
+| 🟦 **LinkedIn** | Software Engineer - Frontend | Mountain View, CA | 20h ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000099403125) |
 | 🏢 **Agilent Technologies** | R&D Graduate Software Developer-Harwell Science Campus | United Kingdom, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/R-D-Graduate-Software-Developer-Harwell-Science-Campus_4034599) |
 | 🏢 **Agilent Technologies** | Post-Doctoral Scientist - Gc/MS | Santa Clara, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Santa-Clara/Post-Doc-GC-MS-Application-Scientist_4028181) |
 | 🏢 **Advocate Health Care** | Genomics Research Programmer Analyst Associate | Remote in USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/Research-Programmer-Analyst-Associate---Remote_R190559-1) |
@@ -989,7 +990,6 @@
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
-| 🏢 **Visa** | Software Engineer | Bellevue, WA | 3d ago | Mid-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000098974315) |
 | 🏢 **Corner Alliance** | Junior Technical Analyst (AI, Automation & IT Operations) | Remote in USA, Locations | 3d ago | Entry-Level | Software Engineering | [Apply](https://corneralliance.applytojob.com/apply/j0cuOwFewe/Junior-Technical-Analyst-AI-Automation-IT-Operations) |
 | 🏢 **Insulet Corporation** | Associate Software Development Engineer in Test | Acton, MA | 3d ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278) |
 | 🏢 **Insulet Corporation** | Associate Project Engineer - Acton MA | Acton, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Associate-Project-Engineer--Hybrid---Acton--MA-_REQ-2025-13447) |
@@ -1126,7 +1126,7 @@
 | 🏢 **Truist Bank** | Software Engineer 1 SAS Programmer | Charlotte, NC | 2mo ago | Mid-Level | Frontend Development | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0107411) |
 | 🏢 **PolyAI** | Turkish Language Specialist | United Kingdom, Locations | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.eu.greenhouse.io/polyai/jobs/4725072101) |
 | 🏢 **University of Chicago** | Business Intelligence & Analytics Senior Analyst | Chicago, IL | 1w ago | Senior | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249) |
-| 🏢 **University of Chicago** | Program Administrator - Community Centered Data Science | Chicago, IL | 3w ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Program-Administrator--Community-Centered-Data-Science_JR32069) |
+| 🏢 **University of Chicago** | Program Administrator - Community Centered Data Science | Chicago, IL | 4w ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Program-Administrator--Community-Centered-Data-Science_JR32069) |
 | 🏢 **University of Chicago** | Programming Analyst | Chicago, IL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Programming-Analyst_JR31969) |
 | 🏢 **University of Chicago** | Data Science - Analyst | Chicago, IL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science--Analyst_JR31922-1) |
 | 🏢 **University of Chicago** | Research Professional | Chicago, IL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31456) |
@@ -1766,7 +1766,7 @@
 - **San Jose, CA**: 197 positions
 - **Seattle, WA**: 87 positions
 - **NYC, Locations**: 60 positions
-- **Remote in USA, Locations**: 54 positions
+- **Remote in USA, Locations**: 55 positions
 - **SF, Locations**: 45 positions
 - **Chicago, IL**: 37 positions
 - **Austin, TX**: 33 positions
@@ -1775,14 +1775,14 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (896 positions)
+#### 💻 Software Engineering (895 positions)
 🏢 WGU • 🏢 Health Research • 🏢 NVIDIA
 
 #### 🧠 Machine Learning & AI (235 positions)
 🏢 Hewlett Packard Enterprise • 🏢 NVIDIA • 📦 Amazon
 
-#### 📊 Data Science & Analytics (131 positions)
-🏢 S&P Global • 🟩 Roblox • 🏢 Walmart
+#### 📊 Data Science & Analytics (132 positions)
+🏢 Renaissance • 🏢 S&P Global • 🟩 Roblox
 
 #### 🎨 Frontend Development (57 positions)
 🏢 Intuit
