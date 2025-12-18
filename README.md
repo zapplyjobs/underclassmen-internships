@@ -399,7 +399,7 @@
 | 🏢 **Mandolin** | Forward Deployed Engineer | San Fransisco, CA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f) |
 | 🏢 **Mandolin** | Software Engineer I | San Fransisco, CA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b) |
 | 🏢 **Ranger** | Forward-Deployed Test Engineer | San Francisco, CA | 5mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d) |
-| 🏢 **MetroStar** | Associate Full Stack Developer | Washington, DC | 20h ago | Entry-Level | Full Stack Development | [Apply](https://metrostar.com/job-post/?gh_jid=7566172003) |
+| 🏢 **MetroStar** | Associate Full Stack Developer | Washington, DC | 21h ago | Entry-Level | Full Stack Development | [Apply](https://metrostar.com/job-post/?gh_jid=7566172003) |
 | 🏢 **MetroStar** | Associate Software Developer | Reston, VA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://www.metrostar.com/job-post/?gh_jid=6667276003) |
 | 🏢 **SimIS** | Junior Software Developer - Modeling & Simulation | Suffolk, VA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation) |
 
@@ -568,7 +568,7 @@
 | 🏢 **JP Morgan Chase** | Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence | NYC, Locations | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682815) |
 | 💳 **Stripe** | Software Engineer | San Francisco, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://stripe.com/jobs/listing/software-engineer-new-grad/7210112) |
 | 💳 **Stripe** | Software Engineer – New Grad | Seattle, WA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=7210112) |
-| 💰 **Affirm** | Analyst 1 - Full Stack | Remote in USA, Locations | 20h ago | Mid-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7560430003) |
+| 💰 **Affirm** | Analyst 1 - Full Stack | Remote in USA, Locations | 21h ago | Mid-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7560430003) |
 | 💰 **Affirm** | Software Engineer, Early Career | San Francisco, CA | 2w ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locations | 2w ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 | 🏢 **BMO** | Software Engineer | Chicago, IL | 4mo ago | Mid-Level | Software Engineering | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) |
@@ -623,7 +623,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Boeing Company** | Entry Level Software Engineer-DevSecOps | Hazelwood, MO | 20h ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-DevSecOps_JR2025488890-1) |
+| 🏢 **The Boeing Company** | Entry Level Software Engineer-DevSecOps | Hazelwood, MO | 21h ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-DevSecOps_JR2025488890-1) |
 | 🏢 **The Boeing Company** | Programmer Analyst – Associate or Mid-Level | North Charleston, SC | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Programmer-Analyst--Associate-or-Mid-Level-_JR2025482611-1) |
 | 🏢 **The Boeing Company** | Software Engineer-Developer - Development | Kent, WA | 2d ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer-Developer--Development-_JR2025487408-1) |
 | 🏢 **The Boeing Company** | Early Career Product Data Management Specialist | Hazelwood, MO | 1w ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062) |
@@ -707,7 +707,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| People Insights Analyst | McLean, VA | 20h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/People-Insights-Analyst-2-3_R10217558) |
+| People Insights Analyst | McLean, VA | 21h ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/People-Insights-Analyst-2-3_R10217558) |
 | Data Engineer - People Analytics | Virginia, Locations | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513) |
 | People Insights Analyst | Salt Lake City, UT | 1d ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Unknown-City/People-Insights-Analyst-2-3_R10214776) |
 | Data Insight Analyst | Virginia, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Insight-Analyst_R10217444-1) |
@@ -880,8 +880,8 @@
 | 🏢 **McAdams** | Instrument Operator 1 - Surveying | Tampa, FL | 20h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mcadams/jobs/5006966007) |
 | 🏢 **McAdams** | Instrument Operator 1 - Surveying | Greenville, SC | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mcadams/jobs/4948654007) |
 | 🏢 **McAdams** | Instrument Operator 1 | Durham, NC | 7mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mcadams/jobs/4677503007) |
-| 🏢 **Airgas** | Vie – Research Associate - m/f/d | Newark, DE | 20h ago | Entry-Level | Software Engineering | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD/VIE---Research-Associate--M-F-D-_R10082121) |
-| 🏢 **McKesson** | Senior Associate Software Engineer - B2B Commerce | Richmond, VA | 20h ago | Senior | Software Engineering | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Sr-Associate-Software-Engineer--B2B-Commerce_JR0140543) |
+| 🏢 **Airgas** | Vie – Research Associate - m/f/d | Newark, DE | 21h ago | Entry-Level | Software Engineering | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD/VIE---Research-Associate--M-F-D-_R10082121) |
+| 🏢 **McKesson** | Senior Associate Software Engineer - B2B Commerce | Richmond, VA | 21h ago | Senior | Software Engineering | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Sr-Associate-Software-Engineer--B2B-Commerce_JR0140543) |
 | 🏢 **LG Electronics** | Shopfront Analyst - Contractor Role | Englewood, NJ | 21h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5039365008) |
 | 🏢 **Major League Baseball** | Data Operator | Reading, PA | 21h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7566484003) |
 | 🏢 **Major League Baseball** | Major League Video and Technology Associate | Philadelphia, PA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7511281003) |
