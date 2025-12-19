@@ -158,10 +158,10 @@ jobs:
         ERROR_COUNT=$(grep -c "❌ Error posting job" .github/logs/discord-bot.log 2>/dev/null || echo "0")
         CHANNEL_FULL_COUNT=$(grep -c "160006\|channel.*full\|max.*thread" .github/logs/discord-bot.log 2>/dev/null || echo "0")
 
-        # Trim whitespace and newlines from counts
-        SUCCESS_COUNT=$(echo "$SUCCESS_COUNT" | tr -d '\n\r ')
-        ERROR_COUNT=$(echo "$ERROR_COUNT" | tr -d '\n\r ')
-        CHANNEL_FULL_COUNT=$(echo "$CHANNEL_FULL_COUNT" | tr -d '\n\r ')
+        # Trim whitespace (xargs method is more robust than tr)
+        SUCCESS_COUNT=$(echo "$SUCCESS_COUNT" | xargs)
+        ERROR_COUNT=$(echo "$ERROR_COUNT" | xargs)
+        CHANNEL_FULL_COUNT=$(echo "$CHANNEL_FULL_COUNT" | xargs)
 
         echo "📊 Posting Results: $SUCCESS_COUNT succeeded, $ERROR_COUNT failed, $CHANNEL_FULL_COUNT channel-full"
 
