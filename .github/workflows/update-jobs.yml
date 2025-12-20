@@ -154,14 +154,16 @@ jobs:
         echo ""
 
         # First, check posting results (graceful handling of partial failures)
-        SUCCESS_COUNT=$(grep -c "✅ Created forum post" .github/logs/discord-bot.log 2>/dev/null || echo "0")
-        ERROR_COUNT=$(grep -c "❌ Error posting job" .github/logs/discord-bot.log 2>/dev/null || echo "0")
-        CHANNEL_FULL_COUNT=$(grep -c "160006\|channel.*full\|max.*thread" .github/logs/discord-bot.log 2>/dev/null || echo "0")
+        # Note: grep -c outputs "0" when no matches found, but exit code 1
+        # Use || true to prevent pipeline failure, then default to 0 if empty
+        SUCCESS_COUNT=$(grep -c "✅ Created forum post" .github/logs/discord-bot.log 2>/dev/null || true)
+        ERROR_COUNT=$(grep -c "❌ Error posting job" .github/logs/discord-bot.log 2>/dev/null || true)
+        CHANNEL_FULL_COUNT=$(grep -c "160006\|channel.*full\|max.*thread" .github/logs/discord-bot.log 2>/dev/null || true)
 
-        # Trim whitespace (xargs method is more robust than tr)
-        SUCCESS_COUNT=$(echo "$SUCCESS_COUNT" | xargs)
-        ERROR_COUNT=$(echo "$ERROR_COUNT" | xargs)
-        CHANNEL_FULL_COUNT=$(echo "$CHANNEL_FULL_COUNT" | xargs)
+        # Default to 0 if empty (file missing) and trim whitespace
+        SUCCESS_COUNT=$(echo "${SUCCESS_COUNT:-0}" | xargs)
+        ERROR_COUNT=$(echo "${ERROR_COUNT:-0}" | xargs)
+        CHANNEL_FULL_COUNT=$(echo "${CHANNEL_FULL_COUNT:-0}" | xargs)
 
         echo "📊 Posting Results: $SUCCESS_COUNT succeeded, $ERROR_COUNT failed, $CHANNEL_FULL_COUNT channel-full"
 
