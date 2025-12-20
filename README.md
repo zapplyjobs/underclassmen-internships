@@ -691,9 +691,9 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer 1 | San Diego, CA | 11h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080) |
-| Software Engineer 1 | NYC, Locations | 16h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312) |
-| Software Engineer 1 | NYC, Locations | 16h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344) |
+| Software Engineer 1 | San Diego, CA | 12h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080) |
+| Software Engineer 1 | NYC, Locations | 17h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312) |
+| Software Engineer 1 | NYC, Locations | 17h ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344) |
 | Software Engineer 1 | Mountain View, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512) |
 | Software Engineer 1 | NYC, Locations | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89660152448) |
 | Software Engineer 1 | NYC, Locations | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160) |
@@ -871,7 +871,7 @@
 | 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 1w ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
 | 🏢 **Carnegie Mellon University** | Data Analyst and AI Specialist | Pittsburgh, PA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Data-Analyst-and-AI-Specialist---Institutional-Effectiveness-and-Planning---Office-of-the-Provost_2023933-1) |
 | 🏢 **Carnegie Mellon University** | Research Associate - Electrical and Computer Engineering | Pittsburgh, PA | 2w ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193) |
-| 🏢 **AppLovin** | Data Scientist - Analytics | Palo Alto, CA | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://boards.greenhouse.io/applovin/jobs/4624972006) |
+| 🏢 **AppLovin** | Data Scientist - Analytics | Palo Alto, CA | 20h ago | Mid-Level | Data Science & Analytics | [Apply](https://boards.greenhouse.io/applovin/jobs/4624972006) |
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 1mo ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
 | 🏢 **Kettering Health** | Business Intelligence Developer - IT Analytics Health | Miamisburg, OH | 20h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-ketteringhealth.icims.com/jobs/57144/job?mobile=true&needsRedirect=false) |
 | 🏢 **Fiserv** | Technology Analyst Program - Application Development | Berkeley Heights, NJ | 20h ago | Mid-Level | Software Engineering | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technology-Analyst-Program---Application-Development--Berkeley-Heights--NJ-_R-10383557) |
@@ -1220,8 +1220,8 @@
 | 🏢 **Cisco** | Software Engineer Security & Automation 1 | San Jose, CA | 1mo ago | Mid-Level | Security Engineering | [Apply](https://careers.cisco.com/global/en/job/2000123) |
 | 🏢 **Cisco** | Software Engineer Data/AI/Intelligent Systems I (Full Time) | Austin, TX | 1mo ago | Mid-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Cummins** | AI/ML Systems Engineer | Columbus, IN | 2w ago | Mid-Level | Machine Learning & AI | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409) |
-| 🏢 **Cummins** | Product Engineer: System Performance Engineer | Columbus, IN | 4w ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763) |
-| 🏢 **Cummins** | Digital Tools Software Developer | Columbus, IN | 4w ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106) |
+| 🏢 **Cummins** | Product Engineer: System Performance Engineer | Columbus, IN | 1mo ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763) |
+| 🏢 **Cummins** | Digital Tools Software Developer | Columbus, IN | 1mo ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106) |
 | 🏢 **Cummins** | Software Engineer I | Indiana, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420573) |
 | 🏢 **Citi** | Technology - Application Development - Full-Time Analyst | NYC, Locations | 2w ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-New-Jersey---USA--2026_25920349) |
 | 🏢 **Citi** | Technology - Application Development | Jacksonville, FL | 2w ago | Mid-Level | Software Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2026_25920581) |
