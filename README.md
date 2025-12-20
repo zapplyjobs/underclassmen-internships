@@ -709,7 +709,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Postdoctoral Appointee | Woodridge, IL | 19h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Mixed-Reduced-Precision-Computing-on-Modern-Hardware_421528-1) |
+| Postdoctoral Appointee | Woodridge, IL | 20h ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Mixed-Reduced-Precision-Computing-on-Modern-Hardware_421528-1) |
 | Postdoctoral Appointee-Developing an Exascale Muphfasa - Multi Phase Flow Adaptive Simulator | Woodridge, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Developing-an-Exascale-MuPhFASa--Multi-Phase-Flow-Adaptive-Simulator-_421533) |
 | Predoctoral Appointee - Machine Learning | Woodridge, IL | 4d ago | Mid-Level | Machine Learning & AI | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Machine-Learning_421538) |
 | Postdoctoral Appointee - Energy Systems | Woodridge, IL | 1w ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958) |
@@ -1032,7 +1032,7 @@
 | 🏢 **Insulet Corporation** | Associate Software Development Engineer in Test | Acton, MA | 5d ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278) |
 | 🏢 **Insulet Corporation** | Associate Project Engineer - Acton MA | Acton, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Associate-Project-Engineer--Hybrid---Acton--MA-_REQ-2025-13447) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 5d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
-| 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 4w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer - Entry Level-Java / C++ - Start Date | Manassas, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69189/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer 1 - Entry Level | Pittsfield, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false) |
@@ -1281,7 +1281,7 @@
 | 🏢 **BlackRock** | AI/ML Engineer - Analyst - AI Labs | Atlanta, GA | 4w ago | Mid-Level | Machine Learning & AI | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/AI-ML-Engineer--Analyst---AI-Labs_R257970) |
 | 🏢 **Mechanize** | Junior Software Engineer | SF, Locations | 4w ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application) |
 | 🏢 **Talroo** | Associate Software Engineer | Austin, TX | 4w ago | Entry-Level | Software Engineering | [Apply](https://www.talroo.com/careers/apply/?gh_jid=1003689) |
-| 🏢 **DuCharme, McMillen & Associates** | Associate Software Support | Fort Wayne, IN | 4w ago | Entry-Level | Software Engineering | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support_REQ261) |
+| 🏢 **DuCharme, McMillen & Associates** | Associate Software Support | Fort Wayne, IN | 1mo ago | Entry-Level | Software Engineering | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support_REQ261) |
 | 🏢 **Flex** | Software Engineer 1 - Backend - New Grad | Remote in USA, Locations | 1mo ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/flex/jobs/4632053005) |
 | 🏢 **Analytic Partners** | Marketing Science Analyst | Miami, FL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/analyticpartners/d6fb7c83-57a2-4f73-9e7a-0bc2e3e7fb62/apply) |
 | 🏢 **Analytic Partners** | Marketing Science Analyst - February 16th - 2026 Start | NYC, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/analyticpartners/c161367a-dd4b-447c-b112-d0a2de5d6b67/apply) |
