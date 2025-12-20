@@ -1,0 +1,140 @@
+name: Drift Detection
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+  workflow_dispatch:      # Manual trigger for testing
+
+permissions:
+  contents: read  # Read both PRIMARY and SECONDARY repos
+  issues: write   # Create/update GitHub issues
+
+jobs:
+  check-drift:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout New-Grad-Jobs (PRIMARY)
+        uses: actions/checkout@v4
+        with:
+          path: primary
+
+      - name: Checkout Internships-2026 (SECONDARY)
+        uses: actions/checkout@v4
+        with:
+          repository: zapplyjobs/Internships-2026
+          path: secondary
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for drift in MUST SYNC files
+        id: drift-check
+        run: |
+          # 14 MUST SYNC files from SYNC_MAP.md (last verified 2025-12-19)
+          FILES=(
+            ".github/scripts/enhanced-discord-bot.js"
+            ".github/scripts/enhanced-channel-router.js"
+            ".github/scripts/cleanup-discord-posts.js"
+            ".github/scripts/src/discord/poster.js"
+            ".github/scripts/src/routing/router.js"
+            ".github/scripts/src/routing/location.js"
+            ".github/scripts/src/data/loader.js"
+            ".github/scripts/src/data/posted-jobs-manager-v2.js"
+            ".github/scripts/src/utils/error-handler.js"
+            ".github/scripts/src/utils/job-formatters.js"
+            ".github/scripts/src/utils/job-normalizer.js"
+            ".github/scripts/encryption-utils.js"
+            ".github/scripts/deduplication-logger.js"
+            ".github/scripts/routing-logger.js"
+          )
+
+          DRIFT_DETECTED=0
+          DRIFT_REPORT=""
+
+          echo "🔍 Checking $(echo ${#FILES[@]}) MUST SYNC files for drift..."
+          echo ""
+
+          for file in "${FILES[@]}"; do
+            if git diff --no-index --quiet "primary/$file" "secondary/$file" 2>/dev/null; then
+              echo "✅ $file - Synced"
+            else
+              echo "⚠️  $file - DRIFT DETECTED"
+              DRIFT_DETECTED=1
+              DRIFT_REPORT="${DRIFT_REPORT}- \`$file\`\n"
+            fi
+          done
+
+          echo ""
+          echo "drift_detected=$DRIFT_DETECTED" >> $GITHUB_OUTPUT
+          echo "$DRIFT_REPORT" > drift-report.txt
+
+          if [ $DRIFT_DETECTED -eq 1 ]; then
+            echo "❌ Drift detected in $(echo "$DRIFT_REPORT" | grep -c '`') file(s)"
+            exit 0  # Don't fail yet, let issue creation happen first
+          else
+            echo "✅ All MUST SYNC files are identical"
+          fi
+
+      - name: Create or update drift issue
+        if: steps.drift-check.outputs.drift_detected == '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DRIFT_REPORT=$(cat drift-report.txt)
+
+          # Check for existing open drift detection issue
+          EXISTING_ISSUE=$(gh issue list \
+            --label "drift-detection" \
+            --state open \
+            --json number \
+            --jq '.[0].number' 2>/dev/null || echo "")
+
+          ISSUE_BODY="## 🚨 Drift Detected Between Repos
+
+**Date:** $(date -u '+%Y-%m-%d %H:%M UTC')
+**PRIMARY:** New-Grad-Jobs
+**SECONDARY:** Internships-2026
+
+### Drifted Files:
+$DRIFT_REPORT
+
+### Action Required:
+1. Review the drifted files
+2. Determine which version is correct (PRIMARY is source of truth)
+3. Sync files using the multi-repo sync procedure
+4. See: \`.GenAI_Work/github_discord_integration/SYNC_MAP.md\`
+
+### Sync Procedure:
+\`\`\`bash
+# 1. Copy from PRIMARY to SECONDARY
+cp New-Grad-Jobs/<file> Internships-2026/<file>
+
+# 2. Commit and push both repos
+cd Internships-2026
+git add <file>
+git commit -m \"sync: <description>\"
+git push
+\`\`\`
+
+This issue will auto-update daily until drift is resolved."
+
+          if [ -n "$EXISTING_ISSUE" ]; then
+            echo "Updating existing issue #$EXISTING_ISSUE..."
+            gh issue comment "$EXISTING_ISSUE" \
+              --body "**Update:** Drift still detected as of $(date -u '+%Y-%m-%d %H:%M UTC')
+
+$DRIFT_REPORT"
+          else
+            echo "Creating new drift detection issue..."
+            gh issue create \
+              --title "🚨 Repository Drift Detected" \
+              --body "$ISSUE_BODY" \
+              --label "drift-detection" \
+              --label "automation"
+          fi
+
+      - name: Fail workflow if drift detected
+        if: steps.drift-check.outputs.drift_detected == '1'
+        run: |
+          echo "❌ Workflow failed: Drift detected"
+          echo "A GitHub issue has been created with details"
+          exit 1
