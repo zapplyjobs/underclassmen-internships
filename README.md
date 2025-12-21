@@ -759,7 +759,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Algorithm and Analysis Software Engineer Scientist Associate | Austin, TX | 2d ago | Entry-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737) |
+| Algorithm and Analysis Software Engineer Scientist Associate | Austin, TX | 3d ago | Entry-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Algorithm-and-Analysis-Software-Engineering-Scientist-Associate_R_00043737) |
 | Research Engineering/Scientist Associate 1 | Austin, TX | 2w ago | Entry-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412) |
 | Postdoctoral Fellow - Agentic AI | Austin, TX | 3w ago | Mid-Level | Machine Learning & AI | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---TMI--Agentic-AI--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043444) |
 | Engineering Scientist Associate | Austin, TX | 1mo ago | Entry-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Engineering-Scientist-Associate---Data-Analytics-for-Nuclear-Engineering-Application_R_00042538) |
@@ -961,7 +961,7 @@
 | 🏢 **Enova** | Software Engineer | Chicago, IL | 3d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/enova/jobs/3972487) |
 | 🏢 **Kimley-Horn** | GIS Analyst | Fort Worth, TX | 3d ago | Mid-Level | Software Engineering | [Apply](https://careers-kimley-horn.icims.com/jobs/21279/job?mobile=true&needsRedirect=false) |
 | 🏢 **DTCC** | Software Engineer | NYC, Locations | 3d ago | Mid-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212337) |
-| 🟦 **LinkedIn** | Software Engineer - Frontend | Mountain View, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000099403125) |
+| 🟦 **LinkedIn** | Software Engineer - Frontend | Mountain View, CA | 4d ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000099403125) |
 | 🏢 **Agilent Technologies** | R&D Graduate Software Developer-Harwell Science Campus | United Kingdom, Locations | 4d ago | Entry-Level | Software Engineering | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/R-D-Graduate-Software-Developer-Harwell-Science-Campus_4034599) |
 | 🏢 **Agilent Technologies** | Post-Doctoral Scientist - Gc/MS | Santa Clara, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Santa-Clara/Post-Doc-GC-MS-Application-Scientist_4028181) |
 | 🏢 **Advocate Health Care** | Genomics Research Programmer Analyst Associate | Remote in USA, Locations | 4d ago | Entry-Level | Software Engineering | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/Research-Programmer-Analyst-Associate---Remote_R190559-1) |
@@ -1457,6 +1457,7 @@
 | 🏢 **Red Ventures** | Associate Data Science Product Manager | Charlotte, NC | 1mo ago | Entry-Level | Product Management | [Apply](https://www.redventures.com/careers/positions/open?gh_jid=7279145) |
 | 🏢 **Emory University** | Data Analyst | Atlanta, GA | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://staff-emory.icims.com/jobs/155850/job?mobile=true&needsRedirect=false) |
 | 🏢 **Falconwood** | Data Scientist 1 | Suffolk, VA | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-falconwood.icims.com/jobs/1691/job?mobile=true&needsRedirect=false) |
+| 🏢 **Falconwood** | Data Engineer I | Suffolk, VA | 3mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false) |
 | 🏢 **NTT Data** | Digital Technology Engineer | Charlotte, NC | 1mo ago | Mid-Level | Software Engineering | [Apply](https://nttdata.eightfold.ai/careers/job/563327925798035) |
 | 🏢 **University of Wyoming** | Post Doctoral Research Associate - Atmospheric Science | Laramie, WY | 1mo ago | Entry-Level | Software Engineering | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252811) |
 | 🏢 **Uncountable** | Data Structuring Specialist | SF, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/uncountable/9a594e54-c3d3-4c5e-95f7-16b66ab442a3/apply) |
@@ -1717,7 +1718,6 @@
 | 🏢 **BetterHelp** | Data Scientist - Experimentation | Remote in USA, Locations | 6mo ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008) |
 | 🏢 **Mitsubishi UFG** | Global Financial Crimes - Issues Management - Reporting & Data Analysis | Tempe, AZ | 7mo ago | Mid-Level | Software Engineering | [Apply](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD) |
 | 🏢 **Occidental Petroleum** | Maintenance Planning Tech | Fort Lupton, CO | 7mo ago | Mid-Level | Software Engineering | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Platteville-Colorado/Maintenance-Planning-Tech_JR102869) |
-| 🏢 **Sprocket Security** | Junior Software Engineer -  | Madison, WI | 8mo ago | Entry-Level | Security Engineering | [Apply](https://www.sprocketsecurity.com/company/careers/apply?gh_jid=4133296008) |
 
 
 
@@ -1748,8 +1748,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 650 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 780 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 649 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 781 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 43 | 3% | 2+ years of experience |
 
 ---
@@ -1773,7 +1773,7 @@
 #### 🧠 Machine Learning & AI (230 positions)
 🏢 Prairie View A&M University • 🏢 PitchBook
 
-#### 📊 Data Science & Analytics (133 positions)
+#### 📊 Data Science & Analytics (134 positions)
 🏢 AppLovin • 🏢 Kettering Health • 🏢 Highmark Health
 
 #### 🎨 Frontend Development (58 positions)
@@ -1788,11 +1788,11 @@
 #### 🌐 Full Stack Development (30 positions)
 💰 Affirm • 🏢 MetroStar • 🏢 Harmonia
 
-#### 🛡️ Security Engineering (14 positions)
-🏢 Cisco • 🚀 SpaceX • 🟩 Roblox
-
 #### 📱 Mobile Development (13 positions)
 🏢 Cambridge Mobile Telematics • 🚗 Uber • 🏢 Guidehouse
+
+#### 🛡️ Security Engineering (13 positions)
+🏢 Cisco • 🚀 SpaceX • 🟩 Roblox
 
 #### 🎨 Design (12 positions)
 🏢 Cadence Design Systems • 🏢 University of Southern California
