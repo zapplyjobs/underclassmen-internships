@@ -2,8 +2,9 @@ name: Cleanup Discord Posts
 
 on:
   schedule:
-    # Run weekly on Sundays at 00:00 UTC (7 PM EST Saturday)
-    - cron: '0 0 * * 0'
+    # Run daily at 06:00 UTC (1 AM EST / 2 AM EDT)
+    # Runs before peak job posting hours to clear old threads
+    - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
       delete_all_channels:
@@ -22,10 +23,10 @@ on:
         type: string
         default: ''
       older_than_hours:
-        description: 'Delete posts OLDER than N hours (168 = 7 days, leave empty for all)'
+        description: 'Delete posts OLDER than N hours (48 = 2 days default)'
         required: false
         type: string
-        default: '168'
+        default: '48'
       nuclear_mode:
         description: '⚠️ NUCLEAR MODE: Delete ALL posts regardless of age (requires explicit confirmation)'
         required: true
@@ -69,7 +70,7 @@ jobs:
         DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels || 'true' }}
         CHANNEL_IDS: ${{ inputs.channel_ids || '' }}
         HOURS_AGO: ${{ inputs.hours_ago || '' }}
-        OLDER_THAN_HOURS: ${{ inputs.older_than_hours || '168' }}
+        OLDER_THAN_HOURS: ${{ inputs.older_than_hours || '48' }}
         NUCLEAR_MODE: ${{ inputs.nuclear_mode || 'false' }}
         DRY_RUN: ${{ inputs.dry_run || 'false' }}
         # Category channel IDs (using GitHub Secrets - must match update-jobs.yml)
