@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1518-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1519-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1471 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1472 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1471
+- **🔥 Current Positions**: 1472
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 21, 2025
@@ -684,7 +684,7 @@
 | 🏢 **Iowa State University** | Postdoctoral Research Associate - Ames National Laboratory | Ames, IA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R18168) |
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (993 positions)
+### 🏢 **Other Companies** (994 positions)
 
 #### 🏢 **Intuit** (13 positions)
 
@@ -862,6 +862,13 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 0h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
+| 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
+| 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 4d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014034) |
+| 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Denver, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038) |
+| 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033) |
+| 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1mo ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
+| 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1mo ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744) |
 | 🏢 **Blissway** | Software Engineer | Denver, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application) |
 | 🏢 **Carnegie Mellon University** | Research Assistant - Electrical and Computer Engineering | Pittsburgh, PA | 1d ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955) |
 | 🏢 **Carnegie Mellon University** | Research Associate - College of Engineering - Electrical and Computer Engineering | Pittsburgh, PA | 4d ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2023997) |
@@ -880,12 +887,6 @@
 | 🏢 **Prairie View A&M University** | Postdoctoral Researcher | Prairie View, TX | 2mo ago | Mid-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402) |
 | 🏢 **Highmark Health** | Associate Data Engineer | California, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/CA-Working-at-Home---California/Associate-Data-Engineer_J273811) |
 | 🏢 **MedImpact** | Software Engineer 1 | San Diego, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Remote/Software-Engineer-II_JR102189) |
-| 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
-| 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 4d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014034) |
-| 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Denver, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038) |
-| 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033) |
-| 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1mo ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
-| 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1mo ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744) |
 | 🏢 **Cambridge Mobile Telematics** | Software Engineer - Backend | Cambridge, MA | 2d ago | Mid-Level | Mobile Development | [Apply](https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7487382) |
 | 🏢 **S&P Global ** | Associate Data Analyst - Mobility | California, Locations | 2d ago | Entry-Level | Data Science & Analytics | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/California-US/Data-Analyst_322809-1) |
 | 🏢 **S&P Global ** | Analyst  Data Management - Fixed Income Indices | Dallas, TX | 1mo ago | Mid-Level | Software Engineering | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Analyst--Data-Management---Fixed-Income-Indices_319188) |
@@ -963,7 +964,7 @@
 | 🟦 **LinkedIn** | Software Engineer - Frontend | Mountain View, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000099403125) |
 | 🏢 **Agilent Technologies** | R&D Graduate Software Developer-Harwell Science Campus | United Kingdom, Locations | 3d ago | Entry-Level | Software Engineering | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/R-D-Graduate-Software-Developer-Harwell-Science-Campus_4034599) |
 | 🏢 **Agilent Technologies** | Post-Doctoral Scientist - Gc/MS | Santa Clara, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Santa-Clara/Post-Doc-GC-MS-Application-Scientist_4028181) |
-| 🏢 **Advocate Health Care** | Genomics Research Programmer Analyst Associate | Remote in USA, Locations | 3d ago | Entry-Level | Software Engineering | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/Research-Programmer-Analyst-Associate---Remote_R190559-1) |
+| 🏢 **Advocate Health Care** | Genomics Research Programmer Analyst Associate | Remote in USA, Locations | 4d ago | Entry-Level | Software Engineering | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/Research-Programmer-Analyst-Associate---Remote_R190559-1) |
 | 🏢 **Jabil** | Configuration Management Analyst | Auburn Hills, MI | 4d ago | Mid-Level | Software Engineering | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Auburn-Hills-MI/Configuration-Management-Analyst_J2428597) |
 | 🏢 **Apex Fintech Solutions** | Software Engineer 1 - Java | Austin, TX | 4d ago | Mid-Level | Software Engineering | [Apply](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--Java-_JR104034) |
 | 🏢 **Apex Fintech Solutions** | Software Engineer I (ALDP) | Austin, TX | 4mo ago | Mid-Level | Software Engineering | [Apply](https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1) |
@@ -1747,7 +1748,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 651 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 777 | 53% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 778 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 43 | 3% | 2+ years of experience |
 
 ---
@@ -1765,8 +1766,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (895 positions)
-🏢 Blissway • 🏢 Argonne National Laboratory • 🏢 Carnegie Mellon University
+#### 💻 Software Engineering (896 positions)
+🏢 Astreya • 🏢 Blissway • 🏢 Argonne National Laboratory
 
 #### 🧠 Machine Learning & AI (230 positions)
 🏢 Prairie View A&M University • 🏢 PitchBook
@@ -1802,7 +1803,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1471 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1472 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1891,7 +1892,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1471 current opportunities from 261 companies**
+**🎯 1472 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
