@@ -862,7 +862,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 4h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
+| 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 5h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 4d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014034) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Denver, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038) |
@@ -1717,7 +1717,7 @@
 | 🏢 **BetterHelp** | Data Scientist - Experimentation | Remote in USA, Locations | 6mo ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008) |
 | 🏢 **Mitsubishi UFG** | Global Financial Crimes - Issues Management - Reporting & Data Analysis | Tempe, AZ | 7mo ago | Mid-Level | Software Engineering | [Apply](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD) |
 | 🏢 **Occidental Petroleum** | Maintenance Planning Tech | Fort Lupton, CO | 7mo ago | Mid-Level | Software Engineering | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Platteville-Colorado/Maintenance-Planning-Tech_JR102869) |
-| 🏢 **Sprocket Security** | Junior Software Engineer -  | Madison, WI | 7mo ago | Entry-Level | Security Engineering | [Apply](https://www.sprocketsecurity.com/company/careers/apply?gh_jid=4133296008) |
+| 🏢 **Sprocket Security** | Junior Software Engineer -  | Madison, WI | 8mo ago | Entry-Level | Security Engineering | [Apply](https://www.sprocketsecurity.com/company/careers/apply?gh_jid=4133296008) |
 
 
 
