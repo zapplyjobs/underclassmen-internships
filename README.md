@@ -859,9 +859,9 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Radian** | Data Scientist I - Hybrid | New York, NY | 4h ago | Mid-Level | Data Science & Analytics | [Apply](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) |
-| 🏢 **CliftonLarsonAllen** | Data Analyst Associate | St Louis, MO | 4h ago | Entry-Level | Data Science & Analytics | [Apply](https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544) |
-| 🏢 **First Financial Bank** | AI Developer I- Call Center | Abilene, TX | 4h ago | Mid-Level | Machine Learning & AI | [Apply](https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406) |
+| 🏢 **Radian** | Data Scientist I - Hybrid | New York, NY | 5h ago | Mid-Level | Data Science & Analytics | [Apply](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) |
+| 🏢 **CliftonLarsonAllen** | Data Analyst Associate | St Louis, MO | 5h ago | Entry-Level | Data Science & Analytics | [Apply](https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544) |
+| 🏢 **First Financial Bank** | AI Developer I- Call Center | Abilene, TX | 5h ago | Mid-Level | Machine Learning & AI | [Apply](https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406) |
 | 🏢 **Warner Bros.** | Associate Software Engineer (Temporary) | Chicago, IL | 6h ago | Entry-Level | Software Engineering | [Apply](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) |
 | 🏢 **Warner Bros.** | Associate Software Engineer | Burbank, CA | 6d ago | Entry-Level | Software Engineering | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Associate-Software-Engineer_R000101226) |
 | 🏢 **Astranis** | Software Developer, Network Software Associate | San Francisco, CA | 6h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
