@@ -861,8 +861,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Sayari** | Junior Data Engineer | Remote in USA, Locations | 6h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
-| 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 12h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
+| 🏢 **Sayari** | Junior Data Engineer | Remote in USA, Locations | 7h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
+| 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 13h ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 4d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014034) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Denver, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038) |
@@ -1706,7 +1706,7 @@
 | 🏢 **Datalab USA** | Production Programmer – Entry Level SQL Developer | Germantown, MD | 4mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/datalabusa/19b74a87-0d5f-4ca1-a218-5dae6004d0ee/apply) |
 | 🏢 **Da Vinci** | Graduate C++ Software Engineer | Miami, FL | 4mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4245633101) |
 | 🏢 **Autoroboto** | Operations Associate - Data Collection | Mountain View, CA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/autoroboto/4cd54435-b29a-4074-9954-d8704c809219/apply) |
-| 🏢 **Creatify Lab ** | AI Research Engineer | Mountain View, CA | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/creatify/2ebe3f70-171c-4b4e-b1aa-220133dcb202/application) |
+| 🏢 **Creatify Lab ** | AI Research Engineer | Mountain View, CA | 5mo ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/creatify/2ebe3f70-171c-4b4e-b1aa-220133dcb202/application) |
 | 🏢 **Runpod** | Software Engineer - Full-Stack | Remote in USA, Locations | 5mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/runpod/jobs/4785681008) |
 | 🏢 **Millennium Space Systems** | EGSE Software Engineer - Labview Specialist | El Segundo, CA | 5mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4413815008) |
 | 🏢 **Black Canyon Consulting** | Software Developer | Bethesda, MD | 5mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/bcc/jobs/5880038003) |
