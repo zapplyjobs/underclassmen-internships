@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1522-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1521-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1475 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1474 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1475
+- **🔥 Current Positions**: 1474
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 22, 2025
@@ -684,15 +684,14 @@
 | 🏢 **Iowa State University** | Postdoctoral Research Associate - Ames National Laboratory | Ames, IA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R18168) |
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (997 positions)
+### 🏢 **Other Companies** (996 positions)
 
-#### 🏢 **Intuit** (13 positions)
+#### 🏢 **Intuit** (12 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Engineer 1 | San Diego, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080) |
 | Software Engineer 1 | NYC, Locations | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312) |
-| Software Engineer 1 | NYC, Locations | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344) |
 | Software Engineer 1 | Mountain View, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512) |
 | Software Engineer 1 | NYC, Locations | 3d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89660152448) |
 | Software Engineer 1 | NYC, Locations | 4d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160) |
@@ -871,7 +870,7 @@
 | 🏢 **Oklo** | Junior Software Engineer | Santa Clara, CA | 7h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
 | 🏢 **Mechanize** | Junior Software Engineer | San Francisco, CA | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
 | 🏢 **Mechanize** | Junior Software Engineer | SF, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application) |
-| 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 8h ago | Senior | Frontend Development | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
+| 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 9h ago | Senior | Frontend Development | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
 | 🏢 **Sayari** | Junior Data Engineer | Remote in USA, Locations | 19h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
 | 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 1d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
@@ -1751,7 +1750,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 651 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 780 | 53% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 779 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 44 | 3% | 2+ years of experience |
 
 ---
@@ -1759,7 +1758,7 @@
 ## 🌍 Top Locations
 - **San Jose, CA**: 199 positions
 - **Seattle, WA**: 92 positions
-- **NYC, Locations**: 63 positions
+- **NYC, Locations**: 62 positions
 - **Remote in USA, Locations**: 54 positions
 - **SF, Locations**: 44 positions
 - **Chicago, IL**: 38 positions
@@ -1778,7 +1777,7 @@
 #### 📊 Data Science & Analytics (134 positions)
 🏢 Radian • 🏢 CliftonLarsonAllen • 🏢 Sayari
 
-#### 🎨 Frontend Development (59 positions)
+#### 🎨 Frontend Development (58 positions)
 🏢 U.S. Bank • 🏢 Intuit
 
 #### ☁️ DevOps & Infrastructure (52 positions)
@@ -1806,7 +1805,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1475 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1474 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1895,7 +1894,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1475 current opportunities from 261 companies**
+**🎯 1474 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
