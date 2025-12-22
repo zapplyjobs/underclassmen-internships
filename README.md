@@ -254,8 +254,8 @@
 | 📦 **Amazon** | System Dev Engineer I, Analytics ADC | Denver, CO | 3mo ago | Mid-Level | Data Science & Analytics | [Apply](https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc) |
 | 📦 **Amazon** | Systems Development Engineer I, Ops Tech Solution (OTS) | Austin, TX | 4mo ago | Mid-Level | Software Engineering | [Apply](https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots) |
 | 🔵 **Meta** | Product Security Engineer (University Grad) | Bellevue, WA | 4mo ago | Entry-Level | Security Engineering | [Apply](https://www.metacareers.com/jobs/609052015548260) |
-| 🔵 **Meta** | Software Engineer - Product | NYC, Locations | 5mo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/9818241978303850) |
-| 🔵 **Meta** | Software Engineer - Product | Cambridge, MA | 5mo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/592280103506066) |
+| 🔵 **Meta** | Software Engineer - Product | NYC, Locations | 6mo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/9818241978303850) |
+| 🔵 **Meta** | Software Engineer - Product | Cambridge, MA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/592280103506066) |
 | 🟢 **Google** | Software Engineer - AlloyDB Semantic Search | Sunnyvale, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/120884376987673286) |
 | 🟢 **Google** | Data Scientist – Early Career - Research - PhD | NYC, Locations | 1mo ago | Entry-Level | Data Science & Analytics | [Apply](https://www.google.com/about/careers/applications/jobs/results/106428613359739590) |
 | 🟢 **Google** | Software Engineer – Early Career - PhD - Infrastructure | Madison, WI | 3mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/88714689822761670) |
@@ -691,7 +691,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer 1 | San Diego, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080) |
+| Software Engineer 1 | San Diego, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080) |
 | Software Engineer 1 | NYC, Locations | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909312) |
 | Software Engineer 1 | NYC, Locations | 2d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89706909344) |
 | Software Engineer 1 | Mountain View, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512) |
@@ -699,7 +699,7 @@
 | Software Engineer 1 | NYC, Locations | 4d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160) |
 | Software Engineer 1 | NYC, Locations | 4d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832192) |
 | Software Engineer 1 | Mountain View, CA | 4d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89635839264) |
-| Softare Engineer 1 | Mountain View, CA | 5d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704) |
+| Softare Engineer 1 | Mountain View, CA | 6d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704) |
 | Software Engineer 1 | Mountain View, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89447203920) |
 | Software Engineer 1 | NYC, Locations | 1w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89411491904) |
 | Software Engineer 1 - Virtual Expert Platform - Vep','Intuit | Mountain View, CA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-i-virtual-expert-platform-vep-intuit/27595/88653386992) |
@@ -1048,7 +1048,7 @@
 | 🏢 **General Dynamics Information Technology** | Software Developer - TS/SCI Polygraph | McLean, VA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428) |
 | 🏢 **General Dynamics Information Technology** | Software Developer Associate - TS/SCI w/Poly | Annapolis Junction, MD | 2mo ago | Entry-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001) |
 | 🏢 **Inductive Automation** | Software Quality Assurance Engineer I | Folsom, CA | 6d ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0) |
-| 🏢 **GoodShip** | Platform Data Analyst | Remote in USA, Locations | 6d ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application) |
+| 🏢 **GoodShip** | Platform Data Analyst | Remote in USA, Locations | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application) |
 | 🏢 **Motorola** | Applications Programmer | Chicago, IL | 1w ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
 | 🏢 **Protiviti** | Americas Delivery Center Technology Experienced Analyst | Cincinnati, OH | 1w ago | Mid-Level | Software Engineering | [Apply](https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1) |
 | 🏢 **Tinder** | Data Scientist 2 - Growth | Palo Alto, CA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) |
