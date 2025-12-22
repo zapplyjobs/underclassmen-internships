@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1522-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1520-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1475 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1473 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1475
+- **🔥 Current Positions**: 1473
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 22, 2025
@@ -685,7 +685,7 @@
 | 🏢 **Iowa State University** | Postdoctoral Research Associate - Ames National Laboratory | Ames, IA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R18168) |
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (996 positions)
+### 🏢 **Other Companies** (994 positions)
 
 #### 🏢 **Intuit** (13 positions)
 
@@ -775,12 +775,10 @@
 | Postdoctoral Researcher - Aerosols and hydroclimate risk | Austin, TX | 4mo ago | Mid-Level | Software Engineering | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Researcher---Aerosols-and-hydroclimate-risk_R_00041495) |
 | Postdoctoral Fellow in Water Systems - Ml | Austin, TX | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1) |
 
-#### 🏢 **Northrop Grumman** (14 positions)
+#### 🏢 **Northrop Grumman** (12 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| People Insights Analyst | McLean, VA | 4d ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/People-Insights-Analyst-2-3_R10217558) |
-| Data Engineer - People Analytics | Virginia, Locations | 4d ago | Mid-Level | Data Science & Analytics | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513) |
 | Data Insight Analyst | Virginia, Locations | 5d ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Insight-Analyst_R10217444-1) |
 | Data Insight Analyst - Principal Data Insight Analyst | Edwards AFB, CA | 5d ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Data-Insight-Analyst-or-Principal-Data-Insight-Analyst_R10213256) |
 | Software Engineer - Ent | Colorado Springs, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983) |
@@ -1751,7 +1749,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 650 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 783 | 53% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 781 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 42 | 3% | 2+ years of experience |
 
 ---
@@ -1769,13 +1767,13 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (895 positions)
+#### 💻 Software Engineering (894 positions)
 🏢 Astreya • 🏢 Blissway • 🏢 Argonne National Laboratory
 
 #### 🧠 Machine Learning & AI (230 positions)
 🏢 Prairie View A&M University • 🏢 PitchBook
 
-#### 📊 Data Science & Analytics (137 positions)
+#### 📊 Data Science & Analytics (136 positions)
 🏢 Sayari • 🏢 AppLovin • 🏢 Kettering Health
 
 #### 🎨 Frontend Development (59 positions)
@@ -1806,7 +1804,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1475 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1473 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1895,7 +1893,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1475 current opportunities from 261 companies**
+**🎯 1473 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
