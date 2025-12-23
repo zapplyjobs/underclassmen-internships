@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1518-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1531-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-35-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1471 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1484 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1471
+- **🔥 Current Positions**: 1484
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 35 premium opportunities
 - **📅 Last Updated**: December 23, 2025
@@ -582,7 +582,7 @@
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189) |
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application) |
 
-### 🛡️ **Defense & Aerospace** (61 positions)
+### 🛡️ **Defense & Aerospace** (63 positions)
 
 #### 🚀 **SpaceX** (16 positions)
 
@@ -631,11 +631,13 @@
 | 🏢 **The Boeing Company** | Audiovisual Programmer | Reston, VA | 2w ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Audiovisual-Programmer_JR2025487536-1) |
 | 🏢 **Anduril Industries** | Software Engineer, Connected Warfare | Costa Mesa, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=) |
 | 🏢 **Anduril Industries** | Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ | Costa Mesa, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=) |
+| 🏢 **General Dynamics** | Configuration and Logistics Data Analyst 1 - Engineering | Brunswick, ME | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-gdbiw.icims.com/jobs/4772/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics** | Entry Level Draftsman-Learners | Groton, CT | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdeb.icims.com/jobs/17137/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics** | Entry Level Software Engineer | Pittsburgh, PA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job) |
 | 🏢 **Leidos** | Entry-Level Software Developer | Huntsville, AL | 5d ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273) |
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 2w ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 | 🏢 **Leidos** | GenAI Contact Center as a Service Application Developer | Remote in USA, Locations | 4w ago | Mid-Level | Machine Learning & AI | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GENAI-CCAS-Application-Developer_R-00170128) |
-| 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Junction, MD | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
+| 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Junction, MD | 13h ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Senior Associate Systems Engineer | Odenton, MD | 1mo ago | Senior | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/160820/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Software Engineering, Associate | Santa Clara, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job) |
@@ -650,7 +652,7 @@
 | 🏢 **Amentum** | Entry Configuration Management Engineering Technician | Cape Canaveral, FL | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000C2R) |
 | 🏢 **Amentum** | Entry Level Software Developer | Fredericksburg, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Developer_R0149243) |
 | 🏢 **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259) |
-| 🏢 **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073) |
+| 🏢 **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073) |
 | 🏢 **CACI** | Data Scientist | Bethesda, MD | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Bethesda/Data-Scientist_320662) |
 | 🏢 **CACI** | Junior Software Engineer | Harford, MD | 4d ago | Entry-Level | Software Engineering | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Junior-Software-Engineer_320514) |
 | 🏢 **CACI** | Data Dictionary Software Engineer 1 | Hanover, MD | 1w ago | Mid-Level | Software Engineering | [Apply](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288) |
@@ -680,7 +682,7 @@
 | 🏢 **Iowa State University** | Postdoctoral Research Associate - Ames National Laboratory | Ames, IA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Ames-National-Laboratory_R18168) |
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (997 positions)
+### 🏢 **Other Companies** (1008 positions)
 
 #### 🏢 **Northrop Grumman** (12 positions)
 
@@ -704,7 +706,7 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Postdoctoral Appointee | Woodridge, IL | 3d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Mixed-Reduced-Precision-Computing-on-Modern-Hardware_421528-1) |
-| Postdoctoral Appointee-Developing an Exascale Muphfasa - Multi Phase Flow Adaptive Simulator | Woodridge, IL | 3d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Developing-an-Exascale-MuPhFASa--Multi-Phase-Flow-Adaptive-Simulator-_421533) |
+| Postdoctoral Appointee-Developing an Exascale Muphfasa - Multi Phase Flow Adaptive Simulator | Woodridge, IL | 4d ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee-Developing-an-Exascale-MuPhFASa--Multi-Phase-Flow-Adaptive-Simulator-_421533) |
 | Postdoctoral Appointee - Energy Systems | Woodridge, IL | 2w ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958) |
 | Postdoctoral Appointee - Molten Salt Technology | Woodridge, IL | 2w ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Molten-Salt-Technology_421498) |
 | Postdoctoral Appointee | Woodridge, IL | 3w ago | Mid-Level | Software Engineering | [Apply](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Uncertainty-Quantification-and-Modeling-of-Large-Scale-Dynamics-in-Networks_420061) |
@@ -839,23 +841,44 @@
 | 🏢 **Comcast** | Engineer Data & Analytics | Philadelphia, PA | 0h ago | Mid-Level | Data Science & Analytics | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer--Data---Analytics_R427045-1) |
 | 🏢 **Comcast** | Software Engineer 1 with AWS & Python | Chicago, IL | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.comcast.com/job/-/-/45483/86516813920) |
 | 🏢 **Computer Services** | Software Engineer | Remote in USA, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Software-Engineer_R-100400) |
-| 🏢 **PagerDuty** | Software Engineer 1 - Product Development | SF, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/pagerduty/jobs/5722204004) |
-| 🏢 **2020 Companies** | Android Sales Expert | SF, Locations | 0h ago | Mid-Level | Mobile Development | [Apply](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760) |
-| 🏢 **2020 Companies** | Android Sales Expert | Alameda, CA | 0h ago | Mid-Level | Mobile Development | [Apply](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Alameda-CA/Android-Sales-Expert_REQ_096762-1) |
-| 🏢 **Perficient** | Appian Associate Technical Consultant | Dallas, TX | 0h ago | Entry-Level | Software Engineering | [Apply](https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003734) |
-| 🏢 **BlackRock** | Associate – Application Engineer | NYC, Locations | 4h ago | Entry-Level | Software Engineering | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1) |
+| 🏢 **PagerDuty** | Software Engineer 1 - Product Development | SF, Locations | 1h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/pagerduty/jobs/5722204004) |
+| 🏢 **2020 Companies** | Android Sales Expert | SF, Locations | 1h ago | Mid-Level | Mobile Development | [Apply](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Oakland-CA/Android-Sales-Expert_REQ_096760) |
+| 🏢 **2020 Companies** | Android Sales Expert | Alameda, CA | 1h ago | Mid-Level | Mobile Development | [Apply](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Alameda-CA/Android-Sales-Expert_REQ_096762-1) |
+| 🏢 **L3Harris Technologies** | Associate – Business Intelligence Analyst - Cincinnati - OH | Cincinnati, OH | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Cincinnati-Associate,-Business-Intelligence-Analyst-(Cincinnati,-OH)-OH-45245/1351636300/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Senior Associate - Application Development - Greenville TX | Greenville, TX | 1mo ago | Senior | Software Engineering | [Apply](https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Application-Development-(Greenville,-TX)-TX-75402/1318855300/?ats=successfactors) |
+| 🏢 **The Walt Disney Company** | Associate Data Scientist | NYC, Locations | 1h ago | Entry-Level | Data Science & Analytics | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Associate-Data-Scientist_10138200) |
+| 🏢 **Carnegie Mellon University** | Data Engineer | Pittsburgh, PA | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Temporary-Data-Engineer--with-Apache-Airflow-20-and-30-experience-------Temporary-Employment-Services_2024012) |
+| 🏢 **Carnegie Mellon University** | Research Assistant - Electrical and Computer Engineering | Pittsburgh, PA | 3d ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955) |
+| 🏢 **Carnegie Mellon University** | Research Associate - College of Engineering - Electrical and Computer Engineering | Pittsburgh, PA | 6d ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2023997) |
+| 🏢 **Carnegie Mellon University** | Research Associate - Lti - School of Computer Science | Pittsburgh, PA | 6d ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---LTI---School-of-Computer-Science_2023968) |
+| 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 1w ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
+| 🏢 **Carnegie Mellon University** | Data Analyst and AI Specialist | Pittsburgh, PA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Data-Analyst-and-AI-Specialist---Institutional-Effectiveness-and-Planning---Office-of-the-Provost_2023933-1) |
+| 🏢 **Carnegie Mellon University** | Research Associate - Electrical and Computer Engineering | Pittsburgh, PA | 2w ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193) |
+| 🏢 **Centene** | Data Analyst 1 Healthcare Analytics | Missouri, Locations | 1h ago | Mid-Level | Data Science & Analytics | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst-I-Healthcare-Analytics_1624336) |
+| 🏢 **Centene** | Data Engineer 1 | Texas, Locations | 4d ago | Mid-Level | Data Science & Analytics | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1624135) |
+| 🏢 **Centene** | Data Engineer 1 | New Mexico, Locations | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077) |
+| 🏢 **Centene** | Application Development Engineer I | Missouri, Locations | 3mo ago | Mid-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Application-Development-Engineer-I_1592119-1) |
+| 🏢 **Barnard College** | Data Analyst Graduate Assistant - Neuroscience and Behavior | NYC, Locations | 1h ago | Entry-Level | Data Science & Analytics | [Apply](https://barnard.wd1.myworkdayjobs.com/Staff/job/New-York-City-NY/Data-Analyst-Graduate-Assistant--Neuroscience-and-Behavior-_JR5303-1) |
+| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/9c47488a-d757-46fb-b925-5324c7b61f7c/application) |
+| 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91) |
+| 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
+| 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78) |
+| 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7) |
+| 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
+| 🏢 **Perficient** | Appian Associate Technical Consultant | Dallas, TX | 1h ago | Entry-Level | Software Engineering | [Apply](https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003734) |
+| 🏢 **BlackRock** | Associate – Application Engineer | NYC, Locations | 5h ago | Entry-Level | Software Engineering | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1) |
 | 🏢 **BlackRock** | AI/ML Engineer - Analyst - AI Labs | Atlanta, GA | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/AI-ML-Engineer--Analyst---AI-Labs_R257970) |
 | 🏢 **ASSA ABLOY** | Product Engineer | Mason City, IA | 8h ago | Mid-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-IA-50401/1278600401/?ats=successfactors) |
 | 🏢 **ASSA ABLOY** | Order Processing Technician 1 | Mason City, IA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Order-Processing-Technician-I-IA-50401/1260586501/?ats=successfactors) |
-| 🏢 **Radian** | Data Scientist I - Hybrid | New York, NY | 10h ago | Mid-Level | Data Science & Analytics | [Apply](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) |
-| 🏢 **CliftonLarsonAllen** | Data Analyst Associate | St Louis, MO | 10h ago | Entry-Level | Data Science & Analytics | [Apply](https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544) |
-| 🏢 **First Financial Bank** | AI Developer I- Call Center | Abilene, TX | 10h ago | Mid-Level | Machine Learning & AI | [Apply](https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406) |
-| 🏢 **Warner Bros.** | Associate Software Engineer (Temporary) | Chicago, IL | 12h ago | Entry-Level | Software Engineering | [Apply](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) |
+| 🏢 **Radian** | Data Scientist I - Hybrid | New York, NY | 11h ago | Mid-Level | Data Science & Analytics | [Apply](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) |
+| 🏢 **CliftonLarsonAllen** | Data Analyst Associate | St Louis, MO | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544) |
+| 🏢 **First Financial Bank** | AI Developer I- Call Center | Abilene, TX | 11h ago | Mid-Level | Machine Learning & AI | [Apply](https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406) |
+| 🏢 **Warner Bros.** | Associate Software Engineer (Temporary) | Chicago, IL | 13h ago | Entry-Level | Software Engineering | [Apply](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) |
 | 🏢 **Warner Bros.** | Associate Software Engineer | Burbank, CA | 6d ago | Entry-Level | Software Engineering | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Associate-Software-Engineer_R000101226) |
-| 🏢 **Astranis** | Software Developer, Network Software Associate | San Francisco, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
+| 🏢 **Astranis** | Software Developer, Network Software Associate | San Francisco, CA | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
 | 🏢 **Astranis** | Software Engineer - Backend - Platform | SF, Locations | 2w ago | Mid-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4622097006) |
-| 🏢 **Oklo** | Junior Software Engineer | Santa Clara, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
-| 🏢 **Mechanize** | Junior Software Engineer | San Francisco, CA | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
+| 🏢 **Oklo** | Junior Software Engineer | Santa Clara, CA | 13h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
+| 🏢 **Mechanize** | Junior Software Engineer | San Francisco, CA | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
 | 🏢 **Mechanize** | Junior Software Engineer | SF, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application) |
 | 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 14h ago | Senior | Frontend Development | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
 | 🏢 **Sayari** | Junior Data Engineer | Remote in USA, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
@@ -877,12 +900,6 @@
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 1w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89411491904) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 2mo ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720) |
 | 🏢 **Blissway** | Software Engineer | Denver, CO | 2d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application) |
-| 🏢 **Carnegie Mellon University** | Research Assistant - Electrical and Computer Engineering | Pittsburgh, PA | 3d ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955) |
-| 🏢 **Carnegie Mellon University** | Research Associate - College of Engineering - Electrical and Computer Engineering | Pittsburgh, PA | 5d ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---College-of-Engineering---Electrical-and-Computer-Engineering_2023997) |
-| 🏢 **Carnegie Mellon University** | Research Associate - Lti - School of Computer Science | Pittsburgh, PA | 6d ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---LTI---School-of-Computer-Science_2023968) |
-| 🏢 **Carnegie Mellon University** | Research Assistant | Pittsburgh, PA | 1w ago | Mid-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2023983) |
-| 🏢 **Carnegie Mellon University** | Data Analyst and AI Specialist | Pittsburgh, PA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Data-Analyst-and-AI-Specialist---Institutional-Effectiveness-and-Planning---Office-of-the-Provost_2023933-1) |
-| 🏢 **Carnegie Mellon University** | Research Associate - Electrical and Computer Engineering | Pittsburgh, PA | 2w ago | Entry-Level | Software Engineering | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193) |
 | 🏢 **AppLovin** | Data Scientist - Analytics | Palo Alto, CA | 3d ago | Mid-Level | Data Science & Analytics | [Apply](https://boards.greenhouse.io/applovin/jobs/4624972006) |
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, CA | 1mo ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
 | 🏢 **Kettering Health** | Business Intelligence Developer - IT Analytics Health | Miamisburg, OH | 3d ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-ketteringhealth.icims.com/jobs/57144/job?mobile=true&needsRedirect=false) |
@@ -897,15 +914,15 @@
 | 🏢 **PitchBook** | Associate Machine Learning Engineer | NYC, Locations | 3d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4625767006) |
 | 🏢 **PitchBook** | Associate Machine Learning Engineer | Seattle, WA | 3d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4625765006) |
 | 🏢 **WME Group** | Analyst – Analytics | Culver City, CA | 3d ago | Mid-Level | Data Science & Analytics | [Apply](https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1) |
-| 🏢 **Figure** | Helix Data Creator | Spartanburg, SC | 3d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4627110006) |
+| 🏢 **Figure** | Helix Data Creator | Spartanburg, SC | 4d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4627110006) |
 | 🏢 **Figure** | Helix Data Creator | LA, Locations | 4d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4627111006) |
 | 🏢 **Figure** | Data Labeler | San Jose, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 🏢 **Figure** | Helix Data Creator | San Jose, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4585080006) |
-| 🏢 **Caterpillar Inc.** | Mining Application Specialist – Early Career | Prescott, AZ | 3d ago | Entry-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341180) |
+| 🏢 **Caterpillar Inc.** | Mining Application Specialist – Early Career | Prescott, AZ | 4d ago | Entry-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Arizona/Mining-Application-Specialist---Early-Career_R0000341180) |
 | 🏢 **Caterpillar Inc.** | Mining Application Specialist | Canada, Locations | 2w ago | Mid-Level | Software Engineering | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/Mining-Application-Specialist---Early-Career_R0000338800) |
-| 🏢 **Chicago Trading Company** | Associate C++ Engineer | Chicago, IL | 3d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4642278005) |
-| 🏢 **Chicago Trading Company** | Associate C++ Engineer | Chicago, IL | 3d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005) |
-| 🏢 **Axle** | Software Engineer | North Bethesda, MD | 3d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/axle/jobs/5006708007) |
+| 🏢 **Chicago Trading Company** | Associate C++ Engineer | Chicago, IL | 4d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4642278005) |
+| 🏢 **Chicago Trading Company** | Associate C++ Engineer | Chicago, IL | 4d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4616636005) |
+| 🏢 **Axle** | Software Engineer | North Bethesda, MD | 4d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/axle/jobs/5006708007) |
 | 🏢 **Ameresco** | Data Analyst | Remote in USA, Locations | 4d ago | Mid-Level | Data Science & Analytics | [Apply](https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Remote/Data-Analyst_R3520) |
 | 🏢 **Major League Baseball** | Associate Software Engineer - Baseball Enterprise | Boulder, CO | 4d ago | Entry-Level | Software Engineering | [Apply](https://www.mlb.com/careers/opportunities?gh_jid=7476593) |
 | 🏢 **Major League Baseball** | Data Operator | Reading, PA | 5d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7566484003) |
@@ -916,9 +933,6 @@
 | 🏢 **Major League Baseball** | Analyst – Domestic Scouting | Baltimore, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5678108004) |
 | 🏢 **Rockwell Automation** | Software Engineer | Milwaukee, WI | 4d ago | Mid-Level | Software Engineering | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---Entry-Level_R25-8544) |
 | 🏢 **BlueLabs Analytics** | Analytics Associate 1 | Washington, DC | 4d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007) |
-| 🏢 **Centene** | Data Engineer 1 | Texas, Locations | 4d ago | Mid-Level | Data Science & Analytics | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1624135) |
-| 🏢 **Centene** | Data Engineer 1 | New Mexico, Locations | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-WI/Data-Engineer-I_1624077) |
-| 🏢 **Centene** | Application Development Engineer I | Missouri, Locations | 3mo ago | Mid-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Application-Development-Engineer-I_1592119-1) |
 | 🏢 **Activision-Blizzard** | Rotational Engineer - Central Technology | Sherman Oaks, LA | 4d ago | Mid-Level | Software Engineering | [Apply](https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Rotational-Engineer--Central-Technology_R026155) |
 | 🏢 **Boys & Girls Clubs of America** | TEMP Specialist - Fundraising Data | Remote in USA, Locations | 4d ago | Mid-Level | Software Engineering | [Apply](https://careers-bgca.icims.com/jobs/8356/job?mobile=true&needsRedirect=false) |
 | 🏢 **AECOM** | Entry-Level Planner | Raleigh, NC | 4d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000099596120) |
@@ -940,7 +954,7 @@
 | 🏢 **Rogers Behavioral Health** | Child and Adolescent Therapist | Eden Prairie, MN | 4w ago | Mid-Level | Backend Development | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Minneapolis-Clinic-Eden-Prairie-MN/Child-and-Adolescent-Therapist---PHP-IOP_R5566) |
 | 🏢 **Health Research** | Software Engineer/Developer | Albany, NY | 4d ago | Mid-Level | Software Engineering | [Apply](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Software-Engineer-Developer_JR-0001933) |
 | 🏢 **S&P Global** | Associate Data Analyst - Mobility | CA, Locations | 4d ago | Entry-Level | Data Science & Analytics | [Apply](https://spgi.wd5.myworkdayjobs.com/spgi_internal/job/California-US/Data-Analyst_322809) |
-| 🏢 **Nike** | Software Engineer 1 - Innovation | Beaverton, OR | 4d ago | Mid-Level | Software Engineering | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-76383) |
+| 🏢 **Nike** | Software Engineer 1 - Innovation | Beaverton, OR | 5d ago | Mid-Level | Software Engineering | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-76383) |
 | 🏢 **Walmart** | Senior Data Scientist | Bentonville, AR | 5d ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767) |
 | 🏢 **Walmart** | Data Engineer 3 | Sunnyvale, CA | 6d ago | Mid-Level | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Data-Engineer-III_R-2350035) |
 | 🏢 **Walmart** | Senior Analyst - Business Support | Bentonville, AR | 1w ago | Senior | Software Engineering | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/Senior-Analyst--Business-Support_R-2364373) |
@@ -1022,6 +1036,7 @@
 | 🏢 **Insulet Corporation** | Associate Project Engineer - Acton MA | Acton, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Associate-Project-Engineer--Hybrid---Acton--MA-_REQ-2025-13447) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 1w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer - Entry Level-Java / C++ - Start Date | Manassas, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69189/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer 1 - Entry Level | Pittsfield, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Software Engineer | Pittsburgh, PA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/67621/job?mobile=true&needsRedirect=false) |
@@ -1126,7 +1141,7 @@
 | 🏢 **Transamerica** | Appian Application Developer | Philadelphia, PA | 2w ago | Mid-Level | Software Engineering | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Philadelphia-Pennsylvania/Appian-Application-Developer_R20060158) |
 | 🏢 **Marriott International** | Senior Systems Engineer - Corporate Systems | Bethesda, MD | 1w ago | Senior | Software Engineering | [Apply](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25195783) |
 | 🏢 **CHA Consulting** | AI Developer | Boston, MA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs-challp.icims.com/jobs/7422/job?mobile=true&needsRedirect=false) |
-| 🏢 **Honeywell** | Software Engineer 1 | Phoenix, AZ | 1w ago | Mid-Level | Software Engineering | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130270) |
+| 🏢 **Honeywell** | Software Engineer 1 | Phoenix, AZ | 2w ago | Mid-Level | Software Engineering | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130270) |
 | 🏢 **Honeywell** | Application Engineer 1 - Pre-sale Product Selection | Acton, MA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/125963) |
 | 🏢 **Honeywell** | Software Engineer & Computer Science – Recent Grad/Full Time | United States, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113397) |
 | 🏢 **Honeywell** | Software Engineer & Computer Science – Recent Grad/Full Time - US Person Required | United States, Locations | 1mo ago | Entry-Level | Frontend Development | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113400) |
@@ -1171,6 +1186,7 @@
 | 🏢 **Goldman Sachs** | 2026 – Americas - New York City Area - Engineering | NYC, Locations | 2w ago | Mid-Level | Software Engineering | [Apply](https://higher.gs.com/roles/150845?type=students) |
 | 🏢 **Goldman Sachs** | Asset and Wealth Management Analyst | West Palm Beach, FL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://higher.gs.com/roles/152209) |
 | 🏢 **Goldman Sachs** | 2026 – Americas - Salt Lake City - Engineering New Analyst | Salt Lake City, UT | 4mo ago | Mid-Level | Software Engineering | [Apply](https://higher.gs.com/roles/150842?type=students) |
+| 🏢 **Estes Forwarding Worldwide** | Software Engineer 1 - Core Services | Richmond, VA | 2w ago | Mid-Level | Software Engineering | [Apply](https://careers-efwnow.icims.com/jobs/6859/job?mobile=true&needsRedirect=false) |
 | 🏢 **Cambia Health Solutions** | AI Scientist 1 - Healthcare | Salt Lake City, UT | 2w ago | Mid-Level | Machine Learning & AI | [Apply](https://cambiahealth.wd1.myworkdayjobs.com/External/job/Renton-WA/AI-Scientist-I--Healthcare-_R-5997) |
 | 🏢 **Aegis Therapies** | IT Data Warehouse Specialist | Fort Smith, AR | 2w ago | Mid-Level | Backend Development | [Apply](https://aegistherapies.wd1.myworkdayjobs.com/aegiscareers/job/Fort-Smith-AR/IT-Data-Warehouse-Specialist_R0043523) |
 | 🏢 **Waystar** | ML Engineer 2 | Atlanta, GA | 2w ago | Mid-Level | Machine Learning & AI | [Apply](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/ML-Engineer-II_R2882-1) |
@@ -1229,6 +1245,7 @@
 | 🏢 **Astemo** | Graduate Engineering Development Program | Southfield, MI | 3w ago | Entry-Level | Software Engineering | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Farmington-Hills-Michigan-United-States/New-Graduate-Engineering-Development-Program--EDP-_R0068868) |
 | 🏢 **Ashland** | Entry Level Technical Service Scientist | Wilmington, DE | 3w ago | Entry-Level | Software Engineering | [Apply](https://ashland.wd12.myworkdayjobs.com/AshlandCareers1/job/US-DE-WILMINGTON/Technical-Service-Scientist_2025-0466) |
 | 🏢 **Daifuku** | Junior IT Software Developer | Novi, MI | 3w ago | Entry-Level | Software Engineering | [Apply](https://careers-daifuku-america.icims.com/jobs/20879/job?mobile=true&needsRedirect=false) |
+| 🏢 **Daifuku** | Software Implementation Engineer 1 | Savannah, GA | 3w ago | Mid-Level | Software Engineering | [Apply](https://careers-daifuku-america.icims.com/jobs/20889/job?mobile=true&needsRedirect=false) |
 | 🏢 **Reevo** | Builder – New Grad - AI Engineer | SF, Locations | 3w ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/reevo/2a1f4f7f-86d3-41f4-bda1-3867ff82eb0d/application) |
 | 🏢 **Reevo** | Builder – New Grad - Software Engineer | Santa Clara, CA | 6mo ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e/application) |
 | 🏢 **InfStones** | Application Engineer | Dallas, TX | 3w ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/infstones/f4aa3e0f-172e-41db-b7a2-0133836d9bf7/apply) |
@@ -1273,7 +1290,6 @@
 | 🏢 **CAE** | Technical Associate | Arlington, TX | 1mo ago | Entry-Level | Software Engineering | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Technical-Associate_119024) |
 | 🏢 **Akima** | Game Developer | Huntsville, AL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://careers.akima.com/jobs/20304?lang=en-us&icims=1) |
 | 🏢 **Lightfield** | AI Product Engineer – New Grad | SF, Locations | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application) |
-| 🏢 **Barrios** | Configuration and Data Management Specialist - Configuration and Data Management Specialist | Houston, TX | 1mo ago | Mid-Level | Mobile Development | [Apply](https://careers-barrios.icims.com/jobs/2723/job?mobile=true&needsRedirect=false) |
 | 🏢 **Malvern Panalytical** | Graduate Software Engineer | Northampton, MA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Software Engineer | North Logan, UT | 1mo ago | Entry-Level | Software Engineering | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) |
 | 🏢 **Q2** | Software Engineer | Austin, TX | 1mo ago | Mid-Level | Software Engineering | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821) |
@@ -1290,6 +1306,7 @@
 | 🏢 **HomeVision** | Application Support Engineer | United States, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/homevision/cb8e1f54-b045-4d7f-a851-26f23926fe3c/application) |
 | 🏢 **Utah State University** | ServiceNow Junior Developer | Logan, UT | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-usu.icims.com/jobs/9751/job?mobile=true&needsRedirect=false) |
 | 🏢 **Beth Israel Lahey Health** | Research Data Coordinator-Cardiovascular Research | Boston, MA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Data-Coordinator--Cardiovascular-Research--Nezafat-Lab_JR87230) |
+| 🏢 **Pariveda Solutions** | Qlik Developer | Remote in USA, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://careers-skyepoint.icims.com/jobs/3033/job?mobile=true&needsRedirect=false) |
 | 🏢 **ALTEN Technology** | Data Collection Operator 1 | SF, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007) |
 | 🏢 **ALTEN Technology** | Data Collection Operator 2 | SF, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4827839007) |
 | 🏢 **Verisk** | Software Engineer | Holmdel, NJ | 1mo ago | Mid-Level | Software Engineering | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708) |
@@ -1405,7 +1422,6 @@
 | 🏢 **ElevenLabs** | Full-Stack Engineer | Remote in USA, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192/application) |
 | 🏢 **ElevenLabs** | Growth Engineering - Mobile | Remote Globally, Locations | 2mo ago | Mid-Level | Mobile Development | [Apply](https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328) |
 | 🏢 **Western & Southern Financial Group** | Business Intelligence Analyst 1 | Cincinnati, OH | 1mo ago | Mid-Level | Software Engineering | [Apply](https://careers-westernsouthern.icims.com/jobs/23606/job?mobile=true&needsRedirect=false) |
-| 🏢 **L3Harris Technologies** | Senior Associate - Application Development - Greenville TX | Greenville, TX | 1mo ago | Senior | Software Engineering | [Apply](https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Application-Development-(Greenville,-TX)-TX-75402/1318855300/?ats=successfactors) |
 | 🏢 **University of Virginia** | DOPS Graduate Software Developer - Federal Work Study - Remote Optional | Charlottesville, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/DOPS-Graduate-Software-Developer---Federal-Work-Study---Remote-Optional_R0076751) |
 | 🏢 **Pulley** | Backend Engineer | SF, Locations | 1mo ago | Mid-Level | Backend Development | [Apply](https://jobs.ashbyhq.com/withpulley/d99816fc-63fb-4887-8bf3-45a41f699a54/application) |
 | 🏢 **Pulley** | Full-Stack Engineer | SF, Locations | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/withpulley/5bf13603-e79b-42c6-a669-01b61dc40ec8/application) |
@@ -1428,11 +1444,13 @@
 | 🏢 **Northeastern** | Research Assistant | Boston, MA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R136132-1) |
 | 🏢 **Northeastern** | Postdoctoral Research Associate | Boston, MA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132402) |
 | 🏢 **Northeastern** | Postdoctoral Research Fellow | Boston, MA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Fellow_R115210-1) |
+| 🏢 **Essen Health Care** | Healthcare Analyst | Bronx, NY | 1mo ago | Mid-Level | Software Engineering | [Apply](https://careers-essenmed.icims.com/jobs/2039/job?mobile=true&needsRedirect=false) |
 | 🏢 **Invisible Technologies** | Entry Level Specialist - AI Trainer | Remote in USA, Locations | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4677212101) |
 | 🏢 **Invisible Technologies** | Japanese Speaker - AI Trainer | Remote in USA, Locations | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4650952101) |
 | 🏢 **Invisible Technologies** | Hebrew Translator - AI Trainer | Remote in USA, Locations | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4651790101) |
 | 🏢 **Invisible Technologies** | Computer Vision Specialist - AI Trainer | Remote in USA, Locations | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4666572101) |
 | 🏢 **Invisible Technologies** | Homography Specialist - AI Trainer | Remote in USA, Locations | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.eu.greenhouse.io/agency/jobs/4666570101) |
+| 🏢 **SCS Engineers** | Field Data Analyst | Modesto, CA | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-scsengineers.icims.com/jobs/1613/job?mobile=true&needsRedirect=false) |
 | 🏢 **SEP** | Software Engineer - 2026 start dates - In person | Carmel, IN | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/sep/83fec215-cbbd-44e3-b532-c00396f6fec8/apply) |
 | 🏢 **Trillium** | Data Scientist | NYC, Locations | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://www.trlm.com/apply/4923778007?gh_jid=4923778007) |
 | 🏢 **Centific** | Deployment Engineer | Remote in USA, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Deployment-Engineer_JR101165) |
@@ -1460,7 +1478,6 @@
 | 🏢 **Universal ** | B-Crew Dockman - 7 | Louisville, KY | 1mo ago | Mid-Level | Software Engineering | [Apply](https://hrone.wd1.myworkdayjobs.com/en-US/Universal_Logistics_Holdings/job/WESTPORT-LOUISVILLE-KY/B-Crew-Dockman--7_JR115349-1) |
 | 🏢 **GCI** | Data Analytics Engineer 1 - Future Opening | United States, Locations | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003164) |
 | 🏢 **Owens & Minor** | Material Handler I | Cranberry Twp, PA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/93-Warrendale/Material-Handler-I_REQ_24_19332) |
-| 🏢 **Pitt Ohio** | Agent Engineer | Pittsburgh, PA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://careers-pittohio.icims.com/jobs/3046/job?mobile=true&needsRedirect=false) |
 | 🏢 **SF Giants** | Baseball Operations Associate Analyst | Dateland, AZ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/sfgiants/9922308a-8c86-4394-bd22-554939491bc1/apply) |
 | 🏢 **Chubb** | Technology Associate | Philadelphia, PA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/26148) |
 | 🏢 **Trace3** | Java DevSecOps Software Engineer | Colorado Springs, CO | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trace3/jobs/7350861) |
@@ -1527,7 +1544,6 @@
 | 🏢 **Point72** | Software Engineer 2026 Graduate | NYC, Locations | 2mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/point72/jobs/8202068002) |
 | 🏢 **Geosyntec Consultants** | Staff or Sr. Staff Environmental Engineer - Geologist - Or Scientist | Anchorage, AK | 2mo ago | Senior | Software Engineering | [Apply](https://careers-geosyntec.icims.com/jobs/3292/job?mobile=true&needsRedirect=false) |
 | 🏢 **Geosyntec Consultants** | Early-Career Water Resources / Modeling Professional | Orlando, FL | 2mo ago | Mid-Level | Software Engineering | [Apply](https://careers-geosyntec.icims.com/jobs/3946/job?mobile=true&needsRedirect=false) |
-| 🏢 **Geosyntec Consultants** | Early-Career Subsurface Modeler | Newport Beach, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://careers-geosyntec.icims.com/jobs/4105/job?mobile=true&needsRedirect=false) |
 | 🏢 **Loyola Marymount University** | Assistant Professor of Mathematics - Statistics and Data Science | LA, Locations | 2mo ago | Mid-Level | Software Engineering | [Apply](https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Assistant-Professor-of-Mathematics--Statistics-and-Data-Science_R11535) |
 | 🏢 **Nelnet** | Data Analyst I - Consumer Loan Analytics | Lincoln, NE | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1) |
 | 🏢 **Capco** | FAST Configuration Analyst | Orlando, FL | 2mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/capco/jobs/7298016) |
@@ -1536,7 +1552,6 @@
 | 🏢 **Domino Data Lab** | Forward Deployed Engineer – New Grad - 2026 | NYC, Locations | 2mo ago | Entry-Level | Software Engineering | [Apply](https://app.careerpuck.com/job-board/domino-data-lab/job/7275081?gh_jid=7275081) |
 | 🏢 **Replit** | Software Engineer - New Grad - Summer 2026 | Foster City, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) |
 | 🏢 **Replit** | Software Engineer – New Grad - Summer 2026 | San Mateo, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application) |
-| 🏢 **Yusen Logistics** | Business Solutions Data Specialist | Long Beach, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://careers-yusen-logistics.icims.com/jobs/6050/job?mobile=true&needsRedirect=false) |
 | 🏢 **Lynker** | Space Observations Scientist and Organizational Liaison | Boulder, CO | 2mo ago | Mid-Level | Software Engineering | [Apply](https://careers-lynker.icims.com/jobs/1414/job?mobile=true&needsRedirect=false) |
 | 🏢 **ZipRecruiter** | Software Engineer – New Grad - Multiple Teams | Santa Monica, CA | 2mo ago | Entry-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130) |
 | 🏢 **WeRide** | New Grads 2026 - Data Engineer | San Jose, CA | 2mo ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/weride/7815ebc0-1668-4aa8-b4ba-919f5c3f9622/apply) |
@@ -1580,11 +1595,6 @@
 | 🏢 **PingWind** | Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer | Remote in USA, Locations | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/pingwind/d8ebf7d2-98f0-4bd7-ae70-5b8d91e4edc6) |
 | 🏢 **Mintlify** | Support Engineer | SF, Locations | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application) |
 | 🏢 **Macy's** | Macy's Tech Early Careers - Software Engineer | Johns Creek, GA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534) |
-| 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91) |
-| 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
-| 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78) |
-| 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7) |
-| 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
 | 🏢 **Verkada** | Security Software Engineer | San Mateo, CA | 3mo ago | Mid-Level | Security Engineering | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4872797007) |
 | 🏢 **Verkada** | Backend Software Engineer | San Mateo, CA | 3mo ago | Mid-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4835616007) |
 | 🏢 **Verkada** | Frontend Software Engineer – University Graduate 2026 | San Mateo, CA | 3mo ago | Entry-Level | Frontend Development | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4855439007) |
@@ -1592,11 +1602,13 @@
 | 🏢 **Duolingo** | AI Research Engineer | Pittsburgh, PA | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.duolingo.com/jobs/8151163002) |
 | 🏢 **Gartner** | Data Analyst | Irving, TX | 3mo ago | Mid-Level | Data Science & Analytics | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Irving-TX/Data-Analyst---2026-graduates_103573) |
 | 🏢 **Gartner** | Data Analyst - Insights and Product Analytics | Stamford, CT | 3mo ago | Mid-Level | Data Science & Analytics | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst---2026-graduates_103573) |
+| 🏢 **Steampunk** | Data Engineer | McLean, VA | 3mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-steampunk.icims.com/jobs/6514/job?mobile=true&needsRedirect=false) |
 | 🏢 **BNY** | BNY Analyst Program-Engineering - Developer | Pittsburgh, PA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70342) |
 | 🏢 **BNY** | BNY Analyst Program-Engineering - Data Science | Pittsburgh, PA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70345) |
 | 🏢 **CoStar** | Associate Software Engineer | San Diego, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014) |
 | 🏢 **CoStar** | Associate Software Engineer | San Diego, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://costar.wd1.myworkdayjobs.com/costar_campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014) |
 | 🏢 **NAVEX** | Associate Software Engineer | Hybrid Lake Oswego, OR | 3mo ago | Entry-Level | Software Engineering | [Apply](https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157) |
+| 🏢 **AmTrust Financial** | Technology Operations Specialist 1 | Remote in USA, Locations | 3mo ago | Mid-Level | Software Engineering | [Apply](https://careers-amtrustgroup.icims.com/jobs/19657/job?mobile=true&needsRedirect=false) |
 | 🏢 **AVEVA** | Artificial Intelligence Graduate | Lake Forest, CA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Artificial-Intelligence-Graduate--US_R011630) |
 | 🏢 **AI Fund** | Founder in Residence - Embedfi - SMB Hardware Leasing | California, Locations | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/AIFund/e5ef49f6-2014-45d7-a5fb-2d534e6af556/apply) |
 | 🏢 **Eventual** | Software Engineer – New Grad | SF, Locations | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application) |
@@ -1607,6 +1619,7 @@
 | 🏢 **Susquehanna International Group (SIG)** | Linux/Windows Engineer | Ardmore, PA | 3mo ago | Entry-Level | Design | [Apply](https://careers-sig.icims.com/jobs/9089/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Associate Linux/Windows Engineer - Platform Services | Ardmore, PA | 3mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://careers-sig.icims.com/jobs/9090/job?mobile=true&needsRedirect=false) |
 | 🏢 **Pentair** | 2026 Information Technology & Cybersecurity | Golden Valley, MN | 3mo ago | Mid-Level | Security Engineering | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2026-Information-Technology---Cybersecurity---AI---Machine-Learning-Specialization-Leadership-Development-Program_R21984) |
+| 🏢 **Dayton Freight Lines** | Entry Level Software Developer | Dayton, OH | 3mo ago | Entry-Level | Software Engineering | [Apply](https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false) |
 | 🏢 **Exponent** | Research Assistant | Menlo Park, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://careers-exponent.icims.com/jobs/2263/job?mobile=true&needsRedirect=false) |
 | 🏢 **Credence** | Entry-Level Software Engineer | McLean, VA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job) |
 | 🏢 **Trexquant** | Software Engineer – Early Career | Stamford, CT | 3mo ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/trexquant/j/11DC4EA360/apply) |
@@ -1741,8 +1754,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 646 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 779 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 653 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 785 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 46 | 3% | 2+ years of experience |
 
 ---
@@ -1750,8 +1763,8 @@
 ## 🌍 Top Locations
 - **San Jose, CA**: 198 positions
 - **Seattle, WA**: 92 positions
-- **NYC, Locations**: 63 positions
-- **Remote in USA, Locations**: 53 positions
+- **NYC, Locations**: 65 positions
+- **Remote in USA, Locations**: 55 positions
 - **SF, Locations**: 46 positions
 - **Chicago, IL**: 38 positions
 - **Austin, TX**: 33 positions
@@ -1760,14 +1773,14 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (899 positions)
-🏢 Computer Services • 🏢 PagerDuty • 🏢 Perficient
+#### 💻 Software Engineering (906 positions)
+🏢 Computer Services • 🏢 PagerDuty • 🏢 L3Harris Technologies
 
 #### 🧠 Machine Learning & AI (229 positions)
 🏢 First Financial Bank • 🏢 Prairie View A&M University • 🏢 PitchBook
 
-#### 📊 Data Science & Analytics (133 positions)
-🏢 Comcast • 🏢 CACI • 🏢 Radian
+#### 📊 Data Science & Analytics (140 positions)
+🏢 Comcast • 🏢 The Walt Disney Company • 🏢 Carnegie Mellon University
 
 #### 🎨 Frontend Development (57 positions)
 🏢 U.S. Bank • 🏢 Intuit
@@ -1781,7 +1794,7 @@
 #### 🌐 Full Stack Development (29 positions)
 💰 Affirm • 🏢 Harmonia • 🏢 HEXAWARE
 
-#### 📱 Mobile Development (15 positions)
+#### 📱 Mobile Development (14 positions)
 🏢 2020 Companies • 🚗 Uber
 
 #### 🛡️ Security Engineering (13 positions)
@@ -1797,7 +1810,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1471 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1484 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1886,7 +1899,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1471 current opportunities from 261 companies**
+**🎯 1484 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
