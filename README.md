@@ -139,7 +139,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Research Scientist Graduate - 3D/4D Generation - 2026 Start | San Jose, CA | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7585034854077778181/detail) |
+| Research Scientist Graduate - 3D/4D Generation - 2026 Start | San Jose, CA | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7585034854077778181/detail) |
 | Machine Learning Graduate - 2026 Start | Seattle, WA | 3w ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7542674819873081608/detail) |
 | Research Scientist in Large Language Model - Doubao-PhD Graduates-2025 Start | San Jose, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7398287837747939634/detail) |
 | Graduate Research Scientist - 3D/4D Reconstruction/Generation/Relighting | San Jose, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7564547210038380853/detail) |
@@ -343,8 +343,8 @@
 | 🏢 **Cadence Design Systems** | Application Engineer | San Jose, CA | 1w ago | Mid-Level | Design | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105) |
 | 🏢 **Qualtrics** | Machine Learning Engineer | Seattle, WA | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer) |
 | 🏢 **Qualtrics** | Software Engineer I - PAAS | Seattle, WA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS) |
-| 🏢 **Celonis** | Associate Value Engineer (Industrial Engineering & AI Applications) | New York, NY | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6691702003) |
-| 🏢 **Celonis** | Associate Value Engineer (AI for Supply Chain) | New York, NY | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6690522003) |
+| 🏢 **Celonis** | Associate Value Engineer (Industrial Engineering & AI Applications) | New York, NY | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6691702003) |
+| 🏢 **Celonis** | Associate Value Engineer (AI for Supply Chain) | New York, NY | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6690522003) |
 | 🏢 **Celonis** | Associate Value Engineer (AI-Driven Data Science & Analytics) | New York, NY | 4mo ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003) |
 
 ### 💻 **Enterprise Software** (7 positions)
@@ -845,7 +845,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Western Governors University** | Associate Software Engineer | Salt Lake City, UT | 2h ago | Entry-Level | Software Engineering | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023918) |
-| 🏢 **PURE Insurance** | Technology Analyst Program | Middlesex, NJ | 6h ago | Mid-Level | Software Engineering | [Apply](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561) |
+| 🏢 **PURE Insurance** | Technology Analyst Program | Middlesex, NJ | 7h ago | Mid-Level | Software Engineering | [Apply](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561) |
 | 🏢 **Accenture** | Atc – Software and Platform Analyst | Tampa, FL | 7h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885) |
 | 🏢 **Accenture** | ATC Salesforce Analyst - Nashville | Nashville, TN | 2w ago | Mid-Level | Software Engineering | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075) |
 | 🏢 **Accenture** | Data and AI Analyst | Huntsville, AL | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4617714006) |
@@ -870,11 +870,11 @@
 | 🏢 **The Aerospace Corporation** | Data Scientist | El Segundo, CA | 10h ago | Mid-Level | Data Science & Analytics | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Scientist_R014106) |
 | 🏢 **AeroVironment** | Research Scientist - 2D Polymer Chemist | Wright-Patterson AFB, OH | 10h ago | Mid-Level | Software Engineering | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Scientist---2D-Polymer-Chemist_7081) |
 | 🏢 **AeroVironment** | Research Chemist - Autonomous Discovery of Organic Materials | Wright-Patterson AFB, OH | 10h ago | Mid-Level | Software Engineering | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Chemist---Autonomous-Discovery-of-Organic-Materials_7076) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/5caf6697-43c6-41b5-92ef-20a8c85db322/application) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/5caf6697-43c6-41b5-92ef-20a8c85db322/application) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
-| 🏢 **NTT Data** | Data & Business Insights Associate | Plano, TX | 10h ago | Entry-Level | Software Engineering | [Apply](https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors) |
+| 🏢 **NTT Data** | Data & Business Insights Associate | Plano, TX | 11h ago | Entry-Level | Software Engineering | [Apply](https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors) |
 | 🏢 **NTT Data** | Digital Technology Engineer | Charlotte, NC | 1mo ago | Mid-Level | Software Engineering | [Apply](https://nttdata.eightfold.ai/careers/job/563327925798035) |
-| 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 16h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
+| 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 17h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
 | 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 17h ago | Mid-Level | Software Engineering | [Apply](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
 | 🏢 **Remi** | Software Engineer 1/2 - SF | SF, Locations | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/remi/b818286a-d389-42bd-a4d8-47020981ec57/application) |
 | 🏢 **Remi** | Software Engineer 1/2 | Lehi, UT | 17h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/remi/f83d1104-3501-403f-bfb8-55ae59b6723c/application) |
@@ -1637,7 +1637,7 @@
 | 🏢 **Jahnel Group** | Associate Software Engineer | Schenectady, NY | 3mo ago | Entry-Level | Software Engineering | [Apply](https://www.jahnelgroup.com/apply.html?gh_jid=4160702007) |
 | 🏢 **Epsilon** | Associate, Software Engineer | Irving, TX | 3mo ago | Entry-Level | Software Engineering | [Apply](https://careers.publicisgroupe.com/jobs/121511) |
 | 🏢 **Epsilon** | Associate, Software Engineer | Chicago, IL | 3mo ago | Entry-Level | Software Engineering | [Apply](https://careers.publicisgroupe.com/jobs/121504) |
-| 🏢 **Epsilon** | Associate, Software Engineer | Irving, TX | 3mo ago | Entry-Level | Software Engineering | [Apply](https://careers.publicisgroupe.com/jobs/119914) |
+| 🏢 **Epsilon** | Associate, Software Engineer | Irving, TX | 4mo ago | Entry-Level | Software Engineering | [Apply](https://careers.publicisgroupe.com/jobs/119914) |
 | 🏢 **Bumble Engineering** | Jr. Software Engineer | Austin, TX | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110) |
 | 🏢 **Arm Limited** | Graduate Software Applications Engineer | Austin, TX | 3mo ago | Entry-Level | Software Engineering | [Apply](https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416) |
 | 🏢 **Scale AI** | Software Engineer – New Grad | SF, Locations | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) |
