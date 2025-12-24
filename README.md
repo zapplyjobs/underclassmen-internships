@@ -139,7 +139,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Research Scientist Graduate - 3D/4D Generation - 2026 Start | San Jose, CA | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7585034854077778181/detail) |
+| Research Scientist Graduate - 3D/4D Generation - 2026 Start | San Jose, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7585034854077778181/detail) |
 | Machine Learning Graduate - 2026 Start | Seattle, WA | 3w ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7542674819873081608/detail) |
 | Research Scientist in Large Language Model - Doubao-PhD Graduates-2025 Start | San Jose, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7398287837747939634/detail) |
 | Graduate Research Scientist - 3D/4D Reconstruction/Generation/Relighting | San Jose, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7564547210038380853/detail) |
@@ -858,7 +858,7 @@
 | 🏢 **University of Chicago** | Research Professional | Chicago, IL | 1mo ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31354) |
 | 🏢 **University of Chicago** | Predoctoral Scholar | Chicago, IL | 3mo ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Predoctoral-Scholar_JR31330) |
 | 🏢 **Western Governors University** | Associate Software Engineer | Salt Lake City, UT | 11h ago | Entry-Level | Software Engineering | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023918) |
-| 🏢 **PURE Insurance** | Technology Analyst Program | Middlesex, NJ | 15h ago | Mid-Level | Software Engineering | [Apply](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561) |
+| 🏢 **PURE Insurance** | Technology Analyst Program | Middlesex, NJ | 16h ago | Mid-Level | Software Engineering | [Apply](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561) |
 | 🏢 **Accenture** | Atc – Software and Platform Analyst | Tampa, FL | 16h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885) |
 | 🏢 **Accenture** | ATC Salesforce Analyst - Nashville | Nashville, TN | 2w ago | Mid-Level | Software Engineering | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075) |
 | 🏢 **Accenture** | Data and AI Analyst | Huntsville, AL | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4617714006) |
@@ -875,9 +875,9 @@
 | 🏢 **The Aerospace Corporation** | Data Scientist | El Segundo, CA | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Scientist_R014106) |
 | 🏢 **AeroVironment** | Research Scientist - 2D Polymer Chemist | Wright-Patterson AFB, OH | 19h ago | Mid-Level | Software Engineering | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Scientist---2D-Polymer-Chemist_7081) |
 | 🏢 **AeroVironment** | Research Chemist - Autonomous Discovery of Organic Materials | Wright-Patterson AFB, OH | 19h ago | Mid-Level | Software Engineering | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Chemist---Autonomous-Discovery-of-Organic-Materials_7076) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/5caf6697-43c6-41b5-92ef-20a8c85db322/application) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/5caf6697-43c6-41b5-92ef-20a8c85db322/application) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
-| 🏢 **NTT Data** | Data & Business Insights Associate | Plano, TX | 19h ago | Entry-Level | Software Engineering | [Apply](https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors) |
+| 🏢 **NTT Data** | Data & Business Insights Associate | Plano, TX | 20h ago | Entry-Level | Software Engineering | [Apply](https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors) |
 | 🏢 **NTT Data** | Digital Technology Engineer | Charlotte, NC | 1mo ago | Mid-Level | Software Engineering | [Apply](https://nttdata.eightfold.ai/careers/job/563327925798035) |
 | 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
 | 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
@@ -928,7 +928,7 @@
 | 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 2d ago | Senior | Frontend Development | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
 | 🏢 **Sayari** | Junior Data Engineer | Remote in USA, Locations | 2d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
 | 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 3d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
-| 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 4d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
+| 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 5d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 1w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014034) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Denver, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014038) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033) |
