@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1532-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1533-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1485 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1486 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1485
+- **🔥 Current Positions**: 1486
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 24, 2025
@@ -624,7 +624,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **The Boeing Company** | Test & Evaluation Engineer - Multiple Teams | Hazelwood, MO | 21h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Engineer--Entry-Level--Associate--and-Experienced-_JR2025467413-1) |
+| 🏢 **The Boeing Company** | Test & Evaluation Engineer - Multiple Teams | Hazelwood, MO | 22h ago | Mid-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Test---Evaluation-Engineer--Entry-Level--Associate--and-Experienced-_JR2025467413-1) |
 | 🏢 **The Boeing Company** | Programmer Analyst – Associate or Mid-Level | North Charleston, SC | 1w ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Programmer-Analyst--Associate-or-Mid-Level-_JR2025482611-1) |
 | 🏢 **The Boeing Company** | Early Career Product Data Management Specialist | Hazelwood, MO | 1w ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Early-Career-Product-Data-Management-Specialist_JR2025488062) |
 | 🏢 **The Boeing Company** | Associate Programmer Analyst | Hazelwood, MO | 1w ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Programmer-Analyst_JR2025487618-1) |
@@ -637,14 +637,14 @@
 | 🏢 **Leidos** | Entry-Level Software Developer | Huntsville, AL | 6d ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273) |
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 2w ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 | 🏢 **Leidos** | GenAI Contact Center as a Service Application Developer | Remote in USA, Locations | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GENAI-CCAS-Application-Developer_R-00170128) |
-| 🏢 **Peraton** | Data Scientist | Reston, VA | 7h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | Data Scientist | Reston, VA | 8h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Junction, MD | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Senior Associate Systems Engineer | Odenton, MD | 1mo ago | Senior | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/160820/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Software Engineering, Associate | Santa Clara, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job) |
 | 🏢 **Peraton** | Software Engineering, Associate | Herndon, VA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) |
 | 🏢 **Radiance Technologies** | Physicist | Wright-Patterson AFB, OH | 1mo ago | Mid-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC/Physicist_HR101844) |
-| 🏢 **Radiance Technologies** | Junior Full Stack Software Engineer | Beavercreek, OH | 1mo ago | Entry-Level | Full Stack Development | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101852) |
+| 🏢 **Radiance Technologies** | Junior Full Stack Software Engineer | Beavercreek, OH | 2mo ago | Entry-Level | Full Stack Development | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101852) |
 | 🏢 **Radiance Technologies** | Junior Full Stack Software Engineer | Beavercreek, OH | 4mo ago | Entry-Level | Full Stack Development | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733) |
 | 🏢 **Maxar** | Forward Deployed Software Engineer I | Herndon, VA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1) |
 | 🏢 **Moog** | Associate Software Engineer | Torrance, CA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250) |
@@ -682,13 +682,13 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1009 positions)
+### 🏢 **Other Companies** (1010 positions)
 
 #### 🏢 **PennState University** (16 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Part Time Research Support - Neurology | Hershey, PA | 5h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-Time-Research-Support---Neurology_REQ_0000074546-1) |
+| Part Time Research Support - Neurology | Hershey, PA | 6h ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-Time-Research-Support---Neurology_REQ_0000074546-1) |
 | Part-Time Research Support | State College, PA | 2w ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support_REQ_0000074058-2) |
 | Postdoctoral Researcher | State College, PA | 2w ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher_REQ_0000073974-1) |
 | Postdoctoral Scholar-Neutrino Physics | State College, PA | 3w ago | Mid-Level | Software Engineering | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
@@ -840,12 +840,13 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| 🏢 **Huron** | Data Scientist - Associate | Chicago, IL | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624) |
 | 🏢 **Cox** | Software Engineer 1 | NYC, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202570999-1) |
-| 🏢 **Analog Devices** | Associate Machine Learning Operations Engineer - MLOps - Engineer | Burlington, MA | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Machine-Learning-Operations--MLOps--Engineer_R258871) |
+| 🏢 **Analog Devices** | Associate Machine Learning Operations Engineer - MLOps - Engineer | Burlington, MA | 1h ago | Entry-Level | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Machine-Learning-Operations--MLOps--Engineer_R258871) |
 | 🏢 **Analog Devices** | Product Applications Engineer | San Jose, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Application-Engineering_R255206-1) |
 | 🏢 **Analog Devices** | Machine Learning Engineer | Boston, MA | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Machine-Learning-Engineer_R255201) |
 | 🏢 **Analog Devices** | Electronic Design Automation Research and Development Engineer with Emphasis on Simulation - Modeling - Software Development | Burlington, MA | 3mo ago | Mid-Level | Design | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/EDA-R-D-Engineer-with-Emphasis-on-Simulation--Modeling--and-Software-Development_R254720) |
-| 🏢 **Lennar Corporation** | Systems Analyst 1 | Irving, TX | 0h ago | Mid-Level | Software Engineering | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005022) |
+| 🏢 **Lennar Corporation** | Systems Analyst 1 | Irving, TX | 1h ago | Mid-Level | Software Engineering | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005022) |
 | 🏢 **University of Chicago** | Predoctoral Scholar | Chicago, IL | 1h ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397) |
 | 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32225) |
 | 🏢 **University of Chicago** | Business Intelligence & Analytics Senior Analyst | Chicago, IL | 2w ago | Senior | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249) |
@@ -862,21 +863,21 @@
 | 🏢 **Formlabs** | Operations Systems Lead | Cambridge, MA | 1h ago | Senior | Software Engineering | [Apply](https://careers.formlabs.com/job/7488675/apply/?gh_jid=7488675) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/5caf6697-43c6-41b5-92ef-20a8c85db322/application) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | San Francisco, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) |
-| 🏢 **NTT Data** | Data & Business Insights Associate | Plano, TX | 1h ago | Entry-Level | Software Engineering | [Apply](https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors) |
+| 🏢 **NTT Data** | Data & Business Insights Associate | Plano, TX | 2h ago | Entry-Level | Software Engineering | [Apply](https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors) |
 | 🏢 **NTT Data** | Digital Technology Engineer | Charlotte, NC | 1mo ago | Mid-Level | Software Engineering | [Apply](https://nttdata.eightfold.ai/careers/job/563327925798035) |
-| 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 7h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
+| 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 8h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
 | 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 8h ago | Mid-Level | Software Engineering | [Apply](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
 | 🏢 **Remi** | Software Engineer 1/2 - SF | SF, Locations | 8h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/remi/b818286a-d389-42bd-a4d8-47020981ec57/application) |
 | 🏢 **Remi** | Software Engineer 1/2 | Lehi, UT | 8h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/remi/f83d1104-3501-403f-bfb8-55ae59b6723c/application) |
 | 🏢 **Cisive** | Software Developer | New Mexico, Locations | 17h ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100173) |
 | 🏢 **Cisive** | Software Developer | Maryland, Locations | 3w ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
-| 🏢 **Walmart** | USA – Staff - Data Scientist | Bentonville, AR | 21h ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2331754) |
+| 🏢 **Walmart** | USA – Staff - Data Scientist | Bentonville, AR | 22h ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2331754) |
 | 🏢 **Walmart** | Senior Data Scientist | Bentonville, AR | 6d ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767) |
 | 🏢 **Walmart** | Senior Analyst - Business Support | Bentonville, AR | 1w ago | Senior | Software Engineering | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/Senior-Analyst--Business-Support_R-2364373) |
 | 🏢 **Walmart** | Senior – Data Scientist | Bentonville, AR | 2w ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2367375-1) |
 | 🏢 **Walmart** | Data Scientist III | Sunnyvale, CA | 4mo ago | Mid-Level | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2025-Intern-Conversion--2026-FT-Data-Scientist-III---Sunnyvale--CA_R-2251073) |
-| 🏢 **PPG Industries** | Manufacturing Data Analyst | Ohio, Locations | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2518708) |
-| 🏢 **KBR** | Software Engineer - Full Stack Entry - Mid | Sioux Falls, SD | 23h ago | Entry-Level | Full Stack Development | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871) |
+| 🏢 **PPG Industries** | Manufacturing Data Analyst | Ohio, Locations | 22h ago | Mid-Level | Data Science & Analytics | [Apply](https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2518708) |
+| 🏢 **KBR** | Software Engineer - Full Stack Entry - Mid | Sioux Falls, SD | 1d ago | Entry-Level | Full Stack Development | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871) |
 | 🏢 **KBR** | Systems Engineer 1 | Sioux Falls, SD | 1w ago | Mid-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Systems-Engineer-I_R2116636) |
 | 🏢 **KBR** | Junior Software Engineer | Huntsville, AL | 1mo ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179) |
 | 🏢 **KBR** | Junior Image Scientist | Springfield, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Junior-Image-Scientist_R2098927) |
@@ -1142,7 +1143,7 @@
 | 🏢 **Quest Global** | Full Stack Developer | Charlotte, NC | 1mo ago | Mid-Level | Full Stack Development | [Apply](https://careers.quest-global.com/global/en/job/P-110005) |
 | 🏢 **Quest Global** | Financial Data Analyst | Houston, TX | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.quest-global.com/global/en/job/P-112500) |
 | 🏢 **Sierra Nevada Corporation** | Business Intelligence Developer 1 | Hagerstown, MD | 1w ago | Mid-Level | Software Engineering | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Business-Intelligence-Developer-I_R0028996-1) |
-| 🏢 **Liberty Mutual** | Analyst 1 - Data Science | Boston, MA | 1w ago | Mid-Level | Software Engineering | [Apply](https://careers-libertymutual.icims.com/jobs/73511/job?mobile=true&needsRedirect=false) |
+| 🏢 **Liberty Mutual** | Analyst 1 - Data Science | Boston, MA | 2w ago | Mid-Level | Software Engineering | [Apply](https://careers-libertymutual.icims.com/jobs/73511/job?mobile=true&needsRedirect=false) |
 | 🏢 **eBay** | Applied Researcher 2 - Search Ranking | SF, Locations | 2w ago | Mid-Level | Software Engineering | [Apply](https://ebay.wd5.myworkdayjobs.com/apply/job/San-Francisco/Applied-Researcher-1---Search-Ranking_R0066187) |
 | 🏢 **True Anomaly** | Software Engineer 2 - Elixir | Long Beach, CA | 2w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5000513007) |
 | 🏢 **True Anomaly** | Quality Assurance Software Engineer 1 | Long Beach, CA | 3w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007) |
@@ -1264,7 +1265,7 @@
 | 🏢 **EliseAI** | Software Engineer | NYC, Locations | 3w ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/EliseAI/1ffbd278-a5fe-443c-984f-521d61a97353/application) |
 | 🏢 **EliseAI** | Software Engineer | New York, NY | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353) |
 | 🏢 **United Parcel Service (UPS)** | Software Development Engineer 1 - Salesforce | Georgia, Locations | 3w ago | Mid-Level | Software Engineering | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/Software-Development-Engineer-I---Salesforce_R25023930) |
-| 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 3w ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
+| 🏢 **SHI International ** | Pubsec Project Admin | Remote in USA, Locations | 4w ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---NC---Home-Office/PubSec-Project-Admin_JR2239) |
 | 🏢 **SHI International ** | Pubsec Project Admin | Somerset County, NJ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://shi.wd12.myworkdayjobs.com/shicareers/job/Somerset-NJ-USA/PubSec-Project-Admin_JR2034) |
 | 🏢 **Sinclair** | Software Development Engineer - Level 1 - Direct-to-Consumer Streaming | Santa Monica, CA | 4w ago | Entry-Level | Software Engineering | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/14900) |
 | 🏢 **KnowBe4** | Revenue Systems and Analytics Analyst | Clearwater, FL | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8307207002) |
@@ -1497,8 +1498,8 @@
 | 🏢 **The University of Chicago Medicine** | Clinical Data Analyst - Same Day Surgery/Observation Coder | Chicago, IL | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-ucm.icims.com/jobs/80172/job?mobile=true&needsRedirect=false) |
 | 🏢 **Promise** | Software Engineer – New Grad - Forward Deployed AI | Oakland, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a/application) |
 | 🏢 **Promise** | Software Engineer – New Grad - Forward Deployed AI | Washington, DC | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443/application) |
-| 🏢 **Promise** | Software Engineer – Forward Deployed AI (New Grad) | Oakland, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a) |
-| 🏢 **Promise** | Software Engineer – Forward Deployed AI (New Grad) | Washington, D.C. | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443) |
+| 🏢 **Promise** | Software Engineer – Forward Deployed AI (New Grad) | Oakland, CA | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a) |
+| 🏢 **Promise** | Software Engineer – Forward Deployed AI (New Grad) | Washington, D.C. | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443) |
 | 🏢 **Fidelity National Information Services** | Software Engineer I - C++ and Payments Systems | Philadelphia, PA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MAKA-8767-FLR42/Software-Engineer-I--C---and-Payments-Systems-_JR0300399) |
 | 🏢 **DraftKings** | Software Engineer | Remote in USA, Locations | 2mo ago | Mid-Level | Software Engineering | [Apply](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3) |
 | 🏢 **Insulet** | Associate Software Test Engineer | Acton, MA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts/Associate-Software-Test-Engineer---Acton--Mass--Hybrid-_REQ-2025-13419) |
@@ -1755,7 +1756,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 650 | 44% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 651 | 44% | No or minimal experience |
 | 🟡 Beginner & Early Career | 790 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 45 | 3% | 2+ years of experience |
 
@@ -1767,7 +1768,7 @@
 - **NYC, Locations**: 64 positions
 - **Remote in USA, Locations**: 53 positions
 - **SF, Locations**: 47 positions
-- **Chicago, IL**: 40 positions
+- **Chicago, IL**: 41 positions
 - **Austin, TX**: 33 positions
 - **Dallas, TX**: 28 positions
 
@@ -1780,8 +1781,8 @@
 #### 🧠 Machine Learning & AI (228 positions)
 🏢 Analog Devices • 🏢 Argonne National Laboratory • 🏢 First Financial Bank
 
-#### 📊 Data Science & Analytics (137 positions)
-🏢 The Aerospace Corporation • 🏢 Peraton • 🏢 Walmart
+#### 📊 Data Science & Analytics (138 positions)
+🏢 Huron • 🏢 The Aerospace Corporation • 🏢 Peraton
 
 #### 🎨 Frontend Development (56 positions)
 🏢 U.S. Bank • 🏢 Intuit
@@ -1811,7 +1812,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1485 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1486 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1900,7 +1901,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1485 current opportunities from 261 companies**
+**🎯 1486 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
