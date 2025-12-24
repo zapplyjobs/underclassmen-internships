@@ -640,7 +640,7 @@
 | 🏢 **Leidos** | Entry-Level Software Developer | Huntsville, AL | 6d ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Entry-Level-Software-Developer-_R-00172273) |
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 2w ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 | 🏢 **Leidos** | GenAI Contact Center as a Service Application Developer | Remote in USA, Locations | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GENAI-CCAS-Application-Developer_R-00170128) |
-| 🏢 **Peraton** | Data Scientist | Reston, VA | 15h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | Data Scientist | Reston, VA | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Junction, MD | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Senior Associate Systems Engineer | Odenton, MD | 1mo ago | Senior | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/160820/job?mobile=true&needsRedirect=false) |
@@ -845,8 +845,8 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Western Governors University** | Associate Software Engineer | Salt Lake City, UT | 1h ago | Entry-Level | Software Engineering | [Apply](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-Office/Associate-Software-Engineer_JR-023918) |
-| 🏢 **PURE Insurance** | Technology Analyst Program | Middlesex, NJ | 5h ago | Mid-Level | Software Engineering | [Apply](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561) |
-| 🏢 **Accenture** | Atc – Software and Platform Analyst | Tampa, FL | 5h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885) |
+| 🏢 **PURE Insurance** | Technology Analyst Program | Middlesex, NJ | 6h ago | Mid-Level | Software Engineering | [Apply](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Warren/Technology-Analyst-Program--September-2026_R2561) |
+| 🏢 **Accenture** | Atc – Software and Platform Analyst | Tampa, FL | 6h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/ATC---Software-and-Platform-Analyst---NAELFY26_R00304885) |
 | 🏢 **Accenture** | ATC Salesforce Analyst - Nashville | Nashville, TN | 2w ago | Mid-Level | Software Engineering | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075) |
 | 🏢 **Accenture** | Data and AI Analyst | Huntsville, AL | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4617714006) |
 | 🟢 **Waymo** | Applied Research Scientist - Perception | SF, Locations | 6h ago | Mid-Level | Software Engineering | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7467839) |
