@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1534-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1533-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1487 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1486 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1487
+- **🔥 Current Positions**: 1486
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 25, 2025
@@ -272,9 +272,9 @@
 | 🍎 **Apple** | Software Engineer – Early Career Opportunities - Aidp Reliability Engineering - IS&T | Austin, TX | 2mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200621756) |
 | 🎬 **Netflix** | New Grad Software Engineer - 2026 | Los Gatos, CA | 2w ago | Entry-Level | Software Engineering | [Apply](https://explore.jobs.netflix.net/careers/job/790313102199) |
 
-### 🏢 **Top Tech** (60 positions)
+### 🏢 **Top Tech** (59 positions)
 
-#### 🎮 **NVIDIA** (23 positions)
+#### 🎮 **NVIDIA** (22 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -291,7 +291,6 @@
 | Developer Technology Engineer – New College Grad - Public Sector | Santa Clara, CA | 3w ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) |
 | Research Scientist – New College Grad 2026 - Fundamental LLM Research for Knowledge - Reasoning And Agents | California, Locations | 4w ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-LLM-Research-for-Knowledge--Reasoning--and-Agents---New-College-Grad-2026_JR2008820) |
 | Architecture Energy Modeling Engineer | Austin, TX | 1mo ago | Senior | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Architecture-Energy-Modeling-Engineer---New-College-Grad-2025_JR2007279) |
-| GPU Power Architect | California, Locations | 1mo ago | Senior | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2004018) |
 | Research Scientist – PhD New College Grad - Generative AI for Physical AI | Santa Clara, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2025_JR2005875) |
 | Compiler Optimization Engineer – New College Grad - LLVM and Mlir | Redmond, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Optimization-Engineer--LLVM-and-MLIR---New-College-Grad-2025_JR2006770) |
 | Developer Technology Engineer, AI | Santa Clara, CA | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035) |
@@ -926,7 +925,7 @@
 | 🏢 **Oklo** | Junior Software Engineer | Santa Clara, CA | 2d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
 | 🏢 **Mechanize** | Junior Software Engineer | San Francisco, CA | 2d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
 | 🏢 **Mechanize** | Junior Software Engineer | SF, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application) |
-| 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 2d ago | Senior | Frontend Development | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
+| 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 3d ago | Senior | Frontend Development | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
 | 🏢 **Sayari** | Junior Data Engineer | Remote in USA, Locations | 3d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
 | 🏢 **Astreya** | Data Center Network Modeling Technician 3 | Denver, CO | 3d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Locations | 5d ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
@@ -1759,7 +1758,7 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 658 | 44% | No or minimal experience |
 | 🟡 Beginner & Early Career | 783 | 53% | 1-2 years of experience |
-| 🔴 Manager         | 46 | 3% | 2+ years of experience |
+| 🔴 Manager         | 45 | 3% | 2+ years of experience |
 
 ---
 
@@ -1776,7 +1775,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (911 positions)
+#### 💻 Software Engineering (910 positions)
 🏢 Health Plan One • 🏢 ERM
 
 #### 🧠 Machine Learning & AI (228 positions)
@@ -1813,7 +1812,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1487 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1486 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1902,7 +1901,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1487 current opportunities from 261 companies**
+**🎯 1486 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
