@@ -843,7 +843,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Health Plan One** | Associate Risk Reporting Analyst | Florida, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://healthplanone.wd1.myworkdayjobs.com/hpone/job/FL-Remote/Associate-Risk-Reporting-Analyst_JR1407) |
+| 🏢 **Health Plan One** | Associate Risk Reporting Analyst | Florida, Locations | 15h ago | Entry-Level | Software Engineering | [Apply](https://healthplanone.wd1.myworkdayjobs.com/hpone/job/FL-Remote/Associate-Risk-Reporting-Analyst_JR1407) |
 | 🏢 **ERM** | Consulting Associate - Engineering or Geology | Raleigh, NC | 15h ago | Entry-Level | Software Engineering | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Charlotte-North-Carolina/Consulting-Associate--Engineering-or-Geology_R00028751-1) |
 | 🏢 **ERM** | Consulting Associate - Engineering or Geology | Atlanta, GA | 15h ago | Entry-Level | Software Engineering | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Engineering-or-Geology_R00028752) |
 | 🏢 **BBB** | Data Analyst - Entry Level | Omaha, NE | 15h ago | Entry-Level | Data Science & Analytics | [Apply](https://bbbne.bamboohr.com/careers/49/) |
@@ -1500,7 +1500,7 @@
 | 🏢 **Mass General Brigham** | Data Analyst I Bioinformatician Rheumatology | Boston, MA | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Data-Analyst-I-Bioinformatician-Rheumatology_RQ4038981) |
 | 🏢 **Hearst** | Developer Fellow | SF, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025268) |
 | 🏢 **Intermountain Healthcare** | Medical Assistant Resident Sleep and Respiratory Clinic | Billings, MT | 1mo ago | Mid-Level | Software Engineering | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Resident_R145681-1) |
-| 🏢 **Captivation** | Software Engineer 1 - Hybrid - Java/Mapreduce/Git/Pig/Maven | Annapolis Junction, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/captivation/jobs/4955322008) |
+| 🏢 **Captivation** | Software Engineer 1 - Hybrid - Java/Mapreduce/Git/Pig/Maven | Annapolis Junction, MD | 2mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/captivation/jobs/4955322008) |
 | 🏢 **The University of Chicago Medicine** | Clinical Data Analyst - Same Day Surgery/Observation Coder | Chicago, IL | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-ucm.icims.com/jobs/80172/job?mobile=true&needsRedirect=false) |
 | 🏢 **Promise** | Software Engineer – New Grad - Forward Deployed AI | Oakland, CA | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a/application) |
 | 🏢 **Promise** | Software Engineer – New Grad - Forward Deployed AI | Washington, DC | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443/application) |
