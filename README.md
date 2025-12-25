@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1536-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1534-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1489 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1487 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1489
+- **🔥 Current Positions**: 1487
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 25, 2025
@@ -685,7 +685,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1010 positions)
+### 🏢 **Other Companies** (1008 positions)
 
 #### 🏢 **Northrop Grumman** (13 positions)
 
@@ -845,12 +845,12 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Health Plan One** | Associate Risk Reporting Analyst | Florida, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://healthplanone.wd1.myworkdayjobs.com/hpone/job/FL-Remote/Associate-Risk-Reporting-Analyst_JR1407) |
-| 🏢 **ERM** | Consulting Associate - Engineering or Geology | Raleigh, NC | 9h ago | Entry-Level | Software Engineering | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Charlotte-North-Carolina/Consulting-Associate--Engineering-or-Geology_R00028751-1) |
-| 🏢 **ERM** | Consulting Associate - Engineering or Geology | Atlanta, GA | 9h ago | Entry-Level | Software Engineering | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Engineering-or-Geology_R00028752) |
+| 🏢 **ERM** | Consulting Associate - Engineering or Geology | Raleigh, NC | 10h ago | Entry-Level | Software Engineering | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Charlotte-North-Carolina/Consulting-Associate--Engineering-or-Geology_R00028751-1) |
+| 🏢 **ERM** | Consulting Associate - Engineering or Geology | Atlanta, GA | 10h ago | Entry-Level | Software Engineering | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--Engineering-or-Geology_R00028752) |
 | 🏢 **BBB** | Data Analyst - Entry Level | Omaha, NE | 10h ago | Entry-Level | Data Science & Analytics | [Apply](https://bbbne.bamboohr.com/careers/49/) |
-| 🏢 **Fidelity National Information Services** | Product Support Representative 1 | Illinois, Locations | 14h ago | Mid-Level | Software Engineering | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-IL-BOL-270-SteA/Product-Support-Representative-I_JR0303372) |
+| 🏢 **Fidelity National Information Services** | Product Support Representative 1 | Illinois, Locations | 15h ago | Mid-Level | Software Engineering | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-IL-BOL-270-SteA/Product-Support-Representative-I_JR0303372) |
 | 🏢 **Fidelity National Information Services** | Software Engineer I - C++ and Payments Systems | Philadelphia, PA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MAKA-8767-FLR42/Software-Engineer-I--C---and-Payments-Systems-_JR0300399) |
-| 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 16h ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32386) |
+| 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 17h ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32386) |
 | 🏢 **University of Chicago** | Predoctoral Scholar | Chicago, IL | 1d ago | Mid-Level | Software Engineering | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397) |
 | 🏢 **University of Chicago** | Data Analyst | Chicago, IL | 2d ago | Mid-Level | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Analyst_JR32225) |
 | 🏢 **University of Chicago** | Business Intelligence & Analytics Senior Analyst | Chicago, IL | 2w ago | Senior | Data Science & Analytics | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Business-Intelligence---Analytics--Sr-Analyst_JR32249) |
@@ -883,8 +883,6 @@
 | 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 1d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
 | 🏢 **Voyager Technologies** | AI Software Engineer - Agents - Ace | Seattle, WA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009) |
 | 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 1d ago | Mid-Level | Software Engineering | [Apply](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
-| 🏢 **Remi** | Software Engineer 1/2 - SF | SF, Locations | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/remi/b818286a-d389-42bd-a4d8-47020981ec57/application) |
-| 🏢 **Remi** | Software Engineer 1/2 | Lehi, UT | 1d ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/remi/f83d1104-3501-403f-bfb8-55ae59b6723c/application) |
 | 🏢 **Cisive** | Software Developer | New Mexico, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100173) |
 | 🏢 **Cisive** | Software Developer | Maryland, Locations | 3w ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
 | 🏢 **Walmart** | USA – Staff - Data Scientist | Bentonville, AR | 2d ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2331754) |
@@ -1201,7 +1199,7 @@
 | 🏢 **Link** | Cryptoanalyst Level 2 - CCA allowed | Odenton, MD | 2w ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/linkllc/01986263-6ad2-4a5b-aea4-e1ba8375cfa9/apply) |
 | 🏢 **Savannah River National Laboratory** | Postdoc Research Associate-Computational Scientist | North Augusta, SC | 2w ago | Entry-Level | Software Engineering | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1880) |
 | 🏢 **Savannah River National Laboratory** | Graduate Research Associate - Post Bachelors | North Augusta, SC | 3mo ago | Entry-Level | Software Engineering | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1819) |
-| 🏢 **National Renewable Energy Laboratory** | Postdoctoral Researcher | Golden, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058) |
+| 🏢 **National Renewable Energy Laboratory** | Postdoctoral Researcher | Golden, CO | 3w ago | Mid-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Postdoctoral-Researcher---Process-modeling-and-sustainability-analysis-for-plastics-upcycling---biorefining_R14058) |
 | 🏢 **CVS Health** | Associate Cloud Data Engineer | Irving, TX | 3w ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617) |
 | 🏢 **CVS Health** | Associate Software Development Engineer | Richardson, TX | 1mo ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) |
 | 🏢 **CVS Health** | Associate Software Development Engineer | Hartford, CT | 3mo ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1) |
@@ -1760,7 +1758,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 658 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 785 | 53% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 783 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 46 | 3% | 2+ years of experience |
 
 ---
@@ -1770,7 +1768,7 @@
 - **Seattle, WA**: 93 positions
 - **NYC, Locations**: 62 positions
 - **Remote in USA, Locations**: 51 positions
-- **SF, Locations**: 48 positions
+- **SF, Locations**: 47 positions
 - **Chicago, IL**: 42 positions
 - **Austin, TX**: 33 positions
 - **Dallas, TX**: 28 positions
@@ -1778,7 +1776,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (913 positions)
+#### 💻 Software Engineering (911 positions)
 🏢 Health Plan One • 🏢 ERM
 
 #### 🧠 Machine Learning & AI (228 positions)
@@ -1815,7 +1813,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1489 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1487 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1904,7 +1902,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1489 current opportunities from 261 companies**
+**🎯 1487 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
