@@ -1478,7 +1478,7 @@
 | 🏢 **EKN Engineering** | Data Analyst 1 | Irvine, CA | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/eknengineering/jobs/4623384005) |
 | 🏢 **Metron** | Associate Software Engineer | Reston, VA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/metron/jobs/4959097007) |
 | 🏢 **Aechelon Technology** | Geotypical Production Analyst 1 | San Bruno, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/aechelontechnology/jobs/4606307008) |
-| 🏢 **Welocalize** | Scout Search Quality Rater - English - United States | Remote in USA, Locations | 1mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/welocalize/90c51db9-ff3f-43c7-8ead-d607582b230f/apply) |
+| 🏢 **Welocalize** | Scout Search Quality Rater - English - United States | Remote in USA, Locations | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/welocalize/90c51db9-ff3f-43c7-8ead-d607582b230f/apply) |
 | 🏢 **Welocalize** | Remote Internet Search Quality Rater - English - United States | Remote in USA, Locations | 6mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/welocalize/33babd56-f6d6-4779-8146-498c9a9e42bd/apply) |
 | 🏢 **Welocalize** | Scout Search Quality Rater - Spanish - USA | Remote in USA, Locations | 6mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/welocalize/8c5d74a0-775b-420a-bf87-5bc20ba5a48e/apply) |
 | 🏢 **Universal ** | B-Crew Dockman - 7 | Louisville, KY | 2mo ago | Mid-Level | Software Engineering | [Apply](https://hrone.wd1.myworkdayjobs.com/en-US/Universal_Logistics_Holdings/job/WESTPORT-LOUISVILLE-KY/B-Crew-Dockman--7_JR115349-1) |
