@@ -1172,7 +1172,7 @@
 | 🏢 **MatX** | Software Engineer - Simulators | Mountain View, CA | 2w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/matx/jobs/4102858008) |
 | 🏢 **MatX** | Software Engineer - Kernels | Mountain View, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/matx/jobs/4003259008) |
 | 🏢 **ONYX Insight** | Condition Monitoring Engineer | Broomfield, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://onyx-insight.breezy.hr/p/c5b7ac562f7301/apply) |
-| 🏢 **Datadog** | Enablement Operations Data Analyst - NYC | NYC, Locations | 2w ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.datadoghq.com/detail/7378476/?gh_jid=7378476) |
+| 🏢 **Datadog** | Enablement Operations Data Analyst - NYC | NYC, Locations | 3w ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.datadoghq.com/detail/7378476/?gh_jid=7378476) |
 | 🏢 **Datadog** | Data Analyst - GTM Strategy & Operations | NYC, Locations | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://careers.datadoghq.com/detail/7374529/?gh_jid=7374529) |
 | 🏢 **Micron Technology** | New College Grad - Yield Analysis Engineer | Boise, ID | 3w ago | Entry-Level | Software Engineering | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Yield-Analysis-Engineer_JR86340) |
 | 🏢 **Uline** | Associate Software Developer | Waukegan, IL | 3w ago | Entry-Level | Software Engineering | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R259664) |
