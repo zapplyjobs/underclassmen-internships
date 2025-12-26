@@ -197,8 +197,8 @@
 | Research Engineer Graduate - Seed-Infra-Platform-US - 2026 Start","PhD | Seattle, WA | 3mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://jobs.bytedance.com/en/position/7538549089337968914/detail) |
 | Graduate Research Engineer | Seattle, WA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7248031289315248421/detail) |
 | Research Engineer Graduate - Seed-Infra-Inference-US - PhD | Seattle, WA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7538545250118977799/detail) |
-| Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) | San Jose, CA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://joinbytedance.com/search/7542657938525538578) |
-| Software Engineer Graduate (AI Applications) | San Jose, CA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://joinbytedance.com/search/7540808448918079752) |
+| Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://joinbytedance.com/search/7542657938525538578) |
+| Software Engineer Graduate (AI Applications) | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://joinbytedance.com/search/7540808448918079752) |
 | Machine Learning Graduate - 2026 Start | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7542657938525538578/detail) |
 | Software Engineer Graduate - AI Applications | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7540808448918079752/detail) |
 | Machine Learning Graduate | Seattle, WA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.bytedance.com/en/position/7536331300845701383/detail) |
@@ -253,7 +253,7 @@
 | 📦 **Amazon** | Applied Scientist 1 - Amazon | Palo Alto, CA | 6d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en/jobs/3130180/applied-scientist-i-amazon) |
 | 📦 **Amazon** | Agentic AI Teacher - AGI Data Services | Boston, MA | 1w ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3110653/agentic-ai-teacher-agi-data-services) |
 | 📦 **Amazon** | Agentic AI Teacher - Agi Ds | Boston, MA | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3132823/agentic-ai-teacher-agi-ds) |
-| 📦 **Amazon** | System Dev Engineer I, Analytics ADC | Denver, CO | 3mo ago | Mid-Level | Data Science & Analytics | [Apply](https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc) |
+| 📦 **Amazon** | System Dev Engineer I, Analytics ADC | Denver, CO | 4mo ago | Mid-Level | Data Science & Analytics | [Apply](https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc) |
 | 📦 **Amazon** | Systems Development Engineer I, Ops Tech Solution (OTS) | Austin, TX | 4mo ago | Mid-Level | Software Engineering | [Apply](https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots) |
 | 🔵 **Meta** | Product Security Engineer (University Grad) | Bellevue, WA | 4mo ago | Entry-Level | Security Engineering | [Apply](https://www.metacareers.com/jobs/609052015548260) |
 | 🔵 **Meta** | Software Engineer - Product | NYC, Locations | 6mo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/9818241978303850) |
@@ -294,8 +294,8 @@
 | Research Scientist – PhD New College Grad - Generative AI for Physical AI | Santa Clara, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2025_JR2005875) |
 | Compiler Optimization Engineer – New College Grad - LLVM and Mlir | Redmond, WA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Optimization-Engineer--LLVM-and-MLIR---New-College-Grad-2025_JR2006770) |
 | Developer Technology Engineer, AI | Santa Clara, CA | 3mo ago | Mid-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035) |
-| GPU Architecture Engineer | Santa Clara, CA | 3mo ago | Senior | Software Engineering | [Apply](http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495) |
-| OEM Account Applications Engineer | Santa Clara, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780) |
+| GPU Architecture Engineer | Santa Clara, CA | 4mo ago | Senior | Software Engineering | [Apply](http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495) |
+| OEM Account Applications Engineer | Santa Clara, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780) |
 | Software Engineer, TensorRT Specialized Platforms | Santa Clara, CA | 4mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870) |
 | AI System Engineer | Santa Clara, CA | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318) |
 | Deep Learning Software Engineer, FlashInfer | Santa Clara, CA | 4mo ago | Mid-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086) |
@@ -335,8 +335,8 @@
 | 📱 **Qualcomm** | GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering | San Diego, CA | 1w ago | Mid-Level | Software Engineering | [Apply](https://qualcomm.eightfold.ai/careers/job/446715939731) |
 | 📱 **Qualcomm** | Product Software Engineer | San Diego, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://qualcomm.eightfold.ai/careers/job/446715361809) |
 | 📊 **Databricks** | Software Engineer | Bellevue, Washington | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002) |
-| ⚡ **Tesla** | Software Integration Engineer, Factory Firmware | Fremont, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467) |
-| ⚡ **Tesla** | Kernel Software Engineer | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.tesla.com/careers/search/job/248966) |
+| ⚡ **Tesla** | Software Integration Engineer, Factory Firmware | Fremont, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467) |
+| ⚡ **Tesla** | Kernel Software Engineer | Palo Alto, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://www.tesla.com/careers/search/job/248966) |
 | ⚡ **Tesla** | Software Engineer, Communications Platform | Fremont, CA | 4mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://www.tesla.com/careers/search/job/247062) |
 | 🏢 **Cadence Design Systems** | Software Engineer 1 | San Jose, CA | 1w ago | Mid-Level | Design | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-I_R52446-1) |
 | 🏢 **Cadence Design Systems** | Application Engineer | San Jose, CA | 2w ago | Mid-Level | Design | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R52105) |
@@ -469,7 +469,7 @@
 | Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search | Seattle, WA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7550790814831511815) |
 | Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search | Seattle, WA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7550436166929025298) |
 | Data Science Graduate - Advertisement Team - PhD | San Jose, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7543114224130689287) |
-| AI/ML Software Engineer Graduate (Data Platform TikTok BP) | San Jose, CA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7541178634444589319) |
+| AI/ML Software Engineer Graduate (Data Platform TikTok BP) | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7541178634444589319) |
 | Research Scientist Graduate - TikTok Recommendation-Agentic AI - 2026 Start | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7523144222812408071) |
 | Data Scientist Graduate - Tiktok UG-Mid Platform - 2026 Start (to be filtered) | San Jose, CA | 4mo ago | Entry-Level | Data Science & Analytics | [Apply](https://lifeattiktok.com/search/7542359937256982791) |
 | Machine Learning Engineer Graduate - Tiktok Recommendation-Live - 2026 Start | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7542584919815325960) |
@@ -840,8 +840,8 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Children's Hospital of Philadelphia** | Research IS Business Systems Analyst | Remote in USA, Locations | 3h ago | Mid-Level | Software Engineering | [Apply](https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1) |
-| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 3h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
-| 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 4h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
+| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 4h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
+| 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 5h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 1w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
