@@ -410,7 +410,7 @@
 |------|----------|--------|-------|----------|-------|
 | Graduate Engineer - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US | Seattle, WA | 4w ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7533377193083177234) |
 | Research Engineer Graduate - Ads ML Infrastructure - PhD | San Jose, CA | 4w ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7559990747538671879) |
-| （General Hire）Machine Learning Engineer Graduate - E-Commerce - 2026 Start','Phd | San Jose, CA | 4w ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7516666201355962632) |
+| （General Hire）Machine Learning Engineer Graduate - E-Commerce - 2026 Start','Phd | San Jose, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7516666201355962632) |
 | Software Engineer Graduate - Fullstack - Trust and Safety | San Jose, CA | 1mo ago | Entry-Level | Full Stack Development | [Apply](https://lifeattiktok.com/search/7571921718702524725) |
 | Software Engineer Graduate (Data Arch - Data Ecosystem) | San Jose, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535220808265681159) |
 | Software Engineer Graduate (Data Platfrom TikTok BP) | San Jose, CA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7535528357414570248) |
@@ -592,7 +592,7 @@
 | Software Engineer | McGregor, TX | 2w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8324788002) |
 | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 1mo ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
 | Full Stack Software Engineer - Security - Starlink | Sunnyvale, CA | 1mo ago | Mid-Level | Security Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8246482002) |
-| Software Engineer - Starship Quality | Brownsville, TX | 1mo ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8220138002) |
+| Software Engineer - Starship Quality | Brownsville, TX | 2mo ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8220138002) |
 | Application Software Engineer | West Athens, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8211826002) |
 | Software Engineer - Hardware Test & Automation - Optical Payloads | Redmond, WA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8211187002) |
 | Software Engineer - Starshield | West Athens, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8184586002) |
