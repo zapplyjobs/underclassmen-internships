@@ -320,7 +320,7 @@
 | Senior Data Scientist | United States, Locations | 1mo ago | Senior | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/313247) |
 | Advanced Degree Software Engineer - Fusion | San Carlos, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311889) |
 | Software Developer 1 | Seattle, WA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309552) |
-| Software Engineer - Database Technologies | San Carlos, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312181) |
+| Software Engineer - Database Technologies | San Carlos, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312181) |
 | Advanced Degree Software Engineer - Oracle Health and Analytics | Seattle, WA | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311345) |
 | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Santa Clara, CA | 2mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/312200) |
 | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Seattle, WA | 3mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/305990) |
@@ -1561,7 +1561,7 @@
 | 🏢 **Bernhard** | Utility Analyst 1 | Baton Rouge, LA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false) |
 | 🏢 **NBCUniversal** | Associate Data Engineer | Hammersmith, London | 2mo ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859) |
 | 🏢 **Chatham Financial** | Full Stack Engineer | West Chester, PA | 2mo ago | Mid-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/chathamfinancial/jobs/7271894) |
-| 🏢 **Lucid Motors** | Manufacturing Technician | Casa Grande, AZ | 2mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/4869582007) |
+| 🏢 **Lucid Motors** | Manufacturing Technician | Casa Grande, AZ | 3mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/4869582007) |
 | 🏢 **Southwest Airlines** | Associate Data Engineer | Dallas, TX | 3mo ago | Entry-Level | Data Science & Analytics | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816) |
 | 🏢 **Southwest Airlines** | Associate Data Engineer | Dallas, TX | 3mo ago | Entry-Level | Data Science & Analytics | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59813) |
 | 🏢 **Southwest Airlines** | Associate Software Engineer | Dallas, TX | 3mo ago | Entry-Level | Software Engineering | [Apply](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59810) |
