@@ -840,8 +840,8 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Children's Hospital of Philadelphia** | Research IS Business Systems Analyst | Remote in USA, Locations | 4h ago | Mid-Level | Software Engineering | [Apply](https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1) |
-| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 4h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
-| 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 5h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
+| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 5h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
+| 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 6h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 1w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
