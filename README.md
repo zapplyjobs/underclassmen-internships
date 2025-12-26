@@ -839,7 +839,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Children's Hospital of Philadelphia** | Research IS Business Systems Analyst | Remote in USA, Locations | 0h ago | Mid-Level | Software Engineering | [Apply](https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1) |
+| 🏢 **Children's Hospital of Philadelphia** | Research IS Business Systems Analyst | Remote in USA, Locations | 1h ago | Mid-Level | Software Engineering | [Apply](https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1) |
 | 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 1h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
 | 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 2h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 1w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
