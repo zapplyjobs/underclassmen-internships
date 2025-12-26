@@ -589,7 +589,7 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Mission Integration Engineer - Applied Computing - Starshield | West Athens, CA | 2w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8320099002) |
-| Software Engineer | McGregor, TX | 2w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8324788002) |
+| Software Engineer | McGregor, TX | 3w ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8324788002) |
 | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 1mo ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8288010002) |
 | Full Stack Software Engineer - Security - Starlink | Sunnyvale, CA | 1mo ago | Mid-Level | Security Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8246482002) |
 | Software Engineer - Starship Quality | Brownsville, TX | 2mo ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8220138002) |
@@ -877,7 +877,7 @@
 | 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 2d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
 | 🏢 **Voyager Technologies** | AI Software Engineer - Agents - Ace | Seattle, WA | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009) |
 | 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 2d ago | Mid-Level | Software Engineering | [Apply](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
-| 🏢 **Cisive** | Software Developer | New Mexico, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100173) |
+| 🏢 **Cisive** | Software Developer | New Mexico, Locations | 3d ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100173) |
 | 🏢 **Cisive** | Software Developer | Maryland, Locations | 4w ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
 | 🏢 **Walmart** | USA – Staff - Data Scientist | Bentonville, AR | 3d ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2331754) |
 | 🏢 **Walmart** | Senior Data Scientist | Bentonville, AR | 1w ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2343767) |
@@ -928,7 +928,7 @@
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 3 | Denver, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033) |
 | 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1mo ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
 | 🏢 **Astreya** | Data Center Network Modeling Technician 4 | Boulder, CO | 1mo ago | Mid-Level | Software Engineering | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744) |
-| 🏢 **Intuit** | Software Engineer 1 | San Diego, CA | 5d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080) |
+| 🏢 **Intuit** | Software Engineer 1 | San Diego, CA | 6d ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/89710140080) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512) |
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 1w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89660152448) |
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 1w ago | Mid-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160) |
@@ -981,7 +981,7 @@
 | 🏢 **Dematic** | Warehouse Automation Software Engineer | Grand Rapids, MI | 1w ago | Mid-Level | Software Engineering | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 1w ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/3255-Patrick-F-Taylor-Hall/Postdoctoral-Researcher_R00111813) |
 | 🏢 **Louisiana State University (LSU)** | Data Quality Analyst 1 | Baton Rouge, LA | 1w ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/0100-Campus-Federal-Credit-Union/Data-Quality-Analyst-1_R00111644-1) |
-| 🏢 **Louisiana State University (LSU)** | Data Collections Specialist | Alexandria, LA | 2w ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Alexandria/Data-Collections-Specialist_R00111435-1) |
+| 🏢 **Louisiana State University (LSU)** | Data Collections Specialist | Alexandria, LA | 3w ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Alexandria/Data-Collections-Specialist_R00111435-1) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/2056-Digital-Media-Center/Postdoctoral-Researcher_R00111205) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/3051-Digital-Media-Center/Postdoctoral-Researcher_R00111216) |
 | 🏢 **Louisiana State University (LSU)** | Postdoctoral Researcher | Baton Rouge, LA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/0303-SL-Lockett-Hall/Postdoctoral-Researcher_R00111109) |
@@ -1084,7 +1084,7 @@
 | 🏢 **State Street** | Software Engineer 1 - Web Frameworks - Officer | Burlington, MA | 1w ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1) |
 | 🏢 **State Street** | Software Engineer I | Burlington, MA | 5mo ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1) |
 | 🏢 **Sensor Tower** | Product Analyst - Digital Advertising | Boston, MA | 1w ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/sensortower/99b82663-dc18-45b0-bb85-e59d3addbd5d/apply) |
-| 🏢 **RELX** | Data Analyst | Philadelphia, PA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711) |
+| 🏢 **RELX** | Data Analyst | Philadelphia, PA | 2w ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst_R105711) |
 | 🏢 **RELX** | Data Scientist I - (DSAP) | Alpharetta, GA | 3mo ago | Mid-Level | Data Science & Analytics | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I_R101296-1) |
 | 🏢 **Applied Materials** | Data Science Engineer - New College Grad-Master's/PhD | Santa Clara, CA | 2w ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science-Engineer--New-College-Grad--Master-s-PhD--Santa-Clara--CA-_R2519402) |
 | 🏢 **Applied Materials** | Automation Software Engineer | Austin, TX | 2w ago | Mid-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059) |
@@ -1179,7 +1179,7 @@
 | 🏢 **Uline** | Associate Software Developer | Waukegan, IL | 2w ago | Entry-Level | Software Engineering | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R259664) |
 | 🏢 **Uline** | IT Data Analyst - Power BI | Waukegan, IL | 2w ago | Mid-Level | Data Science & Analytics | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/IT-Data-Analyst---Power-BI_R259661-2) |
 | 🏢 **CAI** | Systems Analyst | Orlando, FL | 2w ago | Mid-Level | Machine Learning & AI | [Apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Systems-Analyst_R6732) |
-| 🏢 **Parsons** | Analytics/Dashboarding Analyst - Ada | McLean, VA | 2w ago | Mid-Level | Data Science & Analytics | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Mclean/Analytics-Dashboarding-Analyst--ADA-_R175222-1) |
+| 🏢 **Parsons** | Analytics/Dashboarding Analyst - Ada | McLean, VA | 3w ago | Mid-Level | Data Science & Analytics | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Mclean/Analytics-Dashboarding-Analyst--ADA-_R175222-1) |
 | 🏢 **Lever** | Data Analyst | San Diego, CA | 3w ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/leverdemo-8/62a71e00-69ef-4145-bae4-3e8b02778a69/apply) |
 | 🏢 **Trane Technologies** | Custom Application Engineer | Fort Smith, AR | 3w ago | Mid-Level | Software Engineering | [Apply](https://careers.tranetechnologies.com/global/en/job/2506845) |
 | 🏢 **Link** | Data Science Level 2 - Advanced AI - NLP | Odenton, MD | 3w ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/linkllc/fa8fbdb5-ac85-4e50-a8a9-9857a5942cc3/apply) |
