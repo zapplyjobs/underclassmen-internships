@@ -737,7 +737,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Space Payload 1&T – Engineer/Principal Engineer | Halethorpe, MD | 3d ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10217787) |
+| Space Payload 1&T – Engineer/Principal Engineer | Halethorpe, MD | 4d ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10217787) |
 | Data Insight Analyst - Principal Data Insight Analyst | Edwards AFB, CA | 1w ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Data-Insight-Analyst-or-Principal-Data-Insight-Analyst_R10213256) |
 | Software Engineer - Ent | Colorado Springs, CO | 2w ago | Mid-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983) |
 | Principal Mission Assurance Engineer | Hill AFB, UT | 2w ago | Senior | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Engineer-Principal-Engineer-Mission-Assurance---16584_R10216305) |
@@ -840,8 +840,8 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Children's Hospital of Philadelphia** | Research IS Business Systems Analyst | Remote in USA, Locations | 2h ago | Mid-Level | Software Engineering | [Apply](https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1) |
-| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 2h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
-| 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 3h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
+| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 3h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
+| 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 4h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 1w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Bremerton, WA | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false) |
@@ -911,7 +911,7 @@
 | 🏢 **L3Harris Technologies** | Associate Image Processing Engineer | Tulsa, OK | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.l3harris.com/job/Tulsa-Associate,-Image-Processing-Engineer-(Tulsa,-OK)-OK-74115/1320131300/?ats=successfactors) |
 | 🏢 **The Walt Disney Company** | Associate Data Scientist | NYC, Locations | 3d ago | Entry-Level | Data Science & Analytics | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Associate-Data-Scientist_10138200) |
 | 🏢 **Perficient** | Appian Associate Technical Consultant | Dallas, TX | 3d ago | Entry-Level | Software Engineering | [Apply](https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003734) |
-| 🏢 **BlackRock** | Associate – Application Engineer | NYC, Locations | 3d ago | Entry-Level | Software Engineering | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1) |
+| 🏢 **BlackRock** | Associate – Application Engineer | NYC, Locations | 4d ago | Entry-Level | Software Engineering | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1) |
 | 🏢 **BlackRock** | AI/ML Engineer - Analyst - AI Labs | Atlanta, GA | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/AI-ML-Engineer--Analyst---AI-Labs_R257970) |
 | 🏢 **ASSA ABLOY** | Product Engineer | Mason City, IA | 4d ago | Mid-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-IA-50401/1278600401/?ats=successfactors) |
 | 🏢 **ASSA ABLOY** | Order Processing Technician 1 | Mason City, IA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://assaabloy.jobs2web.com/job/Mason-City-Order-Processing-Technician-I-IA-50401/1260586501/?ats=successfactors) |
@@ -947,7 +947,7 @@
 | 🏢 **CTB** | Sales and Product Development Engineer | Elkhart, IN | 6d ago | Mid-Level | Software Engineering | [Apply](https://emsl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2021718) |
 | 🏢 **Prairie View A&M University** | Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence | Prairie View, TX | 6d ago | Mid-Level | Machine Learning & AI | [Apply](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--2_R-089885-1) |
 | 🏢 **Prairie View A&M University** | Postdoctoral Researcher | Prairie View, TX | 2mo ago | Mid-Level | Software Engineering | [Apply](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402) |
-| 🏢 **MedImpact** | Software Engineer 1 | San Diego, CA | 6d ago | Mid-Level | Software Engineering | [Apply](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Remote/Software-Engineer-II_JR102189) |
+| 🏢 **MedImpact** | Software Engineer 1 | San Diego, CA | 1w ago | Mid-Level | Software Engineering | [Apply](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Remote/Software-Engineer-II_JR102189) |
 | 🏢 **PitchBook** | Associate Machine Learning Engineer | NYC, Locations | 1w ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4625767006) |
 | 🏢 **PitchBook** | Associate Machine Learning Engineer | Seattle, WA | 1w ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4625765006) |
 | 🏢 **WME Group** | Analyst – Analytics | Culver City, CA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://wmeimg.wd1.myworkdayjobs.com/endeavor/job/CA-Beverly-Hills---9601-Wilshire/Analyst--Analytics_JR27759-1) |
