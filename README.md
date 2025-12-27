@@ -200,5 +200,14 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
 | [CodePath](https://www.codepath.org/plan-your-codepath)         | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.                                         |
 | [Forage](https://www.theforage.com/)                            | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc.                                                                                     |
-
 <br/>
+
+## Contributors
+
+![uci-contributor](images/uci-contributor.png)
+
+Thanks to all our contributors! **The real MVPs. 🏆**
+
+<a href="https://github.com/zapplyjobs/underclassmen-internships/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=zapplyjobs/underclassmen-internships" />
+</a>
