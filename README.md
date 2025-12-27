@@ -319,7 +319,7 @@
 | Undergraduate Software Engineer - Oracle Cloud Infrastructure - OCI | Santa Clara, CA | 1mo ago | Entry-Level | DevOps & Infrastructure | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312200) |
 | Senior Data Scientist | United States, Locations | 1mo ago | Senior | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/313247) |
 | Advanced Degree Software Engineer - Fusion | San Carlos, CA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311889) |
-| Software Developer 1 | Seattle, WA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309552) |
+| Software Developer 1 | Seattle, WA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309552) |
 | Software Engineer - Database Technologies | San Carlos, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312181) |
 | Advanced Degree Software Engineer - Oracle Health and Analytics | Seattle, WA | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311345) |
 | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Santa Clara, CA | 2mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/312200) |
@@ -468,7 +468,7 @@
 | Backend Software Engineer - Supply Chain and Logistics - Usds | San Jose, CA | 3mo ago | Mid-Level | Backend Development | [Apply](https://lifeattiktok.com/search/7335549463710239003) |
 | Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search | Seattle, WA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7550790814831511815) |
 | Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search | Seattle, WA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7550436166929025298) |
-| Data Science Graduate - Advertisement Team - PhD | San Jose, CA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7543114224130689287) |
+| Data Science Graduate - Advertisement Team - PhD | San Jose, CA | 4mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7543114224130689287) |
 | AI/ML Software Engineer Graduate (Data Platform TikTok BP) | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7541178634444589319) |
 | Research Scientist Graduate - TikTok Recommendation-Agentic AI - 2026 Start | San Jose, CA | 4mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7523144222812408071) |
 | Data Scientist Graduate - Tiktok UG-Mid Platform - 2026 Start (to be filtered) | San Jose, CA | 4mo ago | Entry-Level | Data Science & Analytics | [Apply](https://lifeattiktok.com/search/7542359937256982791) |
@@ -840,13 +840,13 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application) |
+| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91) |
 | 🏢 **Jerry** | Software Engineer I | Palo Alto, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7) |
 | 🏢 **Jerry** | Software Engineer I | San Francisco, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5) |
-| 🏢 **Internet Brands** | Associate AI Research & Operations Analyst | El Segundo, CA | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oDnbzfwu?nl=1&nl=1&fr=false) |
+| 🏢 **Internet Brands** | Associate AI Research & Operations Analyst | El Segundo, CA | 1h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oDnbzfwu?nl=1&nl=1&fr=false) |
 | 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oZ3Oyfw8?nl=1&nl=1&fr=false) |
 | 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oX3Oyfw6?nl=1&nl=1&fr=false) |
 | 🏢 **Internet Brands** | Associate AI Software Engineer Job ID 2025 | El Segundo, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o63Oyfwf?nl=1&nl=1&fr=false) |
@@ -883,8 +883,8 @@
 | 🏢 **Accenture** | ATC Salesforce Analyst - Nashville | Nashville, TN | 3w ago | Mid-Level | Software Engineering | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075) |
 | 🏢 **Accenture** | Data and AI Analyst | Huntsville, AL | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4617714006) |
 | 🟢 **Waymo** | Applied Research Scientist - Perception | SF, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7467839) |
-| 🏢 **Huron** | Data Scientist - Associate | Chicago, IL | 2d ago | Entry-Level | Data Science & Analytics | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624) |
-| 🏢 **Cox** | Software Engineer 1 | NYC, Locations | 2d ago | Mid-Level | Software Engineering | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202570999-1) |
+| 🏢 **Huron** | Data Scientist - Associate | Chicago, IL | 3d ago | Entry-Level | Data Science & Analytics | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624) |
+| 🏢 **Cox** | Software Engineer 1 | NYC, Locations | 3d ago | Mid-Level | Software Engineering | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202570999-1) |
 | 🏢 **Analog Devices** | Associate Machine Learning Operations Engineer - MLOps - Engineer | Burlington, MA | 3d ago | Entry-Level | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Machine-Learning-Operations--MLOps--Engineer_R258871) |
 | 🏢 **Analog Devices** | Product Applications Engineer | San Jose, CA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Application-Engineering_R255206-1) |
 | 🏢 **Analog Devices** | Electronic Design Automation Research and Development Engineer with Emphasis on Simulation - Modeling - Software Development | Burlington, MA | 4mo ago | Mid-Level | Design | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/EDA-R-D-Engineer-with-Emphasis-on-Simulation--Modeling--and-Software-Development_R254720) |
@@ -1083,7 +1083,7 @@
 | 🏢 **General Dynamics Information Technology** | Software Developer Associate - TS/SCI w/Poly | Annapolis Junction, MD | 2mo ago | Entry-Level | Software Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001) |
 | 🏢 **Inductive Automation** | Software Quality Assurance Engineer I | Folsom, CA | 1w ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0) |
 | 🏢 **GoodShip** | Platform Data Analyst | Remote in USA, Locations | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application) |
-| 🏢 **Motorola** | Applications Programmer | Chicago, IL | 1w ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
+| 🏢 **Motorola** | Applications Programmer | Chicago, IL | 2w ago | Mid-Level | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
 | 🏢 **Protiviti** | Americas Delivery Center Technology Experienced Analyst | Cincinnati, OH | 2w ago | Mid-Level | Software Engineering | [Apply](https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1) |
 | 🏢 **Tinder** | Data Scientist 2 - Growth | Palo Alto, CA | 2w ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) |
 | 🏢 **State Street** | Software Engineer 1 - Web Frameworks - Officer | Burlington, MA | 2w ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1) |
