@@ -602,7 +602,7 @@
 | New Graduate Engineer, Software (Starlink) | Redmond, WA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002) |
 | Software Engineer | Hawthorne, CA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002) |
 | New Graduate Engineer - Software - Starlink | Redmond, WA | 3mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8121675002) |
-| Full Stack Software Engineer - Starlink | West Athens, CA | 4mo ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8098597002) |
+| Full Stack Software Engineer - Starlink | West Athens, CA | 5mo ago | Mid-Level | Full Stack Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8098597002) |
 
 #### 👁️ **Palantir** (11 positions)
 
