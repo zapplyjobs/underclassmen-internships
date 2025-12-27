@@ -40,8 +40,8 @@
 - [Internships](#internships)
 - [Fellowships](#fellowships)
 - [Internship-matching Fellowships](#internship-matching-fellowships)
-- [Externships/Insight Series](#externshipsinsight-series)
-- [Winternship](#winternship)
+- [Externships/Insight Series](#externships--insight-series)
+- [Winternship](#winternships)
 - [Special Programs \& Resources](#special-programs--resources)
 
 <br/>
