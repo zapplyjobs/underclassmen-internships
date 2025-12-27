@@ -463,7 +463,7 @@
 | Data Scientist Graduate - Tiktok Shop Business Product DS - 2026 Start | Seattle, WA | 2mo ago | Entry-Level | Data Science & Analytics | [Apply](https://lifeattiktok.com/search/7535165875168184583) |
 | Data Scientist Graduate - Tiktok Shop Business Product DS - 2026 Start | Seattle, WA | 2mo ago | Entry-Level | Data Science & Analytics | [Apply](https://lifeattiktok.com/search/7535161796786751751) |
 | General Hire – Research Scientist Graduate | San Jose, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://lifeattiktok.com/search/7516697804673190151) |
-| General Hire – Machine Learning Engineer Graduate - TikTok Recommendation | San Jose, CA | 2mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7518139910798215442) |
+| General Hire – Machine Learning Engineer Graduate - TikTok Recommendation | San Jose, CA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7518139910798215442) |
 | Machine Learning Engineer Graduate - Brand Ads | San Jose, CA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7535396503751772423) |
 | Backend Software Engineer - Supply Chain and Logistics - Usds | San Jose, CA | 3mo ago | Mid-Level | Backend Development | [Apply](https://lifeattiktok.com/search/7335549463710239003) |
 | Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search | Seattle, WA | 3mo ago | Entry-Level | Machine Learning & AI | [Apply](https://lifeattiktok.com/search/7550790814831511815) |
@@ -838,7 +838,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Certik** | Business Data Analyst | NYC, Locations | 2h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply) |
+| 🏢 **Certik** | Business Data Analyst | NYC, Locations | 3h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply) |
 | 🏢 **Axle** | Computer Systems Analyst | Baltimore, MD | 4h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/axle/jobs/4918044007) |
 | 🏢 **Axle** | Software Engineer | North Bethesda, MD | 1w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/axle/jobs/5006708007) |
 | 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 6h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application) |
