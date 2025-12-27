@@ -1,3 +1,5 @@
+![uci-heading](images/uci-heading.png)
+
 <h1 align="center">
 💥💥 Underclassmen Internships 💥💥
 </h1>
@@ -54,8 +56,17 @@
 
 ## **Join Our Community**
 
-Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+![uci-community](images/uci-community.png)
 
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" width="200"></a>
+</p>
+
+<p > 
+  Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+</p>
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
