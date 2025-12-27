@@ -30,8 +30,6 @@
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
 [![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
 
-<br/>
-
 ## Contents
 
 - [Contents](#contents)
@@ -42,8 +40,6 @@
 - [Externships/Insight Series](#externships--insight-series)
 - [Winternship](#winternships)
 - [Special Programs \& Resources](#special-programs--resources)
-
-<br/>
 
 ## Useful Lists
 
@@ -96,8 +92,6 @@
 | [Palantir Path](https://www.palantir.com/careers/students/path/)                                                                                                          | ?                  | Sophomore           |                                                                                                                              |
 | [BoA Sophomore Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-2749362/xf-76b73a3ee885/candidate/so/pm/1/pl/1/opp/10195)                   | ?                  | Sophomore           | Closed for 2024                                                                                                              |
 
-<br/>
-
 ## Fellowships
 
 ![uci-section-fellowships](images/uci-section-fellowships.png)
@@ -127,8 +121,6 @@ Fellowships can be internships, but also mentorship, training, or open source co
 | [Bellingcat Tech Fellow](https://www.bellingcat.com/become-a-bellingcat-tech-fellow-2/)                                                                     | ?                  | All student         | 2-6 month self-paced program to work on open source research tools. Stipend available                                                            |
 | [Keploy DevRel Cohort](https://devrel.keploy.io/)                                                                                                           | ?                  | All student         | Get into the world of DevRels and experience of being one for a month                                                                            |
 
-<br/>
-
 ## Internship-Matching Fellowships
 
 ![uci-section-imf](images/uci-section-imf.png)
@@ -147,8 +139,6 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 | [YES Internships](https://www.internships.yesatyale.org/students)                                              | ?                | All student |                                                                                                                                                                                             |
 | [Code2040 Fellows](https://www.code2040.org/fellows-program)                                                   | ?                | All student |                                                                                                                                                                                             |
 | [Hack Diversity](https://www.hackdiversity.com/)                                                               | ?                | All Student | Match [NYC](https://www.hackdiversity.com/how-to-apply-nyc) and [Boston](https://www.hackdiversity.com/how-to-apply-boston) students to internships. Provides year-round technical training |
-
-<br/>
 
 ## Externships / Insight Series
 
@@ -173,8 +163,6 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 | [Impact Labs Summit](https://www.impactlabs.io/summit)                                                                                                                                     | ?                | All student         | Professional networking event for students & professionals in NYC                                                                                                 |
 | [Paragon One Career Bootcamp]([https://www.paragonone.com/externships/career-bootcamp])                                                                                                    | ?                | All Students        |
 
-<br/>
-
 ## Winternships
 
 ![uci-section-winterships](images/uci-section-winterships.png)
@@ -189,8 +177,6 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | [Trail of Bits](https://boards.greenhouse.io/trailofbits/jobs/4271033006)                                         | ?                | All student         | 3-6 week self-paced cybersecurity internship. Stipend available           |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship)                                                    | ?                | All student         | 2-week program in NYC during winter break. Financial assistance available |
 
-<br/>
-
 ## Special Programs & Resources
 
 ![uci-section-spr](images/uci-section-spr.png)
@@ -200,7 +186,6 @@ These are 1-4 week program during December/January. Activites includes hackathon
 | [Greylock Tech Fair](https://greylock.com/university-programs/) | All student | Virtual career fair. Express interest for next year's (2024) [here](https://docs.google.com/forms/d/e/1FAIpQLSfCrRlWxEVcoZVDIwvk8_gxZlecQQJSGcTxwWGkgN4dJBam6Q/viewform) |
 | [CodePath](https://www.codepath.org/plan-your-codepath)         | All student | Free online courses in web dev, mobile, cyber, etc. Also provide resume help, mentorship, interview prep, recruiting event, etc.                                         |
 | [Forage](https://www.theforage.com/)                            | All student | 5-6 hour virtual work experience programs. Featuring JPMC, Lyft, Visa, EA, SAP, etc.                                                                                     |
-<br/>
 
 ## Contributors
 
