@@ -637,7 +637,7 @@
 | 🏢 **Leidos** | Entry Level Graphics Software Developer | Bethesda, MD | 3w ago | Entry-Level | Software Engineering | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 | 🏢 **Leidos** | GenAI Contact Center as a Service Application Developer | Remote in USA, Locations | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GENAI-CCAS-Application-Developer_R-00170128) |
 | 🏢 **Peraton** | Data Scientist | Reston, VA | 3d ago | Mid-Level | Data Science & Analytics | [Apply](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
-| 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Junction, MD | 4d ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
+| 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Junction, MD | 5d ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 3w ago | Mid-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Senior Associate Systems Engineer | Odenton, MD | 1mo ago | Senior | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/160820/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Software Engineering, Associate | Santa Clara, CA | 2mo ago | Entry-Level | Software Engineering | [Apply](https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job) |
@@ -841,7 +841,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Fanatics** | Software Engineer 1 - Backend | Remote in USA, Locations | 4h ago | Mid-Level | Backend Development | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910) |
 | 🏢 **Fanatics** | Software Engineer I | Remote in USA, Locations | 2mo ago | Mid-Level | Software Engineering | [Apply](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25033) |
-| 🏢 **Certik** | Business Data Analyst | NYC, Locations | 8h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply) |
+| 🏢 **Certik** | Business Data Analyst | NYC, Locations | 9h ago | Mid-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply) |
 | 🏢 **Axle** | Computer Systems Analyst | Baltimore, MD | 10h ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/axle/jobs/4918044007) |
 | 🏢 **Axle** | Software Engineer | North Bethesda, MD | 1w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/axle/jobs/5006708007) |
 | 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application) |
@@ -933,9 +933,9 @@
 | 🏢 **First Financial Bank** | AI Developer I- Call Center | Abilene, TX | 4d ago | Mid-Level | Machine Learning & AI | [Apply](https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406) |
 | 🏢 **Warner Bros.** | Associate Software Engineer (Temporary) | Chicago, IL | 4d ago | Entry-Level | Software Engineering | [Apply](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) |
 | 🏢 **Warner Bros.** | Associate Software Engineer | Burbank, CA | 1w ago | Entry-Level | Software Engineering | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Associate-Software-Engineer_R000101226) |
-| 🏢 **Astranis** | Software Developer, Network Software Associate | San Francisco, CA | 4d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
+| 🏢 **Astranis** | Software Developer, Network Software Associate | San Francisco, CA | 5d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
 | 🏢 **Astranis** | Software Engineer - Backend - Platform | SF, Locations | 3w ago | Mid-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4622097006) |
-| 🏢 **Oklo** | Junior Software Engineer | Santa Clara, CA | 4d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
+| 🏢 **Oklo** | Junior Software Engineer | Santa Clara, CA | 5d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
 | 🏢 **Mechanize** | Junior Software Engineer | San Francisco, CA | 5d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
 | 🏢 **Mechanize** | Junior Software Engineer | SF, Locations | 1mo ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application) |
 | 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 5d ago | Senior | Frontend Development | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
