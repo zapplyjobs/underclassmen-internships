@@ -324,7 +324,7 @@
 | Advanced Degree Software Engineer - Oracle Health and Analytics | Seattle, WA | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311345) |
 | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Santa Clara, CA | 2mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/312200) |
 | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Seattle, WA | 3mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/305990) |
-| Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Nashville, TN | 3mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/305993) |
+| Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Nashville, TN | 4mo ago | Mid-Level | DevOps & Infrastructure | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/305993) |
 | Undergrad Software Engineer | Seattle, WA | 4mo ago | Mid-Level | Software Engineering | [Apply](https://careers.oracle.com/en/sites/jobsearch/job/304100) |
 
 | Company | Role | Location | Posted | Level | Category | Apply |
@@ -854,7 +854,7 @@
 | 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oZ3Oyfw8?nl=1&nl=1&fr=false) |
 | 🏢 **Internet Brands** | Associate AI Software Engineer | El Segundo, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/oX3Oyfw6?nl=1&nl=1&fr=false) |
 | 🏢 **Internet Brands** | Associate AI Software Engineer Job ID 2025 | El Segundo, CA | 1mo ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.jobvite.com/internetbrands/job/o63Oyfwf?nl=1&nl=1&fr=false) |
-| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 23h ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
+| 🏢 **Gallup** | Senior Backend Developer | Omaha, NE | 1d ago | Senior | Backend Development | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4077186009) |
 | 🏢 **General Dynamics Mission Systems** | Junior RUST Embedded Software Engineer (cleared) | Taunton, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (cleared) | Dedham, MA | 1w ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale, AZ | 1mo ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
@@ -901,7 +901,7 @@
 | 🏢 **NTT Data** | Digital Technology Engineer | Charlotte, NC | 1mo ago | Mid-Level | Software Engineering | [Apply](https://nttdata.eightfold.ai/careers/job/563327925798035) |
 | 🏢 **Voyager Technologies** | Software Engineer - Manufacturing Integration | Seattle, WA | 3d ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087905009) |
 | 🏢 **Voyager Technologies** | AI Software Engineer - Agents - Ace | Seattle, WA | 3d ago | Mid-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4087903009) |
-| 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 3d ago | Mid-Level | Software Engineering | [Apply](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
+| 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 4d ago | Mid-Level | Software Engineering | [Apply](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
 | 🏢 **Cisive** | Software Developer | New Mexico, Locations | 4d ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100173) |
 | 🏢 **Cisive** | Software Developer | Maryland, Locations | 4w ago | Mid-Level | Software Engineering | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100117-1) |
 | 🏢 **Walmart** | USA – Staff - Data Scientist | Bentonville, AR | 4d ago | Senior | Data Science & Analytics | [Apply](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2331754) |
