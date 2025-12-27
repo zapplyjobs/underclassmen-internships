@@ -130,7 +130,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 <br/>
 
-## Internship-matching Fellowships
+## Internship-Matching Fellowships
 
 ![uci-section-imf](images/uci-section-imf.png)
 
