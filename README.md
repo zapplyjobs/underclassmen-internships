@@ -5,20 +5,19 @@
 </h1>
 
 <p align="center">
-  Curated list of internships/externships/fellowships <b>exclusive</b> for CS freshman and sophomore
+  Curated list of internships, externships, and fellowships <b>exclusive</b> for CS freshman and sophomore students.
 </p>
 
 <p align="center">
- Are you a upperclassman? Check out this <a href="https://github.com/Julian048/CS-Programs-Fellowships-Insights">list of opportunities for all class year</a> by @Julian048
+ Are you an upperclassman? Check out this <a href="https://github.com/Julian048/CS-Programs-Fellowships-Insights">list of opportunities for all class year</a> by @Julian048.
 </p>
  
 <p align="center">
   Will do my best to update frequently through the fall. Stars & PR appreciated!!
 </p>
 
-<p align="center">
-  <sub>Note: open/close status is not updated daily. Check yourself just to be sure</sub>
-</p>
+> [!NOTE]
+> Open and close statuses are not updated daily. PLease check yourself just to be sure.
 
 <p align="center">
   This repo is maintained in collaboration with <a href="https://zapply.jobs">
