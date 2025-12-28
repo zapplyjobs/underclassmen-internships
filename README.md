@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1524-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1525-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1477 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1478 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1477
+- **🔥 Current Positions**: 1478
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 28, 2025
@@ -681,7 +681,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1002 positions)
+### 🏢 **Other Companies** (1003 positions)
 
 #### 🏢 **PennState University** (16 positions)
 
@@ -1480,6 +1480,7 @@
 | 🏢 **Universal ** | B-Crew Dockman - 7 | Louisville, KY | 2mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://hrone.wd1.myworkdayjobs.com/en-US/Universal_Logistics_Holdings/job/WESTPORT-LOUISVILLE-KY/B-Crew-Dockman--7_JR115349-1) |
 | 🏢 **GCI** | Data Analytics Engineer 1 - Future Opening | United States, Locations | 2mo ago | Mid-Level | Data Science & Analytics | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003164) |
 | 🏢 **Owens & Minor** | Material Handler I | Cranberry Twp, PA | 2mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/93-Warrendale/Material-Handler-I_REQ_24_19332) |
+| 🏢 **Pitt Ohio** | Agent Engineer | Pittsburgh, PA | 2mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-pittohio.icims.com/jobs/3046/job?mobile=true&needsRedirect=false) |
 | 🏢 **SF Giants** | Baseball Operations Associate Analyst | Dateland, AZ | 2mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.lever.co/sfgiants/9922308a-8c86-4394-bd22-554939491bc1/apply) |
 | 🏢 **Chubb** | Technology Associate | Philadelphia, PA | 2mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/26148) |
 | 🏢 **Trace3** | Java DevSecOps Software Engineer | Colorado Springs, CO | 2mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7350861) |
@@ -1748,7 +1749,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 655 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 776 | 53% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 777 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 46 | 3% | 2+ years of experience |
 
 ---
@@ -1766,7 +1767,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (906 positions)
+#### 💻 Software Engineering (907 positions)
 🏢 Axle • 🏢 Jerry • 🏢 General Dynamics Mission Systems
 
 #### 🧠 Machine Learning & AI (229 positions)
@@ -1803,7 +1804,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1477 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1478 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1892,7 +1893,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1477 current opportunities from 261 companies**
+**🎯 1478 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
