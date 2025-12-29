@@ -96,26 +96,26 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Program | Application Link | Status |
 |---------|---------|------------------|--------|
-| 🟢 **Google** | STEP Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://careers.google.com/students/) | Various |
-| 🟦 **Microsoft** | Software Engineering Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://careers.microsoft.com/students) | Various |
-| 🔵 **Meta** | Software Engineer Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://careers.meta.com/students) | Various |
-| 📦 **Amazon** | SDE Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://amazon.jobs/internships) | Various |
-| 🍎 **Apple** | Software Engineering Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://jobs.apple.com/students) | Various |
-| 🎬 **Netflix** | Software Engineering Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://jobs.netflix.com/students) | Various |
-| ⚡ **Tesla** | Software Engineering Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://careers.tesla.com/internships) | Various |
-| 🎮 **Nvidia** | Software Engineering Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://careers.nvidia.com/internships) | Various |
-| 💳 **Stripe** | Software Engineering Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://stripe.com/jobs/internships) | Various |
-| ₿ **Coinbase** | Software Engineering Internship | [<img src="images/apply.png" width="100" alt="Apply button">](https://coinbase.com/careers/students) | Various |
+| 🟢 **Google** | STEP Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.google.com/students/) | Various |
+| 🟦 **Microsoft** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.microsoft.com/students) | Various |
+| 🔵 **Meta** | Software Engineer Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.meta.com/students) | Various |
+| 📦 **Amazon** | SDE Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/internships) | Various |
+| 🍎 **Apple** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/students) | Various |
+| 🎬 **Netflix** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.netflix.com/students) | Various |
+| ⚡ **Tesla** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.tesla.com/internships) | Various |
+| 🎮 **Nvidia** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.nvidia.com/internships) | Various |
+| 💳 **Stripe** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://stripe.com/jobs/internships) | Various |
+| ₿ **Coinbase** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://coinbase.com/careers/students) | Various |
 
 ### 📚 **Top Software Internship Resources**
 
 | Platform | Type | Description | Link |
 |----------|------|-------------|------|
-| **👼 AngelList Internships** | Job Board | Startup internships and entry-level positions | [<img src="images/ngj-visit.png" width="100" alt="Visit button">](https://angel.co/jobs#internships) |
-| **🔗 LinkedIn Student Jobs** | Platform | Professional network for student opportunities | [<img src="images/ngj-visit.png" width="100" alt="Visit button">](https://linkedin.com/jobs/student-jobs) |
-| **🔵 Indeed Internships** | Job Board | Comprehensive internship search engine | [<img src="images/ngj-visit.png" width="100" alt="Visit button">](https://indeed.com/q-software-engineering-intern-jobs.html) |
-| **🏢 Glassdoor Internships** | Job Board | Internships with company reviews and salary data | [<img src="images/ngj-visit.png" width="100" alt="Visit button">](https://glassdoor.com/Job/software-engineer-intern-jobs-SRCH_KO0,23.htm) |
-| **🏫 University Career Centers** | Resource | National Association of Colleges and Employers | [<img src="images/ngj-visit.png" width="100" alt="Visit button">](https://nace.org) |
+| **👼 AngelList Internships** | Job Board | Startup internships and entry-level positions | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://angel.co/jobs#internships) |
+| **🔗 LinkedIn Student Jobs** | Platform | Professional network for student opportunities | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://linkedin.com/jobs/student-jobs) |
+| **🔵 Indeed Internships** | Job Board | Comprehensive internship search engine | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://indeed.com/q-software-engineering-intern-jobs.html) |
+| **🏢 Glassdoor Internships** | Job Board | Internships with company reviews and salary data | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://glassdoor.com/Job/software-engineer-intern-jobs-SRCH_KO0,23.htm) |
+| **🏫 University Career Centers** | Resource | National Association of Colleges and Employers | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://nace.org) |
 
 
 
