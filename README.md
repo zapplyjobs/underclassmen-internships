@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1523-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1519-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1476 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1472 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 1476
+- **🔥 Current Positions**: 1472
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 29, 2025
@@ -361,7 +361,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Booz Allen** | Full-Stack Developer, Junior | Huntsville, AL | 1w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230619) |
+| 🏢 **Booz Allen** | Full-Stack Developer, Junior | Huntsville, AL | 2w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230619) |
 | 🏢 **Booz Allen** | Full-Stack Developer, Junior | Huntsville, AL | 2w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Full-Stack-Developer--Junior_R0230620) |
 | 🤖 **OpenAI** | Software Engineer - Backend | SF, Locations | 3mo ago | Mid-Level | Backend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/openai/d0e21c22-c089-44f7-9acb-1e67c8925635/application) |
 | 🤖 **OpenAI** | Software Engineer - Android | Seattle, WA | 3mo ago | Mid-Level | Mobile Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/openai/b83a4808-66ef-4014-b4eb-a7833c39f4c6/application) |
@@ -681,7 +681,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1001 positions)
+### 🏢 **Other Companies** (997 positions)
 
 #### 🏢 **PennState University** (16 positions)
 
@@ -978,9 +978,9 @@
 | 🏢 **Rockwell Automation** | Software Engineer | Milwaukee, WI | 1w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Software-Engineer---Entry-Level_R25-8544) |
 | 🏢 **BlueLabs Analytics** | Analytics Associate 1 | Washington, DC | 1w ago | Entry-Level | Data Science & Analytics | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5008106007) |
 | 🏢 **Activision-Blizzard** | Rotational Engineer - Central Technology | Sherman Oaks, LA | 1w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Rotational-Engineer--Central-Technology_R026155) |
-| 🏢 **Boys & Girls Clubs of America** | TEMP Specialist - Fundraising Data | Remote in USA, Locations | 1w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-bgca.icims.com/jobs/8356/job?mobile=true&needsRedirect=false) |
 | 🏢 **AECOM** | Entry-Level Planner | Raleigh, NC | 1w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.smartrecruiters.com/AECOM2/744000099596120) |
 | 🏢 **NV5 Global** | GIS Technician | St. Petersburg, FL | 1w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-nv5.icims.com/jobs/11006/job?mobile=true&needsRedirect=false) |
+| 🏢 **NV5 Global** | Lidar – Quicklook Data Verification Technician | Portland, OR | 3mo ago | Mid-Level | Frontend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-nv5.icims.com/jobs/11395/job?mobile=true&needsRedirect=false) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain View, CA | 1w ago | Mid-Level | Frontend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89660152512) |
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 1w ago | Mid-Level | Frontend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89660152448) |
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locations | 1w ago | Mid-Level | Frontend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160) |
@@ -1069,17 +1069,17 @@
 | 🏢 **Insulet Corporation** | Associate Software Development Engineer in Test | Acton, MA | 1w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278) |
 | 🏢 **Insulet Corporation** | Associate Project Engineer - Acton MA | Acton, MA | 1mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Associate-Project-Engineer--Hybrid---Acton--MA-_REQ-2025-13447) |
 | 🏢 **Charles Schwab** | Associate Software Engineer | Lone Tree, CO | 1w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://career-schwab.icims.com/jobs/117784/associate-software-engineer/job) |
-| 🏢 **Thorlabs** | Software Engineer I | West Columbia, SC | 1w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://apply.workable.com/thorlabs/j/EA6A31C779/) |
+| 🏢 **Thorlabs** | Software Engineer I | West Columbia, SC | 2w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://apply.workable.com/thorlabs/j/EA6A31C779/) |
 | 🏢 **Thorlabs** | Software Engineer I | Jessup, MD | 3mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://apply.workable.com/thorlabs/j/E79FA34ED4/) |
-| 🏢 **Sentra** | Software Engineer - New Grad | San Francisco, CA | 1w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719) |
-| 🏢 **General Dynamics Information Technology** | Software Engineer | Tampa, FL | 1w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ211472-1) |
+| 🏢 **Sentra** | Software Engineer - New Grad | San Francisco, CA | 2w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719) |
+| 🏢 **General Dynamics Information Technology** | Software Engineer | Tampa, FL | 2w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ211472-1) |
 | 🏢 **General Dynamics Information Technology** | UiPath Robotic Process Automation Developer Associate | Shreveport, LA | 2w ago | Entry-Level | Frontend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/UiPath-Robotic-Process-Automation-Developer-Associate_RQ211136) |
 | 🏢 **General Dynamics Information Technology** | Human Performance Data Scientist 1 | Florida, Locations | 3w ago | Mid-Level | Data Science & Analytics | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954) |
 | 🏢 **General Dynamics Information Technology** | UiPath Robotic Process Automation Developer Associate | Louisiana, Locations | 1mo ago | Entry-Level | Frontend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ210208-1) |
 | 🏢 **General Dynamics Information Technology** | Software Engineer I | Annapolis Junction, MD | 1mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1) |
 | 🏢 **General Dynamics Information Technology** | Software Developer - TS/SCI Polygraph | McLean, VA | 1mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428) |
 | 🏢 **General Dynamics Information Technology** | Software Developer Associate - TS/SCI w/Poly | Annapolis Junction, MD | 2mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001) |
-| 🏢 **Inductive Automation** | Software Quality Assurance Engineer I | Folsom, CA | 1w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0) |
+| 🏢 **Inductive Automation** | Software Quality Assurance Engineer I | Folsom, CA | 2w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.lever.co/inductiveautomation/5cdc7a76-69f7-4979-8971-72e5e06015a0) |
 | 🏢 **GoodShip** | Platform Data Analyst | Remote in USA, Locations | 2w ago | Mid-Level | Data Science & Analytics | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/goodship/68c69cb3-a256-4292-86f5-e027619e0f66/application) |
 | 🏢 **Motorola** | Applications Programmer | Chicago, IL | 2w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Applications-Programmer_R59946) |
 | 🏢 **Protiviti** | Americas Delivery Center Technology Experienced Analyst | Cincinnati, OH | 2w ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CINCINNATI/Americas-Delivery-Center-Technology-Experienced-Analyst_JR-259121-1) |
@@ -1445,7 +1445,6 @@
 | 🏢 **Northeastern** | Research Assistant | Boston, MA | 3mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R136132-1) |
 | 🏢 **Northeastern** | Postdoctoral Research Associate | Boston, MA | 4mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132402) |
 | 🏢 **Northeastern** | Postdoctoral Research Fellow | Boston, MA | 4mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Fellow_R115210-1) |
-| 🏢 **Essen Health Care** | Healthcare Analyst | Bronx, NY | 1mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-essenmed.icims.com/jobs/2039/job?mobile=true&needsRedirect=false) |
 | 🏢 **Invisible Technologies** | Entry Level Specialist - AI Trainer | Remote in USA, Locations | 1mo ago | Entry-Level | Machine Learning & AI | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.eu.greenhouse.io/agency/jobs/4677212101) |
 | 🏢 **Invisible Technologies** | Japanese Speaker - AI Trainer | Remote in USA, Locations | 2mo ago | Mid-Level | Machine Learning & AI | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.eu.greenhouse.io/agency/jobs/4650952101) |
 | 🏢 **Invisible Technologies** | Hebrew Translator - AI Trainer | Remote in USA, Locations | 2mo ago | Mid-Level | Machine Learning & AI | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.eu.greenhouse.io/agency/jobs/4651790101) |
@@ -1561,7 +1560,6 @@
 | 🏢 **Bernhard** | Utility Analyst 1 | Baton Rouge, LA | 2mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false) |
 | 🏢 **NBCUniversal** | Associate Data Engineer | Hammersmith, London | 2mo ago | Entry-Level | Data Science & Analytics | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859) |
 | 🏢 **Comcast** | Software Engineer 1 with AWS & Python | Chicago, IL | 2mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.comcast.com/job/-/-/45483/86516813920) |
-| 🏢 **Geosyntec Consultants** | Early-Career Water Resources / Modeling Professional | Orlando, FL | 3mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-geosyntec.icims.com/jobs/3946/job?mobile=true&needsRedirect=false) |
 | 🏢 **Chatham Financial** | Full Stack Engineer | West Chester, PA | 3mo ago | Mid-Level | Full Stack Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/chathamfinancial/jobs/7271894) |
 | 🏢 **Lucid Motors** | Manufacturing Technician | Casa Grande, AZ | 3mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4869582007) |
 | 🏢 **Southwest Airlines** | Associate Data Engineer | Dallas, TX | 3mo ago | Entry-Level | Data Science & Analytics | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816) |
@@ -1613,11 +1611,9 @@
 | 🏢 **Jane Street** | Cybersecurity Analyst | New York, NY | 3mo ago | Mid-Level | Security Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://www.janestreet.com/join-jane-street/position/8053215002/) |
 | 🏢 **Jane Street** | Linux Engineer | NYC, Locations | 5mo ago | Mid-Level | Design | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8061059002) |
 | 🏢 **Susquehanna International Group (SIG)** | Linux/Windows Engineer | Ardmore, PA | 3mo ago | Entry-Level | Design | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-sig.icims.com/jobs/9089/job?mobile=true&needsRedirect=false) |
-| 🏢 **Susquehanna International Group (SIG)** | Faculty Fellow | Ardmore, PA | 3mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Associate Linux/Windows Engineer - Platform Services | Ardmore, PA | 3mo ago | Entry-Level | DevOps & Infrastructure | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-sig.icims.com/jobs/9090/job?mobile=true&needsRedirect=false) |
 | 🏢 **Pentair** | 2026 Information Technology & Cybersecurity | Golden Valley, MN | 3mo ago | Mid-Level | Security Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2026-Information-Technology---Cybersecurity---AI---Machine-Learning-Specialization-Leadership-Development-Program_R21984) |
 | 🏢 **Dayton Freight Lines** | Entry Level Software Developer | Dayton, OH | 3mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false) |
-| 🏢 **Exponent** | Research Assistant | Menlo Park, CA | 3mo ago | Mid-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-exponent.icims.com/jobs/2263/job?mobile=true&needsRedirect=false) |
 | 🏢 **Credence** | Entry-Level Software Engineer | McLean, VA | 3mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job) |
 | 🏢 **Trexquant** | Software Engineer – Early Career | Stamford, CT | 3mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://apply.workable.com/trexquant/j/11DC4EA360/apply) |
 | 🏢 **Jahnel Group** | Associate Software Engineer | Schenectady, NY | 3mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://www.jahnelgroup.com/apply.html?gh_jid=4160702007) |
@@ -1746,8 +1742,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 654 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 777 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 653 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 774 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 45 | 3% | 2+ years of experience |
 
 ---
@@ -1756,7 +1752,7 @@
 - **San Jose, CA**: 200 positions
 - **Seattle, WA**: 93 positions
 - **NYC, Locations**: 61 positions
-- **Remote in USA, Locations**: 54 positions
+- **Remote in USA, Locations**: 53 positions
 - **SF, Locations**: 46 positions
 - **Chicago, IL**: 41 positions
 - **Austin, TX**: 33 positions
@@ -1765,7 +1761,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (905 positions)
+#### 💻 Software Engineering (900 positions)
 🏢 Axle • 🏢 Jerry • 🏢 General Dynamics Mission Systems
 
 #### 🧠 Machine Learning & AI (229 positions)
@@ -1774,7 +1770,7 @@
 #### 📊 Data Science & Analytics (132 positions)
 🏢 Certik • 🏢 BBB • 🏢 University of Chicago
 
-#### 🎨 Frontend Development (55 positions)
+#### 🎨 Frontend Development (56 positions)
 🏢 U.S. Bank • 🏢 Intuit
 
 #### ☁️ DevOps & Infrastructure (53 positions)
@@ -1802,7 +1798,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1476 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 1472 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1891,7 +1887,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 1476 current opportunities from 261 companies**
+**🎯 1472 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
