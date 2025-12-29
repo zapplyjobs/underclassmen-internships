@@ -3,8 +3,9 @@
 <!-- Banner -->
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
-<h3>💼 New Grad Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 261 companies</em></p>
+# New Grad Jobs 2026
+
+<img src="images/ngj-heading.png" alt="New Grad Jobs 2026 - Illustration of people networking.">
 
 <br>
 
@@ -36,24 +37,33 @@
 
 </div>
 
----
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1469 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
-# 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
+<p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1469 fresh opportunities for data analysts, scientists, and entry-level software developers.**
-
-**🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
-
-**🛠  Help us grow! Add new jobs by submitting an issue! View contributing steps here.**
+> [!TIP]
+> 🛠  Help us grow! Add new jobs by submitting an issue! View contributing steps here.
 
 ---
 
-## Apply Faster with Zapply
-⚡ Apply to 50 jobs in the time it takes to do 5. Use Zapply’s extension to instantly submit applications across Tesla, Amazon, NVIDIA, and 500+ other data-focused employers.  
-[Download Zapply Extension](#)
+## Join Our Community
+
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+</p>
+
 ---
 
-## ⭐ Stay Up-to-Date
+## Alerts
+
+<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+
 **Don't miss new opportunities!**  
 - 🌟 **Star this repo** to get updates on your GitHub dashboard
 - 👁️ **Watch** for instant notifications on new jobs
@@ -65,10 +75,12 @@
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
 </picture>
 
-
 ---
 
-## 📊 Live Stats
+## Live Stats
+
+<img src="images/stats.png" alt="Real-time counts of roles and companies.">
+
 - **🔥 Current Positions**: 1469
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
@@ -76,11 +88,9 @@
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
-
-
 ---
 
-## 🎓 **SWE Internships 2025-2026** 
+## 🎓 **SWE Internships 2026** 
 
 > **Top internships for students in data science, statistics, analytics, and related majors.**
 
@@ -113,7 +123,7 @@
 
 ---
 
-## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
+## Fresh Software Jobs 2026
 
 ### 🏢 **FAANG+** (139 positions)
 
@@ -1714,7 +1724,9 @@
 
 ---
 
-## Current Job Insights
+## Insights on the Repo
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
 
 ### 🏢 Top Companies
 
@@ -1793,18 +1805,20 @@
 
 ---
 
-## 🔮 Why Software Engineers Choose Our Job Board
+### 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 1469 verified roles for Software Engineering roles from 250 companies.
-- ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
-- ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
-- ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
-- ✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
-- ✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
+✅ **100% Real Jobs**: 1469 verified roles for Software Engineering roles from 250 companies.
+✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
+✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
+✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
+✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
 
 ---
 
-## 🚀 **Job Hunt Tips That Actually Work**
+## Job Hunt Tips That Actually Work
+
+<img src="images/tips.png" alt="No fluff — just strategies that help.">
 
 ### 🔍 **Research Before Applying**
 - Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
@@ -1824,19 +1838,15 @@
 - Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
 - Review this [interview guide](#) for behavioral, technical, and curveball questions.
 
----
-
-## 📬 **Stay Updated**
-
-- **⭐ Star this repo** to bookmark for daily checks.
-- **👀 Watch to get notified of new SWE jobs.
-- **🔔 Subscribe to our newsletter** for instant updates.
-- **📱 Bookmark on mobile** for quick job hunting.
+<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250">
 
 ---
 
-## 🤝 **Become a Contributor**
-Add new jobs! See the [contributing guide](#contributing-guide).
+## Become a Contributor
+
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+
+Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ### Contributing Guide
 #### 🎯 Roles We Accept
@@ -1863,22 +1873,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
-
-
 No archived jobs available.
-
----
-
-## 🌟 Recognition & Press
-
-**Zapply's New Grad Jobs has been featured and trusted by thousands of job seekers!**
-
-- 📰 **Featured on GitHub Trending** - Top trending repository for job seekers
-- 💼 **Trusted by 1000+ job seekers** in our Discord community
-- 🚀 **Daily updates** ensure you never miss new opportunities
-- ⭐ **Community-driven** with contributions from developers worldwide
-
-> *Have you featured or mentioned our repo? Let us know and we'll add you here!*
 
 ---
 
