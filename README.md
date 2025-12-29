@@ -1,11 +1,9 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
+<img src="images/ngj-heading.png" alt="New Grad Jobs 2026 - Illustration of people networking.">
 
 # New Grad Jobs 2026
-
-<img src="images/ngj-heading.png" alt="New Grad Jobs 2026 - Illustration of people networking.">
 
 <br>
 
@@ -92,7 +90,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎓 **SWE Internships 2026** 
 
-> **Top internships for students in data science, statistics, analytics, and related majors.**
+<img src="images/ngj-internships.png" alt="Software engineering internships for 2026.">
 
 ### 🏢 **FAANG+ Internship Programs**
 
@@ -124,6 +122,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 ## Fresh Software Jobs 2026
+
+<img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ### 🏢 **FAANG+** (139 positions)
 
@@ -941,7 +941,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Astranis** | Software Developer, Network Software Associate | San Francisco, CA | 6d ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
 | 🏢 **Astranis** | Software Engineer - Backend - Platform | SF, Locations | 3w ago | Mid-Level | Backend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4622097006) |
 | 🏢 **Oklo** | Junior Software Engineer | Santa Clara, CA | 6d ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
-| 🏢 **Mechanize** | Junior Software Engineer | San Francisco, CA | 6d ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
+| 🏢 **Mechanize** | Junior Software Engineer | San Francisco, CA | 1w ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
 | 🏢 **Mechanize** | Junior Software Engineer | SF, Locations | 1mo ago | Entry-Level | Software Engineering | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application) |
 | 🏢 **U.S. Bank** | Senior React Engineer - Wealth Management | Atlanta, GA | 1w ago | Senior | Frontend Development | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-React-Engineer--Wealth-Management--multiple-positions--in-Atlanta--GA_2025-0030119) |
 | 🏢 **Sayari** | Junior Data Engineer | Remote in USA, Locations | 1w ago | Entry-Level | Data Science & Analytics | [<img src=".github/assets/apply-button.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
@@ -1808,10 +1808,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
 ✅ **100% Real Jobs**: 1469 verified roles for Software Engineering roles from 250 companies.
+<br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+<br>
 ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
+<br>
 ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
+<br>
 ✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
+<br>
 ✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
 
 ---
@@ -1838,7 +1843,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
 - Review this [interview guide](#) for behavioral, technical, and curveball questions.
 
-<img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250">&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250">
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
 
 ---
 
@@ -1846,7 +1857,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
 
-Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
+Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 ### Contributing Guide
 #### 🎯 Roles We Accept
