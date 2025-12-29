@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1523-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1522-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1476 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1475 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -79,7 +79,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- **🔥 Current Positions**: 1476
+- **🔥 Current Positions**: 1475
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 29, 2025
@@ -691,7 +691,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | Mid-Level | Machine Learning & AI | [<img src="images/apply.png" width="100" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1001 positions)
+### 🏢 **Other Companies** (1000 positions)
 
 #### 🏢 **PennState University** (16 positions)
 
@@ -1026,7 +1026,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **MultiCare Health System** | Software Engineer 1 - Scm | Tacoma, WA | 1w ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR65804) |
 | 🏢 **Mercury Insurance** | Mercury Ignite: Data Engineering Graduate Development Program | California, Locations | 1w ago | Entry-Level | Data Science & Analytics | [<img src="images/apply.png" width="100" alt="Apply">](https://careers-mercuryinsurance.icims.com/jobs/5989/job?mobile=true&needsRedirect=false) |
 | 🏢 **Mercury Insurance** | Software Engineer 1 | LA, Locations | 1mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://careers-mercuryinsurance.icims.com/jobs/5802/job?mobile=true&needsRedirect=false) |
-| 🏢 **Mercury Insurance** | Mercury Ignite Data Science Graduate Development Program | California, Locations | 2mo ago | Entry-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://careers-mercuryinsurance.icims.com/jobs/5990/job?mobile=true&needsRedirect=false) |
 | 🏢 **Enova** | Software Engineer | Chicago, IL | 1w ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/enova/jobs/3972487) |
 | 🏢 **DTCC** | Software Engineer | NYC, Locations | 1w ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212337) |
 | 🟦 **LinkedIn** | Software Engineer - Frontend | Mountain View, CA | 1w ago | Mid-Level | Frontend Development | [<img src="images/apply.png" width="100" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000099403125) |
@@ -1071,7 +1070,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Wyetech** | Software Engineer 0 | Annapolis Junction, MD | 2mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034/apply) |
 | 🏢 **Wyetech** | Database Engineer 0 | Annapolis Junction, MD | 2mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://jobs.lever.co/wyetechllc/686d2ecb-f9df-4775-b26f-253c889b1452/apply) |
 | 🏢 **AT&T** | Senior Member of Technical Staff | Plano, TX | 1w ago | Senior | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Middletown-New-Jersey/Senior-Member-of-Technical-Staff_R-92551) |
-| 🏢 **AT&T** | Software Developer - Asset Management - SWE I','Government | Columbia, MD | 1mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Software-Developer---Asset-Management--SWE-I---Government-_R-88334) |
+| 🏢 **AT&T** | Software Developer - Asset Management - SWE I','Government | Columbia, MD | 2mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Software-Developer---Asset-Management--SWE-I---Government-_R-88334) |
 | 🏢 **General Motors** | Entry Level Mainframe Systems Engineer | Warren, MI | 1w ago | Entry-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202524087) |
 | 🏢 **General Motors** | Applied Scientist - AI & Robotics (PhD) - Early Career | Mountain View, CA | 2w ago | Entry-Level | Machine Learning & AI | [<img src="images/apply.png" width="100" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Applied-Scientist---AI---Robotics--PhD----Early-Career_JR-202523975) |
 | 🏢 **General Motors** | Machine Learning Engineer - AI Research (PhD) | Mountain View, CA | 2mo ago | Mid-Level | Machine Learning & AI | [<img src="images/apply.png" width="100" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114) |
@@ -1323,6 +1322,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **ALTEN Technology** | Data Collection Operator 1 | SF, Locations | 1mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007) |
 | 🏢 **ALTEN Technology** | Data Collection Operator 2 | SF, Locations | 1mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4827839007) |
 | 🏢 **Verisk** | Software Engineer | Holmdel, NJ | 1mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2708) |
+| 🏢 **Fidelity National Financial** | Imaging Analyst | Altamonte Springs, FL | 1mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false) |
 | 🏢 **METECS** | Junior Software Engineer - DST | Houston, TX | 1mo ago | Entry-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://metecs.applytojob.com/apply/csAVnq7Ij4/Junior-Software-Engineer-DST) |
 | 🏢 **GM financial** | Software Development Engineer 1 | Arlington, TX | 1mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309) |
 | 🏢 **Maven Securities** | Graduate Developer Programme | Chicago, IL | 1mo ago | Entry-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://job-boards.greenhouse.io/emergingtalent/jobs/7204281) |
@@ -1506,7 +1506,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Spot & Tango** | Jr. Software Engineer | New York, NY | 2mo ago | Entry-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://www.spotandtango.com/careers?gh_jid=4620638005) |
 | 🏢 **Shopify** | Demo Engineer, Software Development | Remote in USA, Locations | 2mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5) |
 | 🏢 **WSP** | Instrument Operator - Surveying | Cohoes, NY | 2mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/73900) |
-| 🏢 **Adtheorant** | Associate Data Scientist | NYC, Locations | 2mo ago | Entry-Level | Data Science & Analytics | [<img src="images/apply.png" width="100" alt="Apply">](https://careers-cadent.icims.com/jobs/1266/job?mobile=true&needsRedirect=false) |
 | 🏢 **360 IT Professionals** | Java Developer | Chicago, IL | 2mo ago | Mid-Level | Software Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://jobs.smartrecruiters.com/360ITProfessionals1/743999657426860) |
 | 🏢 **360 IT Professionals** | Entry Level Business/Data Analyst | Fremont, CA | 4mo ago | Entry-Level | Data Science & Analytics | [<img src="images/apply.png" width="100" alt="Apply">](https://jobs.smartrecruiters.com/360ITProfessionals1/83931014) |
 | 🏢 **360 IT Professionals** | Data Security Analyst - Cisco Certified - Linux | Denver, CO | 4mo ago | Mid-Level | Security Engineering | [<img src="images/apply.png" width="100" alt="Apply">](https://jobs.smartrecruiters.com/360ITProfessionals1/743999652812027) |
@@ -1758,8 +1757,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 654 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 777 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 652 | 44% | No or minimal experience |
+| 🟡 Beginner & Early Career | 778 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 45 | 3% | 2+ years of experience |
 
 ---
@@ -1767,7 +1766,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ## 🌍 Top Locations
 - **San Jose, CA**: 200 positions
 - **Seattle, WA**: 93 positions
-- **NYC, Locations**: 62 positions
+- **NYC, Locations**: 61 positions
 - **Remote in USA, Locations**: 53 positions
 - **SF, Locations**: 46 positions
 - **Chicago, IL**: 41 positions
@@ -1783,7 +1782,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 #### 🧠 Machine Learning & AI (229 positions)
 🏢 Internet Brands • 🏢 Analog Devices • 🏢 Voyager Technologies
 
-#### 📊 Data Science & Analytics (133 positions)
+#### 📊 Data Science & Analytics (132 positions)
 🏢 Certik • 🏢 BBB • 🏢 University of Chicago
 
 #### 🎨 Frontend Development (55 positions)
@@ -1814,7 +1813,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 1476 verified roles for Software Engineering roles from 250 companies.
+✅ **100% Real Jobs**: 1475 verified roles for Software Engineering roles from 250 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -1895,7 +1894,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 1476 current opportunities from 261 companies**
+**🎯 1475 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
