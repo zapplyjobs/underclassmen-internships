@@ -40,7 +40,7 @@
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
 > [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View contributing steps here.
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING.md) here.
 
 ---
 
@@ -1226,7 +1226,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **City of Amarillo** | GIS Analyst 1 | Amarillo, TX | 3w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267) |
 | 🏢 **Corning** | Ion Exchange Development Technician | Elmira, NY | 3w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://corningjobs.corning.com/job/Corning-Ion-Exchange-Development-Technician-NY-14831/1345630700/?ats=successfactors) |
 | 🏢 **CoStar Group** | Associate Machine Learning Engineer | Sunnyvale, C | 3w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862) |
-| 🏢 **CoStar Group** | Associate Software Engineer | Nashville, T | 2mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1) |
+| 🏢 **CoStar Group** | Associate Software Engineer | Nashville, T | 3mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1) |
 | 🏢 **CoStar Group** | Associate Software Engineer | San Diego, C | 3mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1) |
 | 🏢 **Lineage Logistics** | Associate Report Developer | Novi, MI | 3w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0097857) |
 | 🏢 **Magna** | Data Analyst | Toledo, OH | 3w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Data | [<img src="images/apply.png" width="75" alt="Apply">](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Northwood-Ohio-US/Data-Analyst_R00221046) |
