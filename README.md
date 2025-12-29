@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1521-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1520-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1474 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1473 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -79,7 +79,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- **🔥 Current Positions**: 1474
+- **🔥 Current Positions**: 1473
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 29, 2025
@@ -691,7 +691,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (999 positions)
+### 🏢 **Other Companies** (998 positions)
 
 #### 🏢 **PennState University** (16 positions)
 
@@ -895,7 +895,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Accenture** | ATC Salesforce Analyst - Nashville | Nashville, T | 3w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Salesforce-Analyst---Nashville---NAELFY26_R00300075) |
 | 🏢 **Accenture** | Data and AI Analyst | Huntsville,  | 1mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4617714006) |
 | 🟢 **Waymo** | Applied Research Scientist - Percep... | SF, Location | 5d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7467839) |
-| 🏢 **Huron** | Data Scientist - Associate | Chicago, IL | 5d ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Data | [<img src="images/apply.png" width="75" alt="Apply">](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624) |
 | 🏢 **Analog Devices** | Associate Machine Learning Operatio... | Burlington,  | 5d ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Machine-Learning-Operations--MLOps--Engineer_R258871) |
 | 🏢 **Analog Devices** | Product Applications Engineer | San Jose, CA | 4mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Application-Engineering_R255206-1) |
 | 🏢 **Analog Devices** | Electronic Design Automation Resear... | Burlington,  | 4mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Design | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/EDA-R-D-Engineer-with-Emphasis-on-Simulation--Modeling--and-Software-Development_R254720) |
@@ -1756,7 +1755,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 652 | 44% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 651 | 44% | No or minimal experience |
 | 🟡 Beginner & Early Career | 777 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 45 | 3% | 2+ years of experience |
 
@@ -1768,7 +1767,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **NYC, Locations**: 61 positions
 - **Remote in USA, Locations**: 53 positions
 - **SF, Locations**: 46 positions
-- **Chicago, IL**: 41 positions
+- **Chicago, IL**: 40 positions
 - **Austin, TX**: 33 positions
 - **Dallas, TX**: 28 positions
 
@@ -1781,7 +1780,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 #### 🧠 Machine Learning & AI (229 positions)
 🏢 Internet Brands • 🏢 Analog Devices • 🏢 Voyager Technologies
 
-#### 📊 Data Science & Analytics (132 positions)
+#### 📊 Data Science & Analytics (131 positions)
 🏢 Certik • 🏢 BBB • 🏢 University of Chicago
 
 #### 🎨 Frontend Development (55 positions)
@@ -1812,7 +1811,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 1474 verified roles for Software Engineering roles from 250 companies.
+✅ **100% Real Jobs**: 1473 verified roles for Software Engineering roles from 250 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -1893,7 +1892,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 1474 current opportunities from 261 companies**
+**🎯 1473 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
