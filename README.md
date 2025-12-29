@@ -94,18 +94,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 **FAANG+ Internship Programs**
 
-| Company | Program | Application Link | Status |
-|---------|---------|------------------|--------|
-| 🟢 **Google** | STEP Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.google.com/students/) | Various |
-| 🟦 **Microsoft** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.microsoft.com/students) | Various |
-| 🔵 **Meta** | Software Engineer Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.meta.com/students) | Various |
-| 📦 **Amazon** | SDE Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/internships) | Various |
-| 🍎 **Apple** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/students) | Various |
-| 🎬 **Netflix** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.netflix.com/students) | Various |
-| ⚡ **Tesla** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.tesla.com/internships) | Various |
-| 🎮 **Nvidia** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://careers.nvidia.com/internships) | Various |
-| 💳 **Stripe** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://stripe.com/jobs/internships) | Various |
-| ₿ **Coinbase** | Software Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply button">](https://coinbase.com/careers/students) | Various |
+| Company | Program | Application Link |
+|---------|---------|------------------|
+| 🟢 **Google** | STEP Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.google.com/students/)</p> |
+| 🟦 **Microsoft** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.microsoft.com/students)</p> |
+| 🔵 **Meta** | Software Engineer Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.meta.com/students)</p> |
+| 📦 **Amazon** | SDE Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/internships)</p> |
+| 🍎 **Apple** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/students)</p> |
+| 🎬 **Netflix** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.netflix.com/students)</p> |
+| ⚡ **Tesla** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.tesla.com/internships)</p> |
+| 🎮 **Nvidia** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.nvidia.com/internships)</p> |
+| 💳 **Stripe** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://stripe.com/jobs/internships)</p> |
+| ₿ **Coinbase** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://coinbase.com/careers/students)</p> |
 
 ### 📚 **Top Software Internship Resources**
 
