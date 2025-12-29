@@ -88,7 +88,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ---
 
-## 🎓 **SWE Internships 2026** 
+## SWE Internships 2026*
 
 <img src="images/ngj-internships.png" alt="Software engineering internships for 2026.">
 
