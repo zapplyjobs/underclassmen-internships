@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1518-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1517-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-36-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1471 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1470 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -79,7 +79,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- **🔥 Current Positions**: 1471
+- **🔥 Current Positions**: 1470
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 36 premium opportunities
 - **📅 Last Updated**: December 29, 2025
@@ -579,7 +579,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 💳 **Stripe** | Software Engineer | San Francisc | 3mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/listing/software-engineer-new-grad/7210112) |
 | 💳 **Stripe** | Software Engineer – New Grad | Seattle, WA | 3mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7210112) |
 | 💰 **Affirm** | Analyst 1 - Full Stack | Remote in US | 1w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Full Stack | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7560430003) |
-| 💰 **Affirm** | Software Engineer, Early Career | San Francisc | 3w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
+| 💰 **Affirm** | Software Engineer, Early Career | San Francisc | 4w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locatio | 4w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 | 🏢 **BMO** | Software Engineer | Chicago, IL | 4mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) |
 | 🏢 **Five Rings** | Software Developer | New York, NY | 4mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008) |
@@ -691,7 +691,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (996 positions)
+### 🏢 **Other Companies** (995 positions)
 
 #### 🏢 **PennState University** (16 positions)
 
@@ -1413,7 +1413,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Continue** | Software Engineer – New grad | SF, Location | 1mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7/application) |
 | 🏢 **Radical AI** | Software Engineer - Agents | NYC, Locatio | 1mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/RadicalAI/d5f1267c-82c6-43af-8e72-6f04989d1091/apply) |
 | 🏢 **Lenovo** | Model Development Engineer - Global... | Morrisville, | 1mo ago | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lenovo.com/en_US/careers/JobDetail/Model-Development-Engineer-Global-Future-Leaders-Program-2026/69922) |
-| 🏢 **Lenovo** | Software Engineer - AI Productizati... | Chicago, IL | 1mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Engineer-AI-Productization/69831) |
+| 🏢 **Lenovo** | Software Engineer - AI Productizati... | Chicago, IL | 2mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Engineer-AI-Productization/69831) |
 | 🏢 **Hive** | Analyst – Media & Sports | SF, Location | 1mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hive/a9a638ae-bafa-4cfd-9edc-c4a6c3df566a/apply) |
 | 🏢 **FICO** | Analytic Science - Scientist I | Remote in US | 1mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Analytic-Science--Scientist-I_31198) |
 | 🏢 **Cantina** | Full Stack Engineer | NYC, Locatio | 1mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Full Stack | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/spearbit/8eea0e23-befe-44da-b942-29e6fe748dbc/application) |
@@ -1602,7 +1602,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Duolingo** | AI Research Engineer | Pittsburgh,  | 3mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | ML/AI | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8151163002) |
 | 🏢 **Gartner** | Data Analyst | Irving, TX | 3mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Data | [<img src="images/apply.png" width="75" alt="Apply">](https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Irving-TX/Data-Analyst---2026-graduates_103573) |
 | 🏢 **Gartner** | Data Analyst - Insights and Product... | Stamford, CT | 3mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Data | [<img src="images/apply.png" width="75" alt="Apply">](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst---2026-graduates_103573) |
-| 🏢 **Steampunk** | Data Engineer | McLean, VA | 3mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Data | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-steampunk.icims.com/jobs/6514/job?mobile=true&needsRedirect=false) |
 | 🏢 **BNY** | BNY Analyst Program-Engineering - D... | Pittsburgh,  | 3mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70342) |
 | 🏢 **BNY** | BNY Analyst Program-Engineering - D... | Pittsburgh,  | 3mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/70345) |
 | 🏢 **CoStar** | Associate Software Engineer | San Diego, C | 3mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | Software | [<img src="images/apply.png" width="75" alt="Apply">](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014) |
@@ -1754,7 +1753,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 651 | 44% | No or minimal experience |
-| 🟡 Beginner & Early Career | 775 | 53% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 774 | 53% | 1-2 years of experience |
 | 🔴 Manager         | 45 | 3% | 2+ years of experience |
 
 ---
@@ -1778,7 +1777,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 #### 🧠 Machine Learning & AI (229 positions)
 🏢 Internet Brands • 🏢 Analog Devices • 🏢 Voyager Technologies
 
-#### 📊 Data Science & Analytics (130 positions)
+#### 📊 Data Science & Analytics (129 positions)
 🏢 Certik • 🏢 BBB • 🏢 University of Chicago
 
 #### 🎨 Frontend Development (55 positions)
@@ -1809,7 +1808,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 1471 verified roles for Software Engineering roles from 250 companies.
+✅ **100% Real Jobs**: 1470 verified roles for Software Engineering roles from 250 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -1890,7 +1889,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 1471 current opportunities from 261 companies**
+**🎯 1470 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
