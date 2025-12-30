@@ -9,7 +9,7 @@
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-88-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-35-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -138,7 +138,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🚀 **SpaceX** | Software Engineer - Starlink Ground... | Redmond, WA | 8h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8342599002) |
 | 🏢 **The Boeing Company** | Software Engineer-Test & Verificati... | St Charles,  | 6d ago | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Test---Verification--Associate--Mid-Level--Senior-_JR2025488587-1) |
 | 🏢 **The Boeing Company** | Software Engineer-Simulation Mid Le... | St Charles,  | 6d ago | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Simulation--Associate--Mid-Level--Senior-_JR2025488590-1) |
-| 🏢 **Peraton** | Junior Software Engineer | Hill AFB, UT | 13h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | Junior Software Engineer | Hill AFB, UT | 14h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Data Scientist | Reston, VA | 6d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
 
 ### 🏢 **Other Companies** (35 positions)
@@ -152,11 +152,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, C | 8h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application) |
 | 🏢 **The Job Sauce** | Software Engineer | SF, Location | 8h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application) |
 | 🏢 **Nordstrom** | Data Analyst 1 - Nordstrom Media Ne... | Seattle, WA | 8h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-1--Nordstrom-Media-Network--Hybrid--Seattle-_R-805780-1) |
-| 🏢 **Western Digital** | Early Career Talent - Applications ... | Fremont, CA | 8h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000100914956) |
-| 🏢 **American Institutes for Research** | Data Scientist Assistant | Carrboro, NC | 13h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5046338008) |
-| 🏢 **MUFG** | Machine Learning Engineer - Data Pi... | NYC, Locatio | 13h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Machine-Learning-Engineer---Data-Pipelines--Analyst_10074067-WD) |
-| 🏢 **GE Vernova** | Post Doc – Advanced Computational M... | Schenectady, | 13h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Post-Doc---Advanced-Computational-Methods---Simulation_R5021476-1) |
-| 🏢 **Citi** | Applications Development Intermedia... | Tampa, FL | 13h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282) |
+| 🏢 **Western Digital** | Early Career Talent - Applications ... | Fremont, CA | 9h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000100914956) |
+| 🏢 **American Institutes for Research** | Data Scientist Assistant | Carrboro, NC | 14h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5046338008) |
+| 🏢 **MUFG** | Machine Learning Engineer - Data Pi... | NYC, Locatio | 14h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Machine-Learning-Engineer---Data-Pipelines--Analyst_10074067-WD) |
+| 🏢 **GE Vernova** | Post Doc – Advanced Computational M... | Schenectady, | 14h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Post-Doc---Advanced-Computational-Methods---Simulation_R5021476-1) |
+| 🏢 **Citi** | Applications Development Intermedia... | Tampa, FL | 14h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_25926282) |
 | 🏢 **Fanatics** | Software Engineer 1 - Backend | Remote in US | 3d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25910) |
 | 🏢 **Certik** | Business Data Analyst | NYC, Locatio | 3d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/certik/20f8e282-fd1a-4f17-8dcf-358e2200c1cf/apply) |
 | 🏢 **Axle** | Computer Systems Analyst | Baltimore, M | 3d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/axle/jobs/4918044007) |
@@ -212,57 +212,39 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 653 | 1593% | No or minimal experience |
-| 🟡 Beginner & Early Career | 774 | 1888% | 1-2 years of experience |
-| 🔴 Manager         | 46 | 112% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 12 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 26 | 63% | 1-2 years of experience |
+| 🔴 Manager | 3 | 7% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **San Jose, CA**: 201 positions
-- **Seattle, WA**: 93 positions
-- **NYC, Locations**: 63 positions
-- **Remote in USA, Locations**: 52 positions
-- **SF, Locations**: 47 positions
-- **Chicago, IL**: 40 positions
-- **Austin, TX**: 33 positions
-- **Dallas, TX**: 28 positions
+- **SF, Locations**: 3 positions
+- **Seattle, WA**: 3 positions
+- **Remote in USA, Locations**: 2 positions
+- **Palo Alto, CA**: 2 positions
+- **NYC, Locations**: 2 positions
+- **Tampa, FL**: 2 positions
+- **Chicago, IL**: 2 positions
+- **St Charles, MO**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (900 positions)
+#### 💻 Software Engineering (28 positions)
 🏢 Pattern Data • 🚀 SpaceX • 🏢 Wash U
 
-#### 🧠 Machine Learning & AI (230 positions)
-🏢 MUFG • 🏢 Internet Brands • 🏢 Analog Devices
-
-#### 📊 Data Science & Analytics (129 positions)
+#### 📊 Data Science & Analytics (5 positions)
 🏢 Nordstrom • 🏢 American Institutes for Research • 🏢 Certik
 
-#### 🎨 Frontend Development (56 positions)
+#### 🧠 Machine Learning & AI (4 positions)
+🏢 MUFG • 🏢 Internet Brands • 🏢 Analog Devices
 
-
-#### ☁️ DevOps & Infrastructure (54 positions)
+#### ☁️ DevOps & Infrastructure (2 positions)
 🏢 Rubrik • 🏢 Accenture
 
-#### ⚙️ Backend Development (32 positions)
+#### ⚙️ Backend Development (2 positions)
 🏢 Fanatics • 🏢 Gallup
-
-#### 🌐 Full Stack Development (30 positions)
-
-
-#### 📱 Mobile Development (16 positions)
-
-
-#### 🛡️ Security Engineering (13 positions)
-
-
-#### 🎨 Design (12 positions)
-
-
-#### 📋 Product Management (1 positions)
-
 
 ---
 
