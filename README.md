@@ -74,11 +74,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 - **🔥 Current Positions**: 41
-<br>
 - **🏢 Companies**: 35 companies
-<br>
 - **📅 Last Updated**: December 30, 2025
-<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
