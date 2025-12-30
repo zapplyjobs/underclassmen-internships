@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-87-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-36-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-86-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-35-blue?style=flat&logo=building)
 
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 36 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 40 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 35 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 39 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,8 +73,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- **🔥 Current Positions**: 40<br>
-- **🏢 Companies**: 36 companies<br>
+- **🔥 Current Positions**: 39<br>
+- **🏢 Companies**: 35 companies<br>
 - **📅 Last Updated**: December 30, 2025<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -134,7 +134,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Peraton** | Junior Software Engineer | Hill AFB, UT | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false) |
 | 🏢 **CACI** | Applications Programmer 1 | Norfolk, VA | 1h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/Applications-Programmer-I_313830) |
 
-### 🏢 **Other Companies** (34 positions)
+### 🏢 **Other Companies** (33 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -171,7 +171,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **AeroVironment** | Research Scientist - 2D Polymer Che... | Wright-Patte | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Scientist---2D-Polymer-Chemist_7081) |
 | 🏢 **AeroVironment** | Research Chemist - Autonomous Disco... | Wright-Patte | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Patterson-AFB/Research-Chemist---Autonomous-Discovery-of-Organic-Materials_7076) |
 | 🏢 **NTT Data** | Data & Business Insights Associate | Plano, TX | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-inc.nttdata.com/job/Plano-Data-&-Business-Insights-Associate-TX/1351885800/?ats=successfactors) |
-| 🏢 **PennState University** | Part Time Research Support - Neurol... | Hershey, PA | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-Time-Research-Support---Neurology_REQ_0000074546-1) |
 
 
 
@@ -205,8 +204,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 12 | 30% | No or minimal experience |
-| 🟡 Beginner & Early Career | 25 | 63% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 12 | 31% | No or minimal experience |
+| 🟡 Beginner & Early Career | 24 | 62% | 1-2 years of experience |
 | 🔴 Manager | 3 | 7% | 2+ years of experience |
 
 ---
@@ -225,7 +224,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 40 verified roles for Software Engineering roles from 36 companies.
+✅ **100% Real Jobs**: 39 verified roles for Software Engineering roles from 35 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -306,11 +305,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1438 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1439 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1438 positions
-- **🏢 Companies**: 36 companies
+- **📁 Total Jobs**: 1439 positions
+- **🏢 Companies**: 35 companies
 - **⭐ FAANG+ Jobs & Internships**: 36 positions
 
 ### 🏢 **FAANG+** (33 positions)
@@ -878,7 +877,28 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (964 positions)
+### 🏢 **Other Companies** (965 positions)
+
+#### 🏢 **PennState University** (16 positions)
+
+| Role | Location | Posted | Level | Apply |
+|------|----------|--------|-------|-------|
+| Part Time Research Support - Neurol... | Hershey, PA | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-Time-Research-Support---Neurology_REQ_0000074546-1) |
+| Part-Time Research Support | State Colleg | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support_REQ_0000074058-2) |
+| Postdoctoral Researcher | State Colleg | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher_REQ_0000073974-1) |
+| Postdoctoral Scholar-Neutrino Physi... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
+| Data Scientist / Machine Learning E... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Data-Scientist---Machine-Learning-Engineer_REQ_0000072889-2) |
+| Hamer Center for Community Design S... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Hamer-Center-for-Community-Design-Part-time-Support_REQ_0000068837-1) |
+| Part-Time Research Assistant/Progra... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000069003-1) |
+| Research Associate | State Colleg | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000072097-1) |
+| Postdoctoral Scholar - Experimental... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Experimental-Ultrahigh-Energy-Neutrino---PUEO-Experiment_REQ_0000043392-2) |
+| Postdoctoral Researcher - Survey Sc... | State Colleg | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Survey-Science-Time-Domain-Astronomy_REQ_0000072795-2) |
+| Postdoctoral Scholar | State Colleg | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
+| Postdoctoral Scholar - Department o... | State Colleg | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Department-of-Physics---Wissel-Research-Group_REQ_0000045022-1) |
+| Postdoctoral Scholar | State Colleg | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000053661) |
+| Physics Department - Postdoctoral S... | State Colleg | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
+| Postdoctoral Scholar - Experimental... | State Colleg | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Experimental-Condensed-Matter-Physics-_REQ_0000050105) |
+| Postdoctoral Scholar - Experimental... | State Colleg | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Exploring-Quantum-Phenomena_REQ_0000056784-1) |
 
 #### 🏢 **Argonne National Laboratory** (24 positions)
 
@@ -965,26 +985,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | Postdoctoral Fellow | Austin, TX | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00019055-2) |
 | Postdoctoral Researcher - Aerosols ... | Austin, TX | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Researcher---Aerosols-and-hydroclimate-risk_R_00041495) |
 | Postdoctoral Fellow in Water System... | Austin, TX | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1) |
-
-#### 🏢 **PennState University** (15 positions)
-
-| Role | Location | Posted | Level | Apply |
-|------|----------|--------|-------|-------|
-| Part-Time Research Support | State Colleg | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support_REQ_0000074058-2) |
-| Postdoctoral Researcher | State Colleg | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher_REQ_0000073974-1) |
-| Postdoctoral Scholar-Neutrino Physi... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1) |
-| Data Scientist / Machine Learning E... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Data-Scientist---Machine-Learning-Engineer_REQ_0000072889-2) |
-| Hamer Center for Community Design S... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Hamer-Center-for-Community-Design-Part-time-Support_REQ_0000068837-1) |
-| Part-Time Research Assistant/Progra... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000069003-1) |
-| Research Associate | State Colleg | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000072097-1) |
-| Postdoctoral Scholar - Experimental... | State Colleg | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Experimental-Ultrahigh-Energy-Neutrino---PUEO-Experiment_REQ_0000043392-2) |
-| Postdoctoral Researcher - Survey Sc... | State Colleg | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Survey-Science-Time-Domain-Astronomy_REQ_0000072795-2) |
-| Postdoctoral Scholar | State Colleg | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
-| Postdoctoral Scholar - Department o... | State Colleg | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Department-of-Physics---Wissel-Research-Group_REQ_0000045022-1) |
-| Postdoctoral Scholar | State Colleg | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000053661) |
-| Physics Department - Postdoctoral S... | State Colleg | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Department-of-Physics---Postdoctoral-Scholar---LIGO_REQ_0000062439-1) |
-| Postdoctoral Scholar - Experimental... | State Colleg | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Experimental-Condensed-Matter-Physics-_REQ_0000050105) |
-| Postdoctoral Scholar - Experimental... | State Colleg | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Exploring-Quantum-Phenomena_REQ_0000056784-1) |
 
 #### 🏢 **AG Technologies** (42 positions)
 
@@ -1369,8 +1369,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Zip** | Software Engineer - Identity | SF, Location | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/zip/39eb8bf6-0876-4c14-bd5a-bb5bfe5705d9/application) |
 | 🏢 **Berkshire Hathaway Energy** | Tech 1 – Mapping | Las Vegas, N | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003893) |
 | 🏢 **Berkshire Hathaway Energy** | Technician - Mapping I | Reno, NV | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10002986) |
-| 🏢 **LOTTE BIOLOGICS** | Associate Data Engineer | East Syracus | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/4895261008) |
-| 🏢 **OneMain Financial** | Data Science Analyst | Charlotte, N | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530) |
+| 🏢 **LOTTE BIOLOGICS** | Associate Data Engineer | East Syracus | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/4895261008) |
+| 🏢 **OneMain Financial** | Data Science Analyst | Charlotte, N | 4w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2508-47530) |
 | 🏢 **City of Amarillo** | GIS Analyst 1 | Amarillo, TX | 4w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/GIS-ANALYST-I_JR2267) |
 | 🏢 **Corning** | Ion Exchange Development Technician | Elmira, NY | 4w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://corningjobs.corning.com/job/Corning-Ion-Exchange-Development-Technician-NY-14831/1345630700/?ats=successfactors) |
 | 🏢 **CoStar Group** | Associate Machine Learning Engineer | Sunnyvale, C | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale/Associate-Machine-Learning-Engineer_R37862) |
@@ -1889,7 +1889,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 40 current opportunities from 36 companies**
+**🎯 39 current opportunities from 35 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
