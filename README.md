@@ -131,7 +131,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🚀 **SpaceX** | Software Engineer - Starlink Ground... | Redmond, WA | 11h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8342599002) |
 | 🏢 **The Boeing Company** | Software Engineer-Test & Verificati... | St Charles,  | 6d ago | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Test---Verification--Associate--Mid-Level--Senior-_JR2025488587-1) |
 | 🏢 **The Boeing Company** | Software Engineer-Simulation Mid Le... | St Charles,  | 6d ago | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Simulation--Associate--Mid-Level--Senior-_JR2025488590-1) |
-| 🏢 **Peraton** | Junior Software Engineer | Hill AFB, UT | 16h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | Junior Software Engineer | Hill AFB, UT | 17h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Data Scientist | Reston, VA | 6d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
 
 ### 🏢 **Other Companies** (35 positions)
@@ -175,6 +175,133 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Blackhawk Network Holdings** | Software Engineer | Coppell, TX | 6d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-blackhawknetwork.icims.com/jobs/24910/job?mobile=true&needsRedirect=false) |
 
 
+
+---
+
+## Insights on the Repo
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
+
+### 🏢 Top Companies (by current openings)
+
+- **Peraton**: 2 positions
+- **ERM**: 2 positions
+- **University of Chicago**: 2 positions
+- **The Boeing Company**: 2 positions
+- **AeroVironment**: 2 positions
+- **Voyager Technologies**: 2 positions
+- **Pattern Data**: 1 position
+- **Rubrik**: 1 position
+- **SpaceX**: 1 position
+- **Wash U**: 1 position
+- **Citizen Health**: 1 position
+- **Jerry**: 1 position
+- **The Job Sauce**: 1 position
+- **Nordstrom**: 1 position
+- **Western Digital**: 1 position
+
+---
+
+### 📈 Experience Breakdown
+
+| Level               | Count | Percentage | Top Companies                     |
+|---------------------|-------|------------|-----------------------------------|
+| 🟢 Entry Level & New Grad | 12 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 26 | 63% | 1-2 years of experience |
+| 🔴 Manager | 3 | 8% | 2+ years of experience |
+
+---
+
+### 🌍 Top Locations
+- **SF, Locations**: 3 positions
+- **Seattle, WA**: 3 positions
+- **Remote in USA, Locations**: 2 positions
+- **Palo Alto, CA**: 2 positions
+- **NYC, Locations**: 2 positions
+- **Tampa, FL**: 2 positions
+- **Chicago, IL**: 2 positions
+- **St Charles, MO**: 2 positions
+
+---
+
+### 🔮 Why Software Engineers Choose Our Job Board
+
+✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 35 companies.
+<br>
+✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+<br>
+✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
+<br>
+✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
+<br>
+✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
+<br>
+✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
+
+---
+
+## Job Hunt Tips That Actually Work
+
+<img src="images/tips.png" alt="No fluff — just strategies that help.">
+
+### 🔍 **Research Before Applying**
+- Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
+- Check recent tech decisions: Review their engineering blog for stack changes or new initiatives.
+- Verify visa requirements: Look for 🇺🇸 indicators or "US persons only" in the job description.
+- Use this [100% ATS-compliant resume template](#).
+
+### 📄 **Resume Best Practices**
+- Mirror their tech stack:  Copy exact keywords from job post (React, Django, Node.js, etc.)..
+- Lead with business impact: “Improved app speed by 30%” > “Used JavaScript.”
+- Show product familiarity: Example: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
+- Read this [guide on resume tweaks](#).
+
+### 🎯 **Interview Best Practices**
+- Ask domain questions: "How do you handle CI/CD at scale?" shows real research.
+- Prepare case stories: "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
+- Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
+- Review this [interview guide](#) for behavioral, technical, and curveball questions.
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
+
+---
+
+## Become a Contributor
+
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+
+Add new jobs! See the [contributing guide](CONTRIBUTING.md).
+
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 
 ---
@@ -504,7 +631,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | General Hire: Machine Learning Engi... | San Jose, CA | 1mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7516000253213133074) |
 | Machine Learning Engineer - CV/NLP/... | San Jose, CA | 1mo ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7517108164819454216) |
 | Graduate Software Engineer - Data A... | San Jose, CA | 1mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7516653837511346450) |
-| Machine Learning Engineer Graduate ... | San Jose, CA | 1mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7534982208201984274) |
+| Machine Learning Engineer Graduate ... | San Jose, CA | 2mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7534982208201984274) |
 | Software Engineer Graduate - Moneti... | San Jose, CA | 2mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7535599554659010834) |
 | Software Engineer Graduate - Ads In... | San Jose, CA | 2mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7541512820980418824) |
 | Graduate Algorithm Engineer - Intel... | San Jose, CA | 2mo ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://lifeattiktok.com/search/7543781253578836242) |
@@ -1755,133 +1882,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 
-
----
-
-## Insights on the Repo
-
-<img src="images/insights.png" alt="Insights pulled from current listings.">
-
-### 🏢 Top Companies (by current openings)
-
-- **Peraton**: 2 positions
-- **ERM**: 2 positions
-- **University of Chicago**: 2 positions
-- **The Boeing Company**: 2 positions
-- **AeroVironment**: 2 positions
-- **Voyager Technologies**: 2 positions
-- **Pattern Data**: 1 position
-- **Rubrik**: 1 position
-- **SpaceX**: 1 position
-- **Wash U**: 1 position
-- **Citizen Health**: 1 position
-- **Jerry**: 1 position
-- **The Job Sauce**: 1 position
-- **Nordstrom**: 1 position
-- **Western Digital**: 1 position
-
----
-
-### 📈 Experience Breakdown
-
-| Level               | Count | Percentage | Top Companies                     |
-|---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 12 | 29% | No or minimal experience |
-| 🟡 Beginner & Early Career | 26 | 63% | 1-2 years of experience |
-| 🔴 Manager | 3 | 8% | 2+ years of experience |
-
----
-
-### 🌍 Top Locations
-- **SF, Locations**: 3 positions
-- **Seattle, WA**: 3 positions
-- **Remote in USA, Locations**: 2 positions
-- **Palo Alto, CA**: 2 positions
-- **NYC, Locations**: 2 positions
-- **Tampa, FL**: 2 positions
-- **Chicago, IL**: 2 positions
-- **St Charles, MO**: 2 positions
-
----
-
-### 🔮 Why Software Engineers Choose Our Job Board
-
-✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 35 companies.
-<br>
-✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
-<br>
-✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
-<br>
-✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
-<br>
-✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
-<br>
-✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
-
----
-
-## Job Hunt Tips That Actually Work
-
-<img src="images/tips.png" alt="No fluff — just strategies that help.">
-
-### 🔍 **Research Before Applying**
-- Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
-- Check recent tech decisions: Review their engineering blog for stack changes or new initiatives.
-- Verify visa requirements: Look for 🇺🇸 indicators or "US persons only" in the job description.
-- Use this [100% ATS-compliant resume template](#).
-
-### 📄 **Resume Best Practices**
-- Mirror their tech stack:  Copy exact keywords from job post (React, Django, Node.js, etc.)..
-- Lead with business impact: “Improved app speed by 30%” > “Used JavaScript.”
-- Show product familiarity: Example: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- Read this [guide on resume tweaks](#).
-
-### 🎯 **Interview Best Practices**
-- Ask domain questions: "How do you handle CI/CD at scale?" shows real research.
-- Prepare case stories: "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
-- Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
-- Review this [interview guide](#) for behavioral, technical, and curveball questions.
-
-<p align="center">
-  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
-</p>
-
----
-
-## Become a Contributor
-
-<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
-
-Add new jobs! See the [contributing guide](CONTRIBUTING.md).
-
-### Contributing Guide
-#### 🎯 Roles We Accept
-- Located in the US, Canada, or Remote.
-- Not already in our database.
-- Currently accepting applications.
-
-#### 🚀 How to Add Jobs
-1. Create a new issue.
-2. Select the "New Job" template.
-3. Fill out and submit the form.
-   > Submit separate issues for each position, even from the same company.
-
-#### ✏️ How to Update Jobs
-1. Copy the job URL to edit.
-2. Create a new issue.
-3. Select the "Edit Job" template.
-4. Paste the URL and describe changes.
-
-#### ⚡ What Happens Next
-- Our team reviews within 24-48 hours.
-- Approved jobs are added to the main list.
-- The README updates automatically via script.
-- Contributions go live at the next daily refresh (9 AM UTC).
-- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ---
 
