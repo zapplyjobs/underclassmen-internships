@@ -89,26 +89,26 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Program | Application Link |
 |---------|---------|------------------|
-| 🟢 **Google** | STEP Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.google.com/students/)</p> |
-| 🟦 **Microsoft** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.microsoft.com/students)</p> |
-| 🔵 **Meta** | Software Engineer Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.meta.com/students)</p> |
-| 📦 **Amazon** | SDE Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/internships)</p> |
-| 🍎 **Apple** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/students)</p> |
-| 🎬 **Netflix** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.netflix.com/students)</p> |
-| ⚡ **Tesla** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.tesla.com/internships)</p> |
-| 🎮 **Nvidia** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.nvidia.com/internships)</p> |
-| 💳 **Stripe** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://stripe.com/jobs/internships)</p> |
-| ₿ **Coinbase** | Software Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://coinbase.com/careers/students)</p> |
+| 🟢 **Google** | STEP Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://buildyourfuture.withgoogle.com/programs/step)</p> |
+| 🟦 **Microsoft** | Explore Microsoft Program | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://careers.microsoft.com/v2/global/en/universityinternship)</p> |
+| 🔵 **Meta** | Software Engineer Intern | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://www.metacareers.com/careerprograms/students)</p> |
+| 📦 **Amazon** | SDE Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en/teams/internships-for-students)</p> |
+| 🍎 **Apple** | Engineering & Technology Intern | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN)</p> |
+| 🎬 **Netflix** | Software Engineer Intern | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://jobs.netflix.com/careers/internships)</p> |
+| ⚡ **Tesla** | Engineering Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://www.tesla.com/careers/internships)</p> |
+| 🎮 **Nvidia** | Ignite & SWE Internship | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)</p> |
+| 💳 **Stripe** | Software Engineer Intern | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://stripe.com/jobs/university)</p> |
+| ₿ **Coinbase** | Software Engineer Intern | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](https://www.coinbase.com/internships)</p> |
 
 ### 📚 **Top Software Internship Resources**
 
 | Platform | Type | Description | Link |
 |----------|------|-------------|------|
-| **👼 AngelList Internships** | Job Board | Startup internships and entry-level positions | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://angel.co/jobs#internships) |
-| **🔗 LinkedIn Student Jobs** | Platform | Professional network for student opportunities | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://linkedin.com/jobs/student-jobs) |
-| **🔵 Indeed Internships** | Job Board | Comprehensive internship search engine | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://indeed.com/q-software-engineering-intern-jobs.html) |
-| **🏢 Glassdoor Internships** | Job Board | Internships with company reviews and salary data | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://glassdoor.com/Job/software-engineer-intern-jobs-SRCH_KO0,23.htm) |
-| **🏫 University Career Centers** | Resource | National Association of Colleges and Employers | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://nace.org) |
+| **🚀 Wellfound (AngelList)** | Job Board | Startup jobs with salary & equity transparency | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://wellfound.com/jobs) |
+| **🔗 LinkedIn Student Jobs** | Platform | Professional network for student opportunities | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://www.linkedin.com/jobs/student-jobs) |
+| **🔵 Indeed Internships** | Job Board | Comprehensive internship search engine | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://www.indeed.com/q-software-engineering-intern-jobs.html) |
+| **🏢 Glassdoor Internships** | Job Board | Internships with company reviews and salary data | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://www.glassdoor.com/Job/software-engineering-intern-jobs-SRCH_KO0,27.htm) |
+| **🎓 NACE Career Resources** | Resource | National Association of Colleges and Employers | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](https://www.naceweb.org/internships) |
 
 
 
@@ -138,13 +138,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Pattern Data** | Software Engineer 1 | Remote in US | 8h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/patterndata/jobs/5012589007) |
-| 🏢 **Rubrik** | Software Engineer - Distributed Sys... | Palo Alto, C | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028) |
+| 🏢 **Pattern Data** | Software Engineer 1 | Remote in US | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/patterndata/jobs/5012589007) |
+| 🏢 **Rubrik** | Software Engineer - Distributed Sys... | Palo Alto, C | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028) |
 | 🏢 **Wash U** | Environmental Health & Safety Data ... | St. Louis, M | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 10h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application) |
-| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, C | 10h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application) |
-| 🏢 **The Job Sauce** | Software Engineer | SF, Location | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application) |
-| 🏢 **Nordstrom** | Data Analyst 1 - Nordstrom Media Ne... | Seattle, WA | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-1--Nordstrom-Media-Network--Hybrid--Seattle-_R-805780-1) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 11h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application) |
+| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, C | 11h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application) |
+| 🏢 **The Job Sauce** | Software Engineer | SF, Location | 11h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application) |
+| 🏢 **Nordstrom** | Data Analyst 1 - Nordstrom Media Ne... | Seattle, WA | 11h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-1--Nordstrom-Media-Network--Hybrid--Seattle-_R-805780-1) |
 | 🏢 **Western Digital** | Early Career Talent - Applications ... | Fremont, CA | 11h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000100914956) |
 | 🏢 **American Institutes for Research** | Data Scientist Assistant | Carrboro, NC | 16h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5046338008) |
 | 🏢 **MUFG** | Machine Learning Engineer - Data Pi... | NYC, Locatio | 16h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Machine-Learning-Engineer---Data-Pipelines--Analyst_10074067-WD) |
