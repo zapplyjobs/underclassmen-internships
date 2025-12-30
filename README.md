@@ -212,14 +212,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 652 | 1590% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 653 | 1593% | No or minimal experience |
 | 🟡 Beginner & Early Career | 774 | 1888% | 1-2 years of experience |
 | 🔴 Manager         | 46 | 112% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **San Jose, CA**: 200 positions
+- **San Jose, CA**: 201 positions
 - **Seattle, WA**: 93 positions
 - **NYC, Locations**: 63 positions
 - **Remote in USA, Locations**: 52 positions
@@ -231,7 +231,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (901 positions)
+#### 💻 Software Engineering (900 positions)
 🏢 Pattern Data • 🚀 SpaceX • 🏢 Wash U
 
 #### 🧠 Machine Learning & AI (230 positions)
@@ -252,13 +252,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 #### 🌐 Full Stack Development (30 positions)
 
 
-#### 📱 Mobile Development (15 positions)
+#### 📱 Mobile Development (16 positions)
 
 
 #### 🛡️ Security Engineering (13 positions)
 
 
-#### 🎨 Design (11 positions)
+#### 🎨 Design (12 positions)
 
 
 #### 📋 Product Management (1 positions)
