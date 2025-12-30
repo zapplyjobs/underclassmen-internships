@@ -148,8 +148,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Pattern Data** | Software Engineer 1 | Remote in US | 8h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/patterndata/jobs/5012589007) |
 | 🏢 **Rubrik** | Software Engineer - Distributed Sys... | Palo Alto, C | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028) |
 | 🏢 **Wash U** | Environmental Health & Safety Data ... | St. Louis, M | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800) |
-| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 9h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application) |
-| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, C | 9h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application) |
+| 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 10h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application) |
+| 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, C | 10h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application) |
 | 🏢 **The Job Sauce** | Software Engineer | SF, Location | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application) |
 | 🏢 **Nordstrom** | Data Analyst 1 - Nordstrom Media Ne... | Seattle, WA | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-1--Nordstrom-Media-Network--Hybrid--Seattle-_R-805780-1) |
 | 🏢 **Western Digital** | Early Career Talent - Applications ... | Fremont, CA | 10h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000100914956) |
@@ -228,24 +228,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Tampa, FL**: 2 positions
 - **Chicago, IL**: 2 positions
 - **St Charles, MO**: 2 positions
-
----
-
-## 🔍 Filter by Role Category
-#### 💻 Software Engineering (28 positions)
-🏢 Pattern Data • 🚀 SpaceX • 🏢 Wash U
-
-#### 📊 Data Science & Analytics (5 positions)
-🏢 Nordstrom • 🏢 American Institutes for Research • 🏢 Certik
-
-#### 🧠 Machine Learning & AI (4 positions)
-🏢 MUFG • 🏢 Internet Brands • 🏢 Analog Devices
-
-#### ☁️ DevOps & Infrastructure (2 positions)
-🏢 Rubrik • 🏢 Accenture
-
-#### ⚙️ Backend Development (2 positions)
-🏢 Fanatics • 🏢 Gallup
 
 ---
 
