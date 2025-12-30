@@ -145,7 +145,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Pattern Data** | Software Engineer 1 | Remote in US | 7h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/patterndata/jobs/5012589007) |
+| 🏢 **Pattern Data** | Software Engineer 1 | Remote in US | 8h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/patterndata/jobs/5012589007) |
 | 🏢 **Rubrik** | Software Engineer - Distributed Sys... | Palo Alto, C | 8h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028) |
 | 🏢 **Wash U** | Environmental Health & Safety Data ... | St. Louis, M | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 9h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application) |
@@ -191,22 +191,22 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 Top Companies (by current openings)
 
-- **Peraton**: 2 positions
-- **ERM**: 2 positions
-- **University of Chicago**: 2 positions
-- **The Boeing Company**: 2 positions
-- **AeroVironment**: 2 positions
-- **Voyager Technologies**: 2 positions
-- **Pattern Data**: 1 positions
-- **Rubrik**: 1 positions
-- **SpaceX**: 1 positions
-- **Wash U**: 1 positions
-- **Citizen Health**: 1 positions
-- **Jerry**: 1 positions
-- **The Job Sauce**: 1 positions
-- **Nordstrom**: 1 positions
-- **Western Digital**: 1 positions
-  
+- 🏢 Peraton: 2 positions
+- 🏢 ERM: 2 positions
+- 🏢 University of Chicago: 2 positions
+- 🏢 The Boeing Company: 2 positions
+- 🏢 AeroVironment: 2 positions
+- 🏢 Voyager Technologies: 2 positions
+- 🏢 Pattern Data: 1 positions
+- 🏢 Rubrik: 1 positions
+- 🚀 [SpaceX](https://spacex.com/careers): 1 positions
+- 🏢 Wash U: 1 positions
+- 🏢 Citizen Health: 1 positions
+- 🏢 Jerry: 1 positions
+- 🏢 The Job Sauce: 1 positions
+- 🏢 Nordstrom: 1 positions
+- 🏢 Western Digital: 1 positions
+
 ---
 
 ## 📈 Experience Breakdown
