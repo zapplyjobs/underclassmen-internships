@@ -74,7 +74,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 - **🔥 Current Positions**: 41
-- **🏢 Companies**: 35 companies
+- **🏢 Companies**: 625 companies
 - **📅 Last Updated**: December 30, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -206,10 +206,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-## 📈 Experience Breakdown
-
-| Level               | Count | Percentage | Top Companies                     |
-|---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 12 | 29% | No or minimal experience |
 | 🟡 Beginner & Early Career | 26 | 63% | 1-2 years of experience |
 | 🔴 Manager | 3 | 8% | 2+ years of experience |
@@ -230,7 +226,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 250 companies.
+✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 35 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -311,7 +307,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 41 current opportunities from 261 companies**
+**🎯 41 current opportunities from 35 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
