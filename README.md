@@ -195,16 +195,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 🟢 [Google](https://careers.google.com) (0) • 🍎 [Apple](https://jobs.apple.com) (0) • 🟦 [Microsoft](https://careers.microsoft.com) (0) • 📦 [Amazon](https://amazon.jobs) (0) • 🔵 [Meta](https://careers.meta.com) (0) • 🎬 [Netflix](https://jobs.netflix.com) (0) • ⚡ [Tesla](https://careers.tesla.com) (0) • 🎮 [Nvidia](https://careers.nvidia.com) (0)
 
 #### 🦄 Unicorn Startups
-🚀 [SpaceX](https://spacex.com/careers) (1)
+🤖 [OpenAI](https://openai.com/careers) (0) • 🧠 [Anthropic](https://anthropic.com/careers) (0) • 💳 [Stripe](https://stripe.com/jobs) (0) • 📊 [Databricks](https://databricks.com/careers) (0) • ❄️ [Snowflake](https://careers.snowflake.com) (0) • 👁️ [Palantir](https://palantir.com/careers) (0) • 🚀 [SpaceX](https://spacex.com/careers) (1) • 🎨 [Figma](https://figma.com/careers) (0) • 📝 [Notion](https://notion.so/careers) (0) • 🎮 [Discord](https://discord.com/careers) (0)
 
 #### 💰 Fintech Leaders
-*No current openings*
+₿ [Coinbase](https://coinbase.com/careers) (0) • 📈 [Robinhood](https://careers.robinhood.com) (0) • 🟫 [Square](https://careers.block.xyz) (0) • 🏦 [Plaid](https://plaid.com/careers) (0) • 💰 [Affirm](https://affirm.com/careers) (0)
 
 #### 🎮 Gaming & Entertainment
-*No current openings*
+🎮 [Epic Games](https://epicgames.com/careers) (0) • ⚔️ [Riot Games](https://riotgames.com/careers) (0) • 🔷 [Unity](https://unity.com/careers) (0) • 🟩 [Roblox](https://careers.roblox.com) (0) • 🎵 [Spotify](https://careers.spotify.com) (0) • 🎬 [TikTok](https://careers.tiktok.com) (0) • 👻 [Snap](https://snap.com/careers) (0) • 📌 [Pinterest](https://careers.pinterest.com) (0) • 🤖 [Reddit](https://reddit.com/careers) (0) • 🎮 [Twitch](https://twitch.tv/jobs) (0)
 
 #### ☁️ Enterprise & Cloud
-*No current openings*
+☁️ [Salesforce](https://careers.salesforce.com) (0) • 🎨 [Adobe](https://careers.adobe.com) (0) • 🔴 [Oracle](https://careers.oracle.com) (0) • 🔵 [IBM](https://careers.ibm.com) (0) • 🔷 [Intel](https://jobs.intel.com) (0) • 🔶 [AMD](https://careers.amd.com) (0) • 📱 [Qualcomm](https://careers.qualcomm.com) (0) • ☁️ [VMware](https://careers.vmware.com) (0) • ⚡ [Atlassian](https://atlassian.com/careers) (0) • 🔧 [ServiceNow](https://careers.servicenow.com) (0) • 📅 [Workday](https://workday.com/careers) (0) • 📹 [Zoom](https://careers.zoom.us) (0) • 💬 [Slack](https://slack.com/careers) (0) • 📋 [Asana](https://asana.com/careers) (0) • 📊 [Monday.com](https://monday.com/careers) (0)
 
 ---
 
