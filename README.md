@@ -150,8 +150,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Wash U** | Environmental Health & Safety Data ... | St. Louis, M | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Environmental-Health---Safety-Data-Management-Specialist--Hybrid-_JR91800) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 9h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/5233e464-0a9b-4efd-979a-97ef53d1080a/application) |
 | 🏢 **Jerry** | Software Engineer - Entry | Palo Alto, C | 9h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/jerry.ai/8e2623d7-b689-40de-a94b-3f79f7d26474/application) |
-| 🏢 **The Job Sauce** | Software Engineer | SF, Location | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application) |
-| 🏢 **Nordstrom** | Data Analyst 1 - Nordstrom Media Ne... | Seattle, WA | 9h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-1--Nordstrom-Media-Network--Hybrid--Seattle-_R-805780-1) |
+| 🏢 **The Job Sauce** | Software Engineer | SF, Location | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/The%20Job%20Sauce/7b706a15-cd92-4384-ba1e-fe97586b2b0a/application) |
+| 🏢 **Nordstrom** | Data Analyst 1 - Nordstrom Media Ne... | Seattle, WA | 10h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Data-Analyst-1--Nordstrom-Media-Network--Hybrid--Seattle-_R-805780-1) |
 | 🏢 **Western Digital** | Early Career Talent - Applications ... | Fremont, CA | 10h ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000100914956) |
 | 🏢 **American Institutes for Research** | Data Scientist Assistant | Carrboro, NC | 15h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5046338008) |
 | 🏢 **MUFG** | Machine Learning Engineer - Data Pi... | NYC, Locatio | 15h ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Machine-Learning-Engineer---Data-Pipelines--Analyst_10074067-WD) |
@@ -191,21 +191,21 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 Top Companies (by current openings)
 
-- 🏢 [Peraton](https://www.google.com/search?q=Peraton%20careers): 2 positions
-- 🏢 [ERM](https://www.google.com/search?q=ERM%20careers): 2 positions
-- 🏢 [University of Chicago](https://www.google.com/search?q=University%20of%20Chicago%20careers): 2 positions
-- 🏢 [The Boeing Company](https://www.google.com/search?q=The%20Boeing%20Company%20careers): 2 positions
-- 🏢 [AeroVironment](https://www.google.com/search?q=AeroVironment%20careers): 2 positions
-- 🏢 [Voyager Technologies](https://www.google.com/search?q=Voyager%20Technologies%20careers): 2 positions
-- 🏢 [Pattern Data](https://www.google.com/search?q=Pattern%20Data%20careers): 1 positions
-- 🏢 [Rubrik](https://www.google.com/search?q=Rubrik%20careers): 1 positions
-- 🚀 [SpaceX](https://spacex.com/careers): 1 positions
-- 🏢 [Wash U](https://www.google.com/search?q=Wash%20U%20careers): 1 positions
-- 🏢 [Citizen Health](https://www.google.com/search?q=Citizen%20Health%20careers): 1 positions
-- 🏢 [Jerry](https://www.google.com/search?q=Jerry%20careers): 1 positions
-- 🏢 [The Job Sauce](https://www.google.com/search?q=The%20Job%20Sauce%20careers): 1 positions
-- 🏢 [Nordstrom](https://www.google.com/search?q=Nordstrom%20careers): 1 positions
-- 🏢 [Western Digital](https://www.google.com/search?q=Western%20Digital%20careers): 1 positions
+- **Peraton**: 2 positions
+- **ERM**: 2 positions
+- **University of Chicago**: 2 positions
+- **The Boeing Company**: 2 positions
+- **AeroVironment**: 2 positions
+- **Voyager Technologies**: 2 positions
+- **Pattern Data**: 1 position
+- **Rubrik**: 1 position
+- **SpaceX**: 1 position
+- **Wash U**: 1 position
+- **Citizen Health**: 1 position
+- **Jerry**: 1 position
+- **The Job Sauce**: 1 position
+- **Nordstrom**: 1 position
+- **Western Digital**: 1 position
 
 ---
 
