@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-74-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-26-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-75-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-27-blue?style=flat&logo=building)
 
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 26 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 27 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 27 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 28 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,8 +73,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 27 hot data-focused jobs
-- **🏢 Companies**: 26 companies
+- 🔥 **Current Positions:** 28 hot data-focused jobs
+- **🏢 Companies**: 27 companies
 - 📅 **Last Updated:** December 31, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -118,6 +118,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+### 🏢 **Top Tech** (1 positions)
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| ☁️ **Salesforce** | Software Engineering AMTS – College... | Indianapolis | 0h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1) |
+
 ### 🛡️ **Defense & Aerospace** (3 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
@@ -131,7 +137,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **KLA** | Software Engineer | Milpitas, CA | 11h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374) |
-| 🏢 **Varex Imaging Corporation** | Software Engineer | Salt Lake Ci | 18h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineer_R0005510) |
+| 🏢 **Varex Imaging Corporation** | Software Engineer | Salt Lake Ci | 19h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineer_R0005510) |
 | 🏢 **DuCharme, McMillen & Associates** | Associate Software Support - Java | Fort Wayne,  | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support--Java-_REQ293) |
 | 🏢 **Parsons** | C-UAS Test Analyst | Bluemont, VA | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/C-UAS-Test-Analyst_R175918-2) |
 | 🏢 **Pattern Data** | Software Engineer 1 | Remote in US | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/patterndata/jobs/5012589007) |
@@ -166,6 +172,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 Top Companies (by current openings)
 
 - **ERM**: 2 positions
+- **Salesforce**: 1 position
 - **KLA**: 1 position
 - **Varex Imaging Corporation**: 1 position
 - **DuCharme, McMillen & Associates**: 1 position
@@ -179,7 +186,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Jerry**: 1 position
 - **The Job Sauce**: 1 position
 - **Western Digital**: 1 position
-- **American Institutes for Research**: 1 position
 
 ---
 
@@ -187,8 +193,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 11 | 41% | No or minimal experience |
-| 🟡 Beginner & Early Career | 15 | 56% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 12 | 43% | No or minimal experience |
+| 🟡 Beginner & Early Career | 15 | 54% | 1-2 years of experience |
 | 🔴 Manager | 1 | 3% | 2+ years of experience |
 
 ---
@@ -198,16 +204,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Palo Alto, CA**: 2 positions
 - **SF, Locations**: 2 positions
 - **NYC, Locations**: 2 positions
+- **Indianapolis, IN**: 1 positions
 - **Milpitas, CA**: 1 positions
 - **Salt Lake City, UT**: 1 positions
 - **Fort Wayne, IN**: 1 positions
-- **Washington, DC**: 1 positions
 
 ---
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 27 verified roles for Software Engineering roles from 26 companies.
+✅ **100% Real Jobs**: 28 verified roles for Software Engineering roles from 27 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -292,7 +298,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1447 positions
-- **🏢 Companies**: 26 companies
+- **🏢 Companies**: 27 companies
 - **⭐ FAANG+ Jobs & Internships**: 35 positions
 
 ### 🏢 **FAANG+** (32 positions)
@@ -1878,7 +1884,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 27 current opportunities from 26 companies**
+**🎯 28 current opportunities from 27 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
