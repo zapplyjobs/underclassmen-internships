@@ -122,7 +122,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| ☁️ **Salesforce** | Software Engineering AMTS – College... | Indianapolis | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1) |
+| ☁️ **Salesforce** | Software Engineering AMTS – College... | Indianapolis | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1) |
 
 ### 🛡️ **Defense & Aerospace** (3 positions)
 
@@ -138,7 +138,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |---------|------|----------|--------|-------|-------|
 | 🏢 **KLA** | Software Engineer | Milpitas, CA | 13h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374) |
 | 🏢 **Varex Imaging Corporation** | Software Engineer | Salt Lake Ci | 20h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineer_R0005510) |
-| 🏢 **DuCharme, McMillen & Associates** | Associate Software Support - Java | Fort Wayne,  | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support--Java-_REQ293) |
+| 🏢 **DuCharme, McMillen & Associates** | Associate Software Support - Java | Fort Wayne,  | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support--Java-_REQ293) |
 | 🏢 **Parsons** | C-UAS Test Analyst | Bluemont, VA | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/C-UAS-Test-Analyst_R175918-2) |
 | 🏢 **Pattern Data** | Software Engineer 1 | Remote in US | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/patterndata/jobs/5012589007) |
 | 🏢 **Rubrik** | Software Engineer - Distributed Sys... | Palo Alto, C | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.6528028?gh_jid=6528028) |
