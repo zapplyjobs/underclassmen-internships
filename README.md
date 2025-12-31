@@ -231,19 +231,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
 - Check recent tech decisions: Review their engineering blog for stack changes or new initiatives.
 - Verify visa requirements: Look for 🇺🇸 indicators or "US persons only" in the job description.
-- Use this [100% ATS-compliant resume template](#).
+- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
 ### 📄 **Resume Best Practices**
 - Mirror their tech stack:  Copy exact keywords from job post (React, Django, Node.js, etc.)..
 - Lead with business impact: “Improved app speed by 30%” > “Used JavaScript.”
 - Show product familiarity: Example: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- Read this [guide on resume tweaks](#).
+- [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
 ### 🎯 **Interview Best Practices**
 - Ask domain questions: "How do you handle CI/CD at scale?" shows real research.
 - Prepare case stories: "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
 - Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
-- Review this [interview guide](#) for behavioral, technical, and curveball questions.
+- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
 <p align="center">
   <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
