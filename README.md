@@ -1880,8 +1880,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 
 
----
-
 <div align="center">
 
 **🎯 28 current opportunities from 27 companies**
