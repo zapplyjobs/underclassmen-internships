@@ -295,10 +295,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1448 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1446 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1448 positions
+- **📁 Total Jobs**: 1446 positions
 - **🏢 Companies**: 29 companies
 - **⭐ FAANG+ Jobs & Internships**: 34 positions
 
@@ -867,7 +867,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (974 positions)
+### 🏢 **Other Companies** (972 positions)
 
 #### 🏢 **PennState University** (16 positions)
 
@@ -1210,7 +1210,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **General Motors** | Applied Scientist - AI & Robotics (... | Mountain Vie | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Applied-Scientist---AI---Robotics--PhD----Early-Career_JR-202523975) |
 | 🏢 **General Motors** | Machine Learning Engineer - AI Rese... | Mountain Vie | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114) |
 | 🏢 **Insulet Corporation** | Associate Software Development Engi... | Acton, MA | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-Development-Engineer-in-Test--Hybrid---Acton--MA-_REQ-2025-14278) |
-| 🏢 **Insulet Corporation** | Associate Project Engineer - Acton ... | Acton, MA | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Associate-Project-Engineer--Hybrid---Acton--MA-_REQ-2025-13447) |
 | 🏢 **General Dynamics Mission Systems** | Junior Embedded Software Engineer (... | Dedham, MA | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/69725/junior-embedded-software-engineer-%28cleared%29/job) |
 | 🏢 **General Dynamics Mission Systems** | Entry Level Engineer | Scottsdale,  | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer 1 - Entry Level | Pittsfield,  | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false) |
@@ -1671,7 +1670,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Glide** | Full Stack Engineer – Early Career | New York, NY | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d) |
 | 🏢 **Glide** | Junior Full Stack Engineer - Fronte... | NYC, Locatio | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application) |
 | 🏢 **Divergent Technologies** | Software Engineer – New Grads: Fall... | Carson, CA | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/divergent/jobs/4954950008) |
-| 🏢 **Applecart** | Research Specialist | NYC, Locatio | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.applecart.co/careers?gh_jid=7498160003) |
 | 🏢 **Fireworks AI** | Software Engineer – Early Career - ... | San Carlos,  | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/fireworksai/jobs/4036755009) |
 | 🏢 **Appian** | Product Engineer | McLean, VA | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/7287884) |
 | 🏢 **Appian** | Associate Business Applications Eng... | McLean, VA | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/7272540) |
