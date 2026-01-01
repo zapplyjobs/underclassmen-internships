@@ -122,7 +122,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| ☁️ **Salesforce** | Software Engineering AMTS – College... | Indianapolis | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1) |
+| ☁️ **Salesforce** | Software Engineering AMTS – College... | Indianapolis | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Software-Engineering-AMTS--College-Grad-_JR322433-1) |
 
 ### 🛡️ **Defense & Aerospace** (3 positions)
 
@@ -136,8 +136,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **DaVita** | Medical Informatics Analyst | Denver, CO | 3h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Medical-Informatics-Analyst--IT-_R0435017) |
-| 🏢 **Chicago Trading Company** | Associate C++ Engineer | Chicago, IL | 5h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005) |
+| 🏢 **DaVita** | Medical Informatics Analyst | Denver, CO | 4h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Medical-Informatics-Analyst--IT-_R0435017) |
+| 🏢 **Chicago Trading Company** | Associate C++ Engineer | Chicago, IL | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4645115005) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application) |
 | 🏢 **Solace Health** | Associate Software Engineer – Colle... | San Carlos,  | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application) |
 | 🏢 **KLA** | Software Engineer | Milpitas, CA | 22h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374) |
@@ -1189,7 +1189,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Brookhaven Lab** | Postdoctoral Research Associate | Shirley, NY | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR102131) |
 | 🏢 **Brookhaven Lab** | Postdoctoral Research Associate - M... | Upton, NY | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bnl.wd1.myworkdayjobs.com/en-US/externa/job/Upton-NY/Machine-Learning-X-Ray-Spectroscopy_JR102174) |
 | 🏢 **Brookhaven Lab** | Postdoctoral Research Associate | Shirley, NY | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR101323) |
-| 🏢 **Brookhaven Lab** | Postdoc – Machine Learning | Shirley, NY | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/PostDoc---Machine-Learning_JR102052) |
+| 🏢 **Brookhaven Lab** | Postdoc – Machine Learning | Shirley, NY | 3mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/PostDoc---Machine-Learning_JR102052) |
 | 🏢 **USAA** | Data Engineer 1 | Plano, TX | 2w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-I_R0114228) |
 | 🏢 **Arch Capital Group** | Data Quality Analyst - Statistical ... | Morristown,  | 2w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://archgroup.wd1.myworkdayjobs.com/careers/job/Jersey-City-NJ-United-States-of-America/Data-Quality-Analyst--Statistical-Reporting_R25_1219) |
 | 🏢 **Arcadis** | Field Geologist | Clifton Park | 2w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36628) |
