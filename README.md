@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-75-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-28-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-76-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-29-blue?style=flat&logo=building)
 
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 28 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 28 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 29 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 29 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,8 +73,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 28 hot data-focused jobs
-- **🏢 Companies**: 28 companies
+- 🔥 **Current Positions:** 29 hot data-focused jobs
+- **🏢 Companies**: 29 companies
 - 📅 **Last Updated:** January 1, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -132,7 +132,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Peraton** | Junior Software Engineer | Hill AFB, UT | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false) |
 | 🏢 **CACI** | Entry/Mid Software Developer | Washington,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762) |
 
-### 🏢 **Other Companies** (24 positions)
+### 🏢 **Other Companies** (25 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -141,6 +141,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 14h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application) |
 | 🏢 **Solace Health** | Associate Software Engineer – Colle... | San Carlos,  | 14h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application) |
 | 🏢 **KLA** | Software Engineer | Milpitas, CA | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374) |
+| 🏢 **The Boyd Group** | Automotive Mobile ADAS Technician | Charleston,  | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/SC-Charleston-Folly-Rd---154011/Automotive-Mobile-ADAS-Technician_R055451) |
 | 🏢 **Varex Imaging Corporation** | Software Engineer | Salt Lake Ci | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineer_R0005510) |
 | 🏢 **DuCharme, McMillen & Associates** | Associate Software Support - Java | Fort Wayne,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support--Java-_REQ293) |
 | 🏢 **Parsons** | C-UAS Test Analyst | Bluemont, VA | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/C-UAS-Test-Analyst_R175918-2) |
@@ -177,6 +178,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Solace Health**: 1 position
 - **Salesforce**: 1 position
 - **KLA**: 1 position
+- **The Boyd Group**: 1 position
 - **Varex Imaging Corporation**: 1 position
 - **DuCharme, McMillen & Associates**: 1 position
 - **CACI**: 1 position
@@ -185,7 +187,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Rubrik**: 1 position
 - **SpaceX**: 1 position
 - **Wash U**: 1 position
-- **Jerry**: 1 position
 
 ---
 
@@ -193,9 +194,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 11 | 39% | No or minimal experience |
-| 🟡 Beginner & Early Career | 16 | 57% | 1-2 years of experience |
-| 🔴 Manager | 1 | 4% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 11 | 38% | No or minimal experience |
+| 🟡 Beginner & Early Career | 17 | 59% | 1-2 years of experience |
+| 🔴 Manager | 1 | 3% | 2+ years of experience |
 
 ---
 
@@ -213,7 +214,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 28 verified roles for Software Engineering roles from 28 companies.
+✅ **100% Real Jobs**: 29 verified roles for Software Engineering roles from 29 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -294,11 +295,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1448 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1449 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1448 positions
-- **🏢 Companies**: 28 companies
+- **📁 Total Jobs**: 1449 positions
+- **🏢 Companies**: 29 companies
 - **⭐ FAANG+ Jobs & Internships**: 34 positions
 
 ### 🏢 **FAANG+** (31 positions)
@@ -765,7 +766,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisc | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189) |
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisc | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application) |
 
-### 🛡️ **Defense & Aerospace** (64 positions)
+### 🛡️ **Defense & Aerospace** (65 positions)
 
 #### 🚀 **SpaceX** (16 positions)
 
@@ -821,6 +822,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Leidos** | Entry Level Graphics Software Devel... | Bethesda, MD | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 | 🏢 **Leidos** | GenAI Contact Center as a Service A... | Remote in US | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/GENAI-CCAS-Application-Developer_R-00170128) |
 | 🏢 **Peraton** | Data Scientist | Reston, VA | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162252/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | R&D Engineering Analyst | Bethesda, MD | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/158877/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Ju | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
 | 🏢 **Peraton** | Software Engineer 1 | Aurora, CO | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Senior Associate Systems Engineer | Odenton, MD | 2mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/160820/job?mobile=true&needsRedirect=false) |
@@ -1885,7 +1887,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 28 current opportunities from 28 companies**
+**🎯 29 current opportunities from 29 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
