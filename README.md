@@ -294,10 +294,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1448 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1447 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1448 positions
+- **📁 Total Jobs**: 1447 positions
 - **🏢 Companies**: 28 companies
 - **⭐ FAANG+ Jobs & Internships**: 35 positions
 
@@ -746,7 +746,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **IXL Learning** | Software Engineer | San Mateo, C | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
 | 🏢 **IXL Learning** | Software Engineer | San Mateo, C | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/careers?gh_jid=8128533002) |
 
-### 💰 **Financial & Fintech** (18 positions)
+### 💰 **Financial & Fintech** (17 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -760,7 +760,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 💰 **Affirm** | Software Engineer – Early Career | NYC, Locatio | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7485072003) |
 | 🏢 **BMO** | Software Engineer | Chicago, IL | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) |
 | 🏢 **Five Rings** | Software Developer | New York, NY | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008) |
-| 🏢 **M&T Bank** | Technology Development Program 2026... | Buffalo, NY | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Development-Program---ServiceNow_R80405) |
 | 🏢 **Citadel Securities** | Machine Learning Researcher | Miami, FL | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/) |
 | 🏢 **Citadel Securities** | C++ Software Engineer | Miami, FL | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadelsecurities.com/careers/details/c-software-engineer-4/) |
 | 🏢 **Citadel Securities** | Software Engineer – University Grad... | Miami, FL | 5mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
