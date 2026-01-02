@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-89-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-88-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-30-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 31 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 42 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 30 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 41 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,8 +73,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 42 hot data-focused jobs
-- **🏢 Companies**: 31 companies
+- 🔥 **Current Positions:** 41 hot data-focused jobs
+- **🏢 Companies**: 30 companies
 - **⭐ FAANG+ Jobs**: 12 premium opportunities
 - 📅 **Last Updated:** January 2, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -152,12 +152,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Peraton** | Junior Software Engineer | Hill AFB, UT | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162269/job?mobile=true&needsRedirect=false) |
 | 🏢 **CACI** | Entry/Mid Software Developer | Washington,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762) |
 
-### 🏢 **Other Companies** (26 positions)
+### 🏢 **Other Companies** (25 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Liberty Mutual** | Analyst 2 | Boston, MA | 5h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false) |
-| 🏢 **Cox** | Software Engineer 1 | Atlanta, GA | 12h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202570349) |
+| 🏢 **Liberty Mutual** | Analyst 2 | Boston, MA | 6h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-libertymutual.icims.com/jobs/72739/job?mobile=true&needsRedirect=false) |
+| 🏢 **Cox** | Software Engineer 1 | Atlanta, GA | 13h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202570349) |
 | 🏢 **National Renewable Energy Laboratory** | Director's Fellowship Postdoctoral ... | Golden, CO | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061) |
 | 🏢 **Rogers Behavioral Health** | Therapist - PHP/IOP | Oconomowoc,  | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Silver-Lake-North-Clinic-Oconomowoc-WI/Therapist---PHP-IOP_R5836) |
 | 🏢 **Aramark** | Java City – Hhs - AM Food Service W... | Arden, NC | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors) |
@@ -166,7 +166,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Molina Healthcare** | Analyst – Risk & Quality Reporting ... | Texas, Locat | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2035352) |
 | 🏢 **Citizen Health** | Early Career Software Engineer | SF, Location | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Citizen%20Health/7133dff5-e5a0-425b-81da-b6f78e78d944/application) |
 | 🏢 **Solace Health** | Associate Software Engineer – Colle... | San Carlos,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/solace/d7906c8c-395f-4d6b-8e64-e2c7be52b929/application) |
-| 🏢 **KLA** | Software Engineer | Milpitas, CA | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2533374) |
 | 🏢 **The Boyd Group** | Automotive Mobile ADAS Technician | Charleston,  | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/SC-Charleston-Folly-Rd---154011/Automotive-Mobile-ADAS-Technician_R055451) |
 | 🏢 **Freeform** | Materials Lab Technician | West Athens, | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7575047003) |
 | 🏢 **Varex Imaging Corporation** | Software Engineer | Salt Lake Ci | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Software-Engineer_R0005510) |
@@ -205,9 +204,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Citizen Health**: 1 position
 - **Solace Health**: 1 position
 - **Salesforce**: 1 position
-- **KLA**: 1 position
 - **The Boyd Group**: 1 position
 - **Freeform**: 1 position
+- **Varex Imaging Corporation**: 1 position
 
 ---
 
@@ -215,8 +214,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 8 | 19% | No or minimal experience |
-| 🟡 Beginner & Early Career | 34 | 81% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 8 | 20% | No or minimal experience |
+| 🟡 Beginner & Early Career | 33 | 80% | 1-2 years of experience |
 | 🔴 Manager | 0 | 0% | 2+ years of experience |
 
 ---
@@ -235,7 +234,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 42 verified roles for Software Engineering roles from 31 companies.
+✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 30 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -316,11 +315,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1426 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1425 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1426 positions
-- **🏢 Companies**: 31 companies
+- **📁 Total Jobs**: 1425 positions
+- **🏢 Companies**: 30 companies
 - **⭐ FAANG+ Jobs & Internships**: 33 positions
 
 ### 🏢 **FAANG+** (30 positions)
@@ -879,7 +878,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (961 positions)
+### 🏢 **Other Companies** (960 positions)
 
 #### 🏢 **University of Chicago** (11 positions)
 
@@ -1702,7 +1701,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Lawrence Berkeley National Laboratory** | Hoffman Distinguished Postdoctoral ... | Berkeley, CA | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105322) |
 | 🏢 **Valon** | Software Engineer – New Grad | SF, Location | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Valon/5348244b-763b-4ce7-8828-85575eba2a4c/application) |
 | 🏢 **Rogo** | Entry Level Engineer | NYC, Locatio | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rogo/ab1afca5-a96f-4ba7-8370-60817d8a38d1/application) |
-| 🏢 **Point72** | Software Engineer 2026 Graduate | NYC, Locatio | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8202068002) |
 | 🏢 **Nelnet** | Data Analyst I - Consumer Loan Anal... | Lincoln, NE | 2mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1) |
 | 🏢 **Capco** | FAST Configuration Analyst | Orlando, FL | 3mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7298016) |
 | 🏢 **Fanatics** | Software Engineer I | Remote in US | 3mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25033) |
@@ -1916,7 +1914,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 42 current opportunities from 31 companies**
+**🎯 41 current opportunities from 30 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
