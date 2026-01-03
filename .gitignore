@@ -1,5 +1,13 @@
-# Development
+# Claude Code configuration (contains machine-specific paths)
 .claude/
+CLAUDE.md
+NEXT_SESSION_START_HERE.md
+*SESSION*.md
+*HANDOFF*.md
+*AUDIT*.md
+*RESEARCH_FINDINGS*.md
+
+# Development
 .githooks/
 
 # OS files
