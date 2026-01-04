@@ -23,39 +23,53 @@ jobs:
 
     - name: Install dependencies
       run: |
-        npm install discord.js axios
+        npm install discord.js axios @zapply/job-board-shared
 
     - name: Syntax validation
       run: |
         echo "=== Validating JavaScript syntax ==="
         node --check .github/scripts/enhanced-discord-bot.js
         node --check .github/scripts/src/discord/config.js
-        node --check .github/scripts/src/routing/router.js
-        node --check .github/scripts/src/utils/job-normalizer.js
-        node --check .github/scripts/src/utils/job-formatters.js
-        node --check .github/scripts/src/data/posted-jobs-manager-v2.js
-        node --check .github/scripts/src/data/subscription-manager.js
+        node --check .github/scripts/job-fetcher/job-processor.js
+        node --check .github/scripts/src/data/loader.js
+        node --check .github/scripts/src/discord/poster.js
         echo "✅ All files passed syntax validation"
 
-    - name: Test module imports
+    - name: Test shared package imports
       run: |
-        echo "=== Testing module imports ==="
+        echo "=== Testing @zapply/job-board-shared imports ==="
         node -e "
-          const { CHANNEL_CONFIG } = require('./.github/scripts/src/discord/config');
-          const { getJobChannelDetails } = require('./.github/scripts/src/routing/router');
-          const { normalizeJob } = require('./.github/scripts/src/utils/job-normalizer');
-          const { formatPostedDate } = require('./.github/scripts/src/utils/job-formatters');
-          const PostedJobsManager = require('./.github/scripts/src/data/posted-jobs-manager-v2');
-          const SubscriptionManager = require('./.github/scripts/src/data/subscription-manager');
-          console.log('✅ All modules imported successfully');
+          const {
+            getJobChannelDetails, isTechRole, isNonTechRole, isAIRole, isDataScienceRole,
+            normalizeJob, formatPostedDate, cleanJobDescription,
+            PostedJobsManagerV2, SubscriptionManager, DiscordPostLogger,
+            retryWithBackoff, isRetryableError, discordApiCall
+          } = require('@zapply/job-board-shared');
+
+          // Verify all functions exist
+          if (typeof getJobChannelDetails !== 'function') throw new Error('getJobChannelDetails missing');
+          if (typeof normalizeJob !== 'function') throw new Error('normalizeJob missing');
+          if (typeof formatPostedDate !== 'function') throw new Error('formatPostedDate missing');
+          if (typeof PostedJobsManagerV2 !== 'function') throw new Error('PostedJobsManagerV2 missing');
+          if (typeof SubscriptionManager !== 'function') throw new Error('SubscriptionManager missing');
+
+          console.log('✅ All shared package imports working');
+        "
+
+    - name: Test local config imports
+      run: |
+        echo "=== Testing local config imports ==="
+        node -e "
+          const { CHANNEL_CONFIG, LOCATION_CHANNEL_CONFIG } = require('./.github/scripts/src/discord/config');
+          if (!CHANNEL_CONFIG) throw new Error('CHANNEL_CONFIG missing');
+          console.log('✅ Local config imports working');
         "
 
     - name: Test utility functions
       run: |
         echo "=== Testing utility functions ==="
         node -e "
-          const { normalizeJob } = require('./.github/scripts/src/utils/job-normalizer');
-          const { formatPostedDate, cleanJobDescription } = require('./.github/scripts/src/utils/job-formatters');
+          const { normalizeJob, formatPostedDate, cleanJobDescription } = require('@zapply/job-board-shared');
 
           // Test normalizeJob
           const testJob = {
@@ -71,9 +85,10 @@ jobs:
           const formatted = formatPostedDate('2025-01-01');
           if (typeof formatted !== 'string') throw new Error('formatPostedDate failed');
 
-          // Test cleanJobDescription
-          const cleaned = cleanJobDescription('Test <script>alert(1)</script> description');
-          if (cleaned.includes('script')) throw new Error('cleanJobDescription failed to sanitize');
+          // Test cleanJobDescription - cleans formatting metadata
+          const cleaned = cleanJobDescription('Category: Engineering. Level: Senior. Job description here');
+          if (cleaned.includes('Category:')) throw new Error('cleanJobDescription failed to clean metadata');
+          if (!cleaned.includes('Job description')) throw new Error('cleanJobDescription removed content');
 
           console.log('✅ All utility functions working correctly');
         "
@@ -85,6 +100,7 @@ jobs:
         echo "✅ ALL TESTS PASSED"
         echo "================================================"
         echo "- Syntax validation: PASS"
-        echo "- Module imports: PASS"
+        echo "- Shared package imports: PASS"
+        echo "- Local config imports: PASS"
         echo "- Utility functions: PASS"
         echo "================================================"
