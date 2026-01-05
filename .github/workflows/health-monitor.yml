@@ -1,0 +1,159 @@
+name: Pipeline Health Monitor
+
+on:
+  # Run after every job update
+  workflow_run:
+    workflows: ["Update Zapply Jobs"]
+    types:
+      - completed
+
+  # Run on schedule (every 6 hours as backup)
+  schedule:
+    - cron: '0 */6 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write  # To create issues for critical alerts
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Health Monitor
+        id: health
+        continue-on-error: true
+        run: |
+          node .github/scripts/health-monitor.js
+
+      - name: Upload Health Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: health-report-${{ github.run_number }}
+          path: .github/logs/health-report.json
+          retention-days: 30
+
+      - name: Create Issue for Critical Problems
+        if: steps.health.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('.github/logs/health-report.json', 'utf8'));
+
+            // Check if similar issue already exists
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'pipeline-health',
+              per_page: 10
+            });
+
+            // If recent health issue exists, add comment instead of creating new
+            const recentIssue = issues.data.find(issue => {
+              const createdAt = new Date(issue.created_at);
+              const oneDayAgo = Date.now() - (24 * 60 * 60 * 1000);
+              return createdAt.getTime() > oneDayAgo;
+            });
+
+            const issueBody = `## 🔴 Pipeline Health Check Failed
+
+**Status:** ${report.status}
+**Timestamp:** ${report.timestamp}
+**Workflow Run:** #${context.runNumber}
+
+### Critical Issues
+
+${report.issues.map(issue => `
+#### ${issue.component}
+- **Message:** ${issue.message}
+- **Recommendation:** ${issue.recommendation || 'N/A'}
+- **Threshold:** ${issue.threshold || 'N/A'}
+`).join('\n')}
+
+### Warnings
+
+${report.warnings.map(w => `- [${w.component}] ${w.message}`).join('\n')}
+
+### Metrics
+
+\`\`\`json
+${JSON.stringify(report.metrics, null, 2)}
+\`\`\`
+
+---
+**Action Required:** Please investigate and resolve the critical issues above.
+
+[View Full Report](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+            `;
+
+            if (recentIssue) {
+              // Add comment to existing issue
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: recentIssue.number,
+                body: `### Update: ${new Date().toISOString()}\n\n${issueBody}`
+              });
+
+              console.log(`Added update to existing issue #${recentIssue.number}`);
+            } else {
+              // Create new issue
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `🔴 Pipeline Health Alert: ${report.status}`,
+                body: issueBody,
+                labels: ['pipeline-health', 'bug', 'priority-high']
+              });
+
+              console.log('Created new health alert issue');
+            }
+
+      - name: Post Summary
+        if: always()
+        run: |
+          if [ -f .github/logs/health-report.json ]; then
+            echo "## 📊 Health Check Results" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+
+            STATUS=$(jq -r '.status' .github/logs/health-report.json)
+
+            if [ "$STATUS" = "healthy" ]; then
+              echo "✅ **Status:** HEALTHY" >> $GITHUB_STEP_SUMMARY
+            elif [ "$STATUS" = "degraded" ]; then
+              echo "⚠️ **Status:** DEGRADED" >> $GITHUB_STEP_SUMMARY
+            else
+              echo "🔴 **Status:** UNHEALTHY" >> $GITHUB_STEP_SUMMARY
+            fi
+
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### Metrics" >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`json" >> $GITHUB_STEP_SUMMARY
+            jq '.metrics' .github/logs/health-report.json >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+
+            ISSUE_COUNT=$(jq '.issues | length' .github/logs/health-report.json)
+            WARNING_COUNT=$(jq '.warnings | length' .github/logs/health-report.json)
+
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**Issues:** $ISSUE_COUNT critical" >> $GITHUB_STEP_SUMMARY
+            echo "**Warnings:** $WARNING_COUNT" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "⚠️ Health report not generated" >> $GITHUB_STEP_SUMMARY
+          fi
