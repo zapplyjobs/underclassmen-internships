@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-262-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-263-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-51-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 51 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 215 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 51 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 216 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,7 +73,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 215 hot data-focused jobs
+- 🔥 **Current Positions:** 216 hot data-focused jobs
 - **🏢 Companies**: 51 companies
 - **⭐ FAANG+ Jobs**: 12 premium opportunities
 - 📅 **Last Updated:** January 5, 2026
@@ -156,33 +156,33 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🚗 **Uber** | Graduate 2026 Software Engineer 1 -... | Seattle, WA | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://university-uber.icims.com/jobs/152427/job?mobile=true&needsRedirect=false) |
-| 🚗 **Uber** | Graduate 2026 Software Engineer 1 -... | Seattle, WA | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://university-uber.icims.com/jobs/152559/job?mobile=true&needsRedirect=false) |
+| 🚗 **Uber** | Graduate 2026 Software Engineer 1 -... | Seattle, WA | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://university-uber.icims.com/jobs/152427/job?mobile=true&needsRedirect=false) |
+| 🚗 **Uber** | Graduate 2026 Software Engineer 1 -... | Seattle, WA | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://university-uber.icims.com/jobs/152559/job?mobile=true&needsRedirect=false) |
 
 ### 🛡️ **Defense & Aerospace** (3 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🚀 **SpaceX** | Software Engineer - Starlink Ground... | Redmond, WA | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8342599002) |
-| 🏢 **Peraton** | Junior Software Engineer | Dulles, VA | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162357/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | Junior Software Engineer | Dulles, VA | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162357/job?mobile=true&needsRedirect=false) |
 | 🏢 **CACI** | Entry/Mid Software Developer | Washington,  | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Entry-Mid-Software-Developer_320762) |
 
-### 🏢 **Other Companies** (194 positions)
+### 🏢 **Other Companies** (195 positions)
 
 #### 🏢 **datadog** (13 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-|  Enterprise Sales Executive (SLED) | Denver, Colo | 0h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
-| Enterprise Customer Success Manager... | Denver, Colo | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7462573/?gh_jid=7462573) |
-| Enterprise Customer Success Manager... | Boston, Mass | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7472550/?gh_jid=7472550) |
-| Sales Development Representative - ... | Boston, Mass | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012) |
-| Sales Development Representative - ... | Boston, Mass | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7251992/?gh_jid=7251992) |
-| Product Marketing Manager - CloudPr... | New York, Ne | 3h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715) |
-| Manager, People Analytics Data Plat... | Boston, Mass | 5h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678) |
+|  Enterprise Sales Executive (SLED) | Denver, Colo | 1h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
+| Enterprise Customer Success Manager... | Denver, Colo | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7462573/?gh_jid=7462573) |
+| Enterprise Customer Success Manager... | Boston, Mass | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7472550/?gh_jid=7472550) |
+| Sales Development Representative - ... | Boston, Mass | 3h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7252012/?gh_jid=7252012) |
+| Sales Development Representative - ... | Boston, Mass | 3h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7251992/?gh_jid=7251992) |
+| Product Marketing Manager - CloudPr... | New York, Ne | 4h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7459715/?gh_jid=7459715) |
+| Manager, People Analytics Data Plat... | Boston, Mass | 6h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678) |
 | Technical Support Engineer 2, Premi... | Denver, Colo | 5d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260) |
 | Federal Support Engineer 2 - Denver | Denver, Colo | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380) |
-| Sales Engineer (Customer Success - ... | Boston, Mass | 5d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7358137/?gh_jid=7358137) |
+| Sales Engineer (Customer Success - ... | Boston, Mass | 6d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7358137/?gh_jid=7358137) |
 | Manager 2, Premier Support Engineer... | Boston, Mass | 6d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7496250/?gh_jid=7496250) |
 | Executive Assistant I - NYC | New York, Ne | 6d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827) |
 | Key Accounts Executive (East) | Boston, Mass | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236) |
@@ -191,9 +191,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| iOS Software Engineer, i18n: Grow G... | Los Angeles, | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512048) |
-| iOS Software Engineer, i18n: Grow G... | Chicago, IL | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512046) |
-| iOS Software Engineer, i18n: Grow G... | San Francisc | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414834) |
+| iOS Software Engineer, i18n: Grow G... | Los Angeles, | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512048) |
+| iOS Software Engineer, i18n: Grow G... | Chicago, IL | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512046) |
+| iOS Software Engineer, i18n: Grow G... | San Francisc | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414834) |
 | Director, Global 3rd Party Partners... | New York Cit | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7254586) |
 | Business Partner, Global Revenue St... 🏠 | New York Cit | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7493062) |
 | Client Account Manager, Mid-Market ... | San Francisc | 3d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7489210) |
@@ -214,10 +214,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Client Account Manager, Large Custo... | New York Cit | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7375677) |
 | Senior Client Partner, Large Custom... | Chicago, IL | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7375850) |
 | Senior Client Partner, Large Custom... | New York Cit | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7375572) |
-| Senior Manager, Large Customer Sale... | Chicago, IL | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7389551) |
 | Senior Manager, Large Customer Sale... | New York Cit | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7378839) |
-| Senior Client Account Manager, Larg... | New York Cit | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7377978) |
+| Senior Manager, Large Customer Sale... | Chicago, IL | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7389551) |
 | Senior Client Account Manager, Larg... | Chicago, IL | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7379758) |
+| Senior Client Account Manager, Larg... | New York Cit | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7377978) |
 | Director, Global Sales Enablement 🏠 | New York Cit | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7366237) |
 | Director, Global Sales Enablement 🏠 | San Francisc | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7396325) |
 | Senior Client Partner, Large Custom... | New York Cit | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7367778) |
@@ -230,7 +230,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Senior Sales Strategy Manager 🏠 | Remote - Chi | 12h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7461793?gh_jid=7461793) |
+| Senior Sales Strategy Manager 🏠 | Remote - Chi | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7461793?gh_jid=7461793) |
 | Account Development Representative ... 🏠 | Phoenix, Ari | 6d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7169366?gh_jid=7169366) |
 | Account Development Representative ... 🏠 | Atlanta, GA | 6d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7169321?gh_jid=7169321) |
 | Account Development Representative ... 🏠 | Atlanta, GA | 6d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7169384?gh_jid=7169384) |
@@ -321,32 +321,33 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🎮 **discord** | Staff Software Engineer, Machine Le... | San Francisc | 0h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8326060002) |
-| 🎮 **discord** | Software Engineer - Realtime Infras... | San Francisc | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8328560002) |
-| 🎮 **discord** | Product Designer, Notifications | San Francisc | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8359170002) |
-| 🏢 **verkada** | Enterprise Sales Account Executive,... | Seattle, WA  | 0h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5007627007) |
-| 🏢 **verkada** | Enterprise Sales Account Executive,... | Indianapolis | 0h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5007620007) |
+| 🧠 **anthropic** | Security Development Project Specia... | Remote-Frien | 0h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5041343008) |
+| 🧠 **anthropic** | Head of Asset & Wealth Management, ... | New York Cit | 6h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5041304008) |
+| 🧠 **anthropic** | Strategic Account Executive, Retail... | San Francisc | 6h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5041299008) |
+| 🧠 **anthropic** | Data Scientist, Marketing | San Francisc | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4983584008) |
+| 🧠 **anthropic** | Analytics Data Engineer | San Francisc | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4956672008) |
+| 🧠 **anthropic** | Director, Finance Strategic Initiat... | San Francisc | 21h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4931858008) |
+| 🧠 **anthropic** | Product Manager, Claude Code (Enter... | San Francisc | 3d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4858247008) |
+| 🎮 **discord** | Staff Software Engineer, Machine Le... | San Francisc | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8326060002) |
+| 🎮 **discord** | Software Engineer - Realtime Infras... | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8328560002) |
+| 🎮 **discord** | Product Designer, Notifications | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8359170002) |
+| 🏢 **verkada** | Enterprise Sales Account Executive,... | Seattle, WA  | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5007627007) |
+| 🏢 **verkada** | Enterprise Sales Account Executive,... | Indianapolis | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5007620007) |
 | 🏢 **verkada** | Global Enterprise Account Executive | Phoenix, AZ  | 5d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4128860007) |
-| 🎨 **figma** | Director, Product Marketing  🏠 | San Francisc | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5732415004?gh_jid=5732415004) |
-| 🎨 **figma** | Designer Advocate - Figma Weave  🏠 | New York, NY | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004) |
-| 🏢 **airtable** | Analytics Engineer, Product Analyti... | San Francisc | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8112284002) |
+| 🎨 **figma** | Director, Product Marketing  🏠 | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5732415004?gh_jid=5732415004) |
+| 🎨 **figma** | Designer Advocate - Figma Weave  🏠 | New York, NY | 3h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004) |
+| 🏢 **airtable** | Analytics Engineer, Product Analyti... | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8112284002) |
 | 🏢 **airtable** | Senior Developer Support Engineer-W... 🏠 | San Francisc | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8327916002) |
 | 🏢 **airtable** | Data Scientist, GTM Analytics 🏠 | San Francisc | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8169952002) |
 | 🏢 **airtable** | Data Scientist, Product Analytics 🏠 | San Francisc | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8170306002) |
-| ▲ **vercel** | Enterprise Account Executive 🏠 | Hybrid - San | 2h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5042174004) |
+| ▲ **vercel** | Enterprise Account Executive 🏠 | Hybrid - San | 3h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5042174004) |
 | ▲ **vercel** | Content Engineer 🏠 | Hybrid - San | 6d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5722313004) |
-| 🏢 **Health Plan One** | AI Engineer | New Mexico,  | 2h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://healthplanone.wd1.myworkdayjobs.com/hpone/job/CT-Shelton/AI-Engineer_JR1412-1) |
-| 🏢 **The New York Times** | Scoop Core - Associate Software Eng... | NYC, Locatio | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4640425005) |
-| 🏢 **Crowe** | NetSuite Implementation Consultant | Houston, TX | 2h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Consultant_R-50086) |
-| 🏢 **Captivation** | Software Engineer - Java/AI/ML/Kube... | Annapolis Ju | 2h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5054344008) |
-| 🏢 **Ohio State University** | Research Data Analyst 1 - Center Fo... | Columbus, OH | 3h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Data-Analyst-I---Center-For-Biostatistics_R142714-2) |
-| 🧠 **anthropic** | Head of Asset & Wealth Management, ... | New York Cit | 5h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5041304008) |
-| 🧠 **anthropic** | Strategic Account Executive, Retail... | San Francisc | 5h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5041299008) |
-| 🧠 **anthropic** | Data Scientist, Marketing | San Francisc | 12h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4983584008) |
-| 🧠 **anthropic** | Analytics Data Engineer | San Francisc | 12h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4956672008) |
-| 🧠 **anthropic** | Director, Finance Strategic Initiat... | San Francisc | 20h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4931858008) |
-| 🧠 **anthropic** | Product Manager, Claude Code (Enter... | San Francisc | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4858247008) |
-| 🏢 **Rolls-Royce** | Launch into Control System Configur... | Indianapolis | 12h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/XMLNAME--Launch--into-Control-System-Configuration-Management_JR6148423) |
+| 🏢 **Health Plan One** | AI Engineer | New Mexico,  | 3h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://healthplanone.wd1.myworkdayjobs.com/hpone/job/CT-Shelton/AI-Engineer_JR1412-1) |
+| 🏢 **The New York Times** | Scoop Core - Associate Software Eng... | NYC, Locatio | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4640425005) |
+| 🏢 **Crowe** | NetSuite Implementation Consultant | Houston, TX | 3h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Consultant_R-50086) |
+| 🏢 **Captivation** | Software Engineer - Java/AI/ML/Kube... | Annapolis Ju | 3h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5054344008) |
+| 🏢 **Ohio State University** | Research Data Analyst 1 - Center Fo... | Columbus, OH | 4h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Data-Analyst-I---Center-For-Biostatistics_R142714-2) |
+| 🏢 **Rolls-Royce** | Launch into Control System Configur... | Indianapolis | 13h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/XMLNAME--Launch--into-Control-System-Configuration-Management_JR6148423) |
 | 🏢 **brex** | Financial Crimes Investigator 🏠 | Salt Lake Ci | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8358216002?gh_jid=8358216002) |
 | 🏢 **brex** | Technical Consultant 🏠 | San Francisc | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8136713002?gh_jid=8136713002) |
 | 🏢 **brex** | Technical Consultant 🏠 | Seattle, Was | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8136710002?gh_jid=8136710002) |
@@ -398,7 +399,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **datadog**: 13 positions
 - **Amazon**: 12 positions
 - **brex**: 8 positions
-- **anthropic**: 6 positions
+- **anthropic**: 7 positions
 - **airtable**: 4 positions
 - **discord**: 3 positions
 - **verkada**: 3 positions
@@ -415,9 +416,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 68 | 32% | No or minimal experience |
-| 🟡 Beginner & Early Career | 42 | 20% | 1-2 years of experience |
-| 🔴 Manager | 105 | 48% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 68 | 31% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 19% | 1-2 years of experience |
+| 🔴 Manager | 106 | 50% | 2+ years of experience |
 
 ---
 
@@ -435,7 +436,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 215 verified roles for Software Engineering roles from 51 companies.
+✅ **100% Real Jobs**: 216 verified roles for Software Engineering roles from 51 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -1089,8 +1090,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | Software Engineer, Consumer Revenue... | San Francisc | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8324011002) |
 | Senior Product Design Manager, Grow... | Remote (U.S. | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8196805002) |
 | Senior Director, Corporate Developm... | San Francisc | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8328567002) |
-| Staff Software Engineer, New Gaming... | San Francisc | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8244749002) |
-| Staff Software Engineer, Player Exp... | San Francisc | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8337817002) |
+| Staff Software Engineer, New Gaming... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8244749002) |
+| Staff Software Engineer, Player Exp... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8337817002) |
 | Senior Software Engineer, Platform ... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8348129002) |
 | Staff Software Engineer, Platform S... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8177912002) |
 | Staff Product Manager, Growth | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8348158002) |
@@ -1119,7 +1120,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | Senior Director, Internal Audit | San Francisc | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8103520002) |
 | Staff Software Engineer, Quest Expe... | San Francisc | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8101803002) |
 | Senior Financial Reporting and Tech... | San Francisc | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8316122002) |
-| Manager, Global Accounts Receivable | San Francisc | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8321982002) |
+| Manager, Global Accounts Receivable | San Francisc | 4w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8321982002) |
 | Senior Product Marketing Manager, N... | San Francisc | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8323992002) |
 | Product Manager, Core Product | San Francisc | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8288128002) |
 | Director, Global Payments Strategy ... | San Francisc | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8305665002) |
@@ -1152,11 +1153,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | National Channel Sales Manager, Con... | Philadelphia | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4950449007) |
 | National Channel Sales Manager, Con... | Jacksonville | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4950450007) |
 | Account Executive, Select, Austin | Austin, TX U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4248001007) |
-| Account Executive, Territory (Mid-M... | Tempe, AZ Un | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135236007) |
 | Account Executive, Territory (Mid-M... | New York Cit | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4103493007) |
+| Account Executive, Territory (Mid-M... | Austin, TX U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4087046007) |
+| Account Executive, Territory (Mid-M... | Tempe, AZ Un | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135236007) |
 | Account Executive, Territory (Mid-M... | Salt Lake Ci | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4087051007) |
 | Account Executive, Territory (Mid-M... | Philadelphia | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4103490007) |
-| Account Executive, Territory (Mid-M... | Austin, TX U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4087046007) |
 | Channel Development Representative,... | Tampa, FL Un | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4950605007) |
 | Channel Development Representative,... | Salt Lake Ci | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5008900007) |
 | Channel Marketing Associate (Remote... 🏠 | Boston, MA U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4984340007) |
@@ -1189,12 +1190,12 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | Sales Recruiter | New York Cit | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4982121007) |
 | Sales Recruiter, Salt Lake City | Salt Lake Ci | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5011857007) |
 | Senior Channel Marketing Manager, N... 🏠 | Boston, MA U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4648144007) |
-| Senior Project Engineer, Global Ser... | Austin, TX U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4949024007) |
+| Senior Project Engineer, Global Ser... | Philadelphia | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4949027007) |
+| Senior Project Engineer, Global Ser... | Tampa, FL Un | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4949028007) |
 | Senior Project Engineer, Global Ser... | Chicago, IL  | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4985491007) |
 | Senior Project Engineer, Global Ser... | New York Cit | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4949035007) |
-| Senior Project Engineer, Global Ser... | Tampa, FL Un | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4949028007) |
-| Senior Project Engineer, Global Ser... | Philadelphia | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4949027007) |
 | Senior Project Engineer, Global Ser... | Austin, TX U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4945152007) |
+| Senior Project Engineer, Global Ser... | Austin, TX U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4949024007) |
 | Solutions Engineer | Salt Lake Ci | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4087164007) |
 | Solutions Engineering Manager, Sele... 🏠 | Tempe, AZ Un | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4185105007) |
 | Sr. Tradeshow and Event Marketing M... | Austin, TX U | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4990280007) |
@@ -1366,8 +1367,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
 | People Program Manager | San Francisc | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4942791008) |
-| Partner Development Manager, Build ... | San Francisc | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5043460008) |
-| Commercial Counsel, Colo & Networks | San Francisc | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5045003008) |
+| Partner Development Manager, Build ... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5043460008) |
+| Commercial Counsel, Colo & Networks | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5045003008) |
 | Commercial Counsel, Compute & Infra... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5045006008) |
 | Commercial Counsel, Datacenters & C... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5044994008) |
 | Global Technology Partner Lead | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5043437008) |
@@ -1839,7 +1840,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 |------|----------|--------|-------|-------|
 | Manager, On-Site Executive IT Suppo... 🏠 | Hybrid - Los | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7409945?gh_jid=7409945) |
 | On‑Site IT Support Engineer (Reside... 🏠 | Hybrid - Los | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7409941?gh_jid=7409941) |
-| Protocol Sales Associate 🏠 | New York Cit | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7405962?gh_jid=7405962) |
+| Protocol Sales Associate 🏠 | New York Cit | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7405962?gh_jid=7405962) |
 | Associate Manager, Compliance 🏠 | Charlotte, N | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6675509?gh_jid=6675509) |
 | Associate Manager, EDD Compliance 🏠 | Charlotte, N | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6984450?gh_jid=6984450) |
 | Associate Manager, Family Office Se... 🏠 | Hybrid - Los | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7100421?gh_jid=7100421) |
@@ -1935,7 +1936,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Space Payload 1&T – Engineer/Princi... | Halethorpe,  | 1w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10217787) |
+| Space Payload 1&T – Engineer/Princi... | Halethorpe,  | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10217787) |
 | Data Insight Analyst - Principal Da... | Edwards AFB, | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Data-Insight-Analyst-or-Principal-Data-Insight-Analyst_R10213256) |
 | Software Engineer - Ent | Colorado Spr | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---ENT--25-585-_R10216983) |
 | Principal Mission Assurance Enginee... | Hill AFB, UT | 3w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Engineer-Principal-Engineer-Mission-Assurance---16584_R10216305) |
@@ -1953,17 +1954,17 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
 | Senior Client Partner, Large Custom... | New York Cit | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7454499) |
-| Android Software Engineer, Ad Forma... | New York Cit | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415013) |
 | Android Software Engineer, Ad Forma... | San Francisc | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414993) |
 | Android Software Engineer, Ad Forma... | Chicago, IL | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415003) |
+| Android Software Engineer, Ad Forma... | New York Cit | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415013) |
 | iOS Software Engineer, Ad Formats | Chicago, IL | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414842) |
 | iOS Software Engineer, Ad Formats | New York Cit | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414849) |
 | Senior Android Engineer, Apps Platf... | Chicago, IL | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7370708) |
 | Senior Android Engineer, Apps Platf... | New York Cit | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7370711) |
 | Senior Client Account Manager, Larg... | New York Cit | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7195138) |
-| Senior iOS Software Engineer, iOS P... | New York Cit | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7348120) |
 | Senior iOS Software Engineer, iOS P... | Los Angeles, | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7348119) |
 | Senior iOS Software Engineer, iOS P... | San Francisc | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7348117) |
+| Senior iOS Software Engineer, iOS P... | New York Cit | 2w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7348120) |
 
 #### 🗄️ **supabase** (35 positions)
 
@@ -2339,7 +2340,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Carnegie Mellon University** | Research Associate - Electrical and... | Pittsburgh,  | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Associate---Electrical-and-Computer-Engineering_2022193) |
 | 🏢 **AeroVironment** | CNO Developer | Annapolis Ju | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358) |
 | 🏢 **Perficient** | Appian Associate Technical Consulta... | Dallas, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025003734) |
-| 🏢 **BlackRock** | Associate – Application Engineer | NYC, Locatio | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1) |
+| 🏢 **BlackRock** | Associate – Application Engineer | NYC, Locatio | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1) |
 | 🏢 **BlackRock** | AI/ML Engineer - Analyst - AI Labs | Atlanta, GA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/AI-ML-Engineer--Analyst---AI-Labs_R257970) |
 | 🏢 **ASSA ABLOY** | Product Engineer | Mason City,  | 2w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-IA-50401/1278600401/?ats=successfactors) |
 | 🏢 **Radian** | Data Scientist I - Hybrid | New York, NY | 2w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) |
@@ -2580,7 +2581,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Hudl** | Software Engineer – May Graduates | Lexington, K | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7449433) |
 | 🏢 **GuideWell Mutual** | Associate Software Developer | Irving, TX | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41204) |
 | 🏢 **HEXAWARE** | Java Full Stack Engineer - Associat... | United State | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/549450) |
-| 🏢 **Alliant Energy** | Meter Data Analyst 1 | Madison, WI | 3w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238) |
+| 🏢 **Alliant Energy** | Meter Data Analyst 1 | Madison, WI | 4w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Madison-WI/Meter-Data-Analyst-I_JR-9238) |
 | 🏢 **ENFRA** | Metering Specialist 1 | Sharon Hill, | 4w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-enfra.icims.com/jobs/8425/job?mobile=true&needsRedirect=false) |
 | 🏢 **retool** | Enterprise Support Engineer, AMER | New York, NY | 4w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/retool/jobs/4633560005) |
 | 🏢 **retool** | UX Researcher | San Francisc | 4w | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/retool/jobs/4628161005) |
@@ -3148,7 +3149,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 215 current opportunities from 51 companies**
+**🎯 216 current opportunities from 51 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
