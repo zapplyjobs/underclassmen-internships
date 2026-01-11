@@ -574,7 +574,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **OpusClip** | Software Engineer - AI Video Agent | Palo Alto, C | 11h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application) |
+| 🏢 **OpusClip** | Software Engineer - AI Video Agent | Palo Alto, C | 12h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application) |
 | 🏢 **airtable** | Software Engineer, Product Backend ... 🏠 | San Francisc | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
 | 🏢 **airtable** | Software Engineer, Product Backend ... 🏠 | San Francisc | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845287002) |
 | 🏢 **airtable** | Senior Software Engineer, Observabi... | San Francisc | 3d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8182781002) |
@@ -3214,7 +3214,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Zeeco** | Application Engineer - Mandarin | Broken Arrow | 6mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zeeco/bbbf7d70-d942-48a8-9f76-b26f3f283498/apply) |
 | 🏢 **BetterHelp** | Data Scientist - Experimentation | Remote in US | 7mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008) |
 | 🏢 **Mitsubishi UFG** | Global Financial Crimes - Issues Ma... | Tempe, AZ | 7mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD) |
-| 🏢 **Occidental Petroleum** | Maintenance Planning Tech | Fort Lupton, | 7mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Platteville-Colorado/Maintenance-Planning-Tech_JR102869) |
+| 🏢 **Occidental Petroleum** | Maintenance Planning Tech | Fort Lupton, | 8mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Platteville-Colorado/Maintenance-Planning-Tech_JR102869) |
 
 
 
