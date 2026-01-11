@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-591-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-118-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-592-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-119-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 118 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 544 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 119 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 545 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -73,8 +73,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 544 hot data-focused jobs
-- **🏢 Companies**: 118 companies
+- 🔥 **Current Positions:** 545 hot data-focused jobs
+- **🏢 Companies**: 119 companies
 - **⭐ FAANG+ Jobs**: 4 premium opportunities
 - 📅 **Last Updated:** January 11, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -189,7 +189,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Peraton** | Junior Software Engineer | Dulles, VA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162357/job?mobile=true&needsRedirect=false) |
 | 🏢 **Amentum** | Entry Level Software Engineer | Fredericksbu | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0151272) |
 
-### 🏢 **Other Companies** (509 positions)
+### 🏢 **Other Companies** (510 positions)
 
 <details>
 <summary><h4>🧠 <strong>anthropic</strong> (93 positions)</h4></summary>
@@ -573,6 +573,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **OpusClip** | Software Engineer - AI Video Agent | Palo Alto, C | 0h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application) |
 | 🏢 **airtable** | Software Engineer, Product Backend ... 🏠 | San Francisc | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
 | 🏢 **airtable** | Software Engineer, Product Backend ... 🏠 | San Francisc | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845287002) |
 | 🏢 **airtable** | Senior Software Engineer, Observabi... | San Francisc | 2d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8182781002) |
@@ -770,7 +771,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 71 | 13% | No or minimal experience |
-| 🟡 Beginner & Early Career | 137 | 25% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 138 | 25% | 1-2 years of experience |
 | 🔴 Manager | 336 | 62% | 2+ years of experience |
 
 ---
@@ -789,7 +790,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Software Engineers Choose Our Job Board
 
-✅ **100% Real Jobs**: 544 verified roles for Software Engineering roles from 118 companies.
+✅ **100% Real Jobs**: 545 verified roles for Software Engineering roles from 119 companies.
 <br>
 ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 <br>
@@ -870,11 +871,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2139 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2138 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2139 positions
-- **🏢 Companies**: 118 companies
+- **📁 Total Jobs**: 2138 positions
+- **🏢 Companies**: 119 companies
 - **⭐ FAANG+ Jobs & Internships**: 41 positions
 
 ### 🏢 **FAANG+** (38 positions)
@@ -1419,7 +1420,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1683 positions)
+### 🏢 **Other Companies** (1682 positions)
 
 #### 🏢 **airtable** (33 positions)
 
@@ -2829,7 +2830,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Beth Israel Lahey Health** | Research Data Coordinator-Cardiovas... | Boston, MA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Data-Coordinator--Cardiovascular-Research--Nezafat-Lab_JR87230) |
 | 🏢 **Pariveda Solutions** | Qlik Developer | Remote in US | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-skyepoint.icims.com/jobs/3033/job?mobile=true&needsRedirect=false) |
 | 🏢 **ALTEN Technology** | Data Collection Operator 2 | SF, Location | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4827839007) |
-| 🏢 **Fidelity National Financial** | Imaging Analyst | Altamonte Sp | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false) |
 | 🏢 **METECS** | Junior Software Engineer - DST | Houston, TX | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://metecs.applytojob.com/apply/csAVnq7Ij4/Junior-Software-Engineer-DST) |
 | 🏢 **GM financial** | Software Development Engineer 1 | Arlington, T | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309) |
 | 🏢 **Maven Securities** | Graduate Developer Programme | Chicago, IL | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/emergingtalent/jobs/7204281) |
@@ -3251,7 +3251,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
 <div align="center">
 
-**🎯 544 current opportunities from 118 companies**
+**🎯 545 current opportunities from 119 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
