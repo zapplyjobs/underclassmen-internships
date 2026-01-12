@@ -143,7 +143,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Hewlett Packard Enterprise** | Systems/Software Engineer 1 | San Jose, CA | 9h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Systems-Software-Engineer-I_1199912-1) |
+| 🏢 **Hewlett Packard Enterprise** | Systems/Software Engineer 1 | San Jose, CA | 10h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Systems-Software-Engineer-I_1199912-1) |
 | 🏢 **Hewlett Packard Enterprise** | Software Engineer Support Analyst G... | Sunnyvale, C | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-Support-Analyst-Graduate_1198373-1) |
 | 🔧 **ServiceNow** | Associate Software Engineer | San Diego, C | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000102368485) |
 
@@ -587,7 +587,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Accenture** | Software Engineer | SF, Location | 9h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/XMLNAME--Software-Engineer---6078908_13942096-1) |
 | 🏢 **Accenture** | Software Engineer | Mountain Vie | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/XMLNAME--Software-Engineer---6078923_13942107) |
 | 🏢 **Accenture** | SAP Analyst | St. Louis, M | 4d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4639310006) |
-| 🏢 **Oscar Health** | Data Scientist 1: Network and Contr... | NYC, Locatio | 10h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7527160?gh_jid=7527160) |
+| 🏢 **Oscar Health** | Data Scientist 1: Network and Contr... | NYC, Locatio | 11h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7527160?gh_jid=7527160) |
 | 🏢 **Northrop Grumman** | Associate Software Engineer / Softw... | Hill AFB, UT | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10218884) |
 | 🏢 **Northrop Grumman** | Software Engineer - Level - Space S... | El Segundo,  | 4d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer---Level-1-2--Space-Systems-_R10218502) |
 | 🏢 **Northrop Grumman** | Quality Engineer - Principal Qualit... | Reisterstown | 4d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Engineer-Quality-Principal-Engineer-Quality_R10218213) |
@@ -602,7 +602,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Huntington Ingalls Industries** | Software Engineer 1 | Newport News | 3d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354648000/?ats=successfactors) |
 | 🏢 **Huntington Ingalls Industries** | Software Engineer 1 | Newport News | 3d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354682700/?ats=successfactors) |
 | 🏢 **Huntington Ingalls Industries** | Engineer Software 1 | Newport News | 3d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354646300/?ats=successfactors) |
-| 🤖 **reddit** | Senior Client Partner, Large Custom... | New York Cit | 12h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7367778) |
+| 🤖 **reddit** | Senior Client Partner, Large Custom... | New York Cit | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7367778) |
 | 🤖 **reddit** | Manager, Mid-Market Sales (Client A... | San Francisc | 3d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7524948) |
 | 🤖 **reddit** | Manager, Mid-Market Sales (Client A... | New York Cit | 3d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7453285) |
 | 🤖 **reddit** | Client Account Manager, Mid-Market ... | San Francisc | 3d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7489210) |
@@ -714,7 +714,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | 🏢 **Argonne National Laboratory** | Postbaccalaureate Appointee | Woodridge, I | 4d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee_421600) |
 | 🏢 **Argonne National Laboratory** | Predoctoral Appointee - Engineer Re... | Woodridge, I | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Engineer-Research-Associate_421596) |
 | 🏢 **Camping World** | Entry-Level Data Analyst | Chicago, IL | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Entry-Level-Data-Analyst_26_00211) |
-| 🏢 **United Parcel Service (UPS)** | Product Analyst-Gen AI Automation | Indiana, Loc | 4d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Product-Analyst--Gen-AI-Automation_R25044896-1) |
+| 🏢 **United Parcel Service (UPS)** | Product Analyst-Gen AI Automation | Indiana, Loc | 5d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Product-Analyst--Gen-AI-Automation_R25044896-1) |
 | 🏢 **cloudflare** | Senior Security Compliance Speciali... | Remote US | 5d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7514944?gh_jid=7514944) |
 | 🏢 **Conagra Brands** | Associate Systems Analyst-IT Sales ... | Chicago, IL | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Associate-Systems-Analyst--IT-Sales---Trade-Portfolio_Req-035736-1) |
 | 🏢 **SMX** | BI Developer | Washington,  | 5d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.smxtech.com/careers/?gh_jid=7579859003) |
@@ -872,10 +872,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2136 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2133 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2136 positions
+- **📁 Total Jobs**: 2133 positions
 - **🏢 Companies**: 117 companies
 - **⭐ FAANG+ Jobs & Internships**: 41 positions
 
@@ -1431,7 +1431,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1675 positions)
+### 🏢 **Other Companies** (1672 positions)
 
 <details>
 <summary><h4>🧠 <strong>anthropic</strong> (148 positions)</h4></summary>
@@ -2296,23 +2296,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | Postdoctoral Researcher - Aerosols ... | Austin, TX | 4mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Researcher---Aerosols-and-hydroclimate-risk_R_00041495) |
 | Postdoctoral Fellow in Water System... | Austin, TX | 5mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow-in-Water-Systems--ml-_R_00041178-1) |
 
-#### 🏢 **gohighlevel** (12 positions)
-
-| Role | Location | Posted | Level | Apply |
-|------|----------|--------|-------|-------|
-| Event Planner I - Hosted Events 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/107bb272-9e09-42de-8dee-a0c9a41209d6) |
-| Event Planner I - Sponsored Events 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/f23300a5-68af-47ed-b6cc-e95b06c6b54f) |
-| Staff Analytics Engineer 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/47e51c81-6464-429a-a8a5-b15383da5362) |
-| Internship Program Coordinator 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/faa7469b-d007-4a29-903f-93ad34c7f472) |
-| Senior Director, Integrated Marketi... 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/03469b50-e3b8-403f-a3a0-138a292b6954) |
-| Manager, Community Programs 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/84accba2-7110-479d-a76a-8ebccaaa225b) |
-| Events Partnerships Manager 🏠 | Dallas | 2mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/f4d6ee97-8ed4-48a8-a5da-407c309f9614) |
-| Manager - BDR 🏠 | Dallas | 3mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/b4af6df2-340f-44e5-a047-de30299159d1) |
-| Manager, Digital Marketing 🏠 | Dallas | 3mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/622eb0de-6216-4d98-b8b6-1b199efef94e) |
-| Associate Director, Customer Care 🏠 | Dallas | 4mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/dab81b8c-8e32-4169-bf8d-a6b8b9ceb00b) |
-| Account Manager II 🏠 | Dallas | 5mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/12344a99-c726-4a7f-afa5-72eeb9848fa5) |
-| Trial Experience Specialist - Sales 🏠 | Dallas | 16mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/6a0775aa-631f-4914-b359-dc695768296b) |
-
 #### 🏢 **PennState University** (11 positions)
 
 | Role | Location | Posted | Level | Apply |
@@ -2636,6 +2619,15 @@ Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 | 🏢 **Perle** | Mandarin Language Specialist (USA-b... | Remote in US | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc) |
 | 🏢 **Perle** | Farsi Language Specialist | Remote in US | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2) |
 | 🏢 **Tinder** | Data Scientist 2 - Growth | Palo Alto, C | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) |
+| 🏢 **gohighlevel** | Event Planner I - Hosted Events 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/107bb272-9e09-42de-8dee-a0c9a41209d6) |
+| 🏢 **gohighlevel** | Event Planner I - Sponsored Events 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/f23300a5-68af-47ed-b6cc-e95b06c6b54f) |
+| 🏢 **gohighlevel** | Staff Analytics Engineer 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/47e51c81-6464-429a-a8a5-b15383da5362) |
+| 🏢 **gohighlevel** | Internship Program Coordinator 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/faa7469b-d007-4a29-903f-93ad34c7f472) |
+| 🏢 **gohighlevel** | Senior Director, Integrated Marketi... 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/03469b50-e3b8-403f-a3a0-138a292b6954) |
+| 🏢 **gohighlevel** | Manager, Community Programs 🏠 | Dallas | 1mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/84accba2-7110-479d-a76a-8ebccaaa225b) |
+| 🏢 **gohighlevel** | Events Partnerships Manager 🏠 | Dallas | 2mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/f4d6ee97-8ed4-48a8-a5da-407c309f9614) |
+| 🏢 **gohighlevel** | Manager - BDR 🏠 | Dallas | 3mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/b4af6df2-340f-44e5-a047-de30299159d1) |
+| 🏢 **gohighlevel** | Manager, Digital Marketing 🏠 | Dallas | 3mo | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/gohighlevel/622eb0de-6216-4d98-b8b6-1b199efef94e) |
 | 🏢 **State Street** | Software Engineer 1 - Web Framework... | Burlington,  | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-I---Web-Frameworks--Officer_R-779734-1) |
 | 🏢 **State Street** | Software Engineer I | Burlington,  | 6mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1) |
 | 🏢 **CharterUP** | Data Analyst | Atlanta, GA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/charterup/jobs/5031834008) |
