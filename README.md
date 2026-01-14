@@ -66,12 +66,11 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **FAANG+** (4 positions)
+### 🏢 **FAANG+** (3 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 📦 **Amazon** | Software Engineer 1 - Builder | SF, Location | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder) |
-| 🟦 **Microsoft** | Software Engineer 1 | Redmond, WA | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654596) |
+| 🟦 **Microsoft** | Software Engineer 1 | Redmond, WA | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654596) |
 | 🟦 **Microsoft** | Software Engineer | Redmond, WA | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643050) |
 | 🟦 **Microsoft** | Software Engineer 1 | Washington,  | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556630980) |
 
@@ -81,7 +80,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 |---------|------|----------|--------|-------|-------|
 | 🎬 **ByteDance** | Research Scientist Graduate - Found... | San Jose, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.bytedance.com/en/position/7593345683353012485/detail) |
 | 🎮 **NVIDIA** | Applied Scientist – New College Gra... | United State | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Scientist--AI-Enterprise-Products---New-College-Grad-2026_JR2006411) |
-| 🔴 **Oracle** | Software Developer 1 | Pleasanton,  | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321657) |
+| 🔴 **Oracle** | Software Developer 1 | Pleasanton,  | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321657) |
 | 🏢 **Cadence Design Systems** | C++ Software Engineer | Burlington,  | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/C---Software-Engineer_R50546) |
 | 🏢 **Esri** | Software Developer 1 - Python API | West Redland | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.esri.com/careers/5018509007?gh_jid=5018509007) |
 
@@ -136,31 +135,31 @@ Check out what we're doing on our socials, join our community to connect with fe
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Workday Extend Developer 1 | Ames, IA | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Extend-Developer-I_R18423) |
 
-### 🏢 **Other Companies** (627 positions)
+### 🏢 **Other Companies** (624 positions)
 
 <details>
 <summary><h4>🧠 <strong>anthropic</strong> (87 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Technical Scaled Abuse Threat Inves... | San Francisc | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5067003008) |
-| Technical CBRN-E  Threat Investigat... | San Francisc | 1h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066997008) |
+| Technical Scaled Abuse Threat Inves... | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5067003008) |
+| Technical CBRN-E  Threat Investigat... | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066997008) |
 | Technical Cyber Threat Investigator... | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066995008) |
 | Biological Safety Research Scientis... | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066977008) |
 | Partner Marketing Manager, Cloud Pa... | San Francisc | 2h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4966206008) |
-| Finance and Strategy, People & Head... | San Francisc | 4h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5061738008) |
+| Finance and Strategy, People & Head... | San Francisc | 5h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5061738008) |
 | Head of IT SOX | San Francisc | 5h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5061691008) |
 | Policy Manager, Chemical Weapons an... | Remote-Frien | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066951008) |
-| Security Software Engineer, D&R Pla... | San Francisc | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4595463008) |
+| Security Software Engineer, D&R Pla... | San Francisc | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4595463008) |
 | Recruiting Systems Analyst | Boston, MA;  | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5065798008) |
 | Cross-functional Prompt Engineer | Remote-Frien | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4988308008) |
 | Software Engineer, Claude Code | San Francisc | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4816199008) |
 | Senior / Staff Software Engineer - ... | San Francisc | 10h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5065894008) |
-| Data Center Physical Security Lead | Remote-Frien | 10h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5059602008) |
-| Compute Capacity Strategy & Operati... | San Francisc | 11h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5068424008) |
+| Data Center Physical Security Lead | Remote-Frien | 11h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5059602008) |
+| Compute Capacity Strategy & Operati... | San Francisc | 12h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5068424008) |
 | Manager, Account Executive - Enterp... | San Francisc | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5054819008) |
 | Staff Machine Learning Engineer, Vi... | New York Cit | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4946308008) |
-| Recruiter, Technical | San Francisc | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4814348008) |
+| Recruiter, Technical | San Francisc | 14h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4814348008) |
 | Head of Asset & Wealth Management, ... | New York Cit | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5041304008) |
 | Customer Success Manager, Digital N... | San Francisc | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5062733008) |
 | Solutions Architect, Digital Native | San Francisc | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5065835008) |
@@ -236,62 +235,62 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Account Executive, Commercial Insta... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5708732004) |
-| Account Executive, v0 Majors | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5634748004) |
-| AI Engineer 🏠 | Hybrid - San | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5517523004) |
-| Commercial Account Executive, Green... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5042166004) |
-| Content Engineer 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5722313004) |
-| Director of Partnerships, North Ame... 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5678141004) |
-| Director of Sales Engineering, AMER 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5650641004) |
-| Director of Trust & Safety Engineer... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5719801004) |
-| Director, Technical Accounting & Fi... 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5676402004) |
-| Engineering Manager, CDN | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5701765004) |
-| Enterprise Account Executive 🏠 | Hybrid - San | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5042174004) |
-| Finance Manager 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5741089004) |
-| FP&A Manager,  GTM 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5753933004) |
-| Fraud Specialist 🏠 | Hybrid - San | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5579431004) |
-| GSI & Consultancies, Partner Lead 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5501424004) |
-| Head of Product Marketing  🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5199830004) |
-|  IT Infrastructure Engineer  | Hybrid - San | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5623421004) |
-| Lifecycle Marketing Manager | Hybrid - San | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5637558004) |
-| Manager, Customer Support Engineeri... 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5737697004) |
-| Manager of Sales Engineering, Major... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5631091004) |
-| Mobile Engineer | Hybrid - New | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5719796004) |
-| Platform Abuse Operations Lead, Tru... 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5654653004) |
-| Product Engineer – v0 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5466858004) |
-| Product Manager - Accounts 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5589398004) |
-| Recruiting Coordinator (Contract) | Hybrid - San | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5686511004) |
-| Sales Engineer 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5347669004) |
-| Sales Engineer, Startups  🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5735116004) |
-| Senior Accountant 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5753944004) |
-| Senior Manager, FP&A Systems 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5759817004) |
-| Senior Manager, People Systems 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5693072004) |
-| Senior Partner Marketing Manager 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5611652004) |
-| Senior Solutions Engineer 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5752684004) |
-| Software Engineer, AI SDK 🏠 | Hybrid - San | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5474915004) |
-| Software Engineer, CDN 🏠 | Hybrid - San | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5179639004) |
-| Software Engineer, CI/CD 🏠 | Hybrid - New | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5532030004) |
-| Software Engineer, Deployment Infra... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5633880004) |
-| Software Engineer, Growth 🏠 | Hybrid - San | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5613601004) |
-| Software Engineer, Support Platform | Hybrid - San | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5611527004) |
-| Software Engineer - Trust & Safety | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5649459004) |
-| Software Engineer (Web Performance)... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5704320004) |
-| Sr. Director of SOX and Internal Co... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5649662004) |
-| Staff Data Platform Engineer | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5735704004) |
-| Staff Product Marketing Manager, v0 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5722132004) |
-| Startup Account Executive 🏠 | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5624231004) |
-| Strategic Finance Manager, GTM | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5743232004) |
-| Technical Support Engineer, Vercel ... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5633124004) |
-| Vercel Development Representative, ... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5065840004) |
-| Vercel Development Representative, ... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5039945004) |
-| Vercel Development Representative, ... | Hybrid - San | 7h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5729399004) |
+| Account Executive, Commercial Insta... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5708732004) |
+| Account Executive, v0 Majors | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5634748004) |
+| AI Engineer 🏠 | Hybrid - San | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5517523004) |
+| Commercial Account Executive, Green... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5042166004) |
+| Content Engineer 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5722313004) |
+| Director of Partnerships, North Ame... 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5678141004) |
+| Director of Sales Engineering, AMER 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5650641004) |
+| Director of Trust & Safety Engineer... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5719801004) |
+| Director, Technical Accounting & Fi... 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5676402004) |
+| Engineering Manager, CDN | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5701765004) |
+| Enterprise Account Executive 🏠 | Hybrid - San | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5042174004) |
+| Finance Manager 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5741089004) |
+| FP&A Manager,  GTM 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5753933004) |
+| Fraud Specialist 🏠 | Hybrid - San | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5579431004) |
+| GSI & Consultancies, Partner Lead 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5501424004) |
+| Head of Product Marketing  🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5199830004) |
+|  IT Infrastructure Engineer  | Hybrid - San | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5623421004) |
+| Lifecycle Marketing Manager | Hybrid - San | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5637558004) |
+| Manager, Customer Support Engineeri... 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5737697004) |
+| Manager of Sales Engineering, Major... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5631091004) |
+| Mobile Engineer | Hybrid - New | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5719796004) |
+| Platform Abuse Operations Lead, Tru... 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5654653004) |
+| Product Engineer – v0 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5466858004) |
+| Product Manager - Accounts 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5589398004) |
+| Recruiting Coordinator (Contract) | Hybrid - San | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5686511004) |
+| Sales Engineer 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5347669004) |
+| Sales Engineer, Startups  🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5735116004) |
+| Senior Accountant 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5753944004) |
+| Senior Manager, FP&A Systems 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5759817004) |
+| Senior Manager, People Systems 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5693072004) |
+| Senior Partner Marketing Manager 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5611652004) |
+| Senior Solutions Engineer 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5752684004) |
+| Software Engineer, AI SDK 🏠 | Hybrid - San | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5474915004) |
+| Software Engineer, CDN 🏠 | Hybrid - San | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5179639004) |
+| Software Engineer, CI/CD 🏠 | Hybrid - New | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5532030004) |
+| Software Engineer, Deployment Infra... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5633880004) |
+| Software Engineer, Growth 🏠 | Hybrid - San | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5613601004) |
+| Software Engineer, Support Platform | Hybrid - San | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5611527004) |
+| Software Engineer - Trust & Safety | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5649459004) |
+| Software Engineer (Web Performance)... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5704320004) |
+| Sr. Director of SOX and Internal Co... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5649662004) |
+| Staff Data Platform Engineer | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5735704004) |
+| Staff Product Marketing Manager, v0 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5722132004) |
+| Startup Account Executive 🏠 | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5624231004) |
+| Strategic Finance Manager, GTM | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5743232004) |
+| Technical Support Engineer, Vercel ... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5633124004) |
+| Vercel Development Representative, ... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5065840004) |
+| Vercel Development Representative, ... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5039945004) |
+| Vercel Development Representative, ... | Hybrid - San | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5729399004) |
 
 #### 🤖 **reddit** (25 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| iOS Software Engineer, i18n: Grow G... | Los Angeles, | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512048) |
-| iOS Software Engineer, i18n: Grow G... | Chicago, IL | 8h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512046) |
+| iOS Software Engineer, i18n: Grow G... | Los Angeles, | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512048) |
+| iOS Software Engineer, i18n: Grow G... | Chicago, IL | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7512046) |
 | iOS Software Engineer, i18n: Grow G... | San Francisc | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414834) |
 | Director, Mid-Market Sales (B2B Ser... | San Francisc | 14h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7519923) |
 | Director, Mid-Market Sales (B2B Ser... | New York Cit | 14h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7532202) |
@@ -323,10 +322,10 @@ Check out what we're doing on our socials, join our community to connect with fe
 |------|----------|--------|-------|-------|
 | Director, Channels - Global Systems... | New York, Ne | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7484127/?gh_jid=7484127) |
 | Associate Event Marketing Manager (... | New York, Ne | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7461785/?gh_jid=7461785) |
-| Product Solutions Architect 3 - Syn... | New York, Ne | 11h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7519856/?gh_jid=7519856) |
+| Product Solutions Architect 3 - Syn... | New York, Ne | 12h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7519856/?gh_jid=7519856) |
 | Senior Associate, Sales Enablement ... | New York, Ne | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7509363/?gh_jid=7509363) |
 | Senior Director, Product Design | New York, Ne | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7376371/?gh_jid=7376371) |
-| Senior Technical Program Manager, K... | Boston, Mass | 14h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392) |
+| Senior Technical Program Manager, K... | Boston, Mass | 15h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392) |
 | Enterprise Sales Executive | Florida, USA | 16h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155) |
 | Principal Partner Manager - Cloud A... | California,  | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794) |
 | Partner Marketing Manager (Public S... | District of  | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7476873/?gh_jid=7476873) |
@@ -589,8 +588,8 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Senior Marketing Operations Manager... 🏠 | San Francisc | 10h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8372636002?gh_jid=8372636002) |
-| Senior Marketing Operations Manager... 🏠 | New York, Ne | 10h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8372631002?gh_jid=8372631002) |
+| Senior Marketing Operations Manager... 🏠 | San Francisc | 11h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8372636002?gh_jid=8372636002) |
+| Senior Marketing Operations Manager... 🏠 | New York, Ne | 11h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8372631002?gh_jid=8372631002) |
 | Senior Marketing Operations Manager... 🏠 | San Francisc | 12h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8372597002?gh_jid=8372597002) |
 | Senior Marketing Operations Manager... 🏠 | New York, Ne | 13h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8372627002?gh_jid=8372627002) |
 | BizOps Lead, BD 🏠 | Seattle, Was | 1d | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8366663002?gh_jid=8366663002) |
@@ -672,11 +671,8 @@ Check out what we're doing on our socials, join our community to connect with fe
 | 🏢 **The Hartford ** | Consultant - Digital Transformation... | Chicago, IL | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Consultant--Digital-Transformation-and-Reporting_R2623644) |
 | 🏢 **Huntington Ingalls Industries** | Software Development Engineer | Newport News | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1355684900/?ats=successfactors) |
 | 🏢 **Huntington Ingalls Industries** | Configuration Analyst 1 | Newport News | 2d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-CONFIGURATION-ANALYST-1-Virg/1354568500/?ats=successfactors) |
-| 🏢 **Huntington Ingalls Industries** | Software Engineer 1 | Newport News | 4d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354648000/?ats=successfactors) |
-| 🏢 **Huntington Ingalls Industries** | Software Engineer 1 | Newport News | 4d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354682700/?ats=successfactors) |
-| 🏢 **Huntington Ingalls Industries** | Engineer Software 1 | Newport News | 4d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1354646300/?ats=successfactors) |
-| 🏢 **Cisco** | Data Science Analyst 2 - Full Time ... | Chicago, IL | 7h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2002877) |
-| 🏢 **airtable** | Account Executive, Mid Market | Austin, TX | 9h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7883346002) |
+| 🏢 **Cisco** | Data Science Analyst 2 - Full Time ... | Chicago, IL | 8h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2002877) |
+| 🏢 **airtable** | Account Executive, Mid Market | Austin, TX | 10h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7883346002) |
 | 🏢 **airtable** | Emerging Small Business, Account Ex... | Austin, TX | 10h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8052077002) |
 | 🏢 **airtable** | Software Engineer, Infrastructure (... 🏠 | San Francisc | 14h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845293002) |
 | 🏢 **airtable** | Software Engineer, Observability | San Francisc | 14h | ![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8182781002) |
@@ -708,7 +704,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 | 🏢 **Visa** | Software Engineer  New College Grad... | Bellevue, WA | 14h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000103266546) |
 | 🏢 **Cribl** | Data Engineer | Remote in US | 17h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/cribl/jobs/5739562004) |
 | 🏢 **General Atomics** | Associate Software Developer | Poway, CA | 17h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5208753) |
-| 🏢 **Las Vegas Valley Water District** | Hydrologist 1 | Las Vegas, N | 18h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lvvwd.wd1.myworkdayjobs.com/lvvwdwaterjobs/job/Molasky-Corporate-Center/Hydrologist-I_R0003445) |
+| 🏢 **Las Vegas Valley Water District** | Hydrologist 1 | Las Vegas, N | 19h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lvvwd.wd1.myworkdayjobs.com/lvvwdwaterjobs/job/Molasky-Corporate-Center/Hydrologist-I_R0003445) |
 | 🏢 **Pfizer** | Director of AI Engineering Pfizer R... | Bothell, WA | 23h | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Director-of-AI-Engineering-Pfizer-R-D_4949810) |
 | 🏢 ** Cottingham & Butler** | Benefits Technology Analyst | Dubuque, IA | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cottinghambutlerinsuranceservicesinc/jobs/4407035008) |
 | 🏢 **Candidly** | Data Scientist - AI Engineering | Remote in US | 1d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/candidly/jobs/5022473007) |
@@ -791,7 +787,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 | 🏢 **BNY** | Specialist - Data Transfer - Integr... | Lake Mary, F | 5d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72536) |
 | 🏢 **Uline** | Associate Software Developer | Waukegan, IL | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376) |
 | 🏢 **Uline** | Business Systems Analyst - Internat... | Waukegan, IL | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R260243-2) |
-| 🏢 **University of Southern California** | Business Data Analyst | LA, Location | 5d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA/Business-Data-Analyst_REQ20170647-1) |
+| 🏢 **University of Southern California** | Business Data Analyst | LA, Location | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA/Business-Data-Analyst_REQ20170647-1) |
 | 🏢 **Mechanize** | Junior Software Engineer | SF, Location | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490/application) |
 | 🏢 **Children's Hospital of Philadelphia** | Research Data Analyst 1 | Philadelphia | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/Philadelphia-Campus--Roberts-Center-for-Pediatric-Research/Research-Data-Analyst-I_1021666) |
 | 🏢 **Jones Lang LaSalle (JLL)** | Research Analyst - Pnw | Seattle, WA | 6d | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Research-Analyst--PNW_REQ451478) |
@@ -862,19 +858,20 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2046 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2047 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2046 positions
-- **🏢 Companies**: 118 companies
-- **⭐ FAANG+ Jobs & Internships**: 41 positions
+- **📁 Total Jobs**: 2047 positions
+- **🏢 Companies**: 117 companies
+- **⭐ FAANG+ Jobs & Internships**: 42 positions
 
-### 🏢 **FAANG+** (38 positions)
+### 🏢 **FAANG+** (39 positions)
 
-#### 📦 **Amazon** (16 positions)
+#### 📦 **Amazon** (17 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
+| Software Engineer 1 - Builder | SF, Location | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en/jobs/3154041/software-engineer-i-builder) |
 | Agentic AI Teacher - Agi Ds - Agi D... | Boston, MA | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en/jobs/3150951/agentic-ai-teacher-agi-ds-agi-ds) |
 | Agentic AI Teacher - Agi Ds - Agi D... | Boston, MA | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en/jobs/3150956/agentic-ai-teacher-agi-ds-agi-ds) |
 | Agentic AI Teacher - Agi Ds - Agi D... | Boston, MA | 1w | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://amazon.jobs/en/jobs/3150957/agentic-ai-teacher-agi-ds-agi-ds) |
@@ -3116,7 +3113,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 657 current opportunities from 118 companies**
+**🎯 653 current opportunities from 117 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
