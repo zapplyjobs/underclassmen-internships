@@ -23,10 +23,10 @@ on:
         type: string
         default: ''
       older_than_hours:
-        description: 'Delete posts OLDER than N hours (48 = 2 days default)'
+        description: 'Delete posts OLDER than N hours (336 = 14 days default)'
         required: false
         type: string
-        default: '48'
+        default: '336'
       nuclear_mode:
         description: '⚠️ NUCLEAR MODE: Delete ALL posts regardless of age (requires explicit confirmation)'
         required: true
@@ -70,7 +70,7 @@ jobs:
         DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels || 'true' }}
         CHANNEL_IDS: ${{ inputs.channel_ids || '' }}
         HOURS_AGO: ${{ inputs.hours_ago || '' }}
-        OLDER_THAN_HOURS: ${{ inputs.older_than_hours || '48' }}
+        OLDER_THAN_HOURS: ${{ inputs.older_than_hours || '336' }}
         NUCLEAR_MODE: ${{ inputs.nuclear_mode || 'false' }}
         DRY_RUN: ${{ inputs.dry_run || 'false' }}
         # Category channel IDs (using GitHub Secrets - must match update-jobs.yml)
