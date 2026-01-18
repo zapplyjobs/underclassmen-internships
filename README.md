@@ -418,10 +418,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1461 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1458 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1461 positions
+- **📁 Total Jobs**: 1458 positions
 - **🏢 Companies**: 124 companies
 - **⭐ FAANG+ Jobs & Internships**: 41 positions
 
@@ -983,7 +983,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 5mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (994 positions)
+### 🏢 **Other Companies** (991 positions)
 
 #### 🎵 **spotify** (15 positions)
 
@@ -1869,7 +1869,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Valon** | Software Engineer – New Grad | SF, Location | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/Valon/5348244b-763b-4ce7-8828-85575eba2a4c/application) |
 | 🏢 **10a Labs** | Machine Learning Fellowship | NYC, Locatio | 3mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/10alabs/jobs/4035700009) |
 | 🏢 **Rogo** | Entry Level Engineer | NYC, Locatio | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rogo/ab1afca5-a96f-4ba7-8370-60817d8a38d1/application) |
-| 🏢 **Mercury Insurance** | Mercury Ignite Data Science Graduat... | California,  | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-mercuryinsurance.icims.com/jobs/5990/job?mobile=true&needsRedirect=false) |
 | 🏢 **Nelnet** | Data Analyst I - Consumer Loan Anal... | Lincoln, NE | 3mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1) |
 | 🏢 **Replit** | Software Engineer - New Grad - Summ... | Foster City, | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) |
 | 🏢 **Replit** | Software Engineer – New Grad - Summ... | San Mateo, C | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application) |
@@ -1899,7 +1898,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **SIFT** | Software Engineer – New College Gra... | El Segundo,  | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application) |
 | 🏢 **Nextdoor** | Machine Learning Engineer – New Gra... | Dallas, TX | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://about.nextdoor.com/careers-list/?gh_jid=7264954) |
 | 🏢 **NorthMark Strategies** | Graduate Engineering Program | Dallas, TX | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714) |
-| 🏢 **W.R. Berkley** | Data Science Engineer | Chesterfield | 3mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-berkley.icims.com/jobs/13282/job?mobile=true&needsRedirect=false) |
 | 🏢 **Jade Global** | Data/Ai Engineer Intern | Ogden, UT | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685) |
 | 🏢 **Sift** | Software Engineer | El Segundo,  | 3mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6) |
 | 🏢 **Ovative Group** | Analyst, Data & Software Engineerin... | Minneapolis, | 3mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---January-2026-Start-Date_JR100120) |
@@ -1933,7 +1931,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Nordstrom** | Engineer 1 - Full Stack, Store POS+ | Seattle, WA | 4mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729) |
 | 🏢 **Jane Street** | Cybersecurity Analyst | New York, NY | 4mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.janestreet.com/join-jane-street/position/8053215002/) |
 | 🏢 **Jane Street** | Linux Engineer | NYC, Locatio | 6mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8061059002) |
-| 🏢 **EyeSouth Partners** | Ophthalmic Technician 1 | Wright-Patte | 4mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-eyesouthpartners.icims.com/jobs/8450/job?mobile=true&needsRedirect=false) |
 | 🏢 **Dayton Freight Lines** | Entry Level Software Developer | Dayton, OH | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false) |
 | 🏢 **Advocate Health Care** | IT Data Solutions Developer Associa... | Winston-Sale | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/IT-Data-Solutions-Develop-Associate_R178892) |
 | 🏢 **Cotiviti** | Associate Software Engineer | Remote in US | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-cotiviti.icims.com/jobs/17318/job?mobile=true&needsRedirect=false) |
