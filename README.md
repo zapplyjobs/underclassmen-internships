@@ -132,13 +132,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 |---------|------|----------|--------|-------|-------|
 | 🏢 **ABB** | Associate Field Application Enginee... | Dallas, TX | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dallas-Texas-United-States-of-America/Associate-Field-Application-Engineer_JR00021516) |
 
-### 📊 **Analytics & EdTech** (1 positions)
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **Iowa State University** | Workday Extend Developer 1 | Ames, IA | 6d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Workday-Extend-Developer-I_R18423) |
-
-### 🏢 **Other Companies** (202 positions)
+### 🏢 **Other Companies** (201 positions)
 
 #### 🏢 **samsara** (46 positions)
 
@@ -245,7 +239,6 @@ Check out what we're doing on our socials, join our community to connect with fe
 | 🏢 **Jerry** | Software Engineer - Entry | NYC, Locatio | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/jerry.ai/6e72cfc2-3b09-486a-ba14-aa54458a7ef3/application) |
 | 🏢 **Ernst & Young** | USA – Tax - Indirect Tax | United State | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eyglobal.yello.co/jobs/CmBUJcCDjJ3XXYHGn1GgYg?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | 🏢 **Ernst & Young** | USA – Service Delivery Center - Bus... | Alpharetta,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eyglobal.yello.co/jobs/3j-VMIgwH9kv8WgrXv2f6w?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
-| 🏢 **Ernst & Young** | Tax - International Tax and Transac... | NYC, Locatio | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eyglobal.yello.co/jobs/FYe_cgvKuve9HQ-VXzmSng?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | 🏢 **Ernst & Young** | Tax - Multiple Teams | NYC, Locatio | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eyglobal.yello.co/jobs/xl6-KdOrWNg4MPbMfxFDNA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | 🏢 **Ernst & Young** | USA – Tax - Indirect Tax - State In... | NYC, Locatio | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eyglobal.yello.co/jobs/_BEZzaFRicI-W2S09JqTXA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
 | 🏢 **KBR** | Software Engineer 1 | Sioux Falls, | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-I_R2117676) |
@@ -408,11 +401,11 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1461 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1460 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1461 positions
-- **🏢 Companies**: 117 companies
+- **📁 Total Jobs**: 1460 positions
+- **🏢 Companies**: 116 companies
 - **⭐ FAANG+ Jobs & Internships**: 41 positions
 
 ### 🏢 **FAANG+** (38 positions)
@@ -975,7 +968,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 5mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (992 positions)
+### 🏢 **Other Companies** (991 positions)
 
 #### 🎨 **Adobe** (18 positions)
 
@@ -1313,13 +1306,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **SpruceID** | Full-Stack Software Engineer – New ... | Remote in US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/sprucesystems/c683a712-7a5a-4bed-b580-f899998f044a/apply) |
 | 🏢 **EquipmentShare** | MDM – Master Data Management - Part... | Columbia, MO | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.equipmentshare.com/careers/openings/?gh_jid=7516161) |
 | 🏢 **Ohio State University** | Medical Simulation Technician | Columbus, OH | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Medical-Simulation-Specialist_R142572) |
-| 🏢 **Cisco** | AI Machine Learning Engineer 2 | San Jose, CA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2001899) |
-| 🏢 **Cisco** | Software Engineer Full Stack & Appl... | San Jose, CA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000087) |
-| 🏢 **Cisco** | Software Engineer 2 - Full Stack an... | San Jose, CA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000127) |
-| 🏢 **Cisco** | Software Engineer Backend/Platform ... | Boston, MA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000046) |
-| 🏢 **Cisco** | Software Engineer Data/AI/Intellige... | Boston, MA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000073) |
-| 🏢 **Cisco** | Software Engineer Security & Automa... | San Jose, CA | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000123) |
-| 🏢 **Cisco** | Software Engineer Data/AI/Intellige... | Austin, TX | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Intuit** | Software Engineer 1 | Mountain Vie | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/90290660624) |
 | 🏢 **Intuit** | Software Engineer 1 | NYC, Locatio | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.intuit.com/job/new-york/software-engineer-1/27595/89635832160) |
 | 🏢 **Intuit** | Softare Engineer 1 | Mountain Vie | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.intuit.com/job/mountain-view/softare-engineer-1/27595/89568852704) |
@@ -1605,6 +1591,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Magna** | Software Engineer 1 - Thermal Camer... | Goleta, CA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769) |
 | 🏢 **Zeta Global** | Associate – Data Cloud Solutions | Remote in US | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5710438004) |
 | 🏢 **Nexthop.ai** | Software Engineer – New Grad | Santa Clara, | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nexthopai.bamboohr.com/careers/24/) |
+| 🏢 **Cisco** | Software Engineer Full Stack & Appl... | San Jose, CA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000087) |
+| 🏢 **Cisco** | Software Engineer 2 - Full Stack an... | San Jose, CA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000127) |
+| 🏢 **Cisco** | Software Engineer Backend/Platform ... | Boston, MA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000046) |
+| 🏢 **Cisco** | Software Engineer Data/AI/Intellige... | Boston, MA | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000073) |
+| 🏢 **Cisco** | Software Engineer Security & Automa... | San Jose, CA | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000123) |
+| 🏢 **Cisco** | Software Engineer Data/AI/Intellige... | Austin, TX | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) |
 | 🏢 **Cummins** | AI/ML Systems Engineer | Columbus, IN | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2418409) |
 | 🏢 **Emerson Electric** | Software Engineer | Austin, TX | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028581) |
 | 🏢 **Strata Decision Technology** | Analyst – Data Integration | Chicago, IL | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/stratacareers/jobs/7542763003) |
@@ -2032,7 +2024,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 230 current opportunities from 117 companies**
+**🎯 228 current opportunities from 116 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
