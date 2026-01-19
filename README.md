@@ -103,7 +103,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 | 🚗 **Uber** | Graduate 2026 PhD Software Engineer... | SF, Location | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://university-uber.icims.com/jobs/153663/job?mobile=true&needsRedirect=false) |
 | 🚗 **Uber** | Graduate 2026 PhD Software Engineer... | SF, Location | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.uber.com/global/en/careers/list/153663/) |
 | 🎬 **TikTok** | Data Scientist - Product Analytics ... | San Jose, CA | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7288361490993498429) |
-| 🎬 **TikTok** | Benefits Operations Data Analyst - ... | San Jose, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7593570990719306037) |
+| 🎬 **TikTok** | Benefits Operations Data Analyst - ... | San Jose, CA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lifeattiktok.com/search/7593570990719306037) |
 
 ### 💰 **Financial & Fintech** (5 positions)
 
@@ -132,7 +132,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 |---------|------|----------|--------|-------|-------|
 | 🏢 **ABB** | Associate Field Application Enginee... | Dallas, TX | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dallas-Texas-United-States-of-America/Associate-Field-Application-Engineer_JR00021516) |
 
-### 🏢 **Other Companies** (201 positions)
+### 🏢 **Other Companies** (200 positions)
 
 #### 🏢 **samsara** (46 positions)
 
@@ -193,8 +193,8 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Customer Success Manager - Denver | Denver, Colo | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590) |
 | Enterprise Sales Executive | San Francisc | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752) |
 |  Enterprise Sales Executive (SLED) | Denver, Colo | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
-| Enterprise Sales Executive | North Caroli | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331) |
 | Enterprise Sales Executive | Washington,  | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707) |
+| Enterprise Sales Executive | North Caroli | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331) |
 | Enterprise Sales Executive | Florida, USA | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155) |
 | Enterprise Sales Executive (FED) | Washington,  | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680) |
 | Enterprise Sales Executive (FED) | Maryland, US | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284) |
@@ -346,7 +346,6 @@ Check out what we're doing on our socials, join our community to connect with fe
 | 🏢 **VCU Health** | Applications Analyst Associate | Richmond, VA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Richmond-VA/Applications-Analyst-Associate_R40772-1) |
 | 🏢 **Underdog Fantasy** | Associate Software Engineer – 2026 ... | Remote in US | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005) |
 | 🏢 **Sabre** | Web/Digital Specialist 1 | Hammersmith, | 6d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/United-Kingdom---Richmond-Church-Rd/Web-Digital-Specialist-I_JR107155) |
-| 🏢 **HEXAWARE** | Application Support - Java skills -... | Plano, TX | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735) |
 
 
 
@@ -401,11 +400,11 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1460 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1464 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1460 positions
-- **🏢 Companies**: 116 companies
+- **📁 Total Jobs**: 1464 positions
+- **🏢 Companies**: 115 companies
 - **⭐ FAANG+ Jobs & Internships**: 41 positions
 
 ### 🏢 **FAANG+** (38 positions)
@@ -926,7 +925,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Leidos** | Entry Level Graphics Software Devel... | Bethesda, MD | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Graphics-Software-Developer_R-00171511) |
 | 🏢 **Leidos** | Software Engineer | Huntsville,  | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00171275) |
 | 🏢 **Leidos** | Software Systems Engineer | Huntsville,  | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Systems-Engineer_R-00171075) |
-| 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Ju | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
+| 🏢 **Peraton** | Junior Product Software Engineer | Annapolis Ju | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/162138/junior-product-software-engineer/job) |
 | 🏢 **Peraton** | Software Engineering, Associate | Santa Clara, | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job) |
 | 🏢 **Peraton** | Software Engineering, Associate | Herndon, VA | 5mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) |
 | 🏢 **Radiance Technologies** | Physicist | Wright-Patte | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC/Physicist_HR101844) |
@@ -968,7 +967,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 5mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (991 positions)
+### 🏢 **Other Companies** (995 positions)
 
 #### 🎨 **Adobe** (18 positions)
 
@@ -1027,21 +1026,20 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Employee Relation Specialist - Work... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622) |
 | Enterprise Sales Engineer | Texas, USA,  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789) |
 | Enterprise Sales Engineer - South A... | South Africa | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093) |
-| Enterprise Sales Executive | Georgia, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822) |
 | Enterprise Sales Executive | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254) |
+| Enterprise Sales Executive | Georgia, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822) |
 | Enterprise Sales Executive  | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831) |
 | Federal Support Engineer 2 - Denver | Denver, Colo | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380) |
 | Information Security Analyst II | New York, Ne | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939) |
 | Key Accounts Executive (East) | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236) |
-| Major Account Manager | Boston, Mass | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198) |
 | Major Account Manager | Florida, USA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312) |
+| Major Account Manager | Boston, Mass | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198) |
 | Premier Support Engineer 2 | San Francisc | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7449072/?gh_jid=7449072) |
 | Premier Support Engineer 2 - New Yo... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7095084/?gh_jid=7095084) |
 | Premier Support Engineer 3 - NYC | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493) |
 | Product Manager II - Software Deliv... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417) |
 | Product Marketing Manager (Product ... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7429838/?gh_jid=7429838) |
 | Sales Engineer (Customer Success) -... | Denver, Colo | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7215574/?gh_jid=7215574) |
-| Strategic Account Executive | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386) |
 | Strategic Account Executive | North Caroli | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363) |
 | Strategic Account Executive | San Francisc | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7178512/?gh_jid=7178512) |
 | Strategic Account Executive | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086) |
@@ -1049,9 +1047,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Strategic Account Executive | Chicago, Ill | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6522755/?gh_jid=6522755) |
 | Strategic Account Executive | Georgia, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720) |
 | Strategic Account Executive | Florida, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929) |
+| Strategic Account Executive | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386) |
 | Strategic Account Executive (FED) | District of  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359) |
-| Strategic Account Executive (SLED) | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7077431/?gh_jid=7077431) |
 | Strategic Account Executive (SLED) | District of  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667) |
+| Strategic Account Executive (SLED) | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7077431/?gh_jid=7077431) |
 | Strategic Account Executive (SLED) | Kansas, USA, | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945) |
 | Technical Account Manager 2 - New Y... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7411889/?gh_jid=7411889) |
 | Technical Support Engineer 2, Premi... | Denver, Colo | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260) |
@@ -1219,6 +1218,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **HEXAWARE** | Application Support - Java skills -... | Plano, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/589735) |
 | 🏢 **Oscar Health** | Data Scientist 1: Network and Contr... | NYC, Locatio | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7527160?gh_jid=7527160) |
 | 🏢 **PitchBook** | Associate Machine Learning Engineer | NYC, Locatio | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/pitchbookdata/jobs/4643737006) |
 | 🏢 **PitchBook** | Associate Machine Learning Engineer | Seattle, WA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/pitchbookdata/jobs/4643736006) |
@@ -1271,7 +1271,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Uline** | Associate Software Developer | Waukegan, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376) |
 | 🏢 **Uline** | Business Systems Analyst - Internat... | Waukegan, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Systems-Analyst---International_R260243-2) |
 | 🏢 **Mechanize** | Software Engineer | SF, Location | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mechanize/1ef28bb2-6251-4da6-a590-a4a7606368cb/application) |
-| 🏢 **Mechanize** | Junior Software Engineer | San Francisc | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
+| 🏢 **Mechanize** | Junior Software Engineer | San Francisc | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) |
 | 🏢 **Children's Hospital of Philadelphia** | Research Data Analyst 1 | Philadelphia | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/Philadelphia-Campus--Roberts-Center-for-Pediatric-Research/Research-Data-Analyst-I_1021666) |
 | 🏢 **Jones Lang LaSalle (JLL)** | Research Analyst - Pnw | Seattle, WA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Research-Analyst--PNW_REQ451478) |
 | 🏢 **Jones Lang LaSalle (JLL)** | Research Analyst | Minneapolis, | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Research-Analyst_REQ473450) |
@@ -1414,10 +1414,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **BlackRock** | Associate – Application Engineer | NYC, Locatio | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1) |
 | 🏢 **Radian** | Data Scientist I - Hybrid | New York, NY | 3w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) |
 | 🏢 **First Financial Bank** | AI Developer I- Call Center | Abilene, TX | 3w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406) |
-| 🏢 **Warner Bros.** | Associate Software Engineer (Tempor... | Chicago, IL | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) |
-| 🏢 **Astranis** | Software Developer, Network Softwar... | San Francisc | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
+| 🏢 **Warner Bros.** | Associate Software Engineer (Tempor... | Chicago, IL | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) |
+| 🏢 **Astranis** | Software Developer, Network Softwar... | San Francisc | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4621916006) |
 | 🏢 **Astranis** | Software Engineer - Backend - Platf... | SF, Location | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4622097006) |
-| 🏢 **Oklo** | Junior Software Engineer | Santa Clara, | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
+| 🏢 **Oklo** | Junior Software Engineer | Santa Clara, | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
 | 🏢 **Sayari** | Junior Data Engineer | Remote in US | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sayari/jobs/4069553009) |
 | 🏢 **Astreya** | Data Center Network Modeling Techni... | Denver, CO | 4w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Data-Center-Network-Modeling-Technician-III_R0014121) |
 | 🏢 **Astreya** | Fiber Network Mapping Specialist 4 | Colorado, Lo | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-IV_R0014039) |
@@ -1425,6 +1425,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Astreya** | Data Center Network Modeling Techni... | Boulder, CO | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
 | 🏢 **Astreya** | Data Center Network Modeling Techni... | Boulder, CO | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744) |
 | 🏢 **Kettering Health** | Clinical Analytics Analyst - IS Ana... | Miamisburg,  | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-ketteringhealth.icims.com/jobs/57002/job?mobile=true&needsRedirect=false) |
+| 🏢 **Kettering Health** | Advanced Practice Provider - Aprn o... | Miamisburg,  | 4mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-ketteringhealth.icims.com/jobs/57432/job?mobile=true&needsRedirect=false) |
 | 🏢 **Blissway** | Software Engineer | Denver, CO | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/blissway/206ceeef-4283-481c-a46d-e7273f597844/application) |
 | 🏢 **AppLovin** | Data Scientist - Analytics | Palo Alto, C | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4624972006) |
 | 🏢 **AppLovin** | Backend Engineer, New Grad | Palo Alto, C | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/applovin/jobs/4451556006) |
@@ -1677,6 +1678,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Trace3** | Java DevSecOps Software Engineer | Colorado Spr | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7350861) |
 | 🏢 **Bio-Techne** | Software Engineer | Wallingford, | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Wallingford-CT/Software-Engineer_JR101306) |
 | 🏢 **Path Robotics** | Robotic Data Collection Operator - ... | Columbus, OH | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/pathrobotics/jobs/8284163002) |
+| 🏢 **Geosyntec Consultants** | Early-Career Geologist or Hydrogeol... | Tampa, FL | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-geosyntec.icims.com/jobs/4028/job?mobile=true&needsRedirect=false) |
 | 🏢 **Benchling** | Software Engineer New Grad | SF, Location | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/benchling/jobs/7386982) |
 | 🏢 **Braun Intertec ** | GIS Specialist/Traffic Noise Analys... | Atlanta, GA | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://braunintertec.wd5.myworkdayjobs.com/brauninterteccareers/job/Atlanta-EPE/GIS-Specialist-Traffic-Noise-Analyst_R4468) |
 | 🏢 **White Cap Supply Holdings** | Data Scientist | Atlanta, GA | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://whitecap.wd1.myworkdayjobs.com/careers/job/Atlanta_30360/Data-Scientist_WCJR-028517) |
@@ -1917,6 +1919,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Nordstrom** | Engineer 1 - Full Stack, Store POS+ | Seattle, WA | 4mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729) |
 | 🏢 **Jane Street** | Cybersecurity Analyst | New York, NY | 4mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.janestreet.com/join-jane-street/position/8053215002/) |
 | 🏢 **Jane Street** | Linux Engineer | NYC, Locatio | 6mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8061059002) |
+| 🏢 **Dayton Freight Lines** | Entry Level Software Developer | Dayton, OH | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false) |
 | 🏢 **Advocate Health Care** | IT Data Solutions Developer Associa... | Winston-Sale | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/IT-Data-Solutions-Develop-Associate_R178892) |
 | 🏢 **Cotiviti** | Associate Software Engineer | Remote in US | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-cotiviti.icims.com/jobs/17318/job?mobile=true&needsRedirect=false) |
 | 🏢 **Credence** | Entry-Level Software Engineer | McLean, VA | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job) |
@@ -2024,7 +2027,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 228 current opportunities from 116 companies**
+**🎯 227 current opportunities from 115 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
