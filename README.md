@@ -188,7 +188,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Customer Success Associate - Boston | Boston, Mass | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466) |
+| Customer Success Associate - Boston | Boston, Mass | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466) |
 | Customer Success Manager - Denver | Denver, Colo | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590) |
 | Enterprise Sales Executive | San Francisc | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752) |
 |  Enterprise Sales Executive (SLED) | Denver, Colo | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
