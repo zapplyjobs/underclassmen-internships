@@ -1,0 +1,72 @@
+name: Cleanup Old Messages
+
+on:
+  schedule:
+    # Daily at 3 AM UTC (10 PM EST / 7 PM PST)
+    - cron: '0 3 * * *'
+
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (preview only, no deletion)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      deletion_age_days:
+        description: 'Age threshold for deletion (days)'
+        required: false
+        default: '14'
+        type: string
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Need full history to commit changes back
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run cleanup script
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          DELETION_AGE_DAYS: ${{ github.event.inputs.deletion_age_days || '14' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: node .github/scripts/cleanup-old-messages.js
+
+      - name: Commit updated database
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/data/posted_jobs.json
+          git diff --staged --quiet || git commit -m "chore: cleanup messages older than ${{ github.event.inputs.deletion_age_days || '14' }} days [skip ci]"
+
+      - name: Push changes
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git pull --rebase origin main
+          git push || echo "No changes to push"
+
+      - name: Summary
+        run: |
+          echo "### Cleanup Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Deletion age threshold**: ${{ github.event.inputs.deletion_age_days || '14' }} days" >> $GITHUB_STEP_SUMMARY
+          echo "- **Dry run**: ${{ github.event.inputs.dry_run || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Completed**: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
