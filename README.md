@@ -188,9 +188,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎮 **discord** | Content Technologist (Temporary) 🏠 | Remote (U.S. | 0h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8378561002) |
 | 🎮 **discord** | Software Engineer, Payments | San Francisc | 0h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8304667002) |
 | 🎮 **discord** | Software Engineer, Mobile | San Francisc | 0h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8177727002) |
-| 🏢 **DXC Technology** | Associate Professional Application ... | Waterbury, C | 3h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293) |
-| 🏢 **University of Texas - Austin** | Power BI Analyst | Austin, TX | 4h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Power-BI-Analyst_R_00044081-1) |
-| 🏢 **United Parcel Service (UPS)** | Bus Systems Analysis Associate | Indiana, Loc | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Bus-Systems-Analysis-Associate_R25043013) |
+| 🏢 **DXC Technology** | Associate Professional Application ... | Waterbury, C | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293) |
+| 🏢 **University of Texas - Austin** | Power BI Analyst | Austin, TX | 5h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Power-BI-Analyst_R_00044081-1) |
+| 🏢 **United Parcel Service (UPS)** | Bus Systems Analysis Associate | Indiana, Loc | 12h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Bus-Systems-Analysis-Associate_R25043013) |
 | 🏢 **Northrop Grumman** | Data Scientist - Machine Learning a... | San Diego, C | 12h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Scientist---Machine-Learning-and-Predictive-Analytics_R10218634) |
 | 🏢 **Maricopa County** | GIS Property Technician | Phoenix, AZ | 12h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://maricopa.wd1.myworkdayjobs.com/en-US/MC_External/job/301-W-Jefferson-St-Phoenix-AZ-85003/GIS-Property-Technician_JR21559) |
 | 🏢 **Invisible Technologies AI** | AI Generalist - Entry-Level - Freel... | Remote in US | 17h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/agency/jobs/4754242101) |
@@ -360,10 +360,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1476 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1475 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1476 positions
+- **📁 Total Jobs**: 1475 positions
 - **🏢 Companies**: 99 companies
 - **⭐ FAANG+ Jobs & Internships**: 41 positions
 
@@ -928,7 +928,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | 5mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) |
 
-### 🏢 **Other Companies** (1006 positions)
+### 🏢 **Other Companies** (1005 positions)
 
 #### 🎵 **spotify** (18 positions)
 
@@ -990,8 +990,8 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Employee Relation Specialist - Work... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622) |
 | Enterprise Sales Engineer | Texas, USA,  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789) |
 | Enterprise Sales Engineer - South A... | South Africa | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093) |
-| Enterprise Sales Executive | Georgia, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822) |
 | Enterprise Sales Executive | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254) |
+| Enterprise Sales Executive | Georgia, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822) |
 | Enterprise Sales Executive  | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831) |
 | Federal Support Engineer 2 - Denver | Denver, Colo | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380) |
 | Information Security Analyst II | New York, Ne | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939) |
@@ -1004,18 +1004,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Product Manager II - Software Deliv... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417) |
 | Product Marketing Manager (Product ... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7429838/?gh_jid=7429838) |
 | Sales Engineer (Customer Success) -... | Denver, Colo | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7215574/?gh_jid=7215574) |
-| Strategic Account Executive | Chicago, Ill | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6522755/?gh_jid=6522755) |
 | Strategic Account Executive | Georgia, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720) |
+| Strategic Account Executive | Chicago, Ill | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6522755/?gh_jid=6522755) |
+| Strategic Account Executive | Florida, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929) |
 | Strategic Account Executive | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131386/?gh_jid=7131386) |
 | Strategic Account Executive | North Caroli | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363) |
-| Strategic Account Executive | Florida, USA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929) |
 | Strategic Account Executive | San Francisc | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7178512/?gh_jid=7178512) |
 | Strategic Account Executive | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086) |
 | Strategic Account Executive | District of  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036) |
 | Strategic Account Executive (FED) | District of  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7155359/?gh_jid=7155359) |
 | Strategic Account Executive (SLED) | District of  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667) |
-| Strategic Account Executive (SLED) | Kansas, USA, | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945) |
 | Strategic Account Executive (SLED) | Boston, Mass | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7077431/?gh_jid=7077431) |
+| Strategic Account Executive (SLED) | Kansas, USA, | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945) |
 | Technical Account Manager 2 - New Y... | New York, Ne | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7411889/?gh_jid=7411889) |
 | Technical Support Engineer 2, Premi... | Denver, Colo | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260) |
 
@@ -1585,7 +1585,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Strata Decision Technology** | Analyst – Data Integration | Chicago, IL | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/stratacareers/jobs/7542763003) |
 | 🏢 **Texas A&M University - Corpus Christi** | Postdoctoral Research Associate | Corpus Chris | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1) |
 | 🏢 **Texas A&M University - Corpus Christi** | Assistant Professor - Data Science | Corpus Chris | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Assistant-Professor--Data-Science_R-088833-1) |
-| 🏢 **The Campbell's Company** | Packaging Engineer - Sustainability | Philadelphia | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Packaging-Engineer---Sustainability_Req-62127) |
 | 🏢 **Barr** | Entry Level Chemical Engineer/Envir... | Salt Lake Ci | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Chemical-Engineer-Environmental-Engineer-Scientist---Entry-Level---Permitting-and-Compliance-Focus--Hybrid-_R-101815) |
 | 🏢 **The University of Kansas Hospital** | Clinical Analyst 1 | Leawood, KS | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kansashealthsystem.wd1.myworkdayjobs.com/careers/job/Shawnee-Mission-KS/Clinical-Analyst-I_R-45381-1) |
 | 🏢 **University of Central Florida** | Assistant Professor - Renewable Ene... | Orlando, FL | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Assistant-Professor--Renewable-Energy-and-Chemical-Transformations_R111507) |
