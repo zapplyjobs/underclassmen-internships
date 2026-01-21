@@ -1,0 +1,136 @@
+name: Daily Health Report
+
+on:
+  schedule:
+    # Run daily at 9 AM UTC (1 AM PST / 4 AM EST)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  issues: write # For creating/updating health report issues
+  contents: read
+
+jobs:
+  health-report:
+    runs-on: ubuntu-latest
+    name: Generate Workflow Health Report
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run health report
+        id: health-check
+        env:
+          LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
+        run: |
+          node .github/scripts/workflow-health-report.js
+
+      - name: Upload health report artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: health-report-${{ github.run_number }}
+          path: .github/data/health-report.json
+          retention-days: 30
+
+      - name: Create/Update Health Issue
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const reportPath = '.github/data/health-report.json';
+
+            if (!fs.existsSync(reportPath)) {
+              console.log('Health report file not found, skipping issue creation');
+              return;
+            }
+
+            const report = JSON.parse(fs.readFileSync(reportPath, 'utf8'));
+
+            const issueTitle = '🚨 CRITICAL: Workflow Health Below 70%';
+            const issueBody = `
+            # 📊 Workflow Health Report - CRITICAL
+
+            **Generated:** ${report.timestamp}
+            **Status:** 🔴 CRITICAL (${report.postingRate}% success rate)
+
+            ## Summary
+
+            - **Total Jobs:** ${report.totalJobs}
+            - **Posted Successfully:** ${report.postedJobs} (${report.postingRate}%)
+            - **Not Posted:** ${report.unpostedJobs} (${(100 - report.postingRate).toFixed(2)}%)
+
+            ## Breakdown
+
+            - V2 Multi-Channel Posts: ${report.jobsWithDiscordPosts}
+            - V1 Legacy Posts: ${report.jobsWithLegacyPost}
+            - ❌ Zero Channels (BUG): ${report.jobsWithZeroChannels}
+            - Never Processed: ${report.jobsNeverProcessed}
+
+            ## Top Affected Companies
+
+            ${Object.entries(report.companiesAffected || {})
+              .sort(([, a], [, b]) => b - a)
+              .slice(0, 10)
+              .map(([company, count]) => `- ${company}: ${count} jobs`)
+              .join('\n')}
+
+            ## Sample Failed Jobs
+
+            ${report.unpostedJobsSample.map((job, idx) =>
+              `${idx + 1}. **${job.company}** - ${job.title}\n   - Location: ${job.city}, ${job.state}\n   - Date: ${job.datePosted}`
+            ).join('\n')}
+
+            ---
+
+            **Action Required:** Investigate why ${report.jobsWithZeroChannels} jobs have empty \`discordPosts\` objects.
+
+            **View full report:** [Workflow Run](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})
+            `;
+
+            // Check if issue already exists
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'health-report,critical'
+            });
+
+            const existingIssue = issues.data.find(issue => issue.title === issueTitle);
+
+            if (existingIssue) {
+              // Update existing issue
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existingIssue.number,
+                body: issueBody
+              });
+              console.log(`Updated existing issue #${existingIssue.number}`);
+            } else {
+              // Create new issue
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: issueTitle,
+                body: issueBody,
+                labels: ['health-report', 'critical', 'bug']
+              });
+              console.log('Created new critical health issue');
+            }
+
+      - name: Notify via Workflow Summary
+        if: always()
+        run: |
+          echo "✅ Health report completed. Check the step summary above for details."
