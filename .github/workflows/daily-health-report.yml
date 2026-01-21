@@ -29,10 +29,8 @@ jobs:
 
       - name: Run health report
         id: health-check
-        env:
-          LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
         run: |
-          node .github/scripts/workflow-health-report.js
+          node .github/scripts/workflow-health-report.js --last-24h
 
       - name: Upload health report artifact
         uses: actions/upload-artifact@v4
