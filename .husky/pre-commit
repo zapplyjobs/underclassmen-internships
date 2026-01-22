@@ -1,4 +1,57 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+# Fast Check 1: Prevent deprecated function usage (10ms)
+# Catches accidental use of markAsPosted() without markAsPostedToChannel()
+if git diff --cached --name-only | grep -q "enhanced-discord-bot.js" ; then
+  if git diff --cached | grep -q "\.markAsPosted(" ; then
+    if ! git diff --cached | grep -q "markAsPostedToChannel(" ; then
+      echo ""
+      echo "❌ COMMIT BLOCKED: Using deprecated markAsPosted() function"
+      echo "   This causes duplicate job records (2,627 duplicates found on 2026-01-21)"
+      echo ""
+      echo "   Fix: Use markAsPostedToChannel() instead"
+      echo "   See: .GenAI_Work/github_discord_integration/DATA_ARCHITECTURE.md"
+      echo ""
+      echo "   Override (NOT recommended): git commit --no-verify"
+      echo ""
+      exit 1
+    fi
+  fi
+fi
+
+# Fast Check 2: Schema change enforcement (10ms)
+# Requires checklist approval for schema-related files
+SCHEMA_FILES="posted-jobs-manager|enhanced-discord-bot"
+if git diff --cached --name-only | grep -qE "$SCHEMA_FILES" ; then
+  APPROVAL_FLAG=".GenAI_Work/.schema-change-approved"
+
+  if [ ! -f "$APPROVAL_FLAG" ] ; then
+    echo ""
+    echo "⚠️  SCHEMA-RELATED FILE CHANGED"
+    echo "   Files: $(git diff --cached --name-only | grep -E "$SCHEMA_FILES")"
+    echo ""
+    echo "   REQUIRED: Follow schema migration checklist"
+    echo "   1. Read: .GenAI_Work/github_discord_integration/SCHEMA_MIGRATION_CHECKLIST.md"
+    echo "   2. Complete all 6 phases"
+    echo "   3. Create approval flag: touch $APPROVAL_FLAG"
+    echo ""
+    echo "   Override (NOT recommended): git commit --no-verify"
+    echo ""
+    exit 1
+  fi
+
+  # Check if approval is recent (< 24 hours) - Windows compatible
+  if command -v stat >/dev/null 2>&1; then
+    # Try to get file modification time (cross-platform best effort)
+    if [ "$(uname 2>/dev/null)" = "Darwin" ] || [ "$(uname 2>/dev/null)" = "Linux" ]; then
+      APPROVAL_AGE_SECONDS=$(( $(date +%s) - $(stat -c %Y "$APPROVAL_FLAG" 2>/dev/null || stat -f %m "$APPROVAL_FLAG" 2>/dev/null || echo 0) ))
+      if [ "$APPROVAL_AGE_SECONDS" -gt 86400 ] && [ "$APPROVAL_AGE_SECONDS" -ne 0 ]; then
+        echo "⚠️  Schema approval flag is stale (> 24 hours old)"
+        echo "   Re-review checklist and update: touch $APPROVAL_FLAG"
+      fi
+    fi
+  fi
+fi
+
 npx lint-staged
