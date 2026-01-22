@@ -1,0 +1,67 @@
+name: Validate JSON Schema
+
+on:
+  pull_request:
+    paths:
+      - '.github/data/posted_jobs.json'
+      - '.github/scripts/src/data/posted-jobs-manager-v2.js'
+      - '.github/scripts/enhanced-discord-bot.js'
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/data/posted_jobs.json'
+
+jobs:
+  validate-schema:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        run: |
+          echo "Validating JSON syntax..."
+          python3 -c "import json; json.load(open('.github/data/posted_jobs.json'))"
+          echo "✅ JSON syntax valid"
+
+      - name: Check for duplicate job IDs
+        run: |
+          echo "Checking for duplicate job IDs..."
+          DUPLICATES=$(python3 -c "
+          import json
+          data = json.load(open('.github/data/posted_jobs.json'))
+          ids = [job['jobId'] for job in data['jobs']]
+          duplicates = [id for id in ids if ids.count(id) > 1]
+          if duplicates:
+              print(f'Found {len(set(duplicates))} duplicate IDs')
+              for dup in set(duplicates):
+                  print(f'  - {dup}')
+              exit(1)
+          print('No duplicates found')
+          ")
+          echo "✅ No duplicate job IDs"
+
+      - name: Validate schema consistency
+        run: |
+          echo "Checking schema consistency..."
+          python3 -c "
+          import json
+          data = json.load(open('.github/data/posted_jobs.json'))
+
+          failures = []
+          for job in data['jobs']:
+              has_v1 = 'discordThreadId' in job and job['discordThreadId']
+              has_v2 = 'discordPosts' in job and len(job.get('discordPosts', {})) > 0
+
+              if not has_v1 and not has_v2:
+                  failures.append(job['jobId'])
+
+          if failures:
+              print(f'❌ Found {len(failures)} jobs with neither V1 nor V2 tracking')
+              print('First 5 failures:')
+              for f in failures[:5]:
+                  print(f'  - {f}')
+              exit(1)
+
+          print(f'✅ All {len(data[\"jobs\"])} jobs have valid tracking')
+          "
