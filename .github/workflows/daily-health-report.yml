@@ -30,7 +30,61 @@ jobs:
       - name: Run health report
         id: health-check
         run: |
-          node .github/scripts/workflow-health-report.js --last-24h
+          # Run health report and capture output
+          node .github/scripts/workflow-health-report.js --last-24h > /tmp/health-output.txt 2>&1 || true
+
+          # Display output
+          cat /tmp/health-output.txt
+
+          # Parse key metrics for step summary
+          SUCCESS_RATE=$(grep -oP 'Success Rate: \K[\d.]+' /tmp/health-output.txt || echo "N/A")
+          TOTAL_JOBS=$(grep -oP 'Total Jobs Processed: \K\d+' /tmp/health-output.txt || echo "N/A")
+          V2_JOBS=$(grep -oP 'V2 Multi-Channel Posts: \K\d+' /tmp/health-output.txt || echo "N/A")
+          FAILURES=$(grep -oP 'Zero Channels \(Failures\): \K\d+' /tmp/health-output.txt || echo "N/A")
+
+          # Write to GitHub Step Summary
+          echo "## 📊 GitHub Discord Health Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Report Date:** $(date -u +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # Status badge
+          if (( $(echo "$SUCCESS_RATE >= 90" | bc -l 2>/dev/null || echo 0) )); then
+            echo "### ✅ Status: HEALTHY" >> $GITHUB_STEP_SUMMARY
+          elif (( $(echo "$SUCCESS_RATE >= 70" | bc -l 2>/dev/null || echo 0) )); then
+            echo "### ⚠️ Status: WARNING" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### 🔴 Status: CRITICAL" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Key Metrics (Last 24 Hours)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| **Success Rate** | ${SUCCESS_RATE}% |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Total Jobs** | ${TOTAL_JOBS} |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Posted Successfully** | ${V2_JOBS} |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Failures** | ${FAILURES} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # Add trend indicator
+          echo "### 📈 Trend" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if (( $(echo "$SUCCESS_RATE >= 95" | bc -l 2>/dev/null || echo 0) )); then
+            echo "🟢 Excellent - System performing optimally" >> $GITHUB_STEP_SUMMARY
+          elif (( $(echo "$SUCCESS_RATE >= 90" | bc -l 2>/dev/null || echo 0) )); then
+            echo "🟡 Good - Minor issues detected" >> $GITHUB_STEP_SUMMARY
+          elif (( $(echo "$SUCCESS_RATE >= 70" | bc -l 2>/dev/null || echo 0) )); then
+            echo "🟠 Warning - Investigation recommended" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "🔴 Critical - Immediate action required" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📄 **Full Report:** See workflow logs above" >> $GITHUB_STEP_SUMMARY
 
       - name: Upload health report artifact
         uses: actions/upload-artifact@v4
