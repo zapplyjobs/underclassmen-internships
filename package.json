@@ -4,20 +4,32 @@
   "description": "Automated GitHub organization stats to Discord with job description fetching",
   "scripts": {
     "prepare": "husky install",
+
     "lint": "eslint .github/scripts --max-warnings 0",
     "syntax-check": "find .github/scripts -name '*.js' -type f -exec node -c {} \\;",
+
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
-    "daily": "node .github/scripts/daily-stats.js",
-    "weekly": "node .github/scripts/weekly-summary.js",
     "test:descriptions": "node test-all-platforms.js",
     "test:integration": "node test-integration.js",
-    "health": "node .github/scripts/check-recent-failures.js && node .github/scripts/workflow-health-report.js --last-24h",
-    "diagnose:failures": "node .github/scripts/analyze-failures.js",
-    "diagnose:routing": "node .github/scripts/test-routing.js",
-    "diagnose:queue": "node .github/scripts/analyze-empty-posts.js",
-    "diagnose:all": "npm run diagnose:failures && npm run diagnose:routing && npm run diagnose:queue"
+
+    "health:check": "node .github/scripts/check-recent-failures.js && node .github/scripts/workflow-health-report.js --last-24h",
+    "health:failures": "node .github/scripts/analyze-failures.js",
+    "health:routing": "node .github/scripts/test-routing.js",
+    "health:queue": "node .github/scripts/analyze-empty-posts.js",
+    "health:all": "npm run health:failures && npm run health:routing && npm run health:queue",
+
+    "jobs:daily": "node .github/scripts/daily-stats.js",
+    "jobs:weekly": "node .github/scripts/weekly-summary.js",
+
+    "health": "npm run health:check",
+    "daily": "npm run jobs:daily",
+    "weekly": "npm run jobs:weekly",
+    "diagnose:failures": "npm run health:failures",
+    "diagnose:routing": "npm run health:routing",
+    "diagnose:queue": "npm run health:queue",
+    "diagnose:all": "npm run health:all"
   },
   "dependencies": {
     "@octokit/rest": "^20.0.2",
