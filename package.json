@@ -12,7 +12,12 @@
     "daily": "node .github/scripts/daily-stats.js",
     "weekly": "node .github/scripts/weekly-summary.js",
     "test:descriptions": "node test-all-platforms.js",
-    "test:integration": "node test-integration.js"
+    "test:integration": "node test-integration.js",
+    "health": "node .github/scripts/check-recent-failures.js && node .github/scripts/workflow-health-report.js --last-24h",
+    "diagnose:failures": "node .github/scripts/analyze-failures.js",
+    "diagnose:routing": "node .github/scripts/test-routing.js",
+    "diagnose:queue": "node .github/scripts/analyze-empty-posts.js",
+    "diagnose:all": "npm run diagnose:failures && npm run diagnose:routing && npm run diagnose:queue"
   },
   "dependencies": {
     "@octokit/rest": "^20.0.2",
