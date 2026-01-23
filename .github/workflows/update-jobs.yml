@@ -237,6 +237,12 @@ jobs:
       if: always()
       run: node .github/scripts/create-audit-log.js
 
+    - name: Generate metrics report
+      if: always()
+      run: node .github/scripts/generate-metrics-report.js --days=7
+      env:
+        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
+
     - name: Check for changes
       id: verify-changed-files
       run: |
@@ -322,6 +328,8 @@ jobs:
                     .github/data/seen_jobs.json \
                     .github/data/pending_posts.json \
                     .github/data/jobs-data-encrypted.json \
+                    .github/data/metrics/latest.json \
+                    .github/data/metrics/*.json \
                     .github/audit/latest.md \
                     .github/audit/routing-encrypted.json \
                     README.md 2>/dev/null || true
