@@ -91,7 +91,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen** | Software Developer | Charleston,  | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Software-Developer_R0232566-1) |
 | 🏢 **Aurora Innovation** | Software Engineer 1 - Visualization | Mountain Vie | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://aurora.tech/jobs/8372578002?gh_jid=8372578002) |
 | 🏢 **Sigma Computing** | Software Engineer – New Grad Progra... | SF, Location | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7598785003) |
-| 🏢 **NewsBreak** | Software Engineer – New Grad Friend... | Mountain Vie | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/newsbreak/jobs/4645712006) |
+| 🏢 **NewsBreak** | Software Engineer – New Grad Friend... | Mountain Vie | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/newsbreak/jobs/4645712006) |
 
 ### 🛒 **Consumer & E-Commerce** (3 positions)
 
@@ -114,7 +114,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🚀 **SpaceX** | New Graduate Engineer - Software - ... | Redmond, WA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8376990002) |
 | 🏢 **Amentum** | Data Verification/Acquisition Techn... | Houston, TX | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Data-Verification-Acquisition-Technician-I_R0151710) |
 
-### 🏢 **Other Companies** (194 positions)
+### 🏢 **Other Companies** (195 positions)
 
 <details>
 <summary><h4>🏢 <strong>datadog</strong> (52 positions)</h4></summary>
@@ -223,22 +223,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Corewell Health** | Encounter Data Systems Associate An... | Grand Rapids | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/RA-Encounter-Data-Systems-Associate-Analyst_R201109) |
 | 🏢 **1X** | Robot Operator - Swing Shift | Palo Alto, C | 7h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://1x.recruitee.com/o/robot-operator-night-shift) |
 | 🏢 **CenterPoint Energy** | Associate Data Scientist | Houston, TX | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.centerpointenergy.com/job/Houston-Associate-Data-Scientist-TX-77002/1358705400/?ats=successfactors) |
-| ₿ **coinbase** | Customer Success Specialist 🏠 | Charlotte, N | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
+| ₿ **coinbase** | Customer Success Specialist 🏠 | Charlotte, N | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
 | 🏢 **FOX** | Analyst – Audience Activation | NYC, Locatio | 9h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Analyst--Audience-Activation_R50030922) |
 | 🏢 **Allied Solutions** | Data Integration Analyst 1 | Carmel, IN | 9h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Integration-Analyst-I--On-Site--IN-_R-010517) |
 | 🏢 **Ophelia** | Software Engineer 1 | Remote in US | 9h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/ophelia/jobs/5081493008) |
 | 🏢 **AccuWeather** | Meteorologist 1 | State Colleg | 9h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/accuweather/jobs/7304640) |
 | 🏢 **Higher Logic** | Junior Software Developer | Remote in US | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/higherlogic/jobs/6565676003) |
-| 🏢 **DaVita** | Analyst – People Analytics | Denver, CO | 9h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analyst--People-Analytics_R0437932) |
-| 🏢 **Asurion** | Quality and Insights Analyst | Remote in US | 9h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018284) |
+| 🏢 **DaVita** | Analyst – People Analytics | Denver, CO | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analyst--People-Analytics_R0437932) |
+| 🏢 **Asurion** | Quality and Insights Analyst | Remote in US | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018284) |
 | 🏢 **Asurion** | Quality and Insights Analyst | Remote in US | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Quality---Insights-Analyst_ASU0018283-1) |
-| 🏢 **ERM** | Consulting Associate – Entry Level ... | Houston, TX | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Mexico-City-Mexico/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00027643-1) |
+| 🏢 **ERM** | Consulting Associate – Entry Level ... | Houston, TX | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Mexico-City-Mexico/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00027643-1) |
 | 🏢 **Prairie View A&M University** | Postdoctoral Researcher - Pier | Prairie View | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---1_R-089882-1) |
 | 🏢 **Prairie View A&M University** | Postdoctoral Researcher - Pier | Prairie View | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---2_R-089861-2) |
 | 🏢 **Q-CTRL** | Software Integration Engineer | Huntsville,  | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/q-ctrl/1ff2ff69-c5f5-4790-a007-07a90dfa4031/apply) |
 | 🎨 **figma** | Creator & Affiliate Marketing Manag... 🏠 | San Francisc | 15h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5703160004?gh_jid=5703160004) |
-| 🏢 **Fermilab** | Postdoctoral Research Associate | Batavia, IL | 17h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Postdoctoral-Research-Associate_R_008873) |
-| 🏢 **Northeastern** | Data Analyst | Boston, MA | 17h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Temporary-Data-Analyst_R138384-1) |
+| 🏢 **Fermilab** | Postdoctoral Research Associate | Batavia, IL | 18h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Postdoctoral-Research-Associate_R_008873) |
+| 🏢 **Northeastern** | Data Analyst | Boston, MA | 18h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Temporary-Data-Analyst_R138384-1) |
 | 🏢 **Huntington Ingalls Industries** | Config Data Mgmt Cntrlr 1 | Newport News | 18h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-CONFIG-DATA-MGMT-CNTRLR-1-Virg/1358387500/?ats=successfactors) |
 | 🏢 **Visa** | Analyst - Merchant Data Platform | San Mateo, C | 18h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000104917365) |
 | 🏢 **RTX** | 2026 Full-time | Colorado Spr | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO220-411-Galileo-Ave-Schriever-AFB-411-Galileo-Avenue-Schriever-AFB-Colorado-Springs-CO-80912-USA/XMLNAME-2026-Full-time---Digital-Product-Configuration-Management-Engineer-I---Onsite--CO-_01818430) |
@@ -293,6 +293,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KLA** | Applications Development Engineer -... | Milpitas, CA | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer---BBP_2531350-2) |
 | 🏢 **KLA** | Software Engineer - AI & Full Stack... | Ann Arbor, M | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer---AI---Full-Stack-Development_2531265-1) |
 | 🏢 **Caesars Entertainment** | Salesforce Engineer 1 | Las Vegas, N | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/78686) |
+| 🏢 **Gannett Fleming** | Entry Level Bridge Inspector | Orlando, FL | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gannettfleming.icims.com/jobs/13348/job?mobile=true&needsRedirect=false) |
 | 🏢 **brex** | Accounting Channel Partnerships Man... 🏠 | New York, Ne | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8177687002?gh_jid=8177687002) |
 | 🏢 **brex** | Accounting Channel Partnerships Man... 🏠 | San Francisc | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8177660002?gh_jid=8177660002) |
 | 🏢 **DXC Technology** | Associate Professional Application ... | Waterbury, C | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293) |
@@ -382,7 +383,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1488 positions
-- **🏢 Companies**: 94 companies
+- **🏢 Companies**: 95 companies
 - **⭐ FAANG+ Jobs & Internships**: 42 positions
 
 ### 🏢 **FAANG+** (39 positions)
@@ -428,7 +429,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |---------|------|----------|--------|-------|-------|
 | 🔵 **Meta** | Product Security Engineer (Universi... | Bellevue, WA | 5mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.metacareers.com/jobs/609052015548260) |
 | 🔵 **Meta** | Software Engineer - Product | Cambridge, M | 7mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.metacareers.com/jobs/592280103506066) |
-| 🟢 **Google** | Software Engineer - Spanner Hybrid ... | Sunnyvale, C | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118548224553165510) |
+| 🟢 **Google** | Software Engineer 3 - Infrastructur... | Cambridge, M | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79605303951139526) |
 | 🟢 **Google** | Software Engineer 3 - Security/Priv... | SF, Location | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91697964845540038) |
 | 🟢 **Google** | Data Scientist – Early Career - Res... | NYC, Locatio | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106428613359739590) |
 | 🟢 **Google** | Software Engineer – Early Career - ... | Madison, WI | 4mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/88714689822761670) |
@@ -2029,7 +2030,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 212 current opportunities from 94 companies**
+**🎯 213 current opportunities from 95 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
