@@ -1,0 +1,122 @@
+name: Archive Old Metrics
+
+# Auto-archive metrics files older than 90 days
+# Runs weekly to keep metrics directory clean
+# Phase 3.2: Metrics Archiver (Created 2026-01-22)
+
+on:
+  schedule:
+    # Run weekly on Sundays at 2 AM UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  archive-metrics:
+    runs-on: ubuntu-latest
+    name: Archive metrics >90 days old
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Archive old metrics
+        id: archive
+        run: |
+          set -e
+
+          METRICS_DIR=".github/data/metrics"
+          ARCHIVE_DIR="${METRICS_DIR}/archive"
+          CUTOFF_DATE=$(date -d '90 days ago' +%Y-%m)
+
+          echo "📁 Metrics directory: ${METRICS_DIR}"
+          echo "📦 Archive directory: ${ARCHIVE_DIR}"
+          echo "📅 Cutoff date: ${CUTOFF_DATE}"
+
+          # Create archive directory if it doesn't exist
+          mkdir -p "${ARCHIVE_DIR}"
+
+          # Find and archive old metrics files
+          ARCHIVED_COUNT=0
+
+          if [ -d "${METRICS_DIR}" ]; then
+            # Process each metrics file
+            for file in "${METRICS_DIR}"/*.jsonl; do
+              if [ ! -f "$file" ]; then
+                continue
+              fi
+
+              filename=$(basename "$file")
+
+              # Extract YYYY-MM from filename (e.g., pipeline-2025-12.jsonl -> 2025-12)
+              if [[ $filename =~ ([0-9]{4}-[0-9]{2}) ]]; then
+                file_date="${BASH_REMATCH[1]}"
+
+                # Compare dates (string comparison works for YYYY-MM format)
+                if [[ "$file_date" < "$CUTOFF_DATE" ]]; then
+                  echo "📦 Archiving: $filename (date: $file_date)"
+                  mv "$file" "${ARCHIVE_DIR}/"
+                  ARCHIVED_COUNT=$((ARCHIVED_COUNT + 1))
+                else
+                  echo "✅ Keeping: $filename (date: $file_date, recent)"
+                fi
+              else
+                echo "⚠️ Skipping: $filename (no date in filename)"
+              fi
+            done
+          fi
+
+          echo "archived_count=${ARCHIVED_COUNT}" >> $GITHUB_OUTPUT
+          echo ""
+          echo "✅ Archived ${ARCHIVED_COUNT} files to ${ARCHIVE_DIR}"
+
+          # List current metrics files
+          echo ""
+          echo "📊 Current metrics files:"
+          ls -lh "${METRICS_DIR}"/*.jsonl 2>/dev/null || echo "No metrics files found"
+
+          # List archived files
+          echo ""
+          echo "📦 Archived metrics files:"
+          ls -lh "${ARCHIVE_DIR}"/*.jsonl 2>/dev/null || echo "No archived files"
+
+      - name: Commit changes
+        if: steps.archive.outputs.archived_count > 0
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .github/data/metrics/
+
+          git commit -m "chore: archive metrics files older than 90 days
+
+Archived ${{ steps.archive.outputs.archived_count }} metrics files to archive/.
+
+Automated by archive-old-metrics.yml workflow.
+"
+
+          git push
+
+      - name: Create summary
+        run: |
+          echo "## Metrics Archiver Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📦 **Files archived:** ${{ steps.archive.outputs.archived_count }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Metrics files older than 90 days have been moved to:" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`.github/data/metrics/archive/\`\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Next run:** Next Sunday at 2 AM UTC" >> $GITHUB_STEP_SUMMARY
+
+      - name: Report results
+        if: always()
+        run: |
+          if [ "${{ steps.archive.outputs.archived_count }}" -eq 0 ]; then
+            echo "✅ No metrics files needed archiving (all files are <90 days old)"
+          else
+            echo "✅ Successfully archived ${{ steps.archive.outputs.archived_count }} metrics files"
+          fi
