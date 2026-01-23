@@ -1,0 +1,190 @@
+name: Discord Health Verification
+
+on:
+  schedule:
+    # Run daily at 1 AM UTC (after job posting workflows complete)
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  verify-health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      issues: write  # To post results as issue comments
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: npm install discord.js@14
+
+    - name: Verify Discord Channels
+      id: channels
+      continue-on-error: true
+      run: node .github/scripts/verify-discord-channels.js | tee channel-health.log
+      env:
+        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+        BOARD_TYPE: 'new-grad'
+        # Industry channels
+        DISCORD_TECH_CHANNEL_ID: ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
+        DISCORD_AI_CHANNEL_ID: ${{ secrets.DISCORD_AI_CHANNEL_ID }}
+        DISCORD_DS_CHANNEL_ID: ${{ secrets.DISCORD_DS_CHANNEL_ID }}
+        DISCORD_FINANCE_CHANNEL_ID: ${{ secrets.DISCORD_FINANCE_CHANNEL_ID }}
+        # Location channels
+        DISCORD_BAY_AREA_CHANNEL_ID: ${{ secrets.DISCORD_BAY_AREA_CHANNEL_ID }}
+        DISCORD_NY_CHANNEL_ID: ${{ secrets.DISCORD_NY_CHANNEL_ID }}
+        DISCORD_PNW_CHANNEL_ID: ${{ secrets.DISCORD_PNW_CHANNEL_ID }}
+        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
+        DISCORD_OTHER_USA_CHANNEL_ID: ${{ secrets.DISCORD_OTHER_USA_CHANNEL_ID }}
+
+    - name: Verify Job Distribution
+      id: distribution
+      continue-on-error: true
+      run: node .github/scripts/verify-job-distribution.js --days=7 | tee distribution-health.log
+      env:
+        BOARD_TYPE: 'new-grad'
+
+    - name: Verify Workflow Health
+      id: workflow
+      continue-on-error: true
+      run: node .github/scripts/verify-workflow-health.js --runs=10 | tee workflow-health.log
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+
+    - name: Generate Summary Report
+      if: always()
+      run: |
+        cat > health-summary.md << 'EOF'
+        # Discord Health Verification Report
+
+        **Generated:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+        **Repository:** ${{ github.repository }}
+        **Workflow Run:** [${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+
+        ---
+
+        ## Channel Health
+
+        \`\`\`
+        $(cat channel-health.log || echo "Channel verification failed or was skipped")
+        \`\`\`
+
+        ## Job Distribution
+
+        \`\`\`
+        $(cat distribution-health.log || echo "Distribution verification failed or was skipped")
+        \`\`\`
+
+        ## Workflow Health
+
+        \`\`\`
+        $(cat workflow-health.log || echo "Workflow verification failed or was skipped")
+        \`\`\`
+
+        ---
+
+        ## Overall Status
+
+        EOF
+
+        # Determine overall status
+        CHANNELS_OK=${{ steps.channels.outcome == 'success' }}
+        DIST_OK=${{ steps.distribution.outcome == 'success' }}
+        WORKFLOW_OK=${{ steps.workflow.outcome == 'success' }}
+
+        if [[ "${{ steps.channels.outcome }}" == "success" && "${{ steps.distribution.outcome }}" == "success" && "${{ steps.workflow.outcome }}" == "success" ]]; then
+          echo "✅ **All checks passed** - Discord system is healthy" >> health-summary.md
+          echo "HEALTH_STATUS=healthy" >> $GITHUB_ENV
+        else
+          echo "⚠️ **Some checks failed** - Review details above" >> health-summary.md
+          echo "" >> health-summary.md
+
+          if [[ "${{ steps.channels.outcome }}" != "success" ]]; then
+            echo "- ❌ Channel Health: FAILED" >> health-summary.md
+          fi
+          if [[ "${{ steps.distribution.outcome }}" != "success" ]]; then
+            echo "- ❌ Job Distribution: FAILED" >> health-summary.md
+          fi
+          if [[ "${{ steps.workflow.outcome }}" != "success" ]]; then
+            echo "- ❌ Workflow Health: FAILED" >> health-summary.md
+          fi
+
+          echo "HEALTH_STATUS=degraded" >> $GITHUB_ENV
+        fi
+
+    - name: Post to GitHub Step Summary
+      if: always()
+      run: cat health-summary.md >> $GITHUB_STEP_SUMMARY
+
+    - name: Upload Health Report
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: health-verification-report-${{ github.run_number }}
+        path: |
+          health-summary.md
+          channel-health.log
+          distribution-health.log
+          workflow-health.log
+        retention-days: 30
+
+    - name: Find or Create Health Monitoring Issue
+      if: always()
+      id: find-issue
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const issues = await github.rest.issues.listForRepo({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'open',
+            labels: 'health-monitoring',
+            per_page: 1
+          });
+
+          if (issues.data.length > 0) {
+            core.setOutput('issue_number', issues.data[0].number);
+            core.setOutput('issue_exists', 'true');
+          } else {
+            const newIssue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '📊 Discord Health Monitoring',
+              labels: ['health-monitoring', 'automation'],
+              body: 'This issue tracks automated Discord health verification results.\n\n**Latest reports will be posted as comments below.**'
+            });
+            core.setOutput('issue_number', newIssue.data.number);
+            core.setOutput('issue_exists', 'false');
+          }
+
+    - name: Post Report to Issue
+      if: always()
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const fs = require('fs');
+          const summary = fs.readFileSync('health-summary.md', 'utf8');
+
+          await github.rest.issues.createComment({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: ${{ steps.find-issue.outputs.issue_number }},
+            body: summary
+          });
+
+    - name: Fail Job if Critical Issues Detected
+      if: env.HEALTH_STATUS == 'degraded'
+      run: |
+        echo "❌ Health verification detected critical issues"
+        echo "Review the health monitoring issue: https://github.com/${{ github.repository }}/issues/${{ steps.find-issue.outputs.issue_number }}"
+        exit 1
