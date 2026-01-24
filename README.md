@@ -92,7 +92,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Hewlett Packard Enterprise** | Software Engineer Analyst | Sunnyvale, C | 11h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-Analyst_1200299-1) |
-| 🔧 **ServiceNow** | Software Engineer | Santa Clara, | 11h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000105233448) |
+| 🔧 **ServiceNow** | Software Engineer | Santa Clara, | 12h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000105233448) |
 
 ### 🚀 **Startups & Growth** (2 positions)
 
@@ -121,14 +121,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Amentum** | Data Verification/Acquisition Techn... | Houston, TX | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Data-Verification-Acquisition-Technician-I_R0151710) |
 
-### 🏢 **Other Companies** (137 positions)
+### 🏢 **Other Companies** (136 positions)
 
 <details>
 <summary><h4>🏢 <strong>datadog</strong> (53 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Strategic Account Executive | Washington,  | 13h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131495/?gh_jid=7131495) |
+| Strategic Account Executive | Washington,  | 14h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131495/?gh_jid=7131495) |
 | Security Sales Engineer - US East | Georgia, USA | 20h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | Strategic Account Executive | Chile, Remot | 20h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404) |
 | Partner Manager - Alliances (Commer... | Denver, Colo | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7484014/?gh_jid=7484014) |
@@ -165,10 +165,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Employee Relation Specialist - Work... | New York, Ne | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622) |
 | Enterprise Sales Engineer | Texas, USA,  | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789) |
 | Enterprise Sales Engineer - South A... | South Africa | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093) |
-| Enterprise Sales Executive | North Caroli | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857) |
-| Enterprise Sales Executive | Florida, USA | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155) |
-| Enterprise Sales Executive | Washington,  | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707) |
 | Enterprise Sales Executive | North Caroli | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331) |
+| Enterprise Sales Executive | North Caroli | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857) |
+| Enterprise Sales Executive | Washington,  | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707) |
+| Enterprise Sales Executive | Florida, USA | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155) |
 | Enterprise Sales Executive (FED) | Maryland, US | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284) |
 | Enterprise Sales Executive (FED) | Washington,  | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680) |
 | Federal Support Engineer 2 - Denver | Denver, Colo | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7301380/?gh_jid=7301380) |
@@ -185,6 +185,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **Sony Interactive Entertainment** | Software Engineer 1 | San Mateo, C | 0h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004) |
 | 🏢 **Intuit** | Software Engineer 1 - Data Engineer... | Mountain Vie | 3h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248) |
 | 🏢 **SoFi** | Software Engineer - Loans Platform | Seattle, WA | 8h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sofi.com/careers/job/7595616003?gh_jid=7595616003) |
 | 🏢 **SoFi** | Software Engineer - Loans Originati... | Helena, MT | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sofi.com/careers/job/7595637003?gh_jid=7595637003) |
@@ -206,8 +207,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WSP** | Early Career Geologist | Glenwood Spr | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/79003) |
 | 🏢 **Yum! Brands** | Data Engineer 3 | Irvine, CA | 11h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://eczd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4689) |
 | 🏢 **airtable** | Account Executive, Commercial Accou... | Austin, TX | 13h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7883535002) |
-| ₿ **coinbase** | Customer Success Specialist 🏠 | Charlotte, N | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
-| 🏢 **Beyond New Horizons** | Early Career Facility Modeling & An... | Tullahoma, T | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-bnh.icims.com/jobs/22976/job?mobile=true&needsRedirect=false) |
+| ₿ **coinbase** | Customer Success Specialist 🏠 | Charlotte, N | 17h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
 | 🏢 **Corewell Health** | Encounter Data Systems Associate An... | Grand Rapids | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/RA-Encounter-Data-Systems-Associate-Analyst_R201109) |
 | 🏢 **CenterPoint Energy** | Associate Data Scientist | Houston, TX | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.centerpointenergy.com/job/Houston-Associate-Data-Scientist-TX-77002/1358705400/?ats=successfactors) |
 | 🏢 **FOX** | Analyst – Audience Activation | NYC, Locatio | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Analyst--Audience-Activation_R50030922) |
@@ -221,7 +221,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Huntington Ingalls Industries** | Config Data Mgmt Cntrlr 1 | Newport News | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.huntingtoningalls.com/job/Newport-News-CONFIG-DATA-MGMT-CNTRLR-1-Virg/1358387500/?ats=successfactors) |
 | 🏢 **Visa** | Analyst - Merchant Data Platform | San Mateo, C | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000104917365) |
 | 🏢 **The Brookings Institution** | Research Assistant - Retirement Sec... | Washington,  | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-brookings.icims.com/jobs/3795/job?mobile=true&needsRedirect=false) |
-| 🏢 **RTX** | 2026 Full-time | Colorado Spr | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO220-411-Galileo-Ave-Schriever-AFB-411-Galileo-Avenue-Schriever-AFB-Colorado-Springs-CO-80912-USA/XMLNAME-2026-Full-time---Digital-Product-Configuration-Management-Engineer-I---Onsite--CO-_01818430) |
 | 🏢 **Rhombus Power** | GDELT Consultant | Washington,  | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rhombuspower/jobs/7599864003) |
 | 🏢 **W.R. Berkley** | Associate EDI Analyst | Chesterfield | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-berkley.icims.com/jobs/13449/job?mobile=true&needsRedirect=false) |
 | 🏢 **Alpha FMC** | Asset & Wealth Management Tech Grad... | Boston, MA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/alphaawmnaearlycareers/jobs/8063934002) |
@@ -327,7 +326,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1445 positions
-- **🏢 Companies**: 84 companies
+- **🏢 Companies**: 83 companies
 - **⭐ FAANG+ Jobs & Internships**: 43 positions
 
 ### 🏢 **FAANG+** (40 positions)
@@ -909,28 +908,28 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Account Executive, Mid Market (EST/... 🏠 | Remote - Aus | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7245543?gh_jid=7245543) |
 | Account Executive, Mid Market (EST/... 🏠 | Remote - Hou | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7245542?gh_jid=7245542) |
-| Account Executive, Mid Market (MST/... 🏠 | San Francisc | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7245609?gh_jid=7245609) |
+| Account Executive, Mid Market (EST/... 🏠 | Remote - Aus | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7245543?gh_jid=7245543) |
 | Account Executive, Mid Market (MST/... 🏠 | Phoenix, Ari | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7245617?gh_jid=7245617) |
+| Account Executive, Mid Market (MST/... 🏠 | San Francisc | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7245609?gh_jid=7245609) |
 | Core Enterprise Account Executive E... 🏠 | Austin, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6685496?gh_jid=6685496) |
 | Core Enterprise Account Executive E... 🏠 | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6685493?gh_jid=6685493) |
 | Core Enterprise Account Executive E... 🏠 | Dallas, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6685497?gh_jid=6685497) |
 | Core Enterprise Account Executive E... 🏠 | Houston, Tex | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499) |
 |  Mid-Market Account Executive - Pub... 🏠 | Boston, MA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056801?gh_jid=6056801) |
+| Mid-Market Account Executive - PubS... 🏠 | Denver, CO | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056804?gh_jid=6056804) |
+| Mid-Market Account Executive - PubS... 🏠 | Charleston,  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7201309?gh_jid=7201309) |
 | Mid-Market Account Executive - PubS... 🏠 | Louisville,  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7201306?gh_jid=7201306) |
 | Mid-Market Account Executive - PubS... 🏠 | San Antonio, | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056794?gh_jid=6056794) |
 | Mid-Market Account Executive - PubS... 🏠 | Dallas, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056795?gh_jid=6056795) |
 | Mid-Market Account Executive - PubS... 🏠 | Houston, Tex | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056799?gh_jid=6056799) |
 | Mid-Market Account Executive - PubS... 🏠 | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056800?gh_jid=6056800) |
 | Mid-Market Account Executive - PubS... 🏠 | Baltimore, M | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056802?gh_jid=6056802) |
-| Mid-Market Account Executive - PubS... 🏠 | Denver, CO | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056804?gh_jid=6056804) |
-| Mid-Market Account Executive - PubS... 🏠 | Salt Lake Ci | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6157504?gh_jid=6157504) |
 | Mid-Market Account Executive - PubS... 🏠 | Charleston,  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7090153?gh_jid=7090153) |
-| Mid-Market Account Executive - PubS... 🏠 | Charleston,  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7201309?gh_jid=7201309) |
+| Mid-Market Account Executive - PubS... 🏠 | Salt Lake Ci | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6157504?gh_jid=6157504) |
 | Public Sector Major Account Executi... 🏠 | Remote - Den | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6493990?gh_jid=6493990) |
-| Select Major Account Executive EST/... 🏠 | Milwaukee, W | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6242420?gh_jid=6242420) |
 | Select Major Account Executive EST/... 🏠 | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6242376?gh_jid=6242376) |
+| Select Major Account Executive EST/... 🏠 | Milwaukee, W | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6242420?gh_jid=6242420) |
 | Select Major Account Executive EST/... 🏠 | Atlanta, GA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392563?gh_jid=6392563) |
 | Select Major Account Executive EST/... 🏠 | Austin, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6567223?gh_jid=6567223) |
 | Select Major Account Executive EST/... 🏠 | Charlotte, N | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392559?gh_jid=6392559) |
@@ -1029,15 +1028,15 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 |------|----------|--------|-------|-------|
 | Banking Specialist 🏠 | San Francisc | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8106987002?gh_jid=8106987002) |
 | Banking Specialist 🏠 | New York, Ne | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8106949002?gh_jid=8106949002) |
-| Compliance Manager (Card & Rewards) 🏠 | San Francisc | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8316251002?gh_jid=8316251002) |
 | Compliance Manager (Card & Rewards) 🏠 | New York, Ne | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8316256002?gh_jid=8316256002) |
+| Compliance Manager (Card & Rewards) 🏠 | San Francisc | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8316251002?gh_jid=8316251002) |
 | Compliance Manager (Card & Rewards) 🏠 | Salt Lake Ci | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8316257002?gh_jid=8316257002) |
-| Product and Regulatory Counsel 🏠 | San Francisc | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/7934899002?gh_jid=7934899002) |
 | Product and Regulatory Counsel 🏠 | New York, Ne | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196885002?gh_jid=8196885002) |
-| Product and Regulatory Counsel 🏠 | Salt Lake Ci | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196892002?gh_jid=8196892002) |
 | Product and Regulatory Counsel 🏠 | Seattle, Was | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196889002?gh_jid=8196889002) |
-| Startups Account Executive 🏠 | New York, Ne | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8237738002?gh_jid=8237738002) |
+| Product and Regulatory Counsel 🏠 | San Francisc | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/7934899002?gh_jid=7934899002) |
+| Product and Regulatory Counsel 🏠 | Salt Lake Ci | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196892002?gh_jid=8196892002) |
 | Startups Account Executive 🏠 | San Francisc | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8237737002?gh_jid=8237737002) |
+| Startups Account Executive 🏠 | New York, Ne | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8237738002?gh_jid=8237738002) |
 | Support Specialist I (Remote) 🏠 | Salt Lake Ci | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8322493002?gh_jid=8322493002) |
 
 #### 🏢 **AG Technologies** (42 positions)
@@ -1128,13 +1127,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **Mass General Brigham** | Data Analyst I Bioinformatician Rhe... | Boston, MA | 3mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Data-Analyst-I-Bioinformatician-Rheumatology_RQ4038981) |
 | 🏢 **Nokia** | Software Developer | Naperville,  | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30513) |
 | 🤖 **reddit** | Android Software Engineer, Ad Forma... | San Francisc | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414993) |
-| 🤖 **reddit** | Android Software Engineer, Ad Forma... | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415003) |
 | 🤖 **reddit** | Android Software Engineer, Ad Forma... | New York Cit | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415013) |
+| 🤖 **reddit** | Android Software Engineer, Ad Forma... | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415003) |
 | 🤖 **reddit** | Client Partner, Mid-Market (Agency ... | New York Cit | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7435955) |
 | 🤖 **reddit** | Client Partner, Mid-Market (Service... | Los Angeles, | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7438947) |
 | 🤖 **reddit** | Counsel, Product & Platform Complia... | New York Cit | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7458129) |
-| 🤖 **reddit** | iOS Software Engineer, Ad Formats | New York Cit | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414849) |
 | 🤖 **reddit** | iOS Software Engineer, Ad Formats | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414842) |
+| 🤖 **reddit** | iOS Software Engineer, Ad Formats | New York Cit | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414849) |
 | 🏢 **Subsplash** | Software Development Engineer 1 - F... | Texas, Locat | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/subsplash/jobs/8337452002) |
 | 🏢 **Fidelity Investments** | IT Software Engineering - Data Engi... | Merrimack, N | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/IT---Software-Engineering---Data-Engineer_2123335-1) |
 | 🏢 **Fidelity Investments** | Associate Full Stack Engineer | Merrimack, N | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1) |
@@ -1926,7 +1925,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 157 current opportunities from 84 companies**
+**🎯 156 current opportunities from 83 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
