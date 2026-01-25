@@ -131,7 +131,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Solar Turbines** | Associate AI Agent Developer - Copi... | San Diego, C | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Associate-AI-Agent-Developer--Copilot-Studio--Power-Platform--Cloud-Technologies--Snowflake-Cortex----Dataiku-_R0000344335) |
 
-### 🏢 **Other Companies** (147 positions)
+### 🏢 **Other Companies** (146 positions)
 
 <details>
 <summary><h4>🏢 <strong>datadog</strong> (53 positions)</h4></summary>
@@ -221,7 +221,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **airtable** | Account Executive, Commercial Accou... | Austin, TX | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7883535002) |
 | ₿ **coinbase** | Customer Success Specialist 🏠 | Charlotte, N | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
 | 🏢 **Automated Media** | Entry Level Full Stack Developer | Michigan, Lo | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://dealertire.wd5.myworkdayjobs.com/AMI/job/AMI-Corporate-Headquarters/Entry---Level-Full-Stack-Developer_R12688) |
-| 🏢 **Corewell Health** | Encounter Data Systems Associate An... | Grand Rapids | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/RA-Encounter-Data-Systems-Associate-Analyst_R201109) |
 | 🏢 **CenterPoint Energy** | Associate Data Scientist | Houston, TX | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.centerpointenergy.com/job/Houston-Associate-Data-Scientist-TX-77002/1358705400/?ats=successfactors) |
 | 🏢 **Prairie View A&M University** | Postdoctoral Researcher | Prairie View | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Environmental-Data-Science-and-Artificial-Intelligence-_R-089857-1) |
 | 🏢 **Prairie View A&M University** | Postdoctoral Researcher - Pier | Prairie View | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---1_R-089882-1) |
@@ -261,7 +260,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Xcel Energy** | Geospatial Data Technician 1 | Eau Claire,  | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Geospatial-Data-Technician-I_JR112327-1) |
 | 🏢 **NV5 Global** | Survey Office Technician | Walnut Creek | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-nv5.icims.com/jobs/11740/job?mobile=true&needsRedirect=false) |
 | 🏢 **American Bureau of Shipping** | Data Scientist | Houston, TX | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3935) |
-| 🎵 **spotify** | 2026 Summer Internship, Trust & Saf... | New York, NY | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/bdbfe1c5-8bdf-457f-b431-854356ee855e) |
+| 🎵 **spotify** | 2026 Summer Internship, Trust & Saf... | New York, NY | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/bdbfe1c5-8bdf-457f-b431-854356ee855e) |
 | 🎵 **spotify** | 2026 Summer Internship, Finance (Ne... | New York, NY | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/c2425a2a-97ae-4165-9867-8551bcc73310) |
 | 🎵 **spotify** | 2026 Summer Internship, Machine Lea... | New York, NY | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/4261f025-4ea4-4d24-9edd-ec0db9696152) |
 | 🎵 **spotify** | 2026 Summer Internship, Machine Lea... | New York, NY | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/1b8bfec6-8c00-43b8-ba85-cef9e0e2338f) |
@@ -347,7 +346,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1522 positions
-- **🏢 Companies**: 95 companies
+- **🏢 Companies**: 94 companies
 - **⭐ FAANG+ Jobs & Internships**: 42 positions
 
 ### 🏢 **FAANG+** (39 positions)
@@ -2038,7 +2037,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 172 current opportunities from 95 companies**
+**🎯 171 current opportunities from 94 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
