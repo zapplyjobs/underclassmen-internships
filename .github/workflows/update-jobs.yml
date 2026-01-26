@@ -2,8 +2,8 @@ name: Update Zapply Jobs
 
 on:
   schedule:
-    # Run every 15 minutes (GitHub Actions scheduler has 5-15 min jitter for high-frequency schedules)
-    - cron: '*/15 * * * *'
+    # Run every 3 hours to prevent excessive API calls and duplicate posts
+    - cron: '0 */3 * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
