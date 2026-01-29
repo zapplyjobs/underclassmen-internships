@@ -60,35 +60,23 @@ jobs:
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-
         git add README.md
-        git commit -m "chore: regenerate README from existing job data
-
-- Updated via update-readme-only workflow
-- No new jobs fetched (existing data refreshed)
-- Triggered by: ${{ github.event_name }}"
-
+        git commit -m "chore: regenerate README from existing job data via update-readme-only workflow"
         git push origin ${{ github.ref_name }}
 
     - name: Create job summary
       run: |
-        echo "## 📝 README Updated!" >> $GITHUB_STEP_SUMMARY
+        echo "## README Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          echo "✅ **README.md regenerated from existing job data**" >> $GITHUB_STEP_SUMMARY
+          echo "**README.md regenerated from existing job data**" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 📊 What happened:" >> $GITHUB_STEP_SUMMARY
-          echo "- 📂 Read existing job data from \`new_jobs.json\`" >> $GITHUB_STEP_SUMMARY
-          echo "- 🔄 Regenerated README.md with current jobs" >> $GITHUB_STEP_SUMMARY
-          echo "- 📝 Committed and pushed to master" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 💡 Use cases:" >> $GITHUB_STEP_SUMMARY
-          echo "- ✨ Updated banners/images/links in template" >> $GITHUB_STEP_SUMMARY
-          echo "- 🧪 Testing readme-generator.js changes" >> $GITHUB_STEP_SUMMARY
-          echo "- 🎨 Visual refresh without fetching new jobs" >> $GITHUB_STEP_SUMMARY
+          echo "### What happened:" >> $GITHUB_STEP_SUMMARY
+          echo "- Read existing job data from new_jobs.json" >> $GITHUB_STEP_SUMMARY
+          echo "- Regenerated README.md with current jobs" >> $GITHUB_STEP_SUMMARY
+          echo "- Committed and pushed to repository" >> $GITHUB_STEP_SUMMARY
         else
-          echo "ℹ️ **No changes to README**" >> $GITHUB_STEP_SUMMARY
+          echo "**No changes to README**" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "The README.md is already up to date with the existing job data." >> $GITHUB_STEP_SUMMARY
         fi
