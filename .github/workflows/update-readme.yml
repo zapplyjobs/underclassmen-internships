@@ -1,0 +1,94 @@
+name: Update README Only
+
+# Trigger manually to regenerate README from existing job data
+# Use this when you want to:
+# - Update banners/images/links in the README template
+# - Test readme-generator.js changes
+# - Regenerate README without fetching new jobs
+
+on:
+  workflow_dispatch:  # Manual trigger only
+  push:
+    branches: [ master, main ]
+    paths:
+      - '.github/scripts/job-fetcher/readme-generator.js'
+      - '.github/scripts/job-fetcher/update-readme-only.js'
+      - '.github/scripts/job-fetcher/utils.js'
+      - '.github/scripts/job-fetcher/*.json'  # Category config files
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref_name }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm install axios
+
+    - name: Update README from existing data
+      run: node .github/scripts/job-fetcher/update-readme-only.js
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        echo "📋 Git status:"
+        git status --porcelain
+
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✅ README.md was modified"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "ℹ️  No changes detected"
+        fi
+
+    - name: Commit and Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+        git add README.md
+        git commit -m "chore: regenerate README from existing job data
+
+- Updated via update-readme-only workflow
+- No new jobs fetched (existing data refreshed)
+- Triggered by: ${{ github.event_name }}"
+
+        git push origin ${{ github.ref_name }}
+
+    - name: Create job summary
+      run: |
+        echo "## 📝 README Updated!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          echo "✅ **README.md regenerated from existing job data**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📊 What happened:" >> $GITHUB_STEP_SUMMARY
+          echo "- 📂 Read existing job data from \`new_jobs.json\`" >> $GITHUB_STEP_SUMMARY
+          echo "- 🔄 Regenerated README.md with current jobs" >> $GITHUB_STEP_SUMMARY
+          echo "- 📝 Committed and pushed to master" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 💡 Use cases:" >> $GITHUB_STEP_SUMMARY
+          echo "- ✨ Updated banners/images/links in template" >> $GITHUB_STEP_SUMMARY
+          echo "- 🧪 Testing readme-generator.js changes" >> $GITHUB_STEP_SUMMARY
+          echo "- 🎨 Visual refresh without fetching new jobs" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ **No changes to README**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "The README.md is already up to date with the existing job data." >> $GITHUB_STEP_SUMMARY
+        fi
