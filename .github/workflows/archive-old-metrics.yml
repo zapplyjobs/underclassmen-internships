@@ -94,10 +94,10 @@ jobs:
 
           git commit -m "chore: archive metrics files older than 90 days
 
-Archived ${{ steps.archive.outputs.archived_count }} metrics files to archive/.
+          Archived ${{ steps.archive.outputs.archived_count }} metrics files to archive/.
 
-Automated by archive-old-metrics.yml workflow.
-"
+          Automated by archive-old-metrics.yml workflow.
+          "
 
           git push
 
