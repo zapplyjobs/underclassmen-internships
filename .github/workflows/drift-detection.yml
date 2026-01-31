@@ -87,49 +87,29 @@ jobs:
             --json number \
             --jq '.[0].number' 2>/dev/null || echo "")
 
-          ISSUE_BODY="## 🚨 Drift Detected Between Repos
+          # Create issue using heredoc to avoid YAML escaping issues
+          gh issue create \
+            --title "🚨 Repository Drift Detected" \
+            --body-file - \
+            --label "drift-detection" \
+            --label "automation" << EOF
+          ## Drift Detected Between Repos
 
-**Date:** $(date -u '+%Y-%m-%d %H:%M UTC')
-**PRIMARY:** New-Grad-Jobs
-**SECONDARY:** Internships-2026
+          Date: $(date -u '+%Y-%m-%d %H:%M UTC')
+          PRIMARY: New-Grad-Jobs
+          SECONDARY: Internships-2026
 
-### Drifted Files:
-$DRIFT_REPORT
+          ### Drifted Files:
+          $DRIFT_REPORT
 
-### Action Required:
-1. Review the drifted files
-2. Determine which version is correct (PRIMARY is source of truth)
-3. Sync files using the multi-repo sync procedure
-4. See: \`.GenAI_Work/github_discord_integration/SYNC_MAP.md\`
+          ### Action Required:
+          1. Review the drifted files
+          2. Determine which version is correct (PRIMARY is source of truth)
+          3. Sync files using the multi-repo sync procedure
+          4. See: .GenAI_Work/github_discord_integration/SYNC_MAP.md
 
-### Sync Procedure:
-\`\`\`bash
-# 1. Copy from PRIMARY to SECONDARY
-cp New-Grad-Jobs/<file> Internships-2026/<file>
-
-# 2. Commit and push both repos
-cd Internships-2026
-git add <file>
-git commit -m \"sync: <description>\"
-git push
-\`\`\`
-
-This issue will auto-update daily until drift is resolved."
-
-          if [ -n "$EXISTING_ISSUE" ]; then
-            echo "Updating existing issue #$EXISTING_ISSUE..."
-            gh issue comment "$EXISTING_ISSUE" \
-              --body "**Update:** Drift still detected as of $(date -u '+%Y-%m-%d %H:%M UTC')
-
-$DRIFT_REPORT"
-          else
-            echo "Creating new drift detection issue..."
-            gh issue create \
-              --title "🚨 Repository Drift Detected" \
-              --body "$ISSUE_BODY" \
-              --label "drift-detection" \
-              --label "automation"
-          fi
+          This issue will auto-update daily until drift is resolved.
+          EOF
 
       - name: Fail workflow if drift detected
         if: steps.drift-check.outputs.drift_detected == '1'
