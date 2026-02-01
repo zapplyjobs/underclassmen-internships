@@ -111,19 +111,12 @@ jobs:
         DISCORD_SUPPLY_CHANNEL_ID:    ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
         DISCORD_PM_CHANNEL_ID:         ${{ secrets.DISCORD_PM_CHANNEL_ID }}
         DISCORD_HR_CHANNEL_ID:         ${{ secrets.DISCORD_HR_CHANNEL_ID }}
-        # Location-specific channels
+        # Location channels (5 consolidated channels - matches board-types.js)
+        DISCORD_BAY_AREA_CHANNEL_ID: ${{ secrets.DISCORD_BAY_AREA_CHANNEL_ID }}
+        DISCORD_PNW_CHANNEL_ID:       ${{ secrets.DISCORD_PNW_CHANNEL_ID }}
         DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
         DISCORD_NY_CHANNEL_ID:         ${{ secrets.DISCORD_NY_CHANNEL_ID }}
-        DISCORD_AUSTIN_CHANNEL_ID:     ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
-        DISCORD_CHICAGO_CHANNEL_ID:    ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
-        DISCORD_SEATTLE_CHANNEL_ID:    ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
-        DISCORD_REDMOND_CHANNEL_ID:    ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
-        DISCORD_MV_CHANNEL_ID:         ${{ secrets.DISCORD_MV_CHANNEL_ID }}
-        DISCORD_SF_CHANNEL_ID:         ${{ secrets.DISCORD_SF_CHANNEL_ID }}
-        DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
-        DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
-        DISCORD_BOSTON_CHANNEL_ID:     ${{ secrets.DISCORD_BOSTON_CHANNEL_ID }}
-        DISCORD_LA_CHANNEL_ID:         ${{ secrets.DISCORD_LA_CHANNEL_ID }}
+        DISCORD_OTHER_USA_CHANNEL_ID: ${{ secrets.DISCORD_OTHER_USA_CHANNEL_ID }}
         # Encrypted routing logs password
         LOG_ENCRYPT_PASSWORD:          ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
