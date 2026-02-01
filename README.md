@@ -105,12 +105,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **The Boeing Company** | Application Developer - Scientific ... | Everett, WA | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Application-Developer--Scientific-Applications------Entry-Level--Associate--or-Mid-Level-_JR2025488280) |
 | 🏢 **The Boeing Company** | Software Engineer - Associate | Reston, VA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Software-Engineers--Associate-or-Experienced-_JR2026491832) |
 
-### 🏢 **Other Companies** (164 positions)
+### 🏢 **Other Companies** (163 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Magnite** | Engineer 1 - Applied LLM Team | LA, Location | 20h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I--Applied-LLM-Team_R-01194) |
-| 🏢 **NextEra Energy** | Associate Data Scientist | Palm Beach G | 22h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-Data-Scientist-FL-33408/1360699900/?ats=successfactors) |
 | 🏢 **Expedia Group** | Software Development Engineering Gr... | Seattle, WA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Graduate---2026---Austin--Seattle_R-98559-1) |
 | 🏢 **Expedia Group** | Graduate Software Development Engin... | Seattle, WA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Graduate---2026---Austin--Seattle_R-98559) |
 | 🏢 **Expedia Group** | Mobile Engineering Graduate | Seattle, WA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Mobile-Engineering-Graduate---2026---Austin--San-Jose--Seattle_R-98642-2) |
@@ -333,7 +332,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1500 positions
-- **🏢 Companies**: 121 companies
+- **🏢 Companies**: 120 companies
 - **⭐ FAANG+ Jobs & Internships**: 29 positions
 
 ### 🏢 **FAANG+** (26 positions)
@@ -1987,7 +1986,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 178 current opportunities from 121 companies**
+**🎯 177 current opportunities from 120 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
