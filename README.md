@@ -66,13 +66,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **FAANG+** (1 positions)
+<details>
+
+<summary><strong>🏢 **FAANG+** (1 positions)</strong> - Click to expand</summary>
+
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🟦 **Microsoft** | Software Engineer - Ctj - Top Secre... | Redmond, WA | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556749120) |
 
-### 🏢 **Top Tech** (5 positions)
+
+</details>
+
+<details>
+
+<summary><strong>🏢 **Top Tech** (5 positions)</strong> - Click to expand</summary>
+
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -82,21 +91,39 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎮 **NVIDIA** | Research Scientist - AI for Graphic... | Santa Clara, | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) |
 | ☁️ **Salesforce** | Software Engineer MTS | Palo Alto, C | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR323701) |
 
-### 🚀 **Startups & Growth** (2 positions)
+
+</details>
+
+<details>
+
+<summary><strong>🚀 **Startups & Growth** (2 positions)</strong> - Click to expand</summary>
+
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Booz Allen** | Data Scientist | McLean, VA | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Data-Scientist_R0233012) |
 | 🏢 **Booz Allen** | Data Scientist - Junior | Charleston,  | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Data-Scientist--Junior_R0232545) |
 
-### 🛒 **Consumer & E-Commerce** (2 positions)
+
+</details>
+
+<details>
+
+<summary><strong>🛒 **Consumer & E-Commerce** (2 positions)</strong> - Click to expand</summary>
+
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🚗 **Uber** | Graduate PhD Scientist 2 - Operatio... | SF, Location | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.uber.com/global/en/careers/list/151820/) |
 | 🚗 **Uber** | Graduate PhD Scientist 2 - Operatio... | SF, Location | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://university-uber.icims.com/jobs/151820/job?mobile=true&needsRedirect=false) |
 
-### 🛡️ **Defense & Aerospace** (4 positions)
+
+</details>
+
+<details>
+
+<summary><strong>🛡️ **Defense & Aerospace** (4 positions)</strong> - Click to expand</summary>
+
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -105,7 +132,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **The Boeing Company** | Application Developer - Scientific ... | Everett, WA | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Application-Developer--Scientific-Applications------Entry-Level--Associate--or-Mid-Level-_JR2025488280) |
 | 🏢 **The Boeing Company** | Software Engineer - Associate | Reston, VA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Software-Engineers--Associate-or-Experienced-_JR2026491832) |
 
-### 🏢 **Other Companies** (163 positions)
+
+</details>
+
+<details>
+
+<summary><strong>🏢 **Other Companies** (163 positions)</strong> - Click to expand</summary>
+
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -276,6 +309,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 
 ---
+
+
+</details>
 
 ## More Resources
 
