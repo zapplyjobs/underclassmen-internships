@@ -9,8 +9,8 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-178-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-121-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-177-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-120-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -105,7 +105,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **The Boeing Company** | Application Developer - Scientific ... | Everett, WA | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Application-Developer--Scientific-Applications------Entry-Level--Associate--or-Mid-Level-_JR2025488280) |
 | 🏢 **The Boeing Company** | Software Engineer - Associate | Reston, VA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Software-Engineers--Associate-or-Experienced-_JR2026491832) |
 
-### 🏢 **Other Companies** (164 positions)
+### 🏢 **Other Companies** (163 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -215,7 +215,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Chicago Trading Company** | Associate C++ Engineer | Chicago, IL | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4654682005) |
 | 🏢 **Brookhaven Lab** | Postdoctoral Researcher | Shirley, NY | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Researcher_JR102228) |
 | 🏢 **NXP Semiconductors** | Industrial Systems Engineer | Chandler, AZ | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Industrial-Systems-Engineer_R-10059890) |
-| 🏢 **Clay** | GTM Data Scientist | NYC, Locatio | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03/application) |
 | 🏢 **Dun & Bradstreet** | Technology Analyst Program | Jacksonville | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/dnb/764f989f-b9d1-4dc7-a4b4-af9103c3b5b7/apply) |
 | 🏢 **Global Lending Services** | Software Developer | Greenville,  | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/glsllc/4f5a593d-915d-46f6-998a-83ef0714f857/apply) |
 | 🏢 **Newmont** | Structural Engineering Analyst | Denver, CO | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.newmont.com/us/en/job/41424) |
@@ -329,11 +328,11 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1500 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1501 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1500 positions
-- **🏢 Companies**: 121 companies
+- **📁 Total Jobs**: 1501 positions
+- **🏢 Companies**: 120 companies
 - **⭐ FAANG+ Jobs & Internships**: 29 positions
 
 ### 🏢 **FAANG+** (26 positions)
@@ -367,7 +366,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🍎 **Apple** | Physical Design Engineer - Machine ... | Sunnyvale, C | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200608195) |
 | 🍎 **Apple** | Integration Engineer | Santa Clara, | 2mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200629915) |
 
-### 🏢 **Top Tech** (158 positions)
+### 🏢 **Top Tech** (159 positions)
 
 <details>
 <summary><h4>🎬 <strong>ByteDance</strong> (111 positions)</h4></summary>
@@ -488,13 +487,14 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 </details>
 
-#### 🎮 **NVIDIA** (16 positions)
+#### 🎮 **NVIDIA** (17 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
 | AI ML Engineer - RTL Power Optimiza... | Santa Clara, | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172) |
 | Applied Machine Learning Engineer –... | Santa Clara, | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517) |
 | Software Engineer – New College Gra... | California,  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Libraries-Infrastructure---New-College-Grad-2026_JR2011998-1) |
+| Research Scientist – PhD New Colleg... | Santa Clara, | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1) |
 | Research Scientist New College Grad... | Seattle, WA | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) |
 | DGX Cloud Performance Engineer | Santa Clara, | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Performance-Engineer---New-Grad-2026_JR2009610) |
 | Research Scientist - AI-Mediated Re... | Santa Clara, | 1mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply button">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Mediated-Reality-and-Interaction-Research---New-College-Grad-2026_JR2009485) |
@@ -1987,7 +1987,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 178 current opportunities from 121 companies**
+**🎯 177 current opportunities from 120 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
