@@ -232,7 +232,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Capco** | Capco Associate Talent Program | Dallas, TX | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7141150) |
 | 🎵 **spotify** | Client Partner - Financial Services | New York, NY | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/76f87659-4682-4513-859c-0241e1881596) |
 | 🎵 **spotify** | Manager, Commercial Promotion Partn... | New York, NY | 6d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/0a0d280d-81b0-4758-bb43-fce3bee48937) |
-| 🏢 **Ercot** | MMS Applications Engineer | Pflugerville | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Application-Engineer_R1983-1) |
+| 🏢 **Ercot** | MMS Applications Engineer | Pflugerville | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Application-Engineer_R1983-1) |
 | 🏢 **Equifax** | Data Analyst - Rdp | Atlanta, GA | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Atlanta---One-Atlantic-Center/Data-Analyst---RDP_J00173044) |
 | 🏢 **Equifax** | D&a Rotational Development Program ... | Alpharetta,  | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/D-A-Rotational-Development-Program-Associate_J00171083) |
 | 🏢 **Johnson Controls** | Air Handling Unit Application Engin... | York, PA | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Application-Engineer-II_WD30259010-1) |
@@ -350,7 +350,7 @@ Check out our other repos for jobs and free resources:
 
 Add new jobs to our listings keeping in mind the following:
 
-- Located in the US, Canada, or Remote.
+- Located in the US.
 - Openings are currently accepting applications and not older than 1 week.
 - Create a new issue to submit different job positions.
 - Update a job by submitting an issue with the job URL and required changes.
