@@ -29,7 +29,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        ref: main  # Always pull latest main branch code
+        ref: ${{ github.ref_name }}  # Use the branch that triggered the workflow
         fetch-depth: 0  # Fetch full history for proper rebasing
         token: ${{ secrets.GITHUB_TOKEN }}  # Use default token for pushing
 
@@ -55,7 +55,7 @@ jobs:
     - name: Update job listings
       run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
-        PRIMARY_DATA_SOURCE_URL: ${{ secrets.GRAD_JOBS_PROCESSOR_URL }}
+        PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
         ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
 
     - name: Display job-fetcher logs (always run)
@@ -281,12 +281,12 @@ jobs:
 
             # STEP 2: Pull latest remote changes with rebase
             echo "⬇️  Pulling latest changes from remote..."
-            if ! git pull --rebase origin main; then
+            if ! git pull --rebase origin ${{ github.ref_name }}; then
               echo "⚠️  Rebase conflict detected, aborting rebase..."
               git rebase --abort || true
 
               # Fallback to regular merge
-              git pull origin main --no-edit || {
+              git pull origin ${{ github.ref_name }} --no-edit || {
                 echo "❌ Pull failed completely, resetting..."
                 git reset --hard HEAD
                 git pull origin main
@@ -348,7 +348,7 @@ jobs:
 
             # STEP 5: Push with retry
             echo "⬆️  Pushing changes to remote..."
-            if git push origin main; then
+            if git push origin ${{ github.ref_name }}; then
               echo "✅ Successfully pushed changes!"
               exit 0
             else
