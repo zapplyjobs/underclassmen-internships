@@ -79,6 +79,9 @@ routing-debug.json
 # Description fetcher cache (7-day cache for job descriptions)
 .github/data/description-cache/
 
+# Shared data submodule (updated via workflow)
+.github/shared-data/
+
 # Debug and test files (development only)
 debug-*.js
 debug-*.html

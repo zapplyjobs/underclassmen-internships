@@ -1,0 +1,95 @@
+name: Update Jobs from Shared Data
+
+on:
+  schedule:
+    # Run every 20 minutes (offset from jobs-data-2026's 15-min schedule)
+    # Different offset from Internships to distribute load
+    - cron: '*/20 * * * *'
+  workflow_dispatch: # Allow manual triggering
+
+# Prevent concurrent runs
+concurrency:
+  group: shared-data-newgrad
+  cancel-in-progress: false
+
+jobs:
+  update-from-shared:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref_name }}
+        fetch-depth: 0
+
+    - name: Update shared data submodule
+      run: |
+        echo "📥 Updating shared data..."
+        cd .github/shared-data
+        git fetch origin main
+        git reset --hard origin/main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Create logs directory
+      run: mkdir -p .github/logs
+
+    - name: Filter jobs from shared data
+      run: node .github/scripts/filter-shared-jobs.js 2>&1 | tee .github/logs/filter-shared.log
+
+    - name: Display filter logs (always run)
+      if: always()
+      run: |
+        echo "📋 Filter Output (last 50 lines):"
+        tail -50 .github/logs/filter-shared.log || echo "Log file not found"
+
+    - name: Verify filtered output
+      if: always()
+      run: |
+        echo "📊 Filtered Output Files:"
+        ls -lh .github/data/shared-jobs-filtered.jsonl || echo "shared-jobs-filtered.jsonl not found"
+
+        if [ -f ".github/data/shared-jobs-filtered.jsonl" ]; then
+          echo ""
+          echo "Job count:"
+          wc -l .github/data/shared-jobs-filtered.jsonl || echo "Unable to count lines"
+          echo ""
+          echo "Sample jobs (first 3):"
+          head -3 .github/data/shared-jobs-filtered.jsonl || echo "Unable to display sample"
+        fi
+
+    - name: Show git status
+      if: always()
+      run: |
+        echo "📝 Git Status:"
+        git status
+
+    - name: 🔄 Pull latest changes (before push)
+      if: always()
+      run: |
+        echo "📥 Pulling latest changes..."
+        git fetch origin ${{ github.ref_name }}
+        git reset --hard origin/${{ github.ref_name }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Push changes
+      if: always()
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "📤 Pushing changes to origin..."
+          git push origin ${{ github.ref_name }}
+        else
+          echo "ℹ️ No changes to push"
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
