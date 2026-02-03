@@ -66,9 +66,15 @@ routing-debug.json
 # GitHub Actions debug logs (NEVER commit - plaintext routing/jobs data for debugging)
 # These files are created when CREATE_DEBUG_LOGS=true environment variable is set
 # They are GitHub Actions artifacts only - NOT for Git history
-.github/logs/
-routing-debug-*.log
-jobs-debug-*.log
+# Note: discord-posts-*.jsonl are NOT ignored (needed for metrics reporting)
+.github/logs/*debug*.log
+.github/logs/routing-debug-*.log
+.github/logs/jobs-debug-*.log
+.github/logs/job-fetcher.log
+.github/logs/discord-bot.log
+# But allow Discord posting logs (needed for metrics)
+!.github/logs/discord-posts-*.jsonl
+!.github/logs/job-fetch-summary-*.json
 
 # Description fetcher cache (7-day cache for job descriptions)
 .github/data/description-cache/
