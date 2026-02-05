@@ -120,6 +120,32 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+
+### 📊 **Archived Job Stats**
+- **📁 Total Jobs**: 1 positions
+- **🏢 Companies**: 0 companies
+- **⭐ FAANG+ Jobs & Internships**: 0 positions
+
+<details>
+<summary><h3>🏢 <strong>Other Companies</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Lewiz communications** | Jr. Software Engineer | San Jose, Ca | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/jr-software-engineer-lewiz-communications-JV_IC1147436_KO0,20_KE21,41.htm?jl=1005848359546&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
