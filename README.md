@@ -41,7 +41,7 @@ Experience an advanced career journey with us! 🚀
 <p align="center">
   <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
+  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/chrome-extension.png" alt="Install Our Extension" width="300"></a>
 </p>
 
 ---
