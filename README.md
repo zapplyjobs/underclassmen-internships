@@ -9,8 +9,8 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,21 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-<details>
-<summary><h3>🏢 <strong>Other Companies</strong> (6 positions)</h3></summary>
-
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Lockheed Martin** | Software Engineer - Early Career 🇺🇸 🏠 | Cape Canaver | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.lockheedmartinjobs.com/job/cape-canaveral/software-engineer-early-career/694/91375966448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **TEKsystems** | Junior Software Engineer | Menlo Park,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2FmOvfUEHI7xjwj8583QC2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Kansas City National Security Campus** | Fulltime Engineer - University Recr... 🏠 | Kansas City, | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/fulltime-engineer-university-recruiting-at-kansas-city-national-security-campus-4332235401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Boeing** | Entry Level Software Engineer | Oklahoma | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/1vsmUPGbLiUiHzicXXQs3V?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **SynergisticIT** | Junior/Entry Level Software Develop... 🇺🇸 | Flower Mound | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/developer?id=2434516517&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **VirtualVocations** | Entry-Level Software Developer | Salinas, Cal | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ff9b8732e940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 ---
 
@@ -132,39 +120,10 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
----
-
-<details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 4 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
-
-### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 4 positions
-- **🏢 Companies**: 6 companies
-- **⭐ FAANG+ Jobs & Internships**: 0 positions
-
-<details>
-<summary><h3>🏢 <strong>Other Companies</strong> (4 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **VirtualVocations** | Entry Level Data Engineer | Plano, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=4ac3dc0d62bc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **HealPay** | Junior Web Developer | Ann Arbor, M | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/junior-web-developer-healpay-JV_IC1134560_KO0,20_KE21,28.htm?jl=1007344065444&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Boeing** | Guidance Navigation  Control Engine... | Seal Beach,  | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.wayup.com/i-Airlines-Aviation-j-Guidance-Navigation-Control-Engineer-Entry-Level-Associate-Experienced-Boeing-49785541635396/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Wildlife Resources** | SOFTWARE DEVELOPER-JUNIOR* - 012020... | Nashville, T | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/software-developer-junior-01202026-74251-wildlife-resources-JV_IC1144541_KO0,40_KE41,59.htm?jl=1010004950999&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
-
-</details>
-
----
-
-
 
 <div align="center">
 
-**🎯 6 current opportunities from 6 companies**
+**🎯 0 current opportunities from 0 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
