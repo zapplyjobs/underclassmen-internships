@@ -9,8 +9,8 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,9 +66,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+<details>
+<summary><h3>🏢 <strong>Other Companies</strong> (1 positions)</h3></summary>
+
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Drafted** | Software Engineer (Entry-Level) Rec... 🏠 | Miami, Flori | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/software-engineer-entry-level-recent-grad/6792315?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 ---
 
@@ -120,10 +127,38 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 3 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+
+### 📊 **Archived Job Stats**
+- **📁 Total Jobs**: 3 positions
+- **🏢 Companies**: 1 companies
+- **⭐ FAANG+ Jobs & Internships**: 0 positions
+
+<details>
+<summary><h3>🏢 <strong>Other Companies</strong> (3 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Emonics LLC** | Software Engineer, Entry Level (New... | Los Angeles, | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://empresas-economiasocialysolidaria.com.mx/joblib/job/software-engineer-entry-level-new-grad-at-emonics-llc-los-angeles-ca-RXNvZElEeVAzU0U3cExNcUVpOEE3b1ZGU0E9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Emerson Hospital** | PCT/Student Nurse - WH4 | Concord, Mas | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169242861-pct-student-nurse-wh4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **COGENT Infotech** | Java Developer – Recent Graduates -... 🏠 | Remote | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobgether.com/offer/6966034096ae97ba4ad1672a-java-developer---recent-graduates---entry-level-positions?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
-**🎯 0 current opportunities from 0 companies**
+**🎯 1 current opportunities from 1 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
