@@ -60,7 +60,7 @@ jobs:
         # Feature flag: Use tagged aggregator feed instead of ATS/USAJobs
         # Set to 'true' to fetch from jobs-data-2026 tagged feed
         # Leave unset or 'false' to use ATS/USAJobs sources
-        USE_AGGREGATOR: 'false'
+        USE_AGGREGATOR: 'true'
 
     - name: Display job-fetcher logs (always run)
       if: always()
