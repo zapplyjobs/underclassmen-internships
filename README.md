@@ -71,18 +71,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **datadog** |  Enterprise Sales Executive (SLED) | Illinois, US | 5h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
-| 🏢 **datadog** | Enablement Systems Engineer | New York, Ne | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
-| 🏢 **datadog** | Visual Designer - Contract | New York, Ne | 11h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7580083/?gh_jid=7580083) |
+| 🏢 **datadog** |  Enterprise Sales Executive (SLED) | Illinois, US | 6h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
+| 🏢 **datadog** | Enablement Systems Engineer | New York, Ne | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
+| 🏢 **datadog** | Visual Designer - Contract | New York, Ne | 12h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7580083/?gh_jid=7580083) |
 | 🏢 **datadog** | Product Manager II - Semantic & Age... | New York, Ne | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555509/?gh_jid=7555509) |
 | 🏢 **datadog** | Key Accounts Executive | California,  | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7409247/?gh_jid=7409247) |
 | 🏢 **datadog** | Technical Writer | California,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555493/?gh_jid=7555493) |
 | 🏢 **datadog** | Major Account Manager | California,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7576941/?gh_jid=7576941) |
 | 🏢 **datadog** | Key Accounts Executive | Illinois, US | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684) |
-| 🎵 **spotify** | Product Marketing Manager, Targetin... | New York, NY | 9h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/e1df6feb-4fb8-4c47-bfe5-12c6d8f11145) |
+| 🎵 **spotify** | Product Marketing Manager, Targetin... | New York, NY | 10h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/e1df6feb-4fb8-4c47-bfe5-12c6d8f11145) |
 | 🎵 **spotify** | 2026 Summer Internship, Research Sc... | New York, NY | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/89d92385-9e48-4bb8-bf74-96e75532562f) |
 | 🎵 **spotify** | Talent Relations Manager - The Ring... | Los Angeles, | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/cea85c56-713b-4604-acc0-5c949caf49f8) |
 | ▲ **vercel** | DX Engineer 🏠 | Hybrid - San | 11h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5784254004) |
+| 🏢 **Org_Subtype_BU023_Global_Services** | Data Science Undergraduate Intern | Hopkinton, M | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dell.com/en/job/hopkinton/data-science-undergraduate-intern/375/85828103696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎨 **figma** | Advocate, Federal 🏠 | Washington,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5790731004?gh_jid=5790731004) |
 | 🎨 **figma** | Workplace Generalist 🏠 | San Francisc | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5784186004?gh_jid=5784186004) |
 | 🎨 **figma** | Email Marketing Operations 🏠 | San Francisc | 6d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5781862004?gh_jid=5781862004) |
@@ -96,7 +97,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🤖 **reddit** | Software Engineer | San Francisc | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7579681) |
 | 🏢 **airtable** | Account Executive, SLED 🏠 | Austin, TX;  | 3d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8391589002) |
 | 🗄️ **supabase** | API Engineer (NASA or APAC) 🏠 | Remote | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/e50d173a-3b4f-45f8-a920-550fb841a989) |
-| 🏢 **Bank of Montreal** | Junior Software Developer, Summer 2... | New York, Ne | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/BMO-Capital-Markets/Job/Junior-Software-Developer,-Summer-2026-(Co-op-Internship)-4-Months/-in-New-York,NY?jid=14af0354fbdefc4e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -155,15 +155,15 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 162 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 161 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 162 positions
+- **📁 Total Jobs**: 161 positions
 - **🏢 Companies**: 10 companies
 - **⭐ FAANG+ Jobs & Internships**: 0 positions
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (162 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (161 positions)</h3></summary>
 
 #### 🎵 **spotify** (16 positions)
 
@@ -347,7 +347,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | ₿ **coinbase** | Customer Success Specialist 🏠 | Charlotte, N | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
 | ₿ **coinbase** | Accounting Intern 🏠 | Hybrid - New | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7404504?gh_jid=7404504) |
 | ₿ **coinbase** | Employee & Workplace Experience Int... 🏠 | Hybrid - New | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242) |
-| 🏢 **Squarespace** | Software Engineering Intern - Summe... | New York, Ne | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://startup.jobs/software-engineering-intern-summer-2026-squarespace-7695112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | ▲ **vercel** | Enterprise Account Executive 🏠 | Hybrid - San | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5042174004) |
 | ▲ **vercel** | Recruiting Coordinator (Contract) | Hybrid - San | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5686511004) |
 | ▲ **vercel** | Software Engineer, Growth 🏠 | Hybrid - San | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5613601004) |
