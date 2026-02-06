@@ -9,8 +9,8 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-28-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-29-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -67,7 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏢 <strong>Other Companies</strong> (28 positions)</h3></summary>
+<summary><h3>🏢 <strong>Other Companies</strong> (29 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -88,6 +88,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎵 **spotify** | Data Scientist - Music Mission | New York, NY | 21h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac) |
 | 🎵 **spotify** | Product Marketing Manager, Targetin... | New York, NY | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/e1df6feb-4fb8-4c47-bfe5-12c6d8f11145) |
 | 🎵 **spotify** | 2026 Summer Internship, Research Sc... | New York, NY | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/89d92385-9e48-4bb8-bf74-96e75532562f) |
+| 🏢 **Panasonic Connect North America** | Computer Engineering Intern | Hoffman Esta | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/M9x8w1XR2wsDRNE0BlrTp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | ▲ **vercel** | DX Engineer 🏠 | Hybrid - San | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5784254004) |
 | 🏢 **duolingo** | QA Specialist II | New York, NY | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8376619002?gh_jid=8376619002) |
 | 🏢 **duolingo** | AI Research Engineer, New PhD Gradu... | New York, NY | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002) |
@@ -161,7 +162,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 161 positions
-- **🏢 Companies**: 9 companies
+- **🏢 Companies**: 10 companies
 - **⭐ FAANG+ Jobs & Internships**: 0 positions
 
 <details>
@@ -289,19 +290,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Core Enterprise Account Executive E... 🏠 | Dallas, TX | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6685497?gh_jid=6685497) |
 | Core Enterprise Account Executive E... 🏠 | Houston, Tex | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499) |
 |  Mid-Market Account Executive - Pub... 🏠 | Boston, MA | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056801?gh_jid=6056801) |
-| Mid-Market Account Executive - PubS... 🏠 | Charleston,  | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7090153?gh_jid=7090153) |
+| Mid-Market Account Executive - PubS... 🏠 | San Antonio, | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056794?gh_jid=6056794) |
 | Mid-Market Account Executive - PubS... 🏠 | Salt Lake Ci | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6157504?gh_jid=6157504) |
-| Mid-Market Account Executive - PubS... 🏠 | Denver, CO | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056804?gh_jid=6056804) |
-| Mid-Market Account Executive - PubS... 🏠 | Baltimore, M | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056802?gh_jid=6056802) |
 | Mid-Market Account Executive - PubS... 🏠 | Chicago, IL | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056800?gh_jid=6056800) |
 | Mid-Market Account Executive - PubS... 🏠 | Houston, Tex | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056799?gh_jid=6056799) |
 | Mid-Market Account Executive - PubS... 🏠 | Dallas, TX | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056795?gh_jid=6056795) |
+| Mid-Market Account Executive - PubS... 🏠 | Denver, CO | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056804?gh_jid=6056804) |
 | Mid-Market Account Executive - PubS... 🏠 | Charleston,  | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7201309?gh_jid=7201309) |
 | Mid-Market Account Executive - PubS... 🏠 | Louisville,  | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7201306?gh_jid=7201306) |
-| Mid-Market Account Executive - PubS... 🏠 | San Antonio, | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056794?gh_jid=6056794) |
+| Mid-Market Account Executive - PubS... 🏠 | Charleston,  | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7090153?gh_jid=7090153) |
+| Mid-Market Account Executive - PubS... 🏠 | Baltimore, M | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6056802?gh_jid=6056802) |
 | Public Sector Major Account Executi... 🏠 | Remote - Den | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6493990?gh_jid=6493990) |
-| Select Major Account Executive EST/... 🏠 | Milwaukee, W | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6242420?gh_jid=6242420) |
 | Select Major Account Executive EST/... 🏠 | Chicago, IL | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6242376?gh_jid=6242376) |
+| Select Major Account Executive EST/... 🏠 | Milwaukee, W | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6242420?gh_jid=6242420) |
 | Select Major Account Executive EST/... 🏠 | Atlanta, GA | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392563?gh_jid=6392563) |
 | Select Major Account Executive EST/... 🏠 | Austin, TX | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6567223?gh_jid=6567223) |
 | Select Major Account Executive EST/... 🏠 | Charlotte, N | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392559?gh_jid=6392559) |
@@ -310,8 +311,8 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Select Major Account Executive EST/... 🏠 | Hartford, CT | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6567247?gh_jid=6567247) |
 | Select Major Account Executive EST/... 🏠 | Houston, Tex | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6567205?gh_jid=6567205) |
 | Select Major Account Executive EST/... 🏠 | Jacksonville | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6567232?gh_jid=6567232) |
-| Select Major Account Executive EST/... 🏠 | Miami, FL | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392574?gh_jid=6392574) |
 | Select Major Account Executive EST/... 🏠 | Miami, FL | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6567208?gh_jid=6567208) |
+| Select Major Account Executive EST/... 🏠 | Miami, FL | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392574?gh_jid=6392574) |
 | Select Major Account Executive EST/... 🏠 | Nashville, T | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392556?gh_jid=6392556) |
 | Select Major Account Executive EST/... 🏠 | Orlando, FL | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6567224?gh_jid=6567224) |
 | Select Major Account Executive EST/... 🏠 | Raleigh, NC | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6392562?gh_jid=6392562) |
@@ -375,7 +376,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 28 current opportunities from 9 companies**
+**🎯 29 current opportunities from 10 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
