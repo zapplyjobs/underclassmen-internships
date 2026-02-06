@@ -58,9 +58,9 @@ jobs:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
         ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
         # Feature flag: Use tagged aggregator feed instead of ATS/USAJobs
-        # Set to 'true' to fetch from jobs-data-2026 tagged feed
-        # Leave unset or 'false' to use ATS/USAJobs sources
-        USE_AGGREGATOR: 'true'
+        # ABANDONED: Using individual data sources per repo (2026-02-06)
+        # Aggregator complexity outweighs benefits - independence preferred
+        USE_AGGREGATOR: 'false'
 
     - name: Display job-fetcher logs (always run)
       if: always()
