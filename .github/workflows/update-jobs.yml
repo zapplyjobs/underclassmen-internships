@@ -30,7 +30,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         ref: ${{ github.ref_name }}  # Use the branch that triggered the workflow
-        fetch-depth: 0  # Fetch full history for proper rebasing
+        fetch-depth: 1  # Shallow clone (faster checkout, 6-8 min -> 30 sec)
         token: ${{ secrets.GITHUB_TOKEN }}  # Use default token for pushing
 
     - name: Setup Node.js
@@ -125,51 +125,14 @@ jobs:
             echo "Attempt $attempt of $max_attempts"
             echo "========================================="
 
-            # STEP 1: Stash our changes (clean working directory)
-            echo "📦 Stashing local changes..."
-            git stash push -m "Auto-stash scraped jobs $(date +%s)" \
-              .github/data/new_jobs.json \
-              .github/data/posted_jobs.json \
-              .github/data/seen_jobs.json \
-              README.md || true
-
-            # STEP 2: Pull latest remote changes with rebase
+            # STEP 1: Pull latest remote changes (simple merge, no rebase for shallow clone)
             echo "⬇️  Pulling latest changes from remote..."
-            if ! git pull --rebase origin ${{ github.ref_name }}; then
-              echo "⚠️  Rebase conflict detected, aborting rebase..."
-              git rebase --abort || true
+            git pull origin ${{ github.ref_name }} --no-edit || {
+              echo "⚠️  Pull had conflicts, resetting..."
+              git reset --hard HEAD
+            }
 
-              # Fallback to regular merge
-              git pull origin ${{ github.ref_name }} --no-edit || {
-                echo "❌ Pull failed completely, resetting..."
-                git reset --hard HEAD
-                git pull origin main
-              }
-            fi
-
-            # STEP 3: Re-apply our changes (our data is authoritative)
-            echo "📂 Re-applying scraped job data..."
-            if git stash list | grep -q "Auto-stash scraped jobs"; then
-              if ! git stash pop; then
-                echo "⚠️  Stash pop had conflicts, resolving..."
-
-                # Take stashed version (latest scraped data) for all conflicts
-                # --theirs = what's in the stash (NEW data after bot ran)
-                # --ours = what's in working directory (OLD data before stash)
-                git checkout --theirs .github/data/new_jobs.json 2>/dev/null || true
-                git checkout --theirs .github/data/posted_jobs.json 2>/dev/null || true
-                git checkout --theirs .github/data/seen_jobs.json 2>/dev/null || true
-                git checkout --theirs README.md 2>/dev/null || true
-
-                # Clear the stash
-                git reset
-                git stash drop || true
-              fi
-            else
-              echo "ℹ️  No stash found (likely no conflicts)"
-            fi
-
-            # STEP 4: Stage and commit
+            # STEP 2: Stage and commit
             git add .github/data/new_jobs.json \
                     .github/data/posted_jobs.json \
                     .github/data/current_jobs.json \
@@ -201,7 +164,7 @@ jobs:
               echo "⚠️  Commit failed, may already be committed"
             fi
 
-            # STEP 5: Push with retry
+            # STEP 3: Push with retry
             echo "⬆️  Pushing changes to remote..."
             if git push origin ${{ github.ref_name }}; then
               echo "✅ Successfully pushed changes!"
