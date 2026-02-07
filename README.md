@@ -83,7 +83,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **duolingo** | Social Content Creator, Intern | New York, NY | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8301519002?gh_jid=8301519002) |
 | 🎨 **figma** | Community Support Specialist 🏠 | San Francisco, CA • New York | 23h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004) |
 | 🎨 **figma** | Advocate, Federal 🏠 | Washington, DC | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5790731004?gh_jid=5790731004) |
-| 🎨 **figma** | Workplace Generalist 🏠 | San Francisco, CA | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5784186004?gh_jid=5784186004) |
+| 🎨 **figma** | Workplace Generalist 🏠 | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5784186004?gh_jid=5784186004) |
 | 🤖 **reddit** | Software Engineer | San Francisco, CA | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7579681) |
 | 🎵 **spotify** | Product Marketing Manager, Targe... | New York, NY | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/e1df6feb-4fb8-4c47-bfe5-12c6d8f11145) |
 
@@ -123,7 +123,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **datadog** | Major Account Manager | California, USA | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7576941/?gh_jid=7576941) |
 | 🏢 **datadog** | Key Accounts Executive | Illinois, USA | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684) |
 | 🗄️ **supabase** | API Engineer (NASA or APAC) 🏠 | Remote | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/e50d173a-3b4f-45f8-a920-550fb841a989) |
-| ▲ **vercel** | DX Engineer 🏠 | Hybrid - San Francisco, New York City | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5784254004) |
+| ▲ **vercel** | DX Engineer 🏠 | Hybrid - San Francisco, New York City | 2d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5784254004) |
 
 </details>
 
