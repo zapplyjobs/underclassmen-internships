@@ -21,9 +21,9 @@ const password = process.env.LOG_ENCRYPT_PASSWORD;
 if (!password) {
   console.error('❌ Error: LOG_ENCRYPT_PASSWORD environment variable not set');
   console.error('\nUsage:');
-  console.error('  export LOG_ENCRYPT_PASSWORD="aDNQgatCmduwo5ZK/YyPUFp7oiokaG8wrB/G3jYmdAU="');
+  console.error('  export LOG_ENCRYPT_PASSWORD="YOUR_BASE64_ENCODED_KEY_HERE"');
   console.error('  node verify-encryption.js');
-  console.error('\nNote: This is the SAME password used for encryption (symmetric encryption)');
+  console.error('\nNote: Use the same base64-encoded key stored in GitHub Secrets (LOG_ENCRYPT_PASSWORD)');
   process.exit(1);
 }
 
