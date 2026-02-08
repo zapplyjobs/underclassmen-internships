@@ -59,7 +59,7 @@ jobs:
         ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
         # Feature flag: Use JSearch API (90 jobs/day quota)
         # Set to 'true' to enable JSearch API fetches alongside ATS sources
-        USE_JSEARCH: ${{ secrets.USE_JSEARCH || 'false' }}
+        USE_JSEARCH: ${{ secrets.USE_JSEARCH || 'true' }}
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
 
     - name: Display job-fetcher logs (always run)
