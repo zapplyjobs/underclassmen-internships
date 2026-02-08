@@ -57,10 +57,10 @@ jobs:
       env:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
         ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
-        # Feature flag: Use tagged aggregator feed instead of ATS/USAJobs
-        # ABANDONED: Using individual data sources per repo (2026-02-06)
-        # Aggregator complexity outweighs benefits - independence preferred
-        USE_AGGREGATOR: 'false'
+        # Feature flag: Use JSearch API (90 jobs/day quota)
+        # Set to 'true' to enable JSearch API fetches alongside ATS sources
+        USE_JSEARCH: ${{ secrets.USE_JSEARCH || 'false' }}
+        JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
 
     - name: Display job-fetcher logs (always run)
       if: always()
