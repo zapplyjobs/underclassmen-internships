@@ -125,11 +125,13 @@ jobs:
             echo "Attempt $attempt of $max_attempts"
             echo "========================================="
 
-            # STEP 1: Pull latest remote changes (simple merge, no rebase for shallow clone)
+            # STEP 1: Pull latest remote changes with safe merge strategy
             echo "⬇️  Pulling latest changes from remote..."
-            git pull origin ${{ github.ref_name }} --no-edit || {
-              echo "⚠️  Pull had conflicts, resetting..."
-              git reset --hard HEAD
+            git pull origin ${{ github.ref_name }} --no-edit --no-rebase --strategy-option=theirs || {
+              echo "⚠️  Pull had conflicts, stashing local changes and retrying..."
+              git stash push -m "auto-stash before conflict resolution" || echo "Nothing to stash"
+              git reset --hard origin/${{ github.ref_name }}
+              git stash pop || echo "No stash to pop (merge completed cleanly)"
             }
 
             # STEP 2: Stage and commit
