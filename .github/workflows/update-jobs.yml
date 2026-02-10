@@ -10,7 +10,6 @@ on:
     paths:
       - '.github/scripts/job-fetcher/**'
       - '.github/scripts/unified-job-fetcher.js'
-      - '.github/scripts/enhanced-discord-bot.js'
       - 'jobboard/src/backend/**'
 
 # Prevent concurrent runs to avoid git conflicts

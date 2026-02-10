@@ -28,7 +28,6 @@ jobs:
     - name: Syntax validation
       run: |
         echo "=== Validating JavaScript syntax ==="
-        node --check .github/scripts/enhanced-discord-bot.js
         node --check .github/scripts/src/discord/config.js
         node --check .github/scripts/job-fetcher/job-processor.js
         node --check .github/scripts/src/data/loader.js
