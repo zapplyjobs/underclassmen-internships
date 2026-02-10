@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-02-10T14:05:29.200Z",
+  "total_fetched": 1489,
+  "persisted_jobs": 902,
+  "merged_jobs": 1165,
+  "current_jobs": 900,
+  "archived_jobs": 265,
+  "fresh_jobs": 0,
+  "duplicates_filtered": 1165,
+  "queue_status": {
+    "total": 529,
+    "pending": 479,
+    "enriched": 50,
+    "posted": 0
+  }
+}

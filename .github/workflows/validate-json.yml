@@ -5,7 +5,6 @@ on:
     paths:
       - '.github/data/posted_jobs.json'
       - '.github/scripts/src/data/posted-jobs-manager-v2.js'
-      - '.github/scripts/enhanced-discord-bot.js'
   push:
     branches:
       - main
