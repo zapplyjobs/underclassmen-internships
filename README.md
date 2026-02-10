@@ -9,9 +9,9 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-106-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-75-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-66-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-132-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-77-blue?style=flat&logo=building)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-82-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
@@ -67,36 +67,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (66 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (82 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-<<<<<<< Updated upstream
-| 🏢 **Southwest Research Institute** | COMPUTER SCIENTIST - RESEARCH CO... | San Antonio, Texas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/computer-scientist-research-computer-scientist-research-engineer-junior-software-developer-at-southwest-research-institute-4369965552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-=======
-| 🤖 **reddit** | Android Software Engineer, Ad Fo... | New York City, NY | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415013) |
 | 🤖 **reddit** | Android Software Engineer, Ad Fo... | San Francisco, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414993) |
+| 🤖 **reddit** | Android Software Engineer, Ad Fo... | New York City, NY | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415013) |
 | 🤖 **reddit** | Android Software Engineer, Ad Fo... | Chicago, IL | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415003) |
-| 🤖 **reddit** | iOS Software Engineer, Ad Formats | Chicago, IL | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414842) |
 | 🤖 **reddit** | iOS Software Engineer, Ad Formats | New York City, NY | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414849) |
+| 🤖 **reddit** | iOS Software Engineer, Ad Formats | Chicago, IL | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414842) |
 | 🤖 **reddit** | Software Engineer | San Francisco, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7579681) |
 | 🎵 **spotify** | Client Partner - Retail | New York, NY | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/2f055a0d-35c1-4fca-b69a-8e40e45d49a7) |
 | 🏢 **Southwest Research Institute** | COMPUTER SCIENTIST - RESEARCH CO... | San Antonio, Texas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/computer-scientist-research-computer-scientist-research-engineer-junior-software-developer-at-southwest-research-institute-4369965552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **datadog** | Product Manager II - Bits Chat &... | New York, New York | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555529/?gh_jid=7555529) |
->>>>>>> Stashed changes
 | 🏢 **2704 WB Games Inc.** | NetherRealm Software Engineering... | Chicago, Illinois | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=79b1b1dae673&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Panasonic Connect North America** | Computer Engineering Intern | Hoffman Estates, Illinois | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/M9x8w1XR2wsDRNE0BlrTp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **duolingo** | Head of Duolingo Store, Consumer... | Detroit, MI | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8407340002?gh_jid=8407340002) |
 | 🏢 **duolingo** | Head of Duolingo Store, Consumer... | New York, NY | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8407338002?gh_jid=8407338002) |
 | 🏢 **duolingo** | Head of Duolingo Store, Consumer... | Seattle, WA | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8407337002?gh_jid=8407337002) |
 | 🏢 **duolingo** | Head of Duolingo Store, Consumer... | Pittsburgh, PA | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8407102002?gh_jid=8407102002) |
-<<<<<<< Updated upstream
-| 🏢 **datadog** | Enablement Systems Engineer | New York, New York, USA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
-| 🏢 **BDO USA Experienced Career Site** | Software Engineer II - Kentico | Grand Rapids, Michigan | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/11459?utm_medium=search+engine&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **duolingo** | Learning Scientist, Efficacy Res... | Pittsburgh, PA | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8359434002?gh_jid=8359434002) |
-| 🏢 **SynergisticIT** | Software Engineer - Entry Level 🇺🇸 | Houston, Texas | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/ofaeKvnwquyrlCUz5yDDE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **VirtualVocations** | Associate Project Engineer | Lake Worth Beach, Florida | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ff8ac8fe5674&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-=======
 | 🏢 **datadog** | Enablement Systems Engineer | New York, New York | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
 | 🏢 **datadog** | Enablement Systems Engineer | New York, New York, USA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
 | 🏢 **BDO USA Experienced Career Site** | Software Engineer II - Kentico | Grand Rapids, Michigan | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/11459?utm_medium=search+engine&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -105,7 +94,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **VirtualVocations** | Associate Project Engineer | Lake Worth Beach, Florida | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ff8ac8fe5674&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎬 **TikTok** | Software Engineer Graduate Socia... | Los Angeles, California | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/los-angeles/california/software_development/4851457403/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **SynergisticIT** | Software Engineer - Entry Level 🇺🇸 | Houston, Texas | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/ofaeKvnwquyrlCUz5yDDE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
->>>>>>> Stashed changes
 | 🏢 **ATC** | Software Engineer (Ruby on Rails) | New York, New York | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-ruby-on-rails-at-atc-4368745401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **duolingo** | QA Specialist II | New York, NY | 6d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8376619002?gh_jid=8376619002) |
 | 🏢 **Quindar** | Software Engineer, Flight + Plan | Washington, District of Columbia | 6d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-flight-%2B-plan-at-quindar-4368532953?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -117,11 +105,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **EAi Technologies** | Junior Software Developer JavaSc... 🏠 | Vienna, Virginia | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://devitjobs.com/jobs/EAi-Technologies-Junior-Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎮 **discord** | Software Engineer, Mobile | San Francisco Bay Area | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8177727002) |
 | 🎮 **discord** | Software Engineer, Payments | San Francisco Bay Area | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8304667002) |
-<<<<<<< Updated upstream
-=======
 | 🎮 **discord** | Software Engineer, Mobile | San Francisco Bay Area | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8177727002) |
 | 🎮 **discord** | Software Engineer, Payments | San Francisco Bay Area | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8304667002) |
->>>>>>> Stashed changes
 | 🏢 **samsara** | Software Engineer II - Mobile Pl... | San Francisco - SF9 | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7312588?gh_jid=7312588) |
 | 🏢 **Boeing** | F-22 Associate Software Engineer... | Berkeley, Missouri | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.boeing.com/job/berkeley/f-22-associate-software-engineering-technical-specialist/185/91341573536?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Boeing** | Entry Level Software Engineer | Oklahoma | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/1vsmUPGbLiUiHzicXXQs3V?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -147,10 +132,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cisco** | Software Engineer 1 | San Jose, CA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2007003) |
 | 🏢 **Cisco** | Software Engineer 2 | San Jose, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2007168) |
 | 🟦 **Microsoft** | Software Engineer - Ctj - Top Se... | Redmond, WA | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556749120) |
-<<<<<<< Updated upstream
-=======
 | 🎵 **spotify** | Talent Relations Manager - The R... | Los Angeles, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/cea85c56-713b-4604-acc0-5c949caf49f8) |
->>>>>>> Stashed changes
 | 🏢 **Fidelity Investments** | Analyst – Investment Data Manage... | Westlake, TX | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Analyst--Investment-Data-Management_2119659) |
 | 🏢 **Fidelity Investments** | IT Software Engineering - Data E... 🏠 | Westlake, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/IT---Software-Engineering---Data-Engineer_2123335) |
 | 🏢 **Vanguard** | Entry Level Application Engineer... | Malvern, PA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908-1) |
@@ -168,36 +150,26 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WSP** | Early Career Geologist | Elmira, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/79442) |
 | 🏢 **Space Dynamics Laboratory** | Entry-Level Full Stack Web Devel... 🏠 | Logan, UT | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://spacedynamicslaboratory.applytojob.com/apply/2mBcBSlJGz/EntryLevel-Full-Stack-Web-Developer) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer – Entry Level | Pittsfield, MA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/70459/job?mobile=true&needsRedirect=false) |
-<<<<<<< Updated upstream
-| 🏢 **SMX** | Software Engineer 1 | Huntsville, AL | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.smxtech.com/careers/?gh_jid=7607443003) |
-=======
 | 🎵 **spotify** | Client Partner - Financial Services | New York, NY | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/76f87659-4682-4513-859c-0241e1881596) |
 | 🏢 **SMX** | Software Engineer 1 | Huntsville, AL | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.smxtech.com/careers/?gh_jid=7607443003) |
 | ▲ **vercel** | Software Engineer, Growth 🏠 | Hybrid - San Francisco, New York City | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5613601004) |
->>>>>>> Stashed changes
 
 </details>
 
 <details>
-<summary><h3>🤖 <strong>Data & AI</strong> (15 positions)</h3></summary>
+<summary><h3>🤖 <strong>Data & AI</strong> (18 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🎨 **figma** | Legal Counsel 🏠 | San Francisco, CA • New York, NY • United States | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5795034004?gh_jid=5795034004) |
 | 🏢 **Waters Corporation** | Business Data Analytics Intern, ... | Milford, Massachusetts | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://uscareers-waters.icims.com/jobs/25441/business-data-analytics-intern%2C-market-analysis/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **The MITRE Corporation** | Internships in Data Science, Mat... | McLean, Virginia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-<<<<<<< Updated upstream
-| 🏢 **Jobs via Dice** | Entry Level Data Engineer | Plano, Texas | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/entry-level-data-engineer-at-jobs-via-dice-4369106353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Genentech** | 2026 Summer Intern - Statisticia... | South San Francisco, California | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102485/2026-Summer-Intern-Statistician-and-Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Org_Subtype_BU023_Global_Services** | Data Science Undergraduate Intern | Hopkinton, Massachusetts | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dell.com/en/job/hopkinton/data-science-undergraduate-intern/375/85828103696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-=======
 | 🎵 **spotify** | Data Scientist - Music Mission | New York, NY | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac) |
 | 🏢 **Jobs via Dice** | Entry Level Data Engineer | Plano, Texas | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/entry-level-data-engineer-at-jobs-via-dice-4369106353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Genentech** | 2026 Summer Intern - Statisticia... | South San Francisco, California | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102485/2026-Summer-Intern-Statistician-and-Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Org_Subtype_BU023_Global_Services** | Data Science Undergraduate Intern | Hopkinton, Massachusetts | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dell.com/en/job/hopkinton/data-science-undergraduate-intern/375/85828103696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **datadog** | Product Manager II - Semantic & ... | New York, New York | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555509/?gh_jid=7555509) |
 | 🎵 **spotify** | 2026 Summer Internship, Research... | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/89d92385-9e48-4bb8-bf74-96e75532562f) |
->>>>>>> Stashed changes
 | 🏢 **samsara** | Business Technology AI Engineer IV | Atlanta, Georgia, United States | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153) |
 | 🏢 **CrowdGen by Appen** | iOS Users - Join Project Mavara 🏠 | Remote in USA, Locations | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/appen/ca2ef740-f9de-45cf-a3b4-e48325ca8025/apply) |
 | 🏢 **Dynatrace** | Sales Analytics Intern | Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinboston.com/job/sales-analytics-intern/8353691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -211,55 +183,40 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🔧 <strong>DevOps & Infrastructure</strong> (8 positions)</h3></summary>
+<summary><h3>🔧 <strong>DevOps & Infrastructure</strong> (11 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-<<<<<<< Updated upstream
-| 🏢 **datadog** |  Enterprise Sales Executive (SLED) | Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
-=======
 | 🏢 **datadog** | Security Sales Engineer - US East | Georgia, USA | 1d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | 🏢 **datadog** |  Enterprise Sales Executive (SLED) | Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
 | ▲ **vercel** | DX Engineer 🏠 | Hybrid - San Francisco, New York City | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5784254004) |
->>>>>>> Stashed changes
 | ▲ **vercel** | DX Engineer 🏠 | Hybrid - San Francisco, New York City, Austin | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5784254004) |
 | 🏢 **datadog** | Technical Writer | California, USA, Remote; Colorado, USA, Remote; Illinois, USA, Remote; New York, USA, Remote; Washington, USA, Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555493/?gh_jid=7555493) |
 | 🏢 **datadog** | Key Accounts Executive | California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7409247/?gh_jid=7409247) |
 | 🏢 **datadog** | Key Accounts Executive | Illinois, USA, Remote; Michigan, USA, Remote; Minnesota, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684) |
 | 🗄️ **supabase** | API Engineer (NASA or APAC) 🏠 | Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/e50d173a-3b4f-45f8-a920-550fb841a989) |
-<<<<<<< Updated upstream
-=======
 | 🗄️ **supabase** | API Engineer (NASA or APAC) 🏠 | Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/e50d173a-3b4f-45f8-a920-550fb841a989) |
->>>>>>> Stashed changes
 | 🏢 **Akkodis** | Slack Enginner | McLean, Virginia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/slack-enginner-at-akkodis-4368009351?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Gradial** | Graduate & Entry-Level Roles | Seattle, WA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gradial/jobs/4113022009) |
 
 </details>
 
 <details>
-<summary><h3>📂 <strong>Other Jobs</strong> (17 positions)</h3></summary>
+<summary><h3>📂 <strong>Other Jobs</strong> (21 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-<<<<<<< Updated upstream
-| 🎨 **figma** | Community Support Specialist 🏠 | San Francisco, CA • New York, NY • United States | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004) |
-| 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Interns... | Lacassine, Louisiana | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=3f5646e5bc8f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-=======
 | 🎮 **discord** | Content Technologist (Temporary) 🏠 | Remote (U.S.) | 3h | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8378561002) |
 | 🎨 **figma** | Community Support Specialist 🏠 | San Francisco, CA • New York, NY • United States | 4d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004) |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Interns... | Lacassine, Louisiana | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=3f5646e5bc8f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎵 **spotify** | Product Marketing Manager, Targe... | New York, NY | 5d | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/e1df6feb-4fb8-4c47-bfe5-12c6d8f11145) |
->>>>>>> Stashed changes
 | 🎨 **figma** | Advocate, Federal 🏠 | Washington, DC | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5790731004?gh_jid=5790731004) |
 | 🏢 **Kansas City National Security Campus** | Fulltime Engineer - University R... 🏠 | Kansas City, Missouri | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/fulltime-engineer-university-recruiting-at-kansas-city-national-security-campus-4332235401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **samsara** | Electrical Engineering Co-Op | San Francisco - SF9 | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7581914?gh_jid=7581914) |
 | 💳 **stripe** | Account Executive, AI Sales | San Francisco, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7532733) |
 | 🎮 **discord** | Content Technologist (Temporary) 🏠 | Remote (U.S.) | 1w | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8378561002) |
-<<<<<<< Updated upstream
-=======
-| 🏢 **duolingo** | AI Research Engineer, New PhD Gr... | Pittsburgh, PA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002) |
 | 🏢 **duolingo** | AI Research Engineer, New PhD Gr... | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002) |
->>>>>>> Stashed changes
+| 🏢 **duolingo** | AI Research Engineer, New PhD Gr... | Pittsburgh, PA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002) |
 | 🏢 **duolingo** | Influencer Marketing, Intern | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8301155002?gh_jid=8301155002) |
 | 🏢 **duolingo** | Social Content Creator, Intern | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8301519002?gh_jid=8301519002) |
 | 🎨 **figma** | Workplace Generalist 🏠 | San Francisco, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5784186004?gh_jid=5784186004) |
@@ -325,8 +282,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
-<<<<<<< Updated upstream
-=======
 ---
 
 <details>
@@ -423,11 +378,11 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **brex** | Compliance Manager (Card & Rewards) 🏠 | San Francisco, California | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8316251002?gh_jid=8316251002) |
 | 🏢 **brex** | Compliance Manager (Card & Rewards) 🏠 | Salt Lake City, Utah | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8316257002?gh_jid=8316257002) |
 | 🏢 **brex** | Product and Regulatory Counsel 🏠 | Seattle, Washington | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196889002?gh_jid=8196889002) |
-| 🏢 **brex** | Product and Regulatory Counsel 🏠 | New York, New York | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196885002?gh_jid=8196885002) |
-| 🏢 **brex** | Product and Regulatory Counsel 🏠 | Salt Lake City, Utah | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196892002?gh_jid=8196892002) |
 | 🏢 **brex** | Product and Regulatory Counsel 🏠 | San Francisco, California | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/7934899002?gh_jid=7934899002) |
-| 🏢 **brex** | Startups Account Executive 🏠 | San Francisco, California | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8237737002?gh_jid=8237737002) |
+| 🏢 **brex** | Product and Regulatory Counsel 🏠 | Salt Lake City, Utah | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196892002?gh_jid=8196892002) |
+| 🏢 **brex** | Product and Regulatory Counsel 🏠 | New York, New York | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8196885002?gh_jid=8196885002) |
 | 🏢 **brex** | Startups Account Executive 🏠 | New York, New York | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8237738002?gh_jid=8237738002) |
+| 🏢 **brex** | Startups Account Executive 🏠 | San Francisco, California | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8237737002?gh_jid=8237737002) |
 | 🎵 **spotify** | Payroll Specialist | New York, NY | 3mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/184f631b-b751-49d9-bacb-5695b1e3a8e8) |
 | 🎵 **spotify** | Workday Payroll Specialist | New York, NY | 5mo | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/521272b5-9e4e-4ba0-a0b9-e6e5b067c7ac) |
 
@@ -440,11 +395,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 
->>>>>>> Stashed changes
 
 <div align="center">
 
-**🎯 106 current opportunities from 75 companies**
+**🎯 132 current opportunities from 77 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
