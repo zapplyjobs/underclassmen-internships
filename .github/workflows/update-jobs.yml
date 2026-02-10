@@ -72,7 +72,7 @@ jobs:
       run: |
         echo "✅ Job collection completed"
         if [ -f "README.md" ]; then
-          JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
           echo "📊 Total positions: $JOB_COUNT"
         fi
 
@@ -154,8 +154,8 @@ jobs:
             fi
 
             # Get job count for commit message
-            JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-            COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+            JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
+            COMPANY_COUNT=$(grep -o "Companies-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
 
             COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC')
 
@@ -200,9 +200,10 @@ jobs:
 
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
           # Extract stats from README
-          JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-          COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-          FAANG_COUNT=$(grep -o "FAANG+ Jobs\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
+          COMPANY_COUNT=$(grep -o "Companies-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
+          # Note: FAANG badge may not exist in current format, default to 0
+          FAANG_COUNT=$(grep -o "FAANG.*-[0-9]*-" README.md | grep -o "[0-9]*" | head -1 || echo "0")
 
           echo "✅ **Successfully updated job board with fresh opportunities**" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
