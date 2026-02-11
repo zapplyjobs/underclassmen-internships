@@ -91,6 +91,10 @@ jobs:
       env:
         LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
+    - name: Generate workflow metrics
+      if: always()
+      run: node .github/scripts/output-metrics.js
+
     - name: Check for changes
       id: verify-changed-files
       run: |
@@ -143,6 +147,7 @@ jobs:
                     .github/data/pending_posts.json \
                     .github/data/jsearch_usage.json \
                     .github/data/jobs-data-encrypted.json \
+                    .github/data/workflow_metrics.json \
                     .github/data/metrics/latest.json \
                     .github/data/metrics/*.json \
                     .github/audit/latest.md \
