@@ -89,6 +89,10 @@ jobs:
       if: always()
       run: node .github/scripts/output-metrics.js
 
+    - name: Generate debug dashboard
+      if: always()
+      run: node scripts/generate-debug-dashboard.js
+
     - name: Verify file modifications (debug git staging bug)
       run: |
         echo "🔍 Verifying current_jobs.json was actually modified..."
@@ -183,6 +187,7 @@ jobs:
                     .github/data/jsearch_usage.json \
                     .github/data/jobs-data-encrypted.json \
                     .github/data/workflow_metrics.json \
+                    .github/data/debug-dashboard.json \
                     .github/data/metrics/latest.json \
                     .github/data/metrics/*.json \
                     .github/audit/latest.md \
