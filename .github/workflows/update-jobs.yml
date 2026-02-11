@@ -5,6 +5,12 @@ on:
     # Run every 12 minutes (staggered schedule: 0, 12, 24, 36, 48)
     - cron: '0,12,24,36,48 * * * *'
   workflow_dispatch: # Allow manual triggering
+    inputs:
+      debug_mode:
+        description: 'Enable pipeline tracing for debugging (creates debug-trace.json)'
+        required: false
+        type: boolean
+        default: false
   push:
     branches: [ main ]
     paths:
@@ -61,6 +67,8 @@ jobs:
         # Set to 'true' to enable JSearch API fetches alongside ATS sources
         USE_JSEARCH: ${{ secrets.USE_JSEARCH || 'true' }}
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+        # Debug mode: Enable pipeline tracing (zero overhead when false)
+        DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
 
     - name: Display public status
       run: |
@@ -92,6 +100,31 @@ jobs:
     - name: Generate debug dashboard
       if: always()
       run: node scripts/generate-debug-dashboard.js
+
+    - name: Upload debug trace (if debug mode enabled)
+      if: github.event.inputs.debug_mode == 'true'
+      uses: actions/upload-artifact@v4
+      with:
+        name: pipeline-trace-${{ github.run_id }}
+        path: .github/data/debug-trace.json
+        retention-days: 7
+
+    - name: Display trace summary (if debug mode enabled)
+      if: github.event.inputs.debug_mode == 'true'
+      run: |
+        echo "📊 Pipeline Trace Summary:"
+        echo "=========================="
+        if [ -f ".github/data/debug-trace.json" ]; then
+          echo "✅ Debug trace created successfully"
+          echo ""
+          echo "Checkpoints:"
+          cat .github/data/debug-trace.json | jq -r '.checkpoints[] | "  \(.stage): \(.counts.total) jobs"'
+          echo ""
+          echo "📄 Download full trace from Artifacts section above"
+          echo "💡 Analyze with: node scripts/analyze-debug-trace.js debug-trace.json"
+        else
+          echo "⚠️  Debug trace file not found (DEBUG_MODE may not be set correctly)"
+        fi
 
     - name: Verify file modifications (debug git staging bug)
       run: |

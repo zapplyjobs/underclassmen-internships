@@ -28,7 +28,15 @@ npm run diagnose:queue      # Check pending queue bloat
 - `investigate-routing.js` - Deep dive into routing issues and field names
 - `test-routing.js` - Test router with real failing jobs
 
+### Pipeline Debugging
+- `analyze-debug-trace.js` - Automated analysis of pipeline traces with anomaly detection
+  - Detects >50% data loss at any stage
+  - Generates ASCII flow diagrams
+  - Suggests root causes and fixes
+  - Usage: `node scripts/analyze-debug-trace.js <trace-file.json>`
+
 ### Created: 2026-01-22
+### Updated: 2026-02-11 (added analyze-debug-trace.js)
 
 ## GitHub Actions
 
