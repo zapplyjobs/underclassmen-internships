@@ -9,9 +9,9 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-250-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-249-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-80-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-159-red?style=flat&logo=star)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-158-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
@@ -67,7 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (159 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (158 positions)</h3></summary>
 
 <details>
 <summary><h4>🏢 <strong>cloudflare</strong> (53 positions)</h4></summary>
@@ -148,7 +148,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **datadog** | Product Manager II - Bits Chat &... | New York, New York | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555529/?gh_jid=7555529) |
+| 🏢 **datadog** | Product Manager II - Bits Chat &... | New York, New York | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555529/?gh_jid=7555529) |
 | 🏢 **samsara** | Software Engineer - Training 🏠 | Remote - SF Bay Area | 4h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7306930?gh_jid=7306930) |
 | 🎵 **spotify** | Artist & Label Partnerships Mana... | Dubai | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/896b6048-ae0f-45d3-b62c-58731f3d8ff4) |
 | 🤖 **reddit** | Android Software Engineer, Ad Fo... | Remote - United States | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415052) |
@@ -174,8 +174,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **datadog** | Enablement Systems Engineer | New York, New York, USA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
 | 🏢 **BDO USA Experienced Career Site** | Software Engineer II - Kentico | Grand Rapids, Michigan | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/11459?utm_medium=search+engine&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **duolingo** | Learning Scientist, Efficacy Res... | Pittsburgh, PA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8359434002?gh_jid=8359434002) |
-| 🏢 **VirtualVocations** | Associate Project Engineer | Lake Worth Beach, Florida | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ff8ac8fe5674&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **SynergisticIT** | Software Engineer - Entry Level 🇺🇸 | Houston, Texas | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/ofaeKvnwquyrlCUz5yDDE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **VirtualVocations** | Associate Project Engineer | Lake Worth Beach, Florida | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=ff8ac8fe5674&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎵 **spotify** | Engineering Manager, Music Mission | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/3c1b5bad-915b-476d-a660-b2971f0153fc) |
 | 🏢 **ATC** | Software Engineer (Ruby on Rails) | New York, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-ruby-on-rails-at-atc-4368745401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **duolingo** | QA Specialist II | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8376619002?gh_jid=8376619002) |
@@ -207,7 +207,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **duolingo** | QA Specialist, New Graduate | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duolingo.com/jobs/8378206002?gh_jid=8378206002) |
 | 🏢 **OCC** | Associate – Software Engineering... | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Associate--Software-Engineering--Java_REQ-4555-2) |
 | 🏢 **Emerson Electric** | Manufacturing Software Engineer | Eden Prairie, MN | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26000800) |
-| 🏢 **VirtualVocations** | Entry-Level Software Developer | Mobile, Alabama | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=8de959ad46b2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Rincon Research Corporation** | Jr. Software Engineer 🇺🇸 🏠 | Oro Valley, Arizona | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/sr-software-engineer-oro-valley-rincon-research-corporation-4f28acede55ab2378d4bccd68c69a247?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Walmart** | (USA) Software Engineer III | Lowell, Arkansas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Software-Engineer-III/-in-Lowell,AR?jid=3908e8dca7a13ef3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Bank of Montreal** | Junior Software Developer, Summe... | New York, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/BMO-Capital-Markets/Job/Junior-Software-Developer,-Summer-2026-(Co-op-Internship)-4-Months/-in-New-York,NY?jid=14af0354fbdefc4e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -252,7 +251,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **datadog** | Product Manager II - Software De... | New York, New York | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417) |
-| 🏢 **datadog** | Product Manager II - Semantic & ... | New York, New York | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555509/?gh_jid=7555509) |
+| 🏢 **datadog** | Product Manager II - Semantic & ... | New York, New York | 2h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555509/?gh_jid=7555509) |
 | 🤖 **reddit** | Data Scientist, Ads 🏠 | Remote - Ontario, Canada | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7607124) |
 | 🤖 **reddit** | Data Scientist, Ads 🏠 | Remote - United States | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6580815) |
 | 🏢 **samsara** | Mid-Market Sales Engineer - US N... 🏠 | Remote - US | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7581969?gh_jid=7581969) |
@@ -651,7 +650,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 250 current opportunities from 80 companies**
+**🎯 249 current opportunities from 80 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
