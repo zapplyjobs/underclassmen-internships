@@ -81,8 +81,9 @@ jobs:
       env:
         LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
-    - name: Write current_jobs.json for aggregator
-      run: node .github/scripts/write-current-jobs.js
+    # NOTE: current_jobs.json is already written by job-processor.js
+    # write-current-jobs.js was removed because it overwrote fresh data with stale posted_jobs.json
+    # See: Architecture change Feb 10 - individual repos no longer maintain posted_jobs.json
 
     - name: Generate metrics report
       if: always()
