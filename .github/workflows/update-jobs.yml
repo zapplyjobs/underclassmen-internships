@@ -166,17 +166,16 @@ jobs:
             echo "Attempt $attempt of $max_attempts"
             echo "========================================="
 
-            # STEP 1: Force git to recognize file changes (fix for staging bug)
-            echo "🔧 Clearing git index cache for data files..."
-            # Remove from index without deleting from working directory
-            git rm --cached .github/data/current_jobs.json 2>/dev/null || true
-            git rm --cached .github/data/workflow_metrics.json 2>/dev/null || true
-            git rm --cached .github/data/seen_jobs.json 2>/dev/null || true
-            git rm --cached .github/data/pending_posts.json 2>/dev/null || true
+            # STEP 1: Force git to refresh index (fix for staging bug)
+            echo "🔧 Refreshing git index to recognize file changes..."
+            # Force git to re-stat files and update the index
+            git update-index --refresh 2>/dev/null || true
 
             # STEP 2: Stage fresh data files BEFORE pulling (prevents data loss)
             echo "📦 Staging fresh data files..."
-            git add --force .github/data/new_jobs.json \
+            # Use explicit file paths to ensure they're added
+            git add --force -- \
+                    .github/data/new_jobs.json \
                     .github/data/posted_jobs.json \
                     .github/data/current_jobs.json \
                     .github/data/seen_jobs.json \
