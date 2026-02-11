@@ -95,6 +95,48 @@ jobs:
       if: always()
       run: node .github/scripts/output-metrics.js
 
+    - name: Verify file modifications (debug git staging bug)
+      run: |
+        echo "🔍 Verifying current_jobs.json was actually modified..."
+        echo ""
+
+        # Get disk file info
+        if [ -f ".github/data/current_jobs.json" ]; then
+          DISK_SIZE=$(stat -c%s .github/data/current_jobs.json 2>/dev/null || stat -f%z .github/data/current_jobs.json 2>/dev/null)
+          DISK_HASH=$(sha256sum .github/data/current_jobs.json | awk '{print $1}')
+          echo "📁 Disk file: $DISK_SIZE bytes, hash: ${DISK_HASH:0:16}..."
+        else
+          echo "❌ ERROR: current_jobs.json not found on disk!"
+          exit 1
+        fi
+
+        # Get git HEAD version hash
+        if git cat-file -e HEAD:.github/data/current_jobs.json 2>/dev/null; then
+          GIT_HASH=$(git show HEAD:.github/data/current_jobs.json | sha256sum | awk '{print $1}')
+          echo "📦 Git HEAD: hash: ${GIT_HASH:0:16}..."
+        else
+          echo "⚠️  File doesn't exist in git HEAD (new file)"
+          GIT_HASH=""
+        fi
+
+        # Compare
+        if [ -n "$GIT_HASH" ] && [ "$DISK_HASH" = "$GIT_HASH" ]; then
+          echo ""
+          echo "⚠️  WARNING: Disk file is IDENTICAL to git HEAD!"
+          echo "This means job-processor did NOT actually modify the file."
+          echo "File was not updated despite 'Saved X jobs' log message."
+          echo ""
+          echo "🔍 This indicates:"
+          echo "  - Job-processor claimed to save jobs but file unchanged"
+          echo "  - OR something reset the file after job-processor ran"
+          echo "  - OR TTL filtering removed exactly as many jobs as were added (equilibrium)"
+          echo ""
+        else
+          echo ""
+          echo "✅ File was modified (disk != git HEAD)"
+          echo "Git should recognize this as a change."
+        fi
+
     - name: Check for changes
       id: verify-changed-files
       run: |
@@ -130,9 +172,17 @@ jobs:
             echo "Attempt $attempt of $max_attempts"
             echo "========================================="
 
-            # STEP 1: Stage fresh data files BEFORE pulling (prevents data loss)
+            # STEP 1: Force git to recognize file changes (fix for staging bug)
+            echo "🔧 Clearing git index cache for data files..."
+            # Remove from index without deleting from working directory
+            git rm --cached .github/data/current_jobs.json 2>/dev/null || true
+            git rm --cached .github/data/workflow_metrics.json 2>/dev/null || true
+            git rm --cached .github/data/seen_jobs.json 2>/dev/null || true
+            git rm --cached .github/data/pending_posts.json 2>/dev/null || true
+
+            # STEP 2: Stage fresh data files BEFORE pulling (prevents data loss)
             echo "📦 Staging fresh data files..."
-            git add .github/data/new_jobs.json \
+            git add --force .github/data/new_jobs.json \
                     .github/data/posted_jobs.json \
                     .github/data/current_jobs.json \
                     .github/data/seen_jobs.json \
@@ -146,20 +196,34 @@ jobs:
                     .github/audit/routing-encrypted.json \
                     README.md 2>/dev/null || true
 
-            # Check if there are changes to commit
+            # STEP 3: Verify staging worked
+            echo "🔍 Verifying files were staged..."
             if git diff --staged --quiet; then
-              echo "ℹ️  No changes to commit, exiting successfully"
+              echo ""
+              echo "❌ ERROR: Git still sees no changes after staging!"
+              echo "This should NOT happen if files were modified."
+              echo ""
+              echo "Debug info:"
+              git status --porcelain
+              echo ""
+              echo "Staged files:"
+              git diff --staged --name-only
+              echo ""
+              echo "Exiting without commit (nothing to commit)"
               exit 0
+            else
+              echo "✅ Files successfully staged"
+              git diff --staged --stat
             fi
 
-            # STEP 2: Create temporary commit to protect fresh data
+            # STEP 4: Create temporary commit to protect fresh data
             echo "💾 Creating temporary commit to protect fresh data..."
             TEMP_MSG="temp: preserve fresh data from $(date +'%Y-%m-%d %H:%M UTC')"
             if ! git commit -m "$TEMP_MSG"; then
               echo "⚠️  Commit failed, may already be committed"
             fi
 
-            # STEP 3: Pull with rebase (preserves our commit on top of remote)
+            # STEP 5: Pull with rebase (preserves our commit on top of remote)
             echo "⬇️  Pulling latest changes from remote..."
             if ! git pull --rebase origin ${{ github.ref_name }}; then
               echo "⚠️  Pull had conflicts, resolving by keeping our data files..."
@@ -172,7 +236,7 @@ jobs:
               git rebase --continue || echo "Rebase completed with conflict resolution"
             fi
 
-            # STEP 4: Amend commit with proper message
+            # STEP 6: Amend commit with proper message
             echo "📝 Updating commit message..."
             JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
             COMPANY_COUNT=$(grep -o "Companies-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
@@ -184,7 +248,7 @@ jobs:
 
             git commit --amend -m "$COMMIT_MSG" || echo "Commit message updated"
 
-            # STEP 5: Push with retry
+            # STEP 7: Push with retry
             echo "⬆️  Pushing changes to remote..."
             if git push origin ${{ github.ref_name }}; then
               echo "✅ Successfully pushed changes!"
