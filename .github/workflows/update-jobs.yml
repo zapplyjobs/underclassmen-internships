@@ -210,22 +210,19 @@ jobs:
 
             # STEP 2: Stage fresh data files BEFORE pulling (prevents data loss)
             echo "📦 Staging fresh data files..."
-            # Use explicit file paths to ensure they're added
-            git add --force -- \
-                    .github/data/new_jobs.json \
-                    .github/data/posted_jobs.json \
-                    .github/data/current_jobs.json \
-                    .github/data/seen_jobs.json \
-                    .github/data/pending_posts.json \
-                    .github/data/jsearch_usage.json \
-                    .github/data/jobs-data-encrypted.json \
-                    .github/data/workflow_metrics.json \
-                    .github/data/debug-dashboard.json \
-                    .github/data/metrics/latest.json \
-                    .github/data/metrics/*.json \
-                    .github/audit/latest.md \
-                    .github/audit/routing-encrypted.json \
-                    README.md 2>/dev/null || true
+            # Stage each file individually to avoid errors stopping the whole command
+            git add --force .github/data/current_jobs.json 2>/dev/null || true
+            git add --force .github/data/seen_jobs.json 2>/dev/null || true
+            git add --force .github/data/pending_posts.json 2>/dev/null || true
+            git add --force .github/data/jsearch_usage.json 2>/dev/null || true
+            git add --force .github/data/job_dates.json 2>/dev/null || true
+            git add --force .github/data/jobs-data-encrypted.json 2>/dev/null || true
+            git add --force .github/data/workflow_metrics.json 2>/dev/null || true
+            git add --force .github/data/analytics/*.json 2>/dev/null || true
+            git add --force .github/data/metrics/*.json 2>/dev/null || true
+            git add --force .github/audit/*.md 2>/dev/null || true
+            git add --force .github/audit/*.json 2>/dev/null || true
+            git add --force README.md 2>/dev/null || true
 
             # STEP 3: Verify staging worked
             echo "🔍 Verifying files were staged..."
