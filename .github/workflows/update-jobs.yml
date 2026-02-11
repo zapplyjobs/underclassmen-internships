@@ -132,7 +132,7 @@ jobs:
 
             # STEP 1: Pull latest remote changes with safe merge strategy
             echo "⬇️  Pulling latest changes from remote..."
-            git pull origin ${{ github.ref_name }} --no-edit --no-rebase --strategy-option=theirs || {
+            git pull origin ${{ github.ref_name }} --no-edit --no-rebase --strategy-option=ours || {
               echo "⚠️  Pull had conflicts, stashing local changes and retrying..."
               git stash push -m "auto-stash before conflict resolution" || echo "Nothing to stash"
               git reset --hard origin/${{ github.ref_name }}
