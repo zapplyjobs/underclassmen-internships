@@ -130,16 +130,8 @@ jobs:
             echo "Attempt $attempt of $max_attempts"
             echo "========================================="
 
-            # STEP 1: Pull latest remote changes with safe merge strategy
-            echo "⬇️  Pulling latest changes from remote..."
-            git pull origin ${{ github.ref_name }} --no-edit --no-rebase --strategy-option=ours || {
-              echo "⚠️  Pull had conflicts, stashing local changes and retrying..."
-              git stash push -m "auto-stash before conflict resolution" || echo "Nothing to stash"
-              git reset --hard origin/${{ github.ref_name }}
-              git stash pop || echo "No stash to pop (merge completed cleanly)"
-            }
-
-            # STEP 2: Stage and commit
+            # STEP 1: Stage fresh data files BEFORE pulling (prevents data loss)
+            echo "📦 Staging fresh data files..."
             git add .github/data/new_jobs.json \
                     .github/data/posted_jobs.json \
                     .github/data/current_jobs.json \
@@ -154,13 +146,34 @@ jobs:
                     .github/audit/routing-encrypted.json \
                     README.md 2>/dev/null || true
 
-            # Check if there are still changes to commit
+            # Check if there are changes to commit
             if git diff --staged --quiet; then
-              echo "ℹ️  No changes after merge, exiting successfully"
+              echo "ℹ️  No changes to commit, exiting successfully"
               exit 0
             fi
 
-            # Get job count for commit message
+            # STEP 2: Create temporary commit to protect fresh data
+            echo "💾 Creating temporary commit to protect fresh data..."
+            TEMP_MSG="temp: preserve fresh data from $(date +'%Y-%m-%d %H:%M UTC')"
+            if ! git commit -m "$TEMP_MSG"; then
+              echo "⚠️  Commit failed, may already be committed"
+            fi
+
+            # STEP 3: Pull with rebase (preserves our commit on top of remote)
+            echo "⬇️  Pulling latest changes from remote..."
+            if ! git pull --rebase origin ${{ github.ref_name }}; then
+              echo "⚠️  Pull had conflicts, resolving by keeping our data files..."
+              # Keep our versions for all data files (our fresh data wins)
+              git checkout --ours .github/data/*.json 2>/dev/null || true
+              git checkout --ours .github/data/metrics/*.json 2>/dev/null || true
+              git checkout --ours .github/audit/*.md 2>/dev/null || true
+              git checkout --ours README.md 2>/dev/null || true
+              git add -u
+              git rebase --continue || echo "Rebase completed with conflict resolution"
+            fi
+
+            # STEP 4: Amend commit with proper message
+            echo "📝 Updating commit message..."
             JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
             COMPANY_COUNT=$(grep -o "Companies-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
 
@@ -169,11 +182,9 @@ jobs:
         Found $JOB_COUNT positions from $COMPANY_COUNT companies
         Updated categories, locations, and experience levels"
 
-            if ! git commit -m "$COMMIT_MSG"; then
-              echo "⚠️  Commit failed, may already be committed"
-            fi
+            git commit --amend -m "$COMMIT_MSG" || echo "Commit message updated"
 
-            # STEP 3: Push with retry
+            # STEP 5: Push with retry
             echo "⬆️  Pushing changes to remote..."
             if git push origin ${{ github.ref_name }}; then
               echo "✅ Successfully pushed changes!"
