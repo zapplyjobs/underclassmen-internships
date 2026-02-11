@@ -274,15 +274,15 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 33 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 34 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 33 positions
+- **📁 Total Jobs**: 34 positions
 - **🏢 Companies**: 76 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (19 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (20 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -290,6 +290,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **datadog** | AI Research Engineer – Datadog A... | New York, New York | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013) |
 | ▲ **vercel** | AI Engineer 🏠 | Hybrid - San Francisco, New York City | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5517523004) |
 | ▲ **vercel** | Software Engineer, Support Platform | Hybrid - San Francisco | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5611527004) |
+| 🏢 **Marathon TS** | Software Front-End Web UI Developer 🏠 | College Park, Maryland | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=931c75625eae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎵 **spotify** | Manager, Partner Product and Del... | Miami, FL | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/67657e91-5424-429e-a6f2-0697ddc50234) |
 | 🎵 **spotify** | Backend Engineer  - Data Infrast... | New York, NY | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9) |
 | 🗄️ **supabase** | Database Support Engineer (APAC) 🏠 | Remote | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183) |
