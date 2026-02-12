@@ -9,9 +9,9 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-254-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-83-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-160-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-255-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-84-blue?style=flat&logo=building)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-161-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
@@ -67,7 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (160 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (161 positions)</h3></summary>
 
 <details>
 <summary><h4>🏢 <strong>cloudflare</strong> (53 positions)</h4></summary>
@@ -148,7 +148,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **datadog** | Product Manager II - Bits Chat &... | New York, New York | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555529/?gh_jid=7555529) |
+| 🏢 **datadog** | Product Manager II - Bits Chat &... | New York, New York | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555529/?gh_jid=7555529) |
 | 🏢 **samsara** | Software Engineer - Training 🏠 | Remote - SF Bay Area | 13h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7306930?gh_jid=7306930) |
 | 🎵 **spotify** | Artist & Label Partnerships Mana... | Dubai | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/896b6048-ae0f-45d3-b62c-58731f3d8ff4) |
 | 🏢 **SMX** | Site Reliability Engineer US, DC... 🏠 | Carson City, Nevada | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/carson-city/nevada/info_technology/4862488583/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -163,6 +163,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🤖 **reddit** | iOS Software Engineer, Ad Formats | New York City, NY | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7414849) |
 | 🎵 **spotify** | Client Partner - Retail | New York, NY | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/2f055a0d-35c1-4fca-b69a-8e40e45d49a7) |
 | 🏢 **Southwest Research Institute** | COMPUTER SCIENTIST - RESEARCH CO... | San Antonio, Texas | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/computer-scientist-research-computer-scientist-research-engineer-junior-software-developer-at-southwest-research-institute-4369965552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Citi** | DevOps Engineer | New Castle, Pennsylvania | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://powertofly.com/jobs/detail/2496261?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **2704 WB Games Inc.** | NetherRealm Software Engineering... | Chicago, Illinois | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=79b1b1dae673&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Panasonic Connect North America** | Computer Engineering Intern | Hoffman Estates, Illinois | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/M9x8w1XR2wsDRNE0BlrTp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | ₿ **coinbase** | Data Scientist II - Platform 🏠 | Remote - USA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) |
@@ -253,8 +254,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **samsara** | Sales Engineer, Enterprise - US ... 🏠 | Remote - US | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7531457?gh_jid=7531457) |
-| 🏢 **datadog** | Product Manager II - Software De... | New York, New York | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417) |
-| 🏢 **datadog** | Product Manager II - Semantic & ... | New York, New York | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555509/?gh_jid=7555509) |
+| 🏢 **datadog** | Product Manager II - Software De... | New York, New York | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417) |
+| 🏢 **datadog** | Product Manager II - Semantic & ... | New York, New York | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555509/?gh_jid=7555509) |
 | 🤖 **reddit** | Data Scientist, Ads 🏠 | Remote - Ontario, Canada | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7607124) |
 | 🤖 **reddit** | Data Scientist, Ads 🏠 | Remote - United States | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6580815) |
 | 🏢 **samsara** | Mid-Market Sales Engineer - US N... 🏠 | Remote - US | 17h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7581969?gh_jid=7581969) |
@@ -349,7 +350,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **cloudflare** | International Tax Analyst | Hybrid | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7428653?gh_jid=7428653) |
 | 🏢 **cloudflare** | Security Third Party Risk Manage... | Hybrid | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7466548?gh_jid=7466548) |
 | 🎵 **spotify** | Artist and Label Partnerships As... | Bogotá | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/7c5b2b8a-b8f6-4bff-95e6-f13107708dd8) |
-| 🎵 **spotify** | Client Partner, Export, Korea | Singapore | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/bd920487-cb6c-44b6-98c6-9a7c4ef8c673) |
+| 🎵 **spotify** | Client Partner, Export, Korea | Singapore | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/bd920487-cb6c-44b6-98c6-9a7c4ef8c673) |
 | 🏢 **CHRISTUS Health** | Nurse Extern I - Nursing Interns... | Lacassine, Louisiana | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=3f5646e5bc8f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎵 **spotify** | Product Marketing Manager, Targe... | New York, NY | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/e1df6feb-4fb8-4c47-bfe5-12c6d8f11145) |
 | 🎨 **figma** | Advocate, Federal 🏠 | Washington, DC | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5790731004?gh_jid=5790731004) |
@@ -428,15 +429,15 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 139 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 140 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 139 positions
-- **🏢 Companies**: 83 companies
+- **📁 Total Jobs**: 140 positions
+- **🏢 Companies**: 84 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (60 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (61 positions)</h3></summary>
 
 #### 🎵 **spotify** (24 positions)
 
@@ -502,6 +503,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **Viasat, Inc.** | DevOps Engineer Jobs 🇺🇸 | Carlsbad, California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.clearancejobs.com/jobs/8728218/devops-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **brex** | Software Engineer II, Product  🏠 | São Paulo, São Paulo | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/7467124002?gh_jid=7467124002) |
 | ₿ **coinbase** | Software Engineer, Backend (Cons... 🏠 | Remote - UK | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/5954689?gh_jid=5954689) |
 | ₿ **coinbase** | Site Reliability Engineer, IT In... 🏠 | Remote - USA | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7559168?gh_jid=7559168) |
@@ -654,7 +656,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 254 current opportunities from 83 companies**
+**🎯 255 current opportunities from 84 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
