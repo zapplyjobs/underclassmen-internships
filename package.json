@@ -5,7 +5,10 @@
   "scripts": {
     "validate:secrets": "node .github/scripts/validate-secrets.js",
     "validate:imports": "node .github/scripts/validate-imports.js",
-    "test": "npm run validate:secrets && npm run validate:imports"
+    "test": "npm run validate:secrets && npm run validate:imports",
+    "test:unit": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
   },
   "dependencies": {
     "axios": "^1.13.5"
@@ -14,5 +17,9 @@
   "license": "MIT",
   "engines": {
     "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0"
   }
 }
