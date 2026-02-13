@@ -9,7 +9,7 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-241-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-242-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-64-blue?style=flat&logo=building)
 ![Software Engine](https://img.shields.io/badge/Software_Engineering-129-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -217,7 +217,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🤖 <strong>Data & AI</strong> (36 positions)</h3></summary>
+<summary><h3>🤖 <strong>Data & AI</strong> (37 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -235,9 +235,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🤖 **reddit** | Account Executive, Mid-Market (D... | Amsterdam, Netherlands | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7130662) |
 | 🤖 **reddit** | Strategic Community Specialist (... | Remote - Germany | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6967193) |
 | 🏢 **KBR** | Data Scientist – Mid | Fairfax, Virginia | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tallo.com/jobs/technology/data-scientist/va/fairfax/data-scientist-mid-b40acf58d7bf/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **samsara** | Sales Engineer - Mid-Market, ET 🏠 | Remote - US | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187159?gh_jid=7187159) |
-| 🏢 **samsara** | Sales Engineer - Mid-Market, CT/MT 🏠 | Remote - US | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187197?gh_jid=7187197) |
-| 🏢 **samsara** | Sales Engineer - Mid-Market, PT 🏠 | Remote - US | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187219?gh_jid=7187219) |
+| 🏢 **samsara** | Sales Engineer - Mid-Market, ET 🏠 | Remote - US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187159?gh_jid=7187159) |
+| 🏢 **samsara** | Sales Engineer - Mid-Market, CT/MT 🏠 | Remote - US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187197?gh_jid=7187197) |
+| 🏢 **samsara** | Sales Engineer - Mid-Market, PT 🏠 | Remote - US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187219?gh_jid=7187219) |
 | 🎨 **figma** | Legal Counsel 🏠 | San Francisco, CA • New York, NY • United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5795034004?gh_jid=5795034004) |
 | 🎵 **spotify** | 2026 Summer Internship, Research... | Stockholm | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/8a5ff03f-efaf-4c45-a86b-e24e4c0d8dc8) |
 | 🏢 **Waters Corporation** | Business Data Analytics Intern, ... | Milford, Massachusetts | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://uscareers-waters.icims.com/jobs/25441/business-data-analytics-intern%2C-market-analysis/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -245,6 +245,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎵 **spotify** | Data Scientist - Music Mission | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac) |
 | 🏢 **samsara** | Field Sales Engineer II, Enterpr... 🏠 | Remote - US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7564181?gh_jid=7564181) |
 | 🏢 **Jobs via Dice** | Entry Level Data Engineer | Plano, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/entry-level-data-engineer-at-jobs-via-dice-4369106353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **VirtualVocations** | Data Engineer for ML / AI 🏠 | Manassas, Virginia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=bfd9b5c30da6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Genentech** | 2026 Summer Intern - Statisticia... | South San Francisco, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gene.com/us/en/job/202601-102485/2026-Summer-Intern-Statistician-and-Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Org_Subtype_BU023_Global_Services** | Data Science Undergraduate Intern | Hopkinton, Massachusetts | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dell.com/en/job/hopkinton/data-science-undergraduate-intern/375/85828103696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎵 **spotify** | 2026 Summer Internship, Research... | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/89d92385-9e48-4bb8-bf74-96e75532562f) |
@@ -266,7 +267,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **datadog** | Security Sales Engineer | California, USA | 1h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
-| 🏢 **datadog** | Enterprise Sales Engineer - Poland | Poland, Remote | 5h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7610352/?gh_jid=7610352) |
+| 🏢 **datadog** | Enterprise Sales Engineer - Poland | Poland, Remote | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7610352/?gh_jid=7610352) |
 | 🏢 **samsara** | CPQ Salesforce Developer 🏠 | Remote - US | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266345?gh_jid=7266345) |
 | 🏢 **samsara** | CPQ Salesforce Developer 🏠 | Remote - Canada | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7602286?gh_jid=7602286) |
 | 🏢 **samsara** | Sales Engineer I, SE Desk CT 🏠 | Remote - US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761) |
@@ -422,15 +423,15 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 135 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 136 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 135 positions
+- **📁 Total Jobs**: 136 positions
 - **🏢 Companies**: 64 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (47 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (48 positions)</h3></summary>
 
 #### ▲ **vercel** (12 positions)
 
@@ -484,6 +485,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **Viasat, Inc.** | DevOps Engineer Jobs 🇺🇸 | Carlsbad, California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.clearancejobs.com/jobs/8728218/devops-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **brex** | Software Engineer II, Product  🏠 | São Paulo, São Paulo | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/7467124002?gh_jid=7467124002) |
 | ₿ **coinbase** | Software Engineer, Backend (Cons... 🏠 | Remote - UK | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/5954689?gh_jid=5954689) |
 | ₿ **coinbase** | Site Reliability Engineer, IT In... 🏠 | Remote - USA | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7559168?gh_jid=7559168) |
@@ -644,7 +646,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 241 current opportunities from 64 companies**
+**🎯 242 current opportunities from 64 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
