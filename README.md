@@ -9,7 +9,7 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-238-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-237-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-64-blue?style=flat&logo=building)
 ![Software Engine](https://img.shields.io/badge/Software_Engineering-128-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -301,7 +301,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📂 <strong>Other Jobs</strong> (49 positions)</h3></summary>
+<summary><h3>📂 <strong>Other Jobs</strong> (48 positions)</h3></summary>
 
 #### 🏢 **duolingo** (12 positions)
 
@@ -358,7 +358,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **UMC Health System** | Graduate Nurse (GN)- Emergency C... | San Antonio, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=adc11b0cc9a7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hansen Talent Group (HTG)** | Developer IV (test automation) | Columbia, South Carolina | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/developer-iv-test-automation-at-hansen-talent-group-htg-4367638185?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎨 **figma** | Email Marketing Operations 🏠 | San Francisco, CA • New York, NY • United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5781862004?gh_jid=5781862004) |
-| 🎵 **spotify** | Associate Client Partner, Emergi... | Toronto | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/1ea6e09e-ace3-4966-b527-f0e97d2f7aa3) |
 
 </details>
 
@@ -419,10 +418,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 137 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 138 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 137 positions
+- **📁 Total Jobs**: 138 positions
 - **🏢 Companies**: 64 companies
 - **🏷️ Top Category**: Software Engineering
 
@@ -585,12 +584,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 </details>
 
 <details>
-<summary><h3>📂 <strong>Other Jobs</strong> (36 positions)</h3></summary>
+<summary><h3>📂 <strong>Other Jobs</strong> (37 positions)</h3></summary>
 
-#### 🎵 **spotify** (26 positions)
+#### 🎵 **spotify** (27 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
+| Associate Client Partner, Emergi... | Toronto | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/1ea6e09e-ace3-4966-b527-f0e97d2f7aa3) |
 | Talent Relations Manager - The R... | Los Angeles, CA | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/cea85c56-713b-4604-acc0-5c949caf49f8) |
 | Android Engineer, Experience | Stockholm | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/9b50dd98-6221-4aa6-a216-a8d6376dcdb6) |
 | Client Partner - Financial Services | New York, NY | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/76f87659-4682-4513-859c-0241e1881596) |
@@ -643,7 +643,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 238 current opportunities from 64 companies**
+**🎯 237 current opportunities from 64 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
