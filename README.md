@@ -410,15 +410,15 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 139 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 138 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 139 positions
+- **📁 Total Jobs**: 138 positions
 - **🏢 Companies**: 57 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (49 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (48 positions)</h3></summary>
 
 #### ▲ **vercel** (12 positions)
 
@@ -476,7 +476,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | 🏢 **brex** | Software Engineer II, Product  🏠 | São Paulo, São Paulo | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/7467124002?gh_jid=7467124002) |
 | ₿ **coinbase** | Software Engineer, Backend (Cons... 🏠 | Remote - UK | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/5954689?gh_jid=5954689) |
 | ₿ **coinbase** | Site Reliability Engineer, IT In... 🏠 | Remote - USA | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7559168?gh_jid=7559168) |
-| 🎬 **Netflix** | Software Engineer 5 - Machine Le... | Los Gatos, California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790312550021-software-engineer-5-machine-learning-platform-model-development-and-management--los-gatos-california-united-states-of-america?domain=netflix.com&microsite=netflix.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **datadog** | AI Research Engineer - Datadog A... | Paris, France | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969) |
 | 🏢 **datadog** | AI Research Engineer – Datadog A... | New York, New York | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013) |
 | ₿ **coinbase** | Data Scientist II - Product Anal... 🏠 | Remote - UK | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6746202?gh_jid=6746202) |
