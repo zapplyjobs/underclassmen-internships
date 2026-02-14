@@ -9,7 +9,7 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-229-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-228-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
 ![Software Engine](https://img.shields.io/badge/Software_Engineering-124-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -294,7 +294,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📂 <strong>Other Jobs</strong> (47 positions)</h3></summary>
+<summary><h3>📂 <strong>Other Jobs</strong> (46 positions)</h3></summary>
 
 #### 🏢 **duolingo** (12 positions)
 
@@ -322,7 +322,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎵 **spotify** | Agency Development Manager - Italy | Milan | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/d0e2b3b7-a372-4970-bb3b-08d31ba25c45) |
 | 🏢 **cloudflare** | Assistant, Sales Operations (12-... | Hybrid | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7547970?gh_jid=7547970) |
 | 🎵 **spotify** | Artist & Label Partnerships Mana... | Dubai | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/896b6048-ae0f-45d3-b62c-58731f3d8ff4) |
-| 🏢 **VirtualVocations** | Digital Designer Front-End Devel... | Fairfax, Virginia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=07197ae987dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🎵 **spotify** | Client Partner - Retail | New York, NY | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/2f055a0d-35c1-4fca-b69a-8e40e45d49a7) |
 | 🎨 **figma** | Community Support Specialist 🏠 | San Francisco, CA • New York, NY • United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004) |
 | 🏢 **cloudflare** | Global Mobility Coordinator 🏠 | Hybrid | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7533840?gh_jid=7533840) |
@@ -635,7 +634,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 229 current opportunities from 56 companies**
+**🎯 228 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
