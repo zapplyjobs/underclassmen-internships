@@ -9,9 +9,9 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-228-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-229-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-124-red?style=flat&logo=star)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-125-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
@@ -67,14 +67,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (124 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (125 positions)</h3></summary>
 
 <details>
 <summary><h4>🏢 <strong>cloudflare</strong> (55 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Customer Solutions Engineer | Hybrid | 23h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7612243?gh_jid=7612243) |
+| Customer Solutions Engineer | Hybrid | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7612243?gh_jid=7612243) |
 | Systems Engineer | Hybrid | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7607696?gh_jid=7607696) |
 | Software Engineer - Support Plat... | Hybrid | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7548389?gh_jid=7548389) |
 | Software Engineer – Distributed ... | Hybrid | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7294535?gh_jid=7294535) |
@@ -83,7 +83,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Distributed Systems Engineer - D... | Hybrid | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7267602?gh_jid=7267602) |
 | Network Security Engineer | Hybrid | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7594778?gh_jid=7594778) |
 | Systems Engineer, FL | Hybrid | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7251646?gh_jid=7251646) |
-| Digital Customer Solutions Engin... | Hybrid; In-Office | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7591836?gh_jid=7591836) |
+| Digital Customer Solutions Engin... | Hybrid; In-Office | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7591836?gh_jid=7591836) |
 | Customer Solutions Engineer | Hybrid; In-Office | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7504381?gh_jid=7504381) |
 | Frontend Engineer, AI Crawl Cont... | Hybrid | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7591586?gh_jid=7591586) |
 | Digital Customer Solutions Engin... | Hybrid; In-Office | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7591808?gh_jid=7591808) |
@@ -136,17 +136,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Frontend Product Software Engineer | Remote - Mexico | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7605791?gh_jid=7605791) |
-| Frontend Product Software Engineer | Remote - Poland | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/6333185?gh_jid=6333185) |
-| Fullstack Product Software Engin... | Remote - US: Select locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344968?gh_jid=7344968) |
-| Fullstack Product Software Engin... | Remote - Canada: Select locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344971?gh_jid=7344971) |
-| Fullstack Product Software Engin... | Remote - Canada: Select locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344955?gh_jid=7344955) |
-| Fullstack Product Software Engin... | Remote - US: Select locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344952?gh_jid=7344952) |
-| Infrastructure Software Engineer... | Remote - Poland | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7341950?gh_jid=7341950) |
-| Machine Learning Engineer, Dash | Remote - Germany | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7384405?gh_jid=7384405) |
-| Machine Learning Engineer, Dash | Remote - Denmark | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7384408?gh_jid=7384408) |
-| Support Enablement Engineer Inte... | Remote - US: All locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531477?gh_jid=7531477) |
-| Support Enablement Engineer Inte... | Remote - Canada: Select locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531481?gh_jid=7531481) |
+| Frontend Product Software Engineer | Remote - Mexico | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7605791?gh_jid=7605791) |
+| Frontend Product Software Engineer | Remote - Poland | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/6333185?gh_jid=6333185) |
+| Fullstack Product Software Engin... | Remote - US: Select locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344968?gh_jid=7344968) |
+| Fullstack Product Software Engin... | Remote - Canada: Select locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344971?gh_jid=7344971) |
+| Fullstack Product Software Engin... | Remote - Canada: Select locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344955?gh_jid=7344955) |
+| Fullstack Product Software Engin... | Remote - US: Select locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7344952?gh_jid=7344952) |
+| Infrastructure Software Engineer... | Remote - Poland | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7341950?gh_jid=7341950) |
+| Machine Learning Engineer, Dash | Remote - Germany | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7384405?gh_jid=7384405) |
+| Machine Learning Engineer, Dash | Remote - Denmark | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7384408?gh_jid=7384408) |
+| Support Enablement Engineer Inte... | Remote - US: All locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531477?gh_jid=7531477) |
+| Support Enablement Engineer Inte... | Remote - Canada: Select locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531481?gh_jid=7531481) |
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -158,6 +158,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎵 **spotify** | Backend Engineer - Financial Eng... | Toronto | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/ce5bba36-31e7-4980-b4a2-15bf16510b4d) |
 | 🏢 **datadog** | Product Manager II - Bits Chat &... | New York, New York | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555529/?gh_jid=7555529) |
 | 🏢 **samsara** | Software Engineer - Training 🏠 | Remote - SF Bay Area | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7306930?gh_jid=7306930) |
+| 🏢 **VirtualVocations** | Software Developer Apprentice | Alexandria, Virginia | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=9ecdde4f01a2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🤖 **reddit** | Android Software Engineer, Ad Fo... | Remote - United States | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415052) |
 | 🤖 **reddit** | iOS Software Engineer, Ad Formats | Remote - United States | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7415041) |
 | 🤖 **reddit** | Machine Learning Engineer, Ads 🏠 | Remote - United States | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7131932) |
@@ -203,10 +204,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🤖 **reddit** | Software Engineer | San Francisco, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7579681) |
 | 🏢 **OCC** | Associate – Software Engineering... | Chicago, IL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Associate--Software-Engineering--Java_REQ-4555-2) |
 | 🏢 **Emerson Electric** | Manufacturing Software Engineer | Eden Prairie, MN | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26000800) |
+| 🎬 **Netflix** | Solutions Software Engineer 5 | Los Angeles, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790313777659-solutions-software-engineer-5-los-angeles-california-united-states-of-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Rincon Research Corporation** | Jr. Software Engineer 🇺🇸 🏠 | Oro Valley, Arizona | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/sr-software-engineer-oro-valley-rincon-research-corporation-4f28acede55ab2378d4bccd68c69a247?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Walmart** | (USA) Software Engineer III | Lowell, Arkansas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Software-Engineer-III/-in-Lowell,AR?jid=3908e8dca7a13ef3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Bank of Montreal** | Junior Software Developer, Summe... | New York, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/BMO-Capital-Markets/Job/Junior-Software-Developer,-Summer-2026-(Co-op-Internship)-4-Months/-in-New-York,NY?jid=14af0354fbdefc4e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🎬 **Netflix** | Solutions Software Engineer 5 | Los Angeles, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790313777659-solutions-software-engineer-5-los-angeles-california-united-states-of-america?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Harris Geospatial Solutions** | Associate, Software Engineer; Gr... | Greenville, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/greenville/texas/info_technology/4830247792/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
@@ -216,7 +217,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **dropbox** | Data Science Engineer Intern (Su... | Remote - US: All locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7527941?gh_jid=7527941) |
+| 🏢 **dropbox** | Data Science Engineer Intern (Su... | Remote - US: All locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7527941?gh_jid=7527941) |
 | 🎮 **discord** | Account Manager, Japan | Japan | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8299401002) |
 | ₿ **coinbase** | U.S. Compliance Associate 🏠 | Remote - USA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7350148?gh_jid=7350148) |
 | ₿ **coinbase** | Product Manager 🏠 | Remote - USA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7588994?gh_jid=7588994) |
@@ -255,9 +256,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **samsara** | CPQ Salesforce Developer 🏠 | Remote - Canada | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7602286?gh_jid=7602286) |
-| 🏢 **samsara** | CPQ Salesforce Developer 🏠 | Remote - US | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266345?gh_jid=7266345) |
-| 🏢 **datadog** | Security Sales Engineer | California, USA | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
+| 🏢 **samsara** | CPQ Salesforce Developer 🏠 | Remote - Canada | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7602286?gh_jid=7602286) |
+| 🏢 **samsara** | CPQ Salesforce Developer 🏠 | Remote - US | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266345?gh_jid=7266345) |
+| 🏢 **datadog** | Security Sales Engineer | California, USA | 17h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | 🏢 **datadog** | Enterprise Sales Engineer - Poland | Poland, Remote | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7610352/?gh_jid=7610352) |
 | 🏢 **samsara** | Sales Engineer I, SE Desk CT 🏠 | Remote - US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761) |
 | 🏢 **samsara** | Sales Engineer I, SE Desk PT/MT 🏠 | Remote - US | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7311768?gh_jid=7311768) |
@@ -634,7 +635,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 228 current opportunities from 56 companies**
+**🎯 229 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
