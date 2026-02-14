@@ -9,9 +9,9 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-229-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-125-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-228-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-56-blue?style=flat&logo=building)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-124-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
@@ -67,7 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>💻 <strong>Software Engineering</strong> (125 positions)</h3></summary>
+<summary><h3>💻 <strong>Software Engineering</strong> (124 positions)</h3></summary>
 
 <details>
 <summary><h4>🏢 <strong>cloudflare</strong> (55 positions)</h4></summary>
@@ -192,7 +192,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎮 **discord** | Software Engineer, Payments | San Francisco Bay Area | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8304667002) |
 | 🏢 **resend** | DX Engineer (Technical Writer) 🏠 | United States / Remote / Full-time | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/resend/06bd9cb2-d189-41b6-baf7-42bd5da9610f) |
 | 🏢 **samsara** | Software Engineer II - Mobile Pl... | San Francisco - SF9 | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7312588?gh_jid=7312588) |
-| 🏢 **Latitude Inc** | Software Engineer (.NET / C#) | Arlington, Virginia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=b9fb34172ebd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Boeing** | F-22 Associate Software Engineer... | Berkeley, Missouri | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.boeing.com/job/berkeley/f-22-associate-software-engineering-technical-specialist/185/91341573536?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Boeing** | Entry Level Software Engineer | Oklahoma | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/1vsmUPGbLiUiHzicXXQs3V?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **GliaCell Technologies** | Junior Java Software Engineer 🏠 | Annapolis, Maryland | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/GliaCell-Technologies/Job/Junior-Java-Software-Engineer/-in-Annapolis,MD?jid=e09cdc8a87013f54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -414,7 +413,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 138 positions
-- **🏢 Companies**: 57 companies
+- **🏢 Companies**: 56 companies
 - **🏷️ Top Category**: Software Engineering
 
 <details>
@@ -501,7 +500,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Global Classical Editor | London | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/f8d4783a-c863-4473-81b6-99177d06faa7) |
 | Data Engineer - Financial Engine... | Toronto | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/c4b93062-9730-40ab-9e6d-3361dc1985b3) |
 | Machine Learning Engineer II - P... | New York, NY | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/3246779e-0f19-46c2-acaa-c8702b909931) |
-| Data Engineer - Financial Engine... | London | 1mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/2409d291-1a14-4fad-aed6-8f1911f8ecea) |
+| Data Engineer - Financial Engine... | London | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/2409d291-1a14-4fad-aed6-8f1911f8ecea) |
 | Machine Learning Engineer | New York, NY | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343) |
 | Fullstack AI Engineer - IT Platf... | London | 2mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/ec70e9a0-16b4-4ee9-b7cf-b213f46ef9e2) |
 | Data Engineer - Revenue Platform | London | 3mo | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/76548fe3-8ee5-42bc-b3e0-7c2cad33d2d2) |
@@ -635,7 +634,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 229 current opportunities from 57 companies**
+**🎯 228 current opportunities from 56 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
