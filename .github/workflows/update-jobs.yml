@@ -78,20 +78,13 @@ jobs:
           echo "📊 Total positions: $JOB_COUNT"
         fi
 
-    - name: Export jobs to encrypted JSON (for external job boards)
-      run: node .github/scripts/jobs-data-exporter.js
-      env:
-        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
-
     # NOTE: current_jobs.json is already written by job-processor.js
     # write-current-jobs.js was removed because it overwrote fresh data with stale posted_jobs.json
     # See: Architecture change Feb 10 - individual repos no longer maintain posted_jobs.json
 
-    - name: Generate metrics report
-      if: always()
-      run: node .github/scripts/generate-metrics-report.js --days=7
-      env:
-        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
+    # Archived scripts (moved to .github/archive/ on 2026-02-14):
+    # - jobs-data-exporter.js (encryption feature removed)
+    # - generate-metrics-report.js (redundant with output-metrics.js)
 
     - name: Generate workflow metrics
       if: always()
@@ -99,6 +92,7 @@ jobs:
 
     - name: Generate debug dashboard
       if: always()
+      continue-on-error: true
       run: node scripts/generate-debug-dashboard.js
 
     - name: Upload debug trace (if debug mode enabled)
