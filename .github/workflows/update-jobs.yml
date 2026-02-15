@@ -59,7 +59,11 @@ jobs:
         cd ..
 
     - name: Update job listings
-      run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
+      id: fetch_jobs
+      continue-on-error: true
+      run: |
+        set -euo pipefail
+        node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
         ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
@@ -89,6 +93,13 @@ jobs:
     - name: Generate workflow metrics
       if: always()
       run: node .github/scripts/output-metrics.js
+
+    - name: Fail workflow if job fetch failed
+      if: steps.fetch_jobs.outcome == 'failure'
+      run: |
+        echo "❌ Job fetch step failed - check logs above"
+        echo "::error::Job fetcher crashed or encountered an error"
+        exit 1
 
     - name: Generate debug dashboard
       if: always()
