@@ -190,7 +190,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **dropbox** | Data Science Engineer Intern (Su... | Remote - US: All locations | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7527941?gh_jid=7527941) |
 | 🎮 **discord** | Account Manager, Japan | Japan | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8299401002) |
 | ₿ **coinbase** | U.S. Compliance Associate 🏠 | Remote - USA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7350148?gh_jid=7350148) |
-| ₿ **coinbase** | Product Manager 🏠 | Remote - USA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7588994?gh_jid=7588994) |
+| ₿ **coinbase** | Product Manager 🏠 | Remote - USA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7588994?gh_jid=7588994) |
 | 🏢 **samsara** | Sales Engineer, Enterprise - US ... 🏠 | Remote - US | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7531457?gh_jid=7531457) |
 | 🏢 **datadog** | Product Manager II - Software De... | New York, New York | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417) |
 | 🏢 **datadog** | Product Manager II - Semantic & ... | New York, New York | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555509/?gh_jid=7555509) |
@@ -341,25 +341,6 @@ Add new jobs to our listings keeping in mind the following:
 Our team reviews within 24-48 hours and approved jobs are added to the main list!
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
-
-
----
-
-<details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
-
-### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 29 companies
-- **🏷️ Top Category**: Software Engineering
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
-
-</details>
-
----
 
 
 
