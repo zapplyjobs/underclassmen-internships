@@ -347,6 +347,25 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+
+### 📊 **Archived Job Stats**
+- **📁 Total Jobs**: 0 positions
+- **🏢 Companies**: 30 companies
+- **🏷️ Top Category**: Software Engineering
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+
+</details>
+
+---
+
+
 
 <div align="center">
 
