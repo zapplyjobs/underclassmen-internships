@@ -1,32 +1,24 @@
-name: Update Zapply Jobs
+name: Update Jobs from Aggregator
 
 on:
   schedule:
-    # Run every 12 minutes (staggered schedule: 0, 12, 24, 36, 48)
-    - cron: '0,12,24,36,48 * * * *'
+    - cron: '0,12,24,36,48 * * * *'  # Every 12 minutes (staggered schedule)
   workflow_dispatch: # Allow manual triggering
-    inputs:
-      debug_mode:
-        description: 'Enable pipeline tracing for debugging (creates debug-trace.json)'
-        required: false
-        type: boolean
-        default: false
   push:
     branches: [ main ]
     paths:
       - '.github/scripts/job-fetcher/**'
-      - '.github/scripts/unified-job-fetcher.js'
-      - 'jobboard/src/backend/**'
+      - '.github/scripts/write-current-jobs.js'
 
 # Prevent concurrent runs to avoid git conflicts
 concurrency:
   group: job-updates-${{ github.repository }}
-  cancel-in-progress: false  # Don't cancel, wait for previous to finish
+  cancel-in-progress: false
 
 jobs:
   update-jobs:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # Increased from 15 to prevent stuck runs
+    timeout-minutes: 30
     permissions:
       contents: write
 
@@ -34,163 +26,56 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        ref: ${{ github.ref_name }}  # Use the branch that triggered the workflow
-        fetch-depth: 1  # Shallow clone (faster checkout, 6-8 min -> 30 sec)
-        token: ${{ secrets.GITHUB_TOKEN }}  # Use default token for pushing
-        submodules: recursive  # Initialize git submodules (required for shared/ directory)
+        ref: ${{ github.ref_name }}
+        fetch-depth: 1
+        submodules: recursive  # Required for shared/ aggregator-consumer library
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
         cache: 'npm'
-        cache-dependency-path: |
-          package-lock.json
-          jobboard/package-lock.json
 
-
-    - name: Install job fetcher dependencies
+    - name: Install dependencies
       run: npm install axios
 
-    - name: Install jobboard dependencies
+    - name: Fetch and update jobs
       run: |
-        cd jobboard
-        npm install --production --no-audit --no-fund
-        cd ..
-
-    - name: Update job listings
-      id: fetch_jobs
-      continue-on-error: true
-      run: |
-        set -euo pipefail
+        mkdir -p .github/logs
         node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
-      env:
-        PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
-        ENABLE_MARKDOWN_CONVERSION: true  # Feature flag: Set to 'true' to enable HTML-to-Markdown conversion
-        # Feature flag: Use JSearch API (90 jobs/day quota)
-        # Set to 'true' to enable JSearch API fetches alongside ATS sources
-        USE_JSEARCH: ${{ secrets.USE_JSEARCH || 'true' }}
-        JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
-        GH_PAT: ${{ secrets.GH_PAT }}
-        # Debug mode: Enable pipeline tracing (zero overhead when false)
-        DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
+
+    - name: Write current_jobs.json for aggregator
+      run: |
+        mkdir -p .github/data
+        node .github/scripts/write-current-jobs.js
+
+    - name: Display job-fetcher logs (always run)
+      if: always()
+      run: |
+        echo "Job Fetcher Output (last 100 lines):"
+        tail -100 .github/logs/job-fetcher.log || echo "Log file not found"
 
     - name: Display public status
       run: |
-        echo "✅ Job collection completed"
+        echo "Job collection completed"
         if [ -f "README.md" ]; then
-          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
-          echo "📊 Total positions: $JOB_COUNT"
-        fi
-
-    # NOTE: current_jobs.json is already written by job-processor.js
-    # write-current-jobs.js was removed because it overwrote fresh data with stale posted_jobs.json
-    # See: Architecture change Feb 10 - individual repos no longer maintain posted_jobs.json
-
-    # Archived scripts (moved to .github/archive/ on 2026-02-14):
-    # - jobs-data-exporter.js (encryption feature removed)
-    # - generate-metrics-report.js (redundant with output-metrics.js)
-
-    - name: Generate workflow metrics
-      if: always()
-      run: node .github/scripts/output-metrics.js
-
-    - name: Fail workflow if job fetch failed
-      if: steps.fetch_jobs.outcome == 'failure'
-      run: |
-        echo "❌ Job fetch step failed - check logs above"
-        echo "::error::Job fetcher crashed or encountered an error"
-        exit 1
-
-    - name: Generate debug dashboard
-      if: always()
-      continue-on-error: true
-      run: node scripts/generate-debug-dashboard.js
-
-    - name: Upload debug trace (if debug mode enabled)
-      if: github.event.inputs.debug_mode == 'true'
-      uses: actions/upload-artifact@v4
-      with:
-        name: pipeline-trace-${{ github.run_id }}
-        path: .github/data/debug-trace.json
-        retention-days: 7
-
-    - name: Display trace summary (if debug mode enabled)
-      if: github.event.inputs.debug_mode == 'true'
-      run: |
-        echo "📊 Pipeline Trace Summary:"
-        echo "=========================="
-        if [ -f ".github/data/debug-trace.json" ]; then
-          echo "✅ Debug trace created successfully"
-          echo ""
-          echo "Checkpoints:"
-          cat .github/data/debug-trace.json | jq -r '.checkpoints[] | "  \(.stage): \(.counts.total) jobs"'
-          echo ""
-          echo "📄 Download full trace from Artifacts section above"
-          echo "💡 Analyze with: node scripts/analyze-debug-trace.js debug-trace.json"
-        else
-          echo "⚠️  Debug trace file not found (DEBUG_MODE may not be set correctly)"
-        fi
-
-    - name: Verify file modifications (debug git staging bug)
-      run: |
-        echo "🔍 Verifying current_jobs.json was actually modified..."
-        echo ""
-
-        # Get disk file info
-        if [ -f ".github/data/current_jobs.json" ]; then
-          DISK_SIZE=$(stat -c%s .github/data/current_jobs.json 2>/dev/null || stat -f%z .github/data/current_jobs.json 2>/dev/null)
-          DISK_HASH=$(sha256sum .github/data/current_jobs.json | awk '{print $1}')
-          echo "📁 Disk file: $DISK_SIZE bytes, hash: ${DISK_HASH:0:16}..."
-        else
-          echo "❌ ERROR: current_jobs.json not found on disk!"
-          exit 1
-        fi
-
-        # Get git HEAD version hash
-        if git cat-file -e HEAD:.github/data/current_jobs.json 2>/dev/null; then
-          GIT_HASH=$(git show HEAD:.github/data/current_jobs.json | sha256sum | awk '{print $1}')
-          echo "📦 Git HEAD: hash: ${GIT_HASH:0:16}..."
-        else
-          echo "⚠️  File doesn't exist in git HEAD (new file)"
-          GIT_HASH=""
-        fi
-
-        # Compare
-        if [ -n "$GIT_HASH" ] && [ "$DISK_HASH" = "$GIT_HASH" ]; then
-          echo ""
-          echo "⚠️  WARNING: Disk file is IDENTICAL to git HEAD!"
-          echo "This means job-processor did NOT actually modify the file."
-          echo "File was not updated despite 'Saved X jobs' log message."
-          echo ""
-          echo "🔍 This indicates:"
-          echo "  - Job-processor claimed to save jobs but file unchanged"
-          echo "  - OR something reset the file after job-processor ran"
-          echo "  - OR TTL filtering removed exactly as many jobs as were added (equilibrium)"
-          echo ""
-        else
-          echo ""
-          echo "✅ File was modified (disk != git HEAD)"
-          echo "Git should recognize this as a change."
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          echo "Total positions: $JOB_COUNT"
         fi
 
     - name: Check for changes
       id: verify-changed-files
       run: |
-        echo "📋 Git status:"
+        echo "Git status:"
         git status --porcelain
-        echo ""
-        echo "📊 Posted jobs file info:"
-        ls -lh .github/data/posted_jobs.json || echo "File not found!"
-        echo "Last modified: $(stat -c '%y' .github/data/posted_jobs.json 2>/dev/null || stat -f '%Sm' .github/data/posted_jobs.json 2>/dev/null || echo 'unknown')"
         echo ""
 
         if [ -n "$(git status --porcelain)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "✅ Found changes in files"
+          echo "Found changes in files"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
-          echo "⚠️  No changes detected"
+          echo "No changes detected"
         fi
 
     - name: Commit and Push changes
@@ -199,141 +84,61 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
 
-        # Function to commit and push with proper conflict resolution
         commit_and_push() {
           local max_attempts=5
           local delay=5
 
           for attempt in $(seq 1 $max_attempts); do
-            echo "========================================="
             echo "Attempt $attempt of $max_attempts"
-            echo "========================================="
 
-            # STEP 1: Force git to refresh index (fix for staging bug)
-            echo "🔧 Refreshing git index to recognize file changes..."
-            # Force git to re-stat files and update the index
-            git update-index --refresh 2>/dev/null || true
+            git pull origin ${{ github.ref_name }} --no-edit || {
+              echo "Pull had conflicts, resetting..."
+              git reset --hard HEAD
+            }
 
-            # STEP 2: Stage fresh data files BEFORE pulling (prevents data loss)
-            echo "📦 Staging fresh data files..."
-            # Stage each file individually to avoid errors stopping the whole command
-            git add --force .github/data/current_jobs.json 2>/dev/null || true
-            git add --force .github/data/seen_jobs.json 2>/dev/null || true
-            git add --force .github/data/pending_posts.json 2>/dev/null || true
-            git add --force .github/data/jsearch_usage.json 2>/dev/null || true
-            git add --force .github/data/job_dates.json 2>/dev/null || true
-            git add --force .github/data/jobs-data-encrypted.json 2>/dev/null || true
-            git add --force .github/data/workflow_metrics.json 2>/dev/null || true
-            git add --force .github/data/analytics/*.json 2>/dev/null || true
-            git add --force .github/data/metrics/*.json 2>/dev/null || true
-            git add --force .github/audit/*.md 2>/dev/null || true
-            git add --force .github/audit/*.json 2>/dev/null || true
-            git add --force README.md 2>/dev/null || true
+            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/logs/ || true
 
-            # STEP 3: Verify staging worked
-            echo "🔍 Verifying files were staged..."
-            # Show what was staged
-            echo "✅ Files successfully staged:"
-            git diff --staged --stat || echo "  (stat failed, but files were added)"
+            JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
-            # STEP 4: Create temporary commit to protect fresh data
-            echo "💾 Creating temporary commit to protect fresh data..."
-            TEMP_MSG="temp: preserve fresh data from $(date +'%Y-%m-%d %H:%M UTC')"
-            if ! git commit -m "$TEMP_MSG"; then
-              echo "⚠️  Commit failed, may already be committed"
+            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT new grad positions"
+
+            if ! git commit -m "$COMMIT_MSG"; then
+              echo "Commit failed, may already be committed"
             fi
 
-            # STEP 5: Pull with rebase (preserves our commit on top of remote)
-            echo "⬇️  Pulling latest changes from remote..."
-            if ! git pull --rebase origin ${{ github.ref_name }}; then
-              echo "⚠️  Pull had conflicts, resolving by keeping our data files..."
-              # Keep our versions for all data files (our fresh data wins)
-              git checkout --ours .github/data/*.json 2>/dev/null || true
-              git checkout --ours .github/data/metrics/*.json 2>/dev/null || true
-              git checkout --ours .github/audit/*.md 2>/dev/null || true
-              git checkout --ours README.md 2>/dev/null || true
-              git add -u
-              git rebase --continue || echo "Rebase completed with conflict resolution"
-            fi
-
-            # STEP 6: Amend commit with proper message
-            echo "📝 Updating commit message..."
-            JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
-            COMPANY_COUNT=$(grep -o "Companies-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
-
-            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC')
-
-        Found $JOB_COUNT positions from $COMPANY_COUNT companies
-        Updated categories, locations, and experience levels"
-
-            git commit --amend -m "$COMMIT_MSG" || echo "Commit message updated"
-
-            # STEP 7: Push with retry
-            echo "⬆️  Pushing changes to remote..."
             if git push origin ${{ github.ref_name }}; then
-              echo "✅ Successfully pushed changes!"
+              echo "Successfully pushed changes!"
               exit 0
             else
-              echo "❌ Push failed (branch diverged again)"
-
-              # Undo commit but keep changes staged for retry
+              echo "Push failed — retrying in ${delay}s..."
               git reset --soft HEAD~1
-
-              # Exponential backoff
-              echo "⏳ Waiting ${delay}s before retry..."
               sleep $delay
               delay=$((delay * 2))
             fi
           done
 
-          echo "========================================="
-          echo "❌ Failed to push after $max_attempts attempts"
-          echo "========================================="
+          echo "Failed to push after $max_attempts attempts"
           exit 1
         }
 
-        # Execute the function
         commit_and_push
 
     - name: Create job summary
       run: |
-        echo "## 🚀 Zapply Jobs Updated!" >> $GITHUB_STEP_SUMMARY
+        echo "## Jobs Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
 
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          # Extract stats from README
-          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
-          COMPANY_COUNT=$(grep -o "Companies-[0-9]*-" README.md | grep -o "[0-9]*" || echo "0")
-          # Note: FAANG badge may not exist in current format, default to 0
-          FAANG_COUNT=$(grep -o "FAANG.*-[0-9]*-" README.md | grep -o "[0-9]*" | head -1 || echo "0")
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
-          echo "✅ **Successfully updated job board with fresh opportunities**" >> $GITHUB_STEP_SUMMARY
+          echo "Successfully updated new grad job board" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 📊 Today's Haul:" >> $GITHUB_STEP_SUMMARY
-          echo "- 🎯 **$JOB_COUNT total positions** from elite tech companies" >> $GITHUB_STEP_SUMMARY
-          echo "- 🏢 **$COMPANY_COUNT companies** tracked (FAANG, unicorns, startups)" >> $GITHUB_STEP_SUMMARY
-          echo "- ⭐ **$FAANG_COUNT FAANG+ jobs** from top-tier companies" >> $GITHUB_STEP_SUMMARY
+          echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY
+          echo "- **$JOB_COUNT total new grad positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 🔍 Search Coverage:" >> $GITHUB_STEP_SUMMARY
-          echo "- 🌐 **Multi-location search**: SF Bay Area, NYC, Seattle, Austin, Remote" >> $GITHUB_STEP_SUMMARY
-          echo "- 🎓 **All experience levels**: Entry-level to Senior positions" >> $GITHUB_STEP_SUMMARY
-          echo "- 💼 **10+ role categories**: SWE, ML/AI, Data, Mobile, DevOps, Product, Design" >> $GITHUB_STEP_SUMMARY
-          echo "- 🏆 **Elite companies only**: FAANG, unicorns, top startups, gaming leaders" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 🎯 Quality Filters Applied:" >> $GITHUB_STEP_SUMMARY
-          echo "- ✨ Removed duplicates and spam postings" >> $GITHUB_STEP_SUMMARY
-          echo "- 🏢 Normalized company names and subsidiaries" >> $GITHUB_STEP_SUMMARY
-          echo "- 📊 Ranked by company tier (FAANG first)" >> $GITHUB_STEP_SUMMARY
-          echo "- 🔗 Verified direct application links" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**🔄 Next update**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
-          echo "**📥 Detailed logs**: Download artifacts (collaborators only)" >> $GITHUB_STEP_SUMMARY
+          echo "**Next update**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
         else
-          echo "ℹ️ **No new opportunities found - job board is current**" >> $GITHUB_STEP_SUMMARY
+          echo "No changes detected - job board is current" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "All tracked companies have been checked for new postings." >> $GITHUB_STEP_SUMMARY
-          echo "The existing job listings are still fresh and active." >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**🔄 Next check**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
-          echo "**📥 Detailed logs**: Download artifacts (collaborators only)" >> $GITHUB_STEP_SUMMARY
+          echo "**Next check**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
         fi
