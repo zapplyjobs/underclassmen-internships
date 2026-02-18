@@ -345,23 +345,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1 positions
+- **📁 Total Jobs**: 0 positions
 - **🏢 Companies**: 29 companies
-- **🏷️ Top Category**: Other Jobs
-
-<details>
-<summary><h3>📂 <strong>Other Jobs</strong> (1 positions)</h3></summary>
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🎨 **figma** | Advocate, Federal 🏠 | Washington, DC | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5790731004?gh_jid=5790731004) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
