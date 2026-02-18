@@ -39,7 +39,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" height="60"></a>
+  <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" height="60"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" height="60"></a>
 </p>
