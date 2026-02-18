@@ -71,6 +71,7 @@ jobs:
         # Set to 'true' to enable JSearch API fetches alongside ATS sources
         USE_JSEARCH: ${{ secrets.USE_JSEARCH || 'true' }}
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+        GH_PAT: ${{ secrets.GH_PAT }}
         # Debug mode: Enable pipeline tracing (zero overhead when false)
         DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
 
