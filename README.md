@@ -160,7 +160,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **dropbox** | Infrastructure Software Engineer... | Remote - Poland | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7341950?gh_jid=7341950) |
 | 🏢 **dropbox** | Support Enablement Engineer Inte... | Remote - US: All locations | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531477?gh_jid=7531477) |
 | 🏢 **dropbox** | Support Enablement Engineer Inte... | Remote - Canada: Select locations | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7531481?gh_jid=7531481) |
-| 🎵 **spotify** | Backend Engineer - Subscriptions | London | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/f4dd800b-5d1b-43a6-ba1b-7c02414dc219/apply) |
+| 🎵 **spotify** | Backend Engineer - Subscriptions | London | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/f4dd800b-5d1b-43a6-ba1b-7c02414dc219/apply) |
 | 🎵 **spotify** | Backend Engineer - Financial Eng... | Toronto | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/ce5bba36-31e7-4980-b4a2-15bf16510b4d/apply) |
 | 🏢 **samsara** | Software Engineer - Training 🏠 | Remote - SF Bay Area | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7306930?gh_jid=7306930) |
 | 🏢 **airtable** | Account Executive, Commercial | Austin | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8403058002) |
@@ -243,7 +243,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Information Security Analyst II | New York | 23h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939) |
+| Information Security Analyst II | New York | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939) |
 | Technical Writer 🏠 | California | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555493/?gh_jid=7555493) |
 | Enterprise Sales Executive (SLED) | San Francisco | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752) |
 |  Enterprise Sales Executive (SLED) 🏠 | Illinois | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
@@ -356,7 +356,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **dropbox** | Product Support Representative | Remote - US: Select locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7488554?gh_jid=7488554) |
+| 🏢 **dropbox** | Product Support Representative | Remote - US: Select locations | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7488554?gh_jid=7488554) |
 | 💳 **stripe** | Operations Associate, Financial ... | Mexico City | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7202953) |
 | 💳 **stripe** | Operations Associate, Financial ... | Mexico City | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=5902523) |
 | 🎨 **figma** | Community Support Specialist 🏠 | San Francisco | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004) |
