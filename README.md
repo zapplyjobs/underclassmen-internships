@@ -214,8 +214,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **dropbox** | Data Science Engineer Intern (Su... | Remote - US: All locations | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7527941?gh_jid=7527941) |
 | 🏢 **dropbox** | Data Science Intern (Summer 2026) | Remote - US: All locations | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7527921?gh_jid=7527921) |
 | 🏢 **dropbox** | PhD Machine Learning Intern (Sum... | Remote - US: All locations | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7368677?gh_jid=7368677) |
-| 🏢 **instacart** | Product Designer II - Consumer 🏠 | Canada - Remote (ON | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7611508) |
-| 🏢 **instacart** | Product Designer II - Consumer 🏠 | United States - Remote | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7611197) |
+| 🏢 **instacart** | Product Designer II - Consumer 🏠 | Canada - Remote (ON | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7611508) |
+| 🏢 **instacart** | Product Designer II - Consumer 🏠 | United States - Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7611197) |
 | 🤖 **reddit** | Data Scientist, Ads 🏠 | Remote - Ontario | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7607124) |
 | 🤖 **reddit** | Data Scientist, Ads 🏠 | Remote - United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6580815) |
 | 🤖 **reddit** | Acquisition Client Partner, Mid-... | Amsterdam | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7011741) |
@@ -244,7 +244,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Information Security Analyst II | New York | 22h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939) |
+| Information Security Analyst II | New York | 23h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939) |
 | Technical Writer 🏠 | California | 23h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7555493/?gh_jid=7555493) |
 | Enterprise Sales Executive (SLED) | San Francisco | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752) |
 |  Enterprise Sales Executive (SLED) 🏠 | Illinois | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
@@ -357,7 +357,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **dropbox** | Product Support Representative | Remote - US: Select locations | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7488554?gh_jid=7488554) |
+| 🏢 **dropbox** | Product Support Representative | Remote - US: Select locations | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7488554?gh_jid=7488554) |
 | 💳 **stripe** | Operations Associate, Financial ... | Mexico City | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7202953) |
 | 💳 **stripe** | Operations Associate, Financial ... | Mexico City | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=5902523) |
 | 🎨 **figma** | Community Support Specialist 🏠 | San Francisco | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004) |
