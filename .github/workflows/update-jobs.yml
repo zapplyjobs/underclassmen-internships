@@ -34,7 +34,6 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '20'
-        cache: 'npm'
 
     - name: Install dependencies
       run: npm install axios
@@ -58,87 +57,4 @@ jobs:
     - name: Display public status
       run: |
         echo "Job collection completed"
-        if [ -f "README.md" ]; then
-          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-          echo "Total positions: $JOB_COUNT"
-        fi
 
-    - name: Check for changes
-      id: verify-changed-files
-      run: |
-        echo "Git status:"
-        git status --porcelain
-        echo ""
-
-        if [ -n "$(git status --porcelain)" ]; then
-          echo "changed=true" >> $GITHUB_OUTPUT
-          echo "Found changes in files"
-        else
-          echo "changed=false" >> $GITHUB_OUTPUT
-          echo "No changes detected"
-        fi
-
-    - name: Commit and Push changes
-      if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-
-        commit_and_push() {
-          local max_attempts=5
-          local delay=5
-
-          for attempt in $(seq 1 $max_attempts); do
-            echo "Attempt $attempt of $max_attempts"
-
-            git pull origin ${{ github.ref_name }} --no-edit || {
-              echo "Pull had conflicts, resetting..."
-              git reset --hard HEAD
-            }
-
-            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/logs/ || true
-
-            JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-
-            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT new grad positions"
-
-            if ! git commit -m "$COMMIT_MSG"; then
-              echo "Commit failed, may already be committed"
-            fi
-
-            if git push origin ${{ github.ref_name }}; then
-              echo "Successfully pushed changes!"
-              exit 0
-            else
-              echo "Push failed — retrying in ${delay}s..."
-              git reset --soft HEAD~1
-              sleep $delay
-              delay=$((delay * 2))
-            fi
-          done
-
-          echo "Failed to push after $max_attempts attempts"
-          exit 1
-        }
-
-        commit_and_push
-
-    - name: Create job summary
-      run: |
-        echo "## Jobs Updated!" >> $GITHUB_STEP_SUMMARY
-        echo "" >> $GITHUB_STEP_SUMMARY
-
-        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-
-          echo "Successfully updated new grad job board" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY
-          echo "- **$JOB_COUNT total new grad positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Next update**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "No changes detected - job board is current" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Next check**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
-        fi
