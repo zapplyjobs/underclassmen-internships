@@ -28,7 +28,8 @@ jobs:
       with:
         ref: ${{ github.ref_name }}
         fetch-depth: 1
-        submodules: recursive  # Required for shared/ aggregator-consumer library
+        submodules: recursive
+        token: ${{ secrets.GH_PAT }}
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
