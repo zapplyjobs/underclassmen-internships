@@ -1,3 +1,0 @@
-# Ignore all log files (private, uploaded as artifacts only)
-*.log
-*.txt
