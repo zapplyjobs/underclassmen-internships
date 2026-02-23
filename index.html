@@ -125,18 +125,6 @@
 
         .btn-hero { padding: 16px 32px; font-size: 16px; font-weight: 600; }
 
-        .stats {
-            display: grid; grid-template-columns: repeat(2, 1fr);
-            gap: 40px; animation: fadeInUp 0.8s ease 0.4s both;
-            max-width: 500px; margin: 0 auto;
-        }
-
-        .stat { text-align: center; transition: transform 0.3s ease; }
-        .stat:hover { transform: translateY(-4px); }
-
-        .stat-number { font-size: 48px; font-weight: 700; color: var(--black); line-height: 1; margin-bottom: 8px; }
-        .stat-label { color: var(--gray-500); font-size: 14px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; }
-
         .features { padding: 100px 0; background: var(--gray-50); }
 
         .section-title { text-align: center; font-size: 36px; font-weight: 700; margin-bottom: 16px; color: var(--black); }
@@ -264,16 +252,6 @@
                     </a>
                 </div>
 
-                <div class="stats" id="stats-section">
-                    <div class="stat">
-                        <div class="stat-number" id="stat-jobs">—</div>
-                        <div class="stat-label">Active Jobs</div>
-                    </div>
-                    <div class="stat">
-                        <div class="stat-number" id="stat-companies">—</div>
-                        <div class="stat-label">Companies</div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -387,20 +365,6 @@
         }
         setTimeout(typeEffect, 1000);
 
-        // Dynamic stats from current_jobs.json
-        fetch('https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/.github/data/current_jobs.json')
-            .then(r => r.json())
-            .then(jobs => {
-                const count = jobs.length;
-                const companies = new Set(jobs.map(j => j.employer_name).filter(Boolean)).size;
-                document.getElementById('stat-jobs').textContent = count;
-                document.getElementById('stat-companies').textContent = companies;
-                document.getElementById('hero-badge-count').textContent = count + '+ Live Positions';
-                document.getElementById('footer-stats').textContent = count + ' opportunities from ' + companies + ' companies';
-            })
-            .catch(() => {
-                document.getElementById('stats-section').style.display = 'none';
-            });
     </script>
 </body>
 </html>
