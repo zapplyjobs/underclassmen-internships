@@ -388,7 +388,7 @@
         setTimeout(typeEffect, 1000);
 
         // Dynamic stats from current_jobs.json
-        fetch('.github/data/current_jobs.json')
+        fetch('https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/.github/data/current_jobs.json')
             .then(r => r.json())
             .then(jobs => {
                 const count = jobs.length;
