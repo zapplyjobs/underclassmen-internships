@@ -55,9 +55,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <p align="center">
   <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" width="250"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" width="140"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="250"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="140"></a>
 </p>
 
 ---
