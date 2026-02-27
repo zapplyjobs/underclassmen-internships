@@ -40,8 +40,15 @@ jobs:
       run: npm install axios
 
     - name: Fetch and update jobs
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
       run: |
-        mkdir -p .github/logs
+        mkdir -p .github/logs .github/data
+        ALL_JOBS_SHA=$(curl -sf -H "Authorization: token $GH_PAT" \
+          "https://api.github.com/repos/zapplyjobs/jobs-data-2026/commits/main" \
+          | node -e "let d='';process.stdin.on('data',c=>d+=c);process.stdin.on('end',()=>{try{console.log(JSON.parse(d).sha)}catch(e){console.log('unknown')}})" \
+          || echo "unknown")
+        export ALL_JOBS_SHA
         node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
 
     - name: Write current_jobs.json for aggregator
@@ -123,7 +130,7 @@ jobs:
               git reset --hard HEAD
             }
 
-            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/logs/ || true
+            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/data/run_metrics.json .github/logs/ || true
 
             JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
