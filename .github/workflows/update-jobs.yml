@@ -56,7 +56,7 @@ jobs:
         REPO_NAME: New-Grad-Jobs-2026
       run: |
         mkdir -p .github/data
-        CURR_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+        export CURR_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
         node -e "
           const fs = require('fs');
           const https = require('https');
@@ -74,7 +74,7 @@ jobs:
           const req = https.request({ hostname: 'discord.com', path: '/api/v10/channels/' + process.env.DISCORD_ALERT_CHANNEL_ID + '/messages', method: 'POST', headers: { 'Authorization': 'Bot ' + process.env.DISCORD_TEAM_TOKEN, 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) } }, res => { console.log('Discord response: ' + res.statusCode); });
           req.on('error', e => console.error('Discord request failed: ' + e.message));
           req.write(body); req.end();
-        " CURR_COUNT="$CURR_COUNT"
+        "
 
     - name: Display job-fetcher logs (always run)
       if: always()
