@@ -49,6 +49,33 @@ jobs:
         mkdir -p .github/data
         node .github/scripts/write-current-jobs.js
 
+    - name: Count-drop alert
+      env:
+        DISCORD_TEAM_TOKEN: ${{ secrets.DISCORD_TEAM_TOKEN }}
+        DISCORD_ALERT_CHANNEL_ID: "1477002891234512916"
+        REPO_NAME: New-Grad-Jobs-2026
+      run: |
+        mkdir -p .github/data
+        CURR_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+        node -e "
+          const fs = require('fs');
+          const https = require('https');
+          const curr = parseInt(process.env.CURR_COUNT || '0', 10);
+          const lastPath = '.github/data/last_count.json';
+          const prev = fs.existsSync(lastPath) ? JSON.parse(fs.readFileSync(lastPath)).count : null;
+          fs.writeFileSync(lastPath, JSON.stringify({ count: curr, timestamp: new Date().toISOString() }));
+          const isZero = curr === 0;
+          const isDrop = prev !== null && curr < prev * 0.5;
+          if (!isZero && !isDrop) { console.log('Count OK: ' + curr + (prev !== null ? ' (prev: ' + prev + ')' : '')); process.exit(0); }
+          const reason = isZero ? 'Job count hit 0' : 'Job count dropped >' + Math.round((1 - curr/prev)*100) + '% (' + prev + ' → ' + curr + ')';
+          console.warn('ALERT: ' + reason);
+          if (!process.env.DISCORD_TEAM_TOKEN || !process.env.DISCORD_ALERT_CHANNEL_ID) { console.error('Discord secrets not set — alert suppressed'); process.exit(0); }
+          const body = JSON.stringify({ embeds: [{ title: '⚠️ Consumer Count Drop', color: 0xe74c3c, description: '**' + process.env.REPO_NAME + '**: ' + reason, footer: { text: new Date().toISOString() } }] });
+          const req = https.request({ hostname: 'discord.com', path: '/api/v10/channels/' + process.env.DISCORD_ALERT_CHANNEL_ID + '/messages', method: 'POST', headers: { 'Authorization': 'Bot ' + process.env.DISCORD_TEAM_TOKEN, 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) } }, res => { console.log('Discord response: ' + res.statusCode); });
+          req.on('error', e => console.error('Discord request failed: ' + e.message));
+          req.write(body); req.end();
+        " CURR_COUNT="$CURR_COUNT"
+
     - name: Display job-fetcher logs (always run)
       if: always()
       run: |
@@ -96,7 +123,7 @@ jobs:
               git reset --hard HEAD
             }
 
-            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/logs/ || true
+            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/logs/ || true
 
             JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
