@@ -72,14 +72,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
 | 🏢 **Lucid Motors** | Intern, Power Electronics Engineer, Summer 2026 | Newark, CA | 4h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/4922185007) |
-| 🏢 **First Group** | Data Scientist Intern - REMOTE | Altoona | 7h | [🔗 Apply](https://jobs.kark.com/jobs/data-scientist-intern-remote-altoona-pennsylvania/2639144523-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Fulton Bank** | Intern - Data Science 🏠 | Lancaster | 12h | [🔗 Apply](https://www.indeed.com/viewjob?jk=86a95f475a097611&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🟢 **Google** | Software Engineering Intern, PhD, Summer 2025 | Pittsburgh | 13h | [🔗 Apply](https://jobs.digitalhire.com/job-listing/opening/23oyuBKNQg7WaKbgYN6Hja?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Lancesoft INC** | RN MS/TELE | Easton | 16h | [🔗 Apply](https://www.ziprecruiter.com/c/LanceSoft/Job/RN-MS-TELE/-in-Easton,MD?jid=8a0a83798c121a7e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Graybar** | Summer 2026 Intern - Data Science | Chesterfield | 17h | [🔗 Apply](https://www.linkedin.com/jobs/view/summer-2026-intern-data-science-at-graybar-4379064426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **LanceSoft, Inc.** | Travel Nurse RN - OR Circulate - $2,136 per week | Bethesda | 17h | [🔗 Apply](https://www.linkedin.com/jobs/view/travel-nurse-rn-or-circulate-%242-136-per-week-at-lancesoft-inc-4379050935?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Star Tribune Media Company LLC** | Software Engineer Intern - Fall 2026 | Minneapolis | 19h | [🔗 Apply](https://www.indeed.com/viewjob?jk=b4157b42be55dad3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **North Country Healthcare** | Registered Nurse- New Graduate (WMC- Med/Surg) - Sign-On Bonus Available | Lancaster | 19h | [🔗 Apply](https://careers.northcountryhealth.org/registered-nurse-new-graduate-wmc-med-surg-sign-on-bonus-available/job/9422CE55E424DFCAADC9A35C26D68377?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **First Group** | Data Scientist Intern - REMOTE | Altoona | 8h | [🔗 Apply](https://jobs.kark.com/jobs/data-scientist-intern-remote-altoona-pennsylvania/2639144523-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Fulton Bank** | Intern - Data Science 🏠 | Lancaster | 13h | [🔗 Apply](https://www.indeed.com/viewjob?jk=86a95f475a097611&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🟢 **Google** | Software Engineering Intern, PhD, Summer 2025 | Pittsburgh | 14h | [🔗 Apply](https://jobs.digitalhire.com/job-listing/opening/23oyuBKNQg7WaKbgYN6Hja?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Lancesoft INC** | RN MS/TELE | Easton | 17h | [🔗 Apply](https://www.ziprecruiter.com/c/LanceSoft/Job/RN-MS-TELE/-in-Easton,MD?jid=8a0a83798c121a7e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Graybar** | Summer 2026 Intern - Data Science | Chesterfield | 18h | [🔗 Apply](https://www.linkedin.com/jobs/view/summer-2026-intern-data-science-at-graybar-4379064426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **LanceSoft, Inc.** | Travel Nurse RN - OR Circulate - $2,136 per week | Bethesda | 18h | [🔗 Apply](https://www.linkedin.com/jobs/view/travel-nurse-rn-or-circulate-%242-136-per-week-at-lancesoft-inc-4379050935?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Star Tribune Media Company LLC** | Software Engineer Intern - Fall 2026 | Minneapolis | 20h | [🔗 Apply](https://www.indeed.com/viewjob?jk=b4157b42be55dad3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **North Country Healthcare** | Registered Nurse- New Graduate (WMC- Med/Surg) - Sign-On Bonus Available | Lancaster | 20h | [🔗 Apply](https://careers.northcountryhealth.org/registered-nurse-new-graduate-wmc-med-surg-sign-on-bonus-available/job/9422CE55E424DFCAADC9A35C26D68377?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **MongoDB** | 2026 - Legal Intern, NYC | New York City | 20h | [🔗 Apply](https://www.mongodb.com/careers/job/?gh_jid=7335941) |
 | 🏢 **MongoDB** | 2026 - Research Intern, NYC | New York City | 20h | [🔗 Apply](https://www.mongodb.com/careers/job/?gh_jid=7558200) |
 | 🏢 **MongoDB** | 2026 - Information Security Engineering Intern, Seattle | Seattle | 20h | [🔗 Apply](https://www.mongodb.com/careers/job/?gh_jid=7292751) |
@@ -512,30 +512,30 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **Confidential** | Electrical Engineer, New Graduate | Eutawville | 9h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Eutawville,SC?jid=c2fefccf5ddc16f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Cypress | 9h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Cypress,IL?jid=afe7a965018898cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Confidential** | Electrical Engineer, New Graduate | Vance | 10h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Vance,SC?jid=050cfbd7a73e4597&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Aurora | 10h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Aurora,IL?jid=c69807d368eced0c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Anduril** | Electrical Systems Test Engineer, Air Dominance and Strike | Costa Mesa | 11h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5044714007?gh_jid=5044714007) |
-| 🚀 **SpaceX** | High-Speed Electro-Optical IC Engineer (Silicon Engineering) | Redmond, WA | 11h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8405108002?gh_jid=8405108002) |
-| 🚀 **SpaceX** | Silicon Photonics Design Engineer (Silicon Engineering) | Redmond, WA | 11h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8405106002?gh_jid=8405106002) |
-| 🚀 **SpaceX** | RF/Microwave Engineer (Silicon Engineering) | Redmond, WA | 11h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8416868002?gh_jid=8416868002) |
+| 🏢 **Confidential** | Electrical Engineer, New Graduate | Eutawville | 10h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Eutawville,SC?jid=c2fefccf5ddc16f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Cypress | 10h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Cypress,IL?jid=afe7a965018898cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical Engineer, New Graduate | Vance | 11h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Vance,SC?jid=050cfbd7a73e4597&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Aurora | 11h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Aurora,IL?jid=c69807d368eced0c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Anduril** | Electrical Systems Test Engineer, Air Dominance and Strike | Costa Mesa | 12h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5044714007?gh_jid=5044714007) |
+| 🚀 **SpaceX** | High-Speed Electro-Optical IC Engineer (Silicon Engineering) | Redmond, WA | 12h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8405108002?gh_jid=8405108002) |
+| 🚀 **SpaceX** | Silicon Photonics Design Engineer (Silicon Engineering) | Redmond, WA | 12h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8405106002?gh_jid=8405106002) |
+| 🚀 **SpaceX** | RF/Microwave Engineer (Silicon Engineering) | Redmond, WA | 12h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8416868002?gh_jid=8416868002) |
 | 🚀 **SpaceX** | RFIC Layout Designer (Silicon Engineering) | Irvine, CA | 12h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8418776002?gh_jid=8418776002) |
 | 🚀 **SpaceX** | RFIC Design Engineer (Silicon Engineering) | Irvine, CA | 12h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8418689002?gh_jid=8418689002) |
 | 🚀 **SpaceX** | RFIC Layout Designer (Silicon Engineering) | Redmond, WA | 12h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8418679002?gh_jid=8418679002) |
-| 🏢 **Dupont** | 2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities | Richmond | 14h | [🔗 Apply](https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Dupont** | 2026 Spring Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities | Richmond | 15h | [🔗 Apply](https://careers.dupont.com/us/en/job/246710W/2026-Spring-Semester-Co-Op-Chemical-Mechanical-and-Electrical-Engineering-Opportunities?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Anduril** | Manufacturing Engineer | McHenry | 16h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5045804007?gh_jid=5045804007) |
-| 🏢 **Confidential** | Electrical/Systems Engineer (New Graduate) | Catasauqua | 16h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Systems-Engineer-(New-Graduate)/-in-North-Catasauqua,PA?jid=4c53921555243c11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Anduril** | Development Test Engineer, Space Vehicle | Costa Mesa | 17h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5032033007?gh_jid=5032033007) |
-| 🏢 **Anduril** | Development Test Engineer | Costa Mesa | 17h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4676612007?gh_jid=4676612007) |
-| 🏢 **Confidential** | Electrical/Systems Engineer (New Graduate) | Hokendauqua | 17h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Systems-Engineer-(New-Graduate)/-in-Hokendauqua,PA?jid=41ed128f5b051a5a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Confidential** | Electrical/Systems Engineer (New Graduate) | Philadelphia | 17h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Systems-Engineer-(New-Graduate)/-in-Philadelphia,PA?jid=cf83f4a28c794ddd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical/Systems Engineer (New Graduate) | Catasauqua | 17h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Systems-Engineer-(New-Graduate)/-in-North-Catasauqua,PA?jid=4c53921555243c11&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Anduril** | Development Test Engineer, Space Vehicle | Costa Mesa | 18h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5032033007?gh_jid=5032033007) |
+| 🏢 **Anduril** | Development Test Engineer | Costa Mesa | 18h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4676612007?gh_jid=4676612007) |
+| 🏢 **Confidential** | Electrical/Systems Engineer (New Graduate) | Hokendauqua | 18h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Systems-Engineer-(New-Graduate)/-in-Hokendauqua,PA?jid=41ed128f5b051a5a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical/Systems Engineer (New Graduate) | Philadelphia | 18h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Systems-Engineer-(New-Graduate)/-in-Philadelphia,PA?jid=cf83f4a28c794ddd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Anduril** | Manufacturing Test Engineer | Costa Mesa | 18h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4988632007?gh_jid=4988632007) |
-| 🚀 **SpaceX** | Automation & Controls Engineer, Insource Manufacturing (Starlink) | Bastrop, TX | 18h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8362097002?gh_jid=8362097002) |
-| 🏢 **Anduril** | Systems Engineer, Ghost | Costa Mesa | 18h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5056823007?gh_jid=5056823007) |
+| 🚀 **SpaceX** | Automation & Controls Engineer, Insource Manufacturing (Starlink) | Bastrop, TX | 19h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8362097002?gh_jid=8362097002) |
+| 🏢 **Anduril** | Systems Engineer, Ghost | Costa Mesa | 19h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5056823007?gh_jid=5056823007) |
 | 🏢 **Anduril** | Industrial Engineer | Quonset | 19h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5055702007?gh_jid=5055702007) |
 | 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 20h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
-| 🏢 **Amazon Web Services (AWS)** | FPGA Development Engineer, Bespoke Solutions 🇺🇸 | Jessup | 23h | [🔗 Apply](https://www.linkedin.com/jobs/view/fpga-development-engineer-bespoke-solutions-at-amazon-web-services-aws-4346169981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Amazon Web Services (AWS)** | FPGA Development Engineer, Bespoke Solutions 🇺🇸 | Jessup | 1d | [🔗 Apply](https://www.linkedin.com/jobs/view/fpga-development-engineer-bespoke-solutions-at-amazon-web-services-aws-4346169981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🚀 **SpaceX** | Automation & Controls Engineer (Starship Launch Hardware) | Cape Canaveral, FL | 1d | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8433913002?gh_jid=8433913002) |
 | 🏢 **Anduril** | Aerodynamics Engineer, Air Vehicles | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5000486007?gh_jid=5000486007) |
 | 🏢 **Anduril** | Aerodynamics Engineer, Hypersonic Air Vehicles | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5032351007?gh_jid=5032351007) |
@@ -678,16 +678,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **Lensa** | AI Engineering/Data Scientist - Summer 2027 Internship | Dallas | 7h | [🔗 Apply](https://www.linkedin.com/jobs/view/ai-engineering-data-scientist-summer-2027-internship-at-lensa-4379231085?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Peter Millar** | Data Science Internship | North Carolina | 7h | [🔗 Apply](https://www.linkedin.com/jobs/view/data-science-internship-at-peter-millar-4379052773?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **RELX INC** | Data Scientist Intern 🏠 | Massachusetts | 8h | [🔗 Apply](https://onemainfinancial-veteranjobs.dejobs.org/cambridge-ma/data-scientist-intern/8EC1378C14154E729EFF7B1BE324D0E2/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 10h | [🔗 Apply](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **The MITRE Corporation** | Internships in Data Science, Math, Statistics or Operations Research | McLean | 14h | [🔗 Apply](https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Lensa** | AI Engineering/Data Scientist - Summer 2027 Internship | Dallas | 8h | [🔗 Apply](https://www.linkedin.com/jobs/view/ai-engineering-data-scientist-summer-2027-internship-at-lensa-4379231085?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Peter Millar** | Data Science Internship | North Carolina | 8h | [🔗 Apply](https://www.linkedin.com/jobs/view/data-science-internship-at-peter-millar-4379052773?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **RELX INC** | Data Scientist Intern 🏠 | Massachusetts | 9h | [🔗 Apply](https://onemainfinancial-veteranjobs.dejobs.org/cambridge-ma/data-scientist-intern/8EC1378C14154E729EFF7B1BE324D0E2/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 11h | [🔗 Apply](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **The MITRE Corporation** | Internships in Data Science, Math, Statistics or Operations Research | McLean | 15h | [🔗 Apply](https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Elastic** | Business Intelligence & Insights Analyst (Marketing Analytics) | United States | 15h | [🔗 Apply](https://jobs.elastic.co/jobs?gh_jid=7648141&gh_jid=7648141) |
 | 🏢 **Elastic** | Elastic AI Engineer | United States | 15h | [🔗 Apply](https://jobs.elastic.co/jobs?gh_jid=7607148&gh_jid=7607148) |
-| 🏢 **First American** | Data Science Intern 🏠 | Santa Ana | 16h | [🔗 Apply](https://www.linkedin.com/jobs/view/data-science-intern-at-first-american-4379071361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🧠 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 18h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
-| 🧠 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 18h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
+| 🏢 **First American** | Data Science Intern 🏠 | Santa Ana | 17h | [🔗 Apply](https://www.linkedin.com/jobs/view/data-science-intern-at-first-american-4379071361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🧠 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 19h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
+| 🧠 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 19h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
 | 🏢 **HubSpot** | Analytics Engineer 🏠 | Remote | 1d | [🔗 Apply](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
 | 🏢 **Anduril** | Analytics Engineer, Quality Analytics | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5034686007?gh_jid=5034686007) |
 | 🏢 **Anduril** | Business Analyst, Edge Compute & Comms | Seattle | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5029523007?gh_jid=5029523007) |
@@ -855,7 +855,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|-------|
 | 🧠 **Anthropic** | Account Coordinator | New York City, NY | 12h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5074975008) |
 | 🎮 **Discord** | Account Executive - Tech & Telco | San Francisco Bay... | 13h | [🔗 Apply](https://job-boards.greenhouse.io/discord/jobs/8433948002) |
-| 🏢 **Verkada** | Sales Development Representative (AAE), Bay Area | San Mateo, CA | 13h | [🔗 Apply](https://job-boards.greenhouse.io/verkada/jobs/4086535007) |
+| 🏢 **Verkada** | Sales Development Representative (AAE), Bay Area | San Mateo, CA | 14h | [🔗 Apply](https://job-boards.greenhouse.io/verkada/jobs/4086535007) |
 | 🏢 **HubSpot** | Outbound Business Development Representative (BDR) 🏠 | Cambridge, MA | 15h | [🔗 Apply](https://www.hubspot.com/careers/jobs/7451485?gh_jid=7451485) |
 | 🏢 **HubSpot** | Outbound Business Development Representative (BDR) 🏠 | Remote | 15h | [🔗 Apply](https://www.hubspot.com/careers/jobs/7173281?gh_jid=7173281) |
 | 🏢 **Instacart** | Sales Associate 🏠 | United States - R... | 15h | [🔗 Apply](https://instacart.careers/job/?gh_jid=7572155) |
@@ -921,7 +921,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🛻 **Lyft** | SMB Account Executive, Automotive Industry | San Francisco, CA | 3d | [🔗 Apply](https://app.careerpuck.com/job-board/lyft/job/8384814002?gh_jid=8384814002) |
 | 🏢 **Zip** | Strategic Account Executive, Financial Services | New York City | 3d | [🔗 Apply](https://jobs.ashbyhq.com/zip/aac51fba-afea-4472-a233-1be426644eb8/application) |
 | 🏢 **Datadog** | Enterprise Sales Executive 🏠 | North Carolina | 3d | [🔗 Apply](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857) |
-| 🏢 **Datadog** | Security Sales Engineer 🏠 | California | 3d | [🔗 Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
+| 🏢 **Datadog** | Security Sales Engineer 🏠 | California | 4d | [🔗 Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | 🏢 **Datadog** | Commercial Account Executive - LATAM (Spanish Speaking) - Boston | Boston | 4d | [🔗 Apply](https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207) |
 | 🏢 **Datadog** | Commercial Account Executive - LATAM (Portuguese Speaking) | Denver | 4d | [🔗 Apply](https://careers.datadoghq.com/detail/7460318/?gh_jid=7460318) |
 | 🏢 **Datadog** | Commercial Account Executive | Denver | 4d | [🔗 Apply](https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375) |
@@ -982,16 +982,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **Lucid Motors** | Service Technician, Torrance (2nd shift) 🏠 | Torrance, CA | 4h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5034751007) |
-| 🏢 **Lucid Motors** | Mobile Service Technician, San Diego | San Diego, CA | 4h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5043658007) |
+| 🏢 **Lucid Motors** | Service Technician, Torrance (2nd shift) 🏠 | Torrance, CA | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5034751007) |
+| 🏢 **Lucid Motors** | Mobile Service Technician, San Diego | San Diego, CA | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5043658007) |
 | 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
 | 🏢 **Lucid Motors** | Service Technician, King of Prussia, PA 🏠 | King of Prussia, PA | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5018823007) |
 | 🏢 **Lucid Motors** | Mobile Service Technician - Riviera Beach, FL | Riviera Beach, FL | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5032268007) |
 | 🚀 **SpaceX** | Facilities Technician - Temporary | Starbase, TX | 12h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8443153002?gh_jid=8443153002) |
-| 🏢 **Lucid Motors** | Mobile Service Technician, Plainview | Plainview, NY | 13h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/4875430007) |
+| 🏢 **Lucid Motors** | Mobile Service Technician, Plainview | Plainview, NY | 14h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/4875430007) |
 | 🏢 **Lucid Motors** | Service Technician, Plainview 🏠 | Plainview, NY | 14h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5043665007) |
 | 🏢 **Ripple** | Salesforce Administrator | San Francisco, CA | 14h | [🔗 Apply](https://ripple.com/careers/all-jobs/job/7370157?gh_jid=7370157) |
-| 🏢 **University of Virginia** | Monitor Technician- WAGE | Charlottesville | 14h | [🔗 Apply](https://jobs.virginia.edu/us/en/job/UOVUOVUSR0077629EXTERNALENUS/Monitor-Technician-WAGE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **University of Virginia** | Monitor Technician- WAGE | Charlottesville | 15h | [🔗 Apply](https://jobs.virginia.edu/us/en/job/UOVUOVUSR0077629EXTERNALENUS/Monitor-Technician-WAGE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Perplexity** | Recruiting Coordinator (Contract) | San Francisco | 15h | [🔗 Apply](https://jobs.ashbyhq.com/perplexity/dd389dff-facd-4b63-a2eb-0bc32985444b/application) |
 | 🏢 **Brex** | Implementation Consultant II 🏠 | Seattle | 16h | [🔗 Apply](https://www.brex.com/careers/8299954002?gh_jid=8299954002) |
 | 🏢 **Brex** | Implementation Consultant II 🏠 | New York | 16h | [🔗 Apply](https://www.brex.com/careers/8299951002?gh_jid=8299951002) |
@@ -1011,7 +1011,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🧠 **Anthropic** | Support Operations Analyst | San Francisco, CA | 18h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5080931008) |
 | 🏢 **MongoDB** | Program Coordinator, Early Talent | Austin | 19h | [🔗 Apply](https://www.mongodb.com/careers/job/?gh_jid=7583146) |
 | 🚀 **SpaceX** | Supplier Development Engineer, Supply Chain (Launch Site) 🏠 | Cape Canaveral, FL | 19h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8435554002?gh_jid=8435554002) |
-| 🚀 **SpaceX** | Maintenance Technician | Hawthorne, CA | 22h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8438220002?gh_jid=8438220002) |
+| 🚀 **SpaceX** | Maintenance Technician | Hawthorne, CA | 23h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8438220002?gh_jid=8438220002) |
 | 🚀 **SpaceX** | Data & Control Systems Technician (Starship Launch Hardware) | Cape Canaveral, FL | 1d | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8438322002?gh_jid=8438322002) |
 | 🏢 **Anduril** | Field Network Technician, Manuever Dominance 🏠 | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5055074007?gh_jid=5055074007) |
 | 🏢 **Anduril** | Technical Operations Engineer, Maneuver Dominance 🏠 | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4777691007?gh_jid=4777691007) |
@@ -1188,19 +1188,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **State Farm** | (Hybrid) MID-LEVEL AWS Software Engineer:  Java/Full Stack | Atlanta | 7h | [🔗 Apply](https://www.linkedin.com/jobs/view/hybrid-mid-level-aws-software-engineer-java-full-stack-at-state-farm-4378247863?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Availity** | Software Engineer II 🏠 | Oak Grove | 9h | [🔗 Apply](https://www.linkedin.com/jobs/view/software-engineer-ii-at-availity-4378252004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **BAE Systems** | Software Developer Intern (Onsite) 🏠 | Durham | 13h | [🔗 Apply](https://jobs.baesystems.com/global/en/job/121698BR/Software-Developer-Intern-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 13h | [🔗 Apply](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **The MITRE Corporation** | Entry Level - Software Engineering or Computer Science | McLean | 13h | [🔗 Apply](https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **DeVillier's Technology Solutions** | Software Developer, Junior, Part-Time 🏠 | Fort Lauderdale | 14h | [🔗 Apply](https://jobs.digitalhire.com/job-listing/opening/39nulvBNMO6nCTw2IySGwI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **State Farm** | (Hybrid) MID-LEVEL AWS Software Engineer:  Java/Full Stack | Atlanta | 8h | [🔗 Apply](https://www.linkedin.com/jobs/view/hybrid-mid-level-aws-software-engineer-java-full-stack-at-state-farm-4378247863?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Availity** | Software Engineer II 🏠 | Oak Grove | 10h | [🔗 Apply](https://www.linkedin.com/jobs/view/software-engineer-ii-at-availity-4378252004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **BAE Systems** | Software Developer Intern (Onsite) 🏠 | Durham | 14h | [🔗 Apply](https://jobs.baesystems.com/global/en/job/121698BR/Software-Developer-Intern-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 14h | [🔗 Apply](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **The MITRE Corporation** | Entry Level - Software Engineering or Computer Science | McLean | 14h | [🔗 Apply](https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **DeVillier's Technology Solutions** | Software Developer, Junior, Part-Time 🏠 | Fort Lauderdale | 15h | [🔗 Apply](https://jobs.digitalhire.com/job-listing/opening/39nulvBNMO6nCTw2IySGwI?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Elastic** | Software Engineer II - Python - Developer Tools - Search 🏠 | United States | 15h | [🔗 Apply](https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101) |
 | 🏠 **Airbnb** | Software Engineer, Trust 🏠 | Remote | 16h | [🔗 Apply](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
-| 🏢 **Dematic** | Software Development in Test Intern | Atlanta | 17h | [🔗 Apply](https://www.linkedin.com/jobs/view/software-development-in-test-intern-at-dematic-4377941987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Airtable** | IT Administrator 🏠 | New York, NY | 17h | [🔗 Apply](https://job-boards.greenhouse.io/airtable/jobs/8417838002) |
-| 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 18h | [🔗 Apply](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Jobs via Dice** | Remote- Digital Manufacturing Software Engineer 🏠 | Atlanta | 18h | [🔗 Apply](https://www.linkedin.com/jobs/view/remote-digital-manufacturing-software-engineer-at-jobs-via-dice-4377937760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Mevion Medical Systems** | Software Engineer l 🏠 | Littleton | 18h | [🔗 Apply](https://www.linkedin.com/jobs/view/software-engineer-l-at-mevion-medical-systems-4377956299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Dematic** | Software Development in Test Intern | Atlanta | 18h | [🔗 Apply](https://www.linkedin.com/jobs/view/software-development-in-test-intern-at-dematic-4377941987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Airtable** | IT Administrator 🏠 | New York, NY | 18h | [🔗 Apply](https://job-boards.greenhouse.io/airtable/jobs/8417838002) |
+| 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 19h | [🔗 Apply](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Jobs via Dice** | Remote- Digital Manufacturing Software Engineer 🏠 | Atlanta | 19h | [🔗 Apply](https://www.linkedin.com/jobs/view/remote-digital-manufacturing-software-engineer-at-jobs-via-dice-4377937760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Mevion Medical Systems** | Software Engineer l 🏠 | Littleton | 19h | [🔗 Apply](https://www.linkedin.com/jobs/view/software-engineer-l-at-mevion-medical-systems-4377956299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **MongoDB** | Site Reliability Engineer 3 | New York City | 20h | [🔗 Apply](https://www.mongodb.com/careers/job/?gh_jid=7145126) |
 | 🏢 **Anduril** | Software Engineer, Manufacturing Test | Costa Mesa | 20h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5003658007?gh_jid=5003658007) |
 | 🏢 **Anduril** | Tactical Network Engineer 🏠 | Atlanta | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5064602007?gh_jid=5064602007) |
@@ -1587,18 +1587,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **Lucid Motors** | Service Advisor | Plainview, NY | 4h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5043662007) |
+| 🏢 **Lucid Motors** | Service Advisor | Plainview, NY | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5043662007) |
 | 🏢 **Lucid Motors** | Admin Assistant, Engineering | Newark, CA | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5015108007) |
 | 🏢 **Lucid Motors** | Vehicle Operations Assistant | King of Prussia, PA | 5h | [🔗 Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/4790580007) |
 | 👁️ **Palantir** | Embedded People Engineer | New York, NY | 8h | [🔗 Apply](https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply) |
 | 👁️ **Palantir** | Embedded People Engineer | Washington | 8h | [🔗 Apply](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
-| 🏢 **Anduril** | Perception Engineer | Costa Mesa | 12h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062355007?gh_jid=5062355007) |
-| 🏢 **YO IT Consulting** | C++ Engineer LLM - Remote 🏠 | New York | 12h | [🔗 Apply](https://www.linkedin.com/jobs/view/c%2B%2B-engineer-llm-remote-at-yo-it-consulting-4377992912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **YO IT Consulting** | C Engineer LLM - Remote 🏠 | Oak Grove | 12h | [🔗 Apply](https://www.linkedin.com/jobs/view/c-engineer-llm-remote-at-yo-it-consulting-4378209088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **YO IT Consulting** | C Engineer LLM - Remote 🏠 | Hopewell | 12h | [🔗 Apply](https://www.linkedin.com/jobs/view/c-engineer-llm-remote-at-yo-it-consulting-4378213005?refId=7yFCoMhGDxKw62b8QzdbMA%3D%3D&trackingId=hFTOqbRAs5gO9t29r4OMJw%3D%3D&position=18&pageNum=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **YO IT Consulting** | C Engineer LLM - Remote 🏠 | Dallas | 12h | [🔗 Apply](https://www.linkedin.com/jobs/view/c-engineer-llm-remote-at-yo-it-consulting-4378213004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Anduril** | Perception Engineer | Costa Mesa | 13h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062355007?gh_jid=5062355007) |
+| 🏢 **YO IT Consulting** | C++ Engineer LLM - Remote 🏠 | New York | 13h | [🔗 Apply](https://www.linkedin.com/jobs/view/c%2B%2B-engineer-llm-remote-at-yo-it-consulting-4377992912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **YO IT Consulting** | C Engineer LLM - Remote 🏠 | Oak Grove | 13h | [🔗 Apply](https://www.linkedin.com/jobs/view/c-engineer-llm-remote-at-yo-it-consulting-4378209088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **YO IT Consulting** | C Engineer LLM - Remote 🏠 | Hopewell | 13h | [🔗 Apply](https://www.linkedin.com/jobs/view/c-engineer-llm-remote-at-yo-it-consulting-4378213005?refId=7yFCoMhGDxKw62b8QzdbMA%3D%3D&trackingId=hFTOqbRAs5gO9t29r4OMJw%3D%3D&position=18&pageNum=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **YO IT Consulting** | C Engineer LLM - Remote 🏠 | Dallas | 13h | [🔗 Apply](https://www.linkedin.com/jobs/view/c-engineer-llm-remote-at-yo-it-consulting-4378213004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🧠 **Anthropic** | Finance & Strategy, Deal Desk (Americas) | San Francisco, CA | 13h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5123819008) |
-| 🏢 **Northside Hospital Inc.** | Spring 2026 Extended Recovery Unit/Orthopedics RN Residency Program | Unknown | 13h | [🔗 Apply](https://us.sercanto.com/detail/a/spring-2026-extended-recovery-unit-orthopedics-rn-residency-program_canton_3209135470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Northside Hospital Inc.** | Spring 2026 Extended Recovery Unit/Orthopedics RN Residency Program | Unknown | 14h | [🔗 Apply](https://us.sercanto.com/detail/a/spring-2026-extended-recovery-unit-orthopedics-rn-residency-program_canton_3209135470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🔐 **Okta** | Communications AI Strategy & Operations Intern (Summer 2026) | San Francisco | 14h | [🔗 Apply](https://www.okta.com/company/careers/opportunity/7665195?gh_jid=7665195) |
 | 🏢 **Elastic** | Renewals Associate | United States | 15h | [🔗 Apply](https://jobs.elastic.co/jobs?gh_jid=7647794&gh_jid=7647794) |
 | 🏢 **Elastic** | SLED AE - State of California | California | 15h | [🔗 Apply](https://jobs.elastic.co/jobs?gh_jid=7540062&gh_jid=7540062) |
@@ -1609,15 +1609,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Mission Simulation Engineer | Seattle | 16h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4986111007?gh_jid=4986111007) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 17h | [🔗 Apply](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
 | 🏢 **Anduril** | GSOC Supervisor | Costa Mesa | 17h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5063505007?gh_jid=5063505007) |
-| ₿ **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 17h | [🔗 Apply](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
+| ₿ **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 18h | [🔗 Apply](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
 | 🚀 **SpaceX** | New Graduate Engineer, Software (Starlink) | Bastrop, TX | 19h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
-| 🏢 **Anduril** | Engineering Program Specialist | Irvine | 19h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5044803007?gh_jid=5044803007) |
+| 🏢 **Anduril** | Engineering Program Specialist | Irvine | 20h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5044803007?gh_jid=5044803007) |
 | 🚀 **SpaceX** | Account Specialist (Starlink Product Growth) 🏠 | Hawthorne, CA | 20h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8441155002?gh_jid=8441155002) |
 | 🏢 **MongoDB** | 2026 - Next in Tech Summit, NORAM | Austin; New York ... | 20h | [🔗 Apply](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
 | 🚀 **SpaceX** | Electron Beam Welder (Dragon) | Hawthorne, CA | 20h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8440322002?gh_jid=8440322002) |
-| 🏢 **E-Solutions** | Python C++ Developer | Newton | 20h | [🔗 Apply](https://www.linkedin.com/jobs/view/python-c%2B%2B-developer-at-e-solutions-4379044407?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Transaction Network Services (TNS)** | Payments Processing Delivery Engineer | Oak Grove | 21h | [🔗 Apply](https://www.linkedin.com/jobs/view/payments-processing-delivery-engineer-at-transaction-network-services-tns-4375985528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Smart IT Frame LLC** | Azure Databricks Engineer | Decatur | 21h | [🔗 Apply](https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **E-Solutions** | Python C++ Developer | Newton | 21h | [🔗 Apply](https://www.linkedin.com/jobs/view/python-c%2B%2B-developer-at-e-solutions-4379044407?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Transaction Network Services (TNS)** | Payments Processing Delivery Engineer | Oak Grove | 22h | [🔗 Apply](https://www.linkedin.com/jobs/view/payments-processing-delivery-engineer-at-transaction-network-services-tns-4375985528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Smart IT Frame LLC** | Azure Databricks Engineer | Decatur | 22h | [🔗 Apply](https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Datadog** | Container Runtime Engineer | Boston | 23h | [🔗 Apply](https://careers.datadoghq.com/detail/7572940/?gh_jid=7572940) |
 | 🏢 **Anduril** | UAV Operator, Manuever Dominance 🏠 | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5055075007?gh_jid=5055075007) |
 | 🏢 **Anduril** | 2nd Shift Material Associate | Ashville | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4910799007?gh_jid=4910799007) |
