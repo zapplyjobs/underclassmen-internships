@@ -80,6 +80,7 @@ jobs:
           const body = JSON.stringify({ embeds: [{ title: '⚠️ Consumer Count Drop', color: 0xe74c3c, description: '**' + process.env.REPO_NAME + '**: ' + reason, footer: { text: new Date().toISOString() } }] });
           const req = https.request({ hostname: 'discord.com', path: '/api/v10/channels/' + process.env.DISCORD_ALERT_CHANNEL_ID + '/messages', method: 'POST', headers: { 'Authorization': 'Bot ' + process.env.DISCORD_TEAM_TOKEN, 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) } }, res => { console.log('Discord response: ' + res.statusCode); });
           req.on('error', e => console.error('Discord request failed: ' + e.message));
+          req.setTimeout(5000, () => { req.destroy(); });
           req.write(body); req.end();
         "
 
