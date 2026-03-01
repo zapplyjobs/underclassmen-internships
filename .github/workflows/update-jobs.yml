@@ -1,9 +1,7 @@
 name: Update Jobs from Aggregator
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
-  workflow_dispatch: # Allow manual triggering
+  workflow_dispatch:  # Triggered by job-board-cron-worker (Cloudflare) every 15 min
   push:
     branches: [ main ]
     paths:
