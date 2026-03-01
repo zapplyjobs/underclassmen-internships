@@ -9,12 +9,12 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-6890-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-516-blue?style=flat&logo=building)
-![Other Jobs](https://img.shields.io/badge/Other_Jobs-3164-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-6708-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-515-blue?style=flat&logo=building)
+![Other Jobs](https://img.shields.io/badge/Other_Jobs-3058-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 1:45 PM CST
+> ⏱ Last updated: Mar 1, 1:59 PM CST
 
 Updated job openings for new grads in SWE and other tech roles | 2026
 
@@ -95,7 +95,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🟢 **Google** | Software Engineering Intern, PhD, Summer 2025 | Pittsburgh | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/23oyuBKNQg7WaKbgYN6Hja?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🚀 **SpaceX** | Security Software Engineer, Applied Computing (Starshield) | Washington, DC | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8441008002?gh_jid=8441008002) |
 | 🏠 **Airbnb** | Software Engineer, Trust 🏠 | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
-| 🏢 **Airtable** | IT Administrator 🏠 | New York, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8417838002) |
+| 🏢 **Airtable** | IT Administrator 🏠 | New York, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8417838002) |
 | 🏢 **Mass General Brigham** | Web Developer | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Systems-Engineer-II_RQ4053511) |
 | 🎨 **Adobe** | Software Development Engineer | San Jose | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/job/San-Jose/Software-Development-Engineer_R165265-1) |
 | 🎨 **Adobe** | Software Development Engineer | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/job/Seattle/Software-Development-Engineer_R164609) |
@@ -610,7 +610,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | Phlebotomy Technician | Wooster Family He... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Wooster-Family-Health-Center/Phlebotomy-Technician_329528) |
 | 🏢 **Cleveland Clinic** | Phlebotomist Technician | Cleveland Clinic ... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/Phlebotomist-Technician_320257) |
 | 🏢 **Booz Allen Hamilton** | Project Coordinator | 2 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Project-Coordinator_R0234934) |
-| 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
+| 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
 | 🏢 **Lucid Motors** | Service Technician, Coolidge 🏠 | Coolidge, AZ | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5004304007) |
 | 🏢 **Vanderbilt University Medical Center** | Anesthesia Technician, FT Days | Nashville, TN | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Anesthesia-Technician--FT-Days_R-50591-1) |
 | 🚀 **SpaceX** | Spacecraft Cleanliness Technician (Starship) - Temporary | Starbase, TX | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8356938002?gh_jid=8356938002) |
@@ -630,16 +630,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Brex** | Implementation Consultant II 🏠 | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8299949002?gh_jid=8299949002) |
 | 🏢 **Brex** | Implementation Consultant II 🏠 | Salt Lake City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8175966002?gh_jid=8175966002) |
 | 🏢 **Verkada** | Technical Support Engineer | San Mateo, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5063200007) |
-| 🏢 **Anduril** | Procurement Engineer, BOM Hardware | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5028465007?gh_jid=5028465007) |
-| 🏢 **Anduril** | Supplier Sourcing Engineer, Supply Chain | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4984757007?gh_jid=4984757007) |
-| 🏢 **Anduril** | Cost Value Engineer, Supply Chain | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4930363007?gh_jid=4930363007) |
-| 🏢 **Anduril** | BOM Sourcing Engineer, Supply Chain | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5027655007?gh_jid=5027655007) |
-| 🏢 **Anduril** | Product Sourcing Engineer, Supply Chain | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4927239007?gh_jid=4927239007) |
-| 🏢 **Saint Luke's Health System** | Certified Medication Technician | Bishop Spencer Pl... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Bishop-Spencer-Place------4301-Madison-Ave------Kansas-City------MO/Certified-Medication-Technician_JobReq0055925-1) |
-| 🏢 **Saint Luke's Health System** | Lab Support Technician | Multispecialty Cl... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Multispecialty-Clinic------4061-Indian-Creek-Pkwy------Overland-Park------KS/Lab-Support-Technician_JobReq0055933-1) |
-| 🏢 **Saint Luke's Health System** | Lab Support Technician | Saint Luke's East... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Lab-Support-Technician_JobReq0055795-1) |
-| 🏢 **Saint Luke's Health System** | Lab Support Technician | Saint Luke's East... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Lab-Support-Technician_JobReq0055758-1) |
-| 🏢 **Saint Luke's Health System** | Behavioral Health Technician, FT Days | Crittenton Childr... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Crittenton-Childrens-Center------Elm-Ave------Kansas-City------MO/Behavioral-Health-Technician--FT-Days_JobReq0054025) |
+| 🏢 **Anduril** | Procurement Engineer, BOM Hardware | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5028465007?gh_jid=5028465007) |
+| 🏢 **Anduril** | Supplier Sourcing Engineer, Supply Chain | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4984757007?gh_jid=4984757007) |
+| 🏢 **Anduril** | Cost Value Engineer, Supply Chain | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4930363007?gh_jid=4930363007) |
+| 🏢 **Anduril** | BOM Sourcing Engineer, Supply Chain | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5027655007?gh_jid=5027655007) |
+| 🏢 **Anduril** | Product Sourcing Engineer, Supply Chain | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4927239007?gh_jid=4927239007) |
 | 🏢 **Ochsner Health** | Pharmacy Technician Certified- OLGMC Inpatient Pharmacy- Full Time | Acadiana Region -... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Lafayette---Acadiana-Region---Louisiana/Pharmacy-Technician-Certified--OLGMC-Inpatient-Pharmacy--Full-Time_REQ_00256906) |
 | 🏢 **Ochsner Health** | Pharmacy Technician Certified- OUHC Retail Pharmacy- PRN | Acadiana Region -... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Lafayette---Acadiana-Region---Louisiana/Pharmacy-Technician-Certified--OUHC-Retail-Pharmacy--PRN_REQ_00255734) |
 | 🏢 **Ochsner Health** | Emergency Department Technician - Full Time - Day Shift - Gretna | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Gretna---New-Orleans-Region---Louisiana/Emergency-Department-Technician---Full-Time---Day-Shift---Gretna_REQ_00257013) |
@@ -687,6 +682,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | Pharmacy Technician - Community, PRN | Twinsburg Family ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Twinsburg-Family-Health-Center/Pharmacy-Technician---Community--PRN_332579) |
 | 🏢 **Cleveland Clinic** | Pharmacy Technician - Community, PRN | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/Pharmacy-Technician---Community--PRN_332846) |
 | 🏢 **Cleveland Clinic** | Certified Sterile Processing Technician | Akron General Med... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Akron-General-Medical-Center/Certified-Sterile-Processing-Technician_332282-1) |
+| 🏢 **Cleveland Clinic** | Clinical Technician – Emergency Department | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Emergency-Department_329266-1) |
+| 🏢 **Cleveland Clinic** | Non-Certified/Certified CS/SPD Technician | Indian River Hosp... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Indian-River-Hospital/Non-Certified-Certified-CS-SPD-Technician_329297-1) |
+| 🏢 **Cleveland Clinic** | CT Technician | Florida Weston Ho... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Florida-Weston-Hospital/CT-Technician_313358) |
+| 🏢 **Cleveland Clinic** | Cardiovascular Technician | Tradition Hospital | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Tradition-Hospital/Cardiovascular-Technician_304397) |
+| 🏢 **Caterpillar** | Supply Chain Planning Engineer | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/job/Irving-Texas/Supply-Chain-Planning-Engineer_R0000354297-1) |
 
 <p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
 
@@ -968,7 +968,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 6890 current opportunities from 516 companies**
+**🎯 6708 current opportunities from 515 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
