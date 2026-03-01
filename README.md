@@ -14,7 +14,7 @@
 ![Other Jobs](https://img.shields.io/badge/Other_Jobs-3159-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 12:30 PM CST
+> ⏱ Last updated: Mar 1, 12:38 PM CST
 
 Updated job openings for new grads in SWE and other tech roles | 2026
 
@@ -74,7 +74,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Booz Allen Hamilton** | DevOps Engineer | 2 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/job/McLean-VA/DevOps-Engineer_R0234946) |
-| 💳 **Stripe** | Software Engineer, Internal Systems | Seattle | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) |
+| 💳 **Stripe** | Software Engineer, Internal Systems | Seattle | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) |
 | 🏢 **Lucid Motors** | Network Engineer - 2nd Shift | Casa Grande, AZ | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5061550007) |
 | 🏢 **Elastic** | Software Engineer II - Python - Developer Tools - Search 🏠 | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101) |
 | 🏢 **MongoDB** | Software Engineer 3, Insights and Telemetry | New York City | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7571347) |
@@ -184,7 +184,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Vanderbilt University Medical Center** | IT Business Analyst | Nashville, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/IT-Business-Analyst_R-50844-2) |
-| 🏢 **Lucid Motors** | Perception Machine Learning Engineer – ADAS | Southfield, MI | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) |
+| 🏢 **Lucid Motors** | Perception Machine Learning Engineer – ADAS | Southfield, MI | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) |
 | 📊 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) 🏠 | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
 | 🏢 **Cleveland Clinic** | Data Scientist I - Cancer Center | Remote | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1) |
 | 🧠 **Anthropic** | Research Engineer / Research Scientist, Tokens | New York City, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) |
@@ -397,7 +397,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Manufacturing Test Engineer | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4988632007?gh_jid=4988632007) |
 | 🚀 **SpaceX** | Automation & Controls Engineer, Insource Manufacturing (Starlink) | Bastrop, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8362097002?gh_jid=8362097002) |
 | 🏢 **Anduril** | Systems Engineer, Ghost | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5056823007?gh_jid=5056823007) |
-| 🏢 **Anduril** | Industrial Engineer | Quonset | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5055702007?gh_jid=5055702007) |
+| 🏢 **Anduril** | Industrial Engineer | Quonset | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5055702007?gh_jid=5055702007) |
 | 🏢 **Caterpillar** | Control Systems Engineer | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Performance-Simulation-Application-Engineer_R0000344724-1) |
 | 🏢 **Caterpillar** | Autonomy Systems Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Autonomy-Systems-Engineer_R0000353515) |
 | 🏢 **Cadence** | AI & Chip Design Intern (Summer 2026) | SAN JOSE | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/AI---Chip-Design-Intern--Summer-2026-_R53278-2) |
@@ -645,7 +645,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🛻 **Lyft** | Fleet Operations Associate (Night Shift) | Nashville, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8441141002?gh_jid=8441141002) |
 | 🛻 **Lyft** | Fleet Operations Associate (Afternoon Shift) | Nashville, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8441139002?gh_jid=8441139002) |
 | 🏢 **MongoDB** | Program Coordinator, Early Talent | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7583146) |
-| 🚀 **SpaceX** | Supplier Development Engineer, Supply Chain (Launch Site) 🏠 | Cape Canaveral, FL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8435554002?gh_jid=8435554002) |
+| 🚀 **SpaceX** | Supplier Development Engineer, Supply Chain (Launch Site) 🏠 | Cape Canaveral, FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8435554002?gh_jid=8435554002) |
 | 🏢 **Saint Luke's Health System** | Certified Medication Technician | Bishop Spencer Pl... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Bishop-Spencer-Place------4301-Madison-Ave------Kansas-City------MO/Certified-Medication-Technician_JobReq0055925-1) |
 | 🏢 **Saint Luke's Health System** | Lab Support Technician | Multispecialty Cl... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Multispecialty-Clinic------4061-Indian-Creek-Pkwy------Overland-Park------KS/Lab-Support-Technician_JobReq0055933-1) |
 | 🏢 **Saint Luke's Health System** | Lab Support Technician | Saint Luke's East... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-East-Hospital------100-NE-Saint-Lukes-Blvd------Lees-Summit------MO/Lab-Support-Technician_JobReq0055795-1) |
