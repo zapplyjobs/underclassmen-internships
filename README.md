@@ -71,8 +71,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🤖 **OpenAI** | iOS Engineer, ChatGPT Mobile Infrastructure | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/d66ae477-8742-4c4c-85a2-6f92a7dc67f2/application) |
-| 🤖 **OpenAI** | Android Engineer, ChatGPT Mobile Infrastructure | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7/application) |
+| 🤖 **OpenAI** | iOS Engineer, ChatGPT Mobile Infrastructure | San Francisco | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/d66ae477-8742-4c4c-85a2-6f92a7dc67f2/application) |
+| 🤖 **OpenAI** | Android Engineer, ChatGPT Mobile Infrastructure | San Francisco | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7/application) |
 | 💳 **Stripe** | Software Engineer, Internal Systems | Seattle | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) |
 | 🏢 **Leidos** | Junior Software Engineer - TS/SCI | Pepper Mill Village | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/peppermill-village-md/junior-software-engineer-ts-sci-937997/) |
 | 🏢 **Lucid Motors** | Network Engineer - 2nd Shift | Casa Grande, AZ | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5061550007) |
@@ -585,7 +585,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Cleveland Clinic** | Phlebotomy Technician | Wooster Family He... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Wooster-Family-Health-Center/Phlebotomy-Technician_329528) |
 | 🏢 **Cleveland Clinic** | Phlebotomist Technician | Cleveland Clinic ... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Phlebotomist-Technician_320257) |
-| 🎮 **NVIDIA** | Product Data Operations Engineering Systems Analyst | US, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016) |
+| 🎮 **NVIDIA** | Product Data Operations Engineering Systems Analyst | US, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016) |
 | 🧠 **Anthropic** | Support Operations Specialist, Learning & Education | San Francisco, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5080927008) |
 | 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
 | 🏢 **Lucid Motors** | Service Technician, Coolidge | Coolidge, AZ | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5004304007) |
@@ -813,7 +813,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA) – SANE Program - PRN | Akron General Med... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Advanced-Practice-Provider--NP-PA----SANE-Program---PRN_330596) |
 | 🏢 **Boeing** | Mechanical Systems Design & Analysis Engineer (Associate or Experienced) | Oklahoma City, OK | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mechanical-Systems-Design---Analysis-Engineer--Associate-or-Experienced-_JR2026493196) |
 | 🏢 **Leidos** | CNC Tool Room Attendant | Huntsville, AL | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/CNC-Tool-Room-Attendant_R-00175788-1) |
-| 🎮 **NVIDIA** | Product Compliance Engineer - Environmental and Sustainability | US, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Compliance-Engineer---Environmental-and-Sustainability_JR2011157) |
+| 🎮 **NVIDIA** | Product Compliance Engineer - Environmental and Sustainability | US, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Compliance-Engineer---Environmental-and-Sustainability_JR2011157) |
 | 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
 | 🏢 **Lucid Motors** | ADAS Software Integration Engineer | Newark, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4954042007) |
 | 🏢 **Lucid Motors** | Admin Assistant, Engineering | Newark, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5015108007) |
