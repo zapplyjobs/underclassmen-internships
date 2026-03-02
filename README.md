@@ -9,9 +9,9 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-9418-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
-![Other Jobs](https://img.shields.io/badge/Other_Jobs-4112-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-9417-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-634-blue?style=flat&logo=building)
+![Other Jobs](https://img.shields.io/badge/Other_Jobs-4111-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
@@ -100,20 +100,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | Kubernetes Platform Reliability Engineer | MA-MARLBOROUGH-MA... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Kubernetes-Platform-Reliability-Engineer_01826496) |
 | 🏢 **Capital One** | Software Engineer, Full Stack | Richmond, VA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Software-Engineer--Full-Stack_R236664-1) |
 | ₿ **Coinbase** | Software Engineer | Remote | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
-| 🏢 **AppLovin** | Product Designer | Palo Alto, CA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4614405006?gh_jid=4614405006) |
+| 🏢 **AppLovin** | Product Designer | Palo Alto, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4614405006?gh_jid=4614405006) |
 | 🏢 **UiPath** | Software Engineer II | Bellevue | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/uipath/782f6fa0-34b4-4f4b-8be8-c08a80f4bfd0/application) |
 | 🏢 **MongoDB** | Software Engineer 3 | Palo Alto; Seattle | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
-| 🏢 **Samsara** | Software Engineer II, AI Platform | CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925) |
-| 🏢 **Samsara** | Software Engineer II, Fleet Safety | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7276275?gh_jid=7276275) |
-| 🏢 **Samsara** | Software Engineer II - Mobile Platform | San Francisco - SF9 | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7312588?gh_jid=7312588) |
-| 🏢 **Samsara** | Software Engineer - Safety | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7296895?gh_jid=7296895) |
+| 🏢 **Samsara** | Software Engineer II, AI Platform | CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925) |
+| 🏢 **Samsara** | Software Engineer II, Fleet Safety | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7276275?gh_jid=7276275) |
+| 🏢 **Samsara** | Software Engineer II - Mobile Platform | San Francisco - SF9 | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7312588?gh_jid=7312588) |
+| 🏢 **Samsara** | Software Engineer - Safety | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7296895?gh_jid=7296895) |
 | 🏢 **Crusoe** | Network Engineer, New College Graduate | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/6ebc7feb-52aa-4a4a-8633-4d472947b081/application) |
 | 🏢 **Lucid Motors** | Network Engineer - 2nd Shift | Casa Grande, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5061550007) |
-| 🏢 **Tenstorrent** | Software Engineer, Metal Runtime | Santa Clara | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5023673007) |
-| 🏢 **Brex** | Software Engineer, Intern | United States | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8434389002?gh_jid=8434389002) |
-| 🏢 **HackerRank** | Backend Engineer II | Hybrid in Santa C... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hackerrank/jobs/7388132) |
-| 🏢 **HackerRank** | Software Development Engineer in Test II | Hybrid in Santa C... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hackerrank/jobs/7510682) |
-| 🏢 **Anduril** | Propulsion Test Infrastructure Engineer | Santa Ana | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030310007?gh_jid=5030310007) |
+| 🏢 **Tenstorrent** | Software Engineer, Metal Runtime | Santa Clara | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5023673007) |
+| 🏢 **Brex** | Software Engineer, Intern | United States | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8434389002?gh_jid=8434389002) |
+| 🏢 **HackerRank** | Backend Engineer II | Hybrid in Santa C... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hackerrank/jobs/7388132) |
+| 🏢 **HackerRank** | Software Development Engineer in Test II | Hybrid in Santa C... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hackerrank/jobs/7510682) |
+| 🏢 **Anduril** | Propulsion Test Infrastructure Engineer | Santa Ana | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030310007?gh_jid=5030310007) |
 | 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, IDEAS | Seattle, WA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193218/software-development-engineer-ideas) |
 | 🤖 **OpenAI** | iOS Engineer, ChatGPT Mobile Infrastructure | San Francisco | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/d66ae477-8742-4c4c-85a2-6f92a7dc67f2/application) |
 | 🤖 **OpenAI** | Android Engineer, ChatGPT Mobile Infrastructure | San Francisco | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7/application) |
@@ -217,7 +217,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Graybar** | Summer 2026 Intern - Data Science | Chesterfield | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/summer-2026-intern-data-science-at-graybar-4379064426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Sony Interactive Entertainment** | Machine Learning Engineer II, Search | United States, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5813165004) |
 | 🏢 **Sony Interactive Entertainment** | Audience Business Analyst | United States, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5691882004) |
-| 🟢 **DeepMind** | Research Engineer, Developer Experience, Gemini Robotics | Mountain View, US | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7411063) |
+| 🟢 **DeepMind** | Research Engineer, Developer Experience, Gemini Robotics | Mountain View, US | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7411063) |
 | 🏢 **Proofpoint** | Business Analyst Intern | 8 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Boston-Massachusetts/Business-Analyst-Intern_R13807) |
 | 🏢 **Boeing** | Mid-Level Engineering Data Scientist | 3 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mid-Level-Engineering-Data-Scientist_JR2026497298) |
 | 🧠 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
@@ -408,8 +408,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Systems Engineer, Space Imaging | Lexington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5031548007?gh_jid=5031548007) |
 | 🏢 **Anduril** | Systems Engineer, Space Imaging | Boulder | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5036431007?gh_jid=5036431007) |
 | 🚀 **SpaceX** | RFIC Design Engineer (Silicon Engineering) | Sunnyvale, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8439685002?gh_jid=8439685002) |
-| 🏢 **Samsara** | Electrical Engineering Co-Op | San Francisco - SF9 | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7581914?gh_jid=7581914) |
-| 🏢 **Samsara** | Hardware Solutions Firmware Engineer | San Francisco, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419) |
+| 🏢 **Samsara** | Electrical Engineering Co-Op | San Francisco - SF9 | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7581914?gh_jid=7581914) |
+| 🏢 **Samsara** | Hardware Solutions Firmware Engineer | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419) |
 | 🏢 **Lucid Motors** | Plant Floor Systems Engineer | Casa Grande, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5049849007) |
 | 🏢 **Lucid Motors** | Intern, Industrial Engineering, Summer 2026 | Casa Grande, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953758007) |
 | 🏢 **Lucid Motors** | Intern, Power Electronics Engineer, Summer 2026 | Newark, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4922185007) |
@@ -465,20 +465,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Development Test Engineer | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4676612007?gh_jid=4676612007) |
 | 🏢 **Confidential** | Electrical/Systems Engineer (New Graduate) | Philadelphia | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Systems-Engineer-(New-Graduate)/-in-Philadelphia,PA?jid=cf83f4a28c794ddd) |
 | 🏢 **Sony Interactive Entertainment** | Software Systems Engineer II | United States, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5789638004) |
-| 🏢 **Astranis** | Avionics Test Hardware Development Engineer | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351178006) |
-| 🏢 **Astranis** | Avionics Test Specialist | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4594819006) |
-| 🏢 **Astranis** | Electrical Integration Associate - Avionics (Summer 2026) | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4648852006) |
-| 🏢 **Astranis** | Electrical Integration Intern - Avionics (Summer 2026) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4647412006) |
-| 🏢 **Astranis** | Environmental Test Engineer Associate (Summer 2026) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4654113006) |
-| 🏢 **Astranis** | Environmental Test Engineer Intern (Summer 2026) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4654109006) |
-| 🏢 **Astranis** | Mechanical Engineer | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4299740006) |
-| 🏢 **Astranis** | Mechanical Engineer Associate (Summer 2026) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4603495006) |
-| 🏢 **Astranis** | Mechanical Engineer Intern (Summer 2026) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4618033006) |
-| 🏢 **Astranis** | Power Electronics Test Engineer | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4349361006) |
-| 🏢 **Astranis** | Production Quality Engineer | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4572174006) |
-| 🏢 **Astranis** | RF/Communication Systems Engineer | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4322527006) |
-| 🏢 **Astranis** | RF Systems Engineer | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4611342006) |
-| 🏢 **Astranis** | RF Test Engineer | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4005511006) |
+| 🏢 **Astranis** | Avionics Test Hardware Development Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351178006) |
+| 🏢 **Astranis** | Avionics Test Specialist | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4594819006) |
+| 🏢 **Astranis** | Electrical Integration Associate - Avionics (Summer 2026) | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4648852006) |
+| 🏢 **Astranis** | Electrical Integration Intern - Avionics (Summer 2026) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4647412006) |
+| 🏢 **Astranis** | Environmental Test Engineer Associate (Summer 2026) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4654113006) |
+| 🏢 **Astranis** | Environmental Test Engineer Intern (Summer 2026) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4654109006) |
+| 🏢 **Astranis** | Mechanical Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4299740006) |
+| 🏢 **Astranis** | Mechanical Engineer Associate (Summer 2026) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4603495006) |
+| 🏢 **Astranis** | Mechanical Engineer Intern (Summer 2026) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4618033006) |
+| 🏢 **Astranis** | Power Electronics Test Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4349361006) |
+| 🏢 **Astranis** | Production Quality Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4572174006) |
+| 🏢 **Astranis** | RF/Communication Systems Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4322527006) |
+| 🏢 **Astranis** | RF Systems Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4611342006) |
+| 🏢 **Astranis** | RF Test Engineer | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4005511006) |
 
 <p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
@@ -504,54 +504,54 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AT&T** | Bilingual Spanish Field Sales Representative | Sherman Oaks | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Sherman-Oaks-California/Bilingual-Spanish-Field-Sales-Representative_R-102322) |
 | 🏢 **Pure Storage** | Sales Development Representative | Chicago | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7583355) |
 | 🏢 **Pure Storage** | Account Executive, SLED - Houston | Houston | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7389362) |
-| 🏢 **Pure Storage** | Account Executive, Enterprise (Massachusetts) | Massachusetts | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7416625) |
-| 🏢 **Pure Storage** | Account Executive, Enterprise (Cincinnati) | Ohio | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7638433) |
-| 🏢 **Samsara** | Account Development Representative | Phoenix | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7608838?gh_jid=7608838) |
-| 🏢 **Samsara** | Account Development Representative | Atlanta | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7607508?gh_jid=7607508) |
-| 🏢 **Samsara** | Account Development Representative (New Grad) | Phoenix | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7607468?gh_jid=7607468) |
-| 🏢 **Samsara** | Account Development Representative (New Grad) | Atlanta | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7592553?gh_jid=7592553) |
-| 🏢 **Samsara** | Account Executive, Commercial | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/5349437?gh_jid=5349437) |
-| 🏢 **Samsara** | Account Executive, Commercial | Denver, CO | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165119?gh_jid=6165119) |
-| 🏢 **Samsara** | Account Executive, Commercial | Los Angeles, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165124?gh_jid=6165124) |
-| 🏢 **Samsara** | Account Executive, Commercial | Salt Lake City, UT | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165126?gh_jid=6165126) |
-| 🏢 **Samsara** | Account Executive, Commercial | San Diego, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165127?gh_jid=6165127) |
-| 🏢 **Samsara** | Account Executive, Commercial | Seattle, WA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165130?gh_jid=6165130) |
-| 🏢 **Samsara** | Account Executive, Commercial | Boston, MA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6605604?gh_jid=6605604) |
-| 🏢 **Samsara** | Account Executive, Commercial | Atlanta, GA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6605601?gh_jid=6605601) |
-| 🏢 **Samsara** | Account Executive, Commercial | Columbus, OH | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6605602?gh_jid=6605602) |
-| 🏢 **Samsara** | Account Executive, Commercial - (Phoenix, AR) | Phoenix | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6602157?gh_jid=6602157) |
-| 🏢 **Samsara** | Account Executive, Commercial - (Portland, OR) | Portland, OR | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6602158?gh_jid=6602158) |
-| 🏢 **Samsara** | Account Executive, Mid Market (Midwest) | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609126?gh_jid=7609126) |
-| 🏢 **Samsara** | Account Executive, Mid Market (Northeast) | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609147?gh_jid=7609147) |
-| 🏢 **Samsara** | Account Executive, Mid Market (Southeast) | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609156?gh_jid=7609156) |
-| 🏢 **Samsara** | Account Executive, Mid Market (TOLA) | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7608969?gh_jid=7608969) |
-| 🏢 **Samsara** | Account Executive, Mid Market (West) | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057) |
-| 🏢 **Samsara** | Customer Success Associate | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7539744?gh_jid=7539744) |
-| 🏢 **Samsara** | Customer Success Associate | Atlanta | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579) |
-| 🏢 **Samsara** | Enterprise Sales Operations and Strategy Analyst | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7592390?gh_jid=7592390) |
-| 🏢 **Samsara** | Mid-Market Sales Engineer - US North East | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7581969?gh_jid=7581969) |
-| 🏢 **Samsara** | Sales Engineer II - Specialist | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6782502?gh_jid=6782502) |
-| 🏢 **Samsara** | Sales Engineer I, SE Desk CT | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761) |
-| 🏢 **Samsara** | Sales Engineer I, SE Desk (French Bilingual) | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120) |
-| 🏢 **Samsara** | Sales Engineer I, SE Desk PT/MT | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7311768?gh_jid=7311768) |
-| 🏢 **Samsara** | Sales Engineer - Mid-Market, CT/MT | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187197?gh_jid=7187197) |
-| 🏢 **Samsara** | Sales Engineer - Mid-Market, ET | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187159?gh_jid=7187159) |
-| 🏢 **Samsara** | Sales Engineer - Mid-Market, PT | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187219?gh_jid=7187219) |
+| 🏢 **Pure Storage** | Account Executive, Enterprise (Massachusetts) | Massachusetts | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7416625) |
+| 🏢 **Pure Storage** | Account Executive, Enterprise (Cincinnati) | Ohio | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7638433) |
+| 🏢 **Samsara** | Account Development Representative | Phoenix | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7608838?gh_jid=7608838) |
+| 🏢 **Samsara** | Account Development Representative | Atlanta | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7607508?gh_jid=7607508) |
+| 🏢 **Samsara** | Account Development Representative (New Grad) | Phoenix | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7607468?gh_jid=7607468) |
+| 🏢 **Samsara** | Account Development Representative (New Grad) | Atlanta | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7592553?gh_jid=7592553) |
+| 🏢 **Samsara** | Account Executive, Commercial | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/5349437?gh_jid=5349437) |
+| 🏢 **Samsara** | Account Executive, Commercial | Denver, CO | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165119?gh_jid=6165119) |
+| 🏢 **Samsara** | Account Executive, Commercial | Los Angeles, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165124?gh_jid=6165124) |
+| 🏢 **Samsara** | Account Executive, Commercial | Salt Lake City, UT | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165126?gh_jid=6165126) |
+| 🏢 **Samsara** | Account Executive, Commercial | San Diego, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165127?gh_jid=6165127) |
+| 🏢 **Samsara** | Account Executive, Commercial | Seattle, WA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6165130?gh_jid=6165130) |
+| 🏢 **Samsara** | Account Executive, Commercial | Boston, MA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6605604?gh_jid=6605604) |
+| 🏢 **Samsara** | Account Executive, Commercial | Atlanta, GA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6605601?gh_jid=6605601) |
+| 🏢 **Samsara** | Account Executive, Commercial | Columbus, OH | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6605602?gh_jid=6605602) |
+| 🏢 **Samsara** | Account Executive, Commercial - (Phoenix, AR) | Phoenix | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6602157?gh_jid=6602157) |
+| 🏢 **Samsara** | Account Executive, Commercial - (Portland, OR) | Portland, OR | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6602158?gh_jid=6602158) |
+| 🏢 **Samsara** | Account Executive, Mid Market (Midwest) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609126?gh_jid=7609126) |
+| 🏢 **Samsara** | Account Executive, Mid Market (Northeast) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609147?gh_jid=7609147) |
+| 🏢 **Samsara** | Account Executive, Mid Market (Southeast) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609156?gh_jid=7609156) |
+| 🏢 **Samsara** | Account Executive, Mid Market (TOLA) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7608969?gh_jid=7608969) |
+| 🏢 **Samsara** | Account Executive, Mid Market (West) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7609057?gh_jid=7609057) |
+| 🏢 **Samsara** | Customer Success Associate | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7539744?gh_jid=7539744) |
+| 🏢 **Samsara** | Customer Success Associate | Atlanta | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579) |
+| 🏢 **Samsara** | Enterprise Sales Operations and Strategy Analyst | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7592390?gh_jid=7592390) |
+| 🏢 **Samsara** | Mid-Market Sales Engineer - US North East | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7581969?gh_jid=7581969) |
+| 🏢 **Samsara** | Sales Engineer II - Specialist | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/6782502?gh_jid=6782502) |
+| 🏢 **Samsara** | Sales Engineer I, SE Desk CT | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761) |
+| 🏢 **Samsara** | Sales Engineer I, SE Desk (French Bilingual) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120) |
+| 🏢 **Samsara** | Sales Engineer I, SE Desk PT/MT | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7311768?gh_jid=7311768) |
+| 🏢 **Samsara** | Sales Engineer - Mid-Market, CT/MT | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187197?gh_jid=7187197) |
+| 🏢 **Samsara** | Sales Engineer - Mid-Market, ET | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187159?gh_jid=7187159) |
+| 🏢 **Samsara** | Sales Engineer - Mid-Market, PT | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7187219?gh_jid=7187219) |
 | 🏢 **Lucid Motors** | Inside Sales Associate | Phoenix, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4957536007) |
 | 🏢 **Verkada** | Sales Development Representative (AAE), Bay Area | San Mateo, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4086535007) |
 | 🦊 **GitLab** | Strategic Account Executive, Southeast | US | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8442637002) |
 | 🏢 **MongoDB** | Account Development Representative | Atlanta | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7317925) |
 | 🏢 **Samba TV** | Sales Engineer | New York City | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/sambatv/91af2cfb-4dd4-4de8-9193-9df3a88c890b/apply) |
-| 🏢 **Datadog** | Commercial Sales Engineer (East) | Boston | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
+| 🏢 **Datadog** | Commercial Sales Engineer (East) | Boston | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
 | 🏢 **Instacart** | Sales Associate | United States - R... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7572155) |
 | 🏢 **Instacart** | Sales Associate - New York | United States - R... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7558978) |
 | 🏢 **Instacart** | Sales Associate - San Francisco/Los Angeles | United States - R... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7560993) |
 | 🏢 **Dialpad** | Account Executive, Commercial | Austin, US | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8367059002) |
-| 🏢 **Rilla** | Sales Development Representative - 2026 Graduates | New York City | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/80c37b55-7e57-4edf-bfcb-f8e927e92c90/application) |
-| 🏢 **Celonis** | Account Executive - Software | Redwood City, US | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7493368003?gh_jid=7493368003) |
-| 🏢 **Celonis** | Account Executive - Diversified | Redwood City, US | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7493370003?gh_jid=7493370003) |
-| 🏢 **Celonis** | Account Executive - Automotive | Los Angeles, US | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7634607003?gh_jid=7634607003) |
-| 🏢 **Celonis** | Account Executive - Automotive | US | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7634599003?gh_jid=7634599003) |
+| 🏢 **Rilla** | Sales Development Representative - 2026 Graduates | New York City | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/rilla/80c37b55-7e57-4edf-bfcb-f8e927e92c90/application) |
+| 🏢 **Celonis** | Account Executive - Software | Redwood City, US | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7493368003?gh_jid=7493368003) |
+| 🏢 **Celonis** | Account Executive - Diversified | Redwood City, US | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7493370003?gh_jid=7493370003) |
+| 🏢 **Celonis** | Account Executive - Automotive | Los Angeles, US | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7634607003?gh_jid=7634607003) |
+| 🏢 **Celonis** | Account Executive - Automotive | US | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7634599003?gh_jid=7634599003) |
 | 🏢 **AT&T** | B2B Sales Account Executive | Panama City | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Panama-City-Florida/B2B-Sales-Account-Executive_R-99254) |
 | 🦊 **GitLab** | Commercial Account Executive, Mid-Market - US East | US | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8378560002) |
 | 🦊 **GitLab** | Commercial Account Executive, Named - East | US | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8436336002) |
@@ -572,8 +572,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Elastic** | Mid Market Account Executive | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7378622&gh_jid=7378622) |
 | 🏢 **Elastic** | Sales Development Representative Emerging Talent - Austin, TX On-Site | Austin, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=6907907&gh_jid=6907907) |
 | 📊 **Databricks** | Business Development Representative | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8423165002) |
-| 🏢 **Astranis** | Network Planning Sales Engineer Associate (Summer 2026) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4651850006) |
-| 🏢 **Astranis** | Network Planning Sales Engineer Intern (Summer 2026) | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4651856006) |
+| 🏢 **Astranis** | Network Planning Sales Engineer Associate (Summer 2026) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4651850006) |
+| 🏢 **Astranis** | Network Planning Sales Engineer Intern (Summer 2026) | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4651856006) |
 | 🏢 **Autodesk** | Business Development Representative, Autodesk Operations Solutions | 5 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Colorado---Denver---Wewatta/Business-Development-Representative--Autodesk-Operations-Solutions_26WD96063-1) |
 | 🏢 **Exact Sciences** | Screening Sales Representative - Vista, CA | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---Vista/Screening-Sales-Representative---Vista--CA_R26-12559) |
 | 🏢 **Exact Sciences** | Screening Sales Representative - Brooklyn, NY | NY - Brooklyn | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---NY---Brooklyn/Screening-Sales-Representative---Brooklyn--NY_R26-12556) |
@@ -662,12 +662,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Surface Mount Technician-2nd shift SMT | Huntsville, AL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Surface-Mount-Technician-2nd-shift-SMT_R-00168635) |
 | 🏢 **Leidos** | Telecommunications Technician | Piketon, OH | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Piketon-OH/Telecommunications-Technician_R-00175366-1) |
 | 🏢 **Leidos** | Cyber Operations Engineer (USAF Cloud One) | Huntsville, AL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Operations-Engineer--USAF-Cloud-One-_R-00177254) |
-| 🏢 **Torc Robotics** | Freight Operations Specialist 1 | Fort Worth | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8438639002) |
+| 🏢 **Torc Robotics** | Freight Operations Specialist 1 | Fort Worth | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8438639002) |
 | 🏢 **Rocket Lab** | Test Technician II/ Test Technician III | Long Beach, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7507054003) |
-| 🏢 **Astranis** | Propulsion Technician, Tube Bending | San Francisco | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4430423006) |
-| 🏢 **Samsara** | Enterprise Implementation Consultant | Philadelphia | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266711?gh_jid=7266711) |
-| 🏢 **Samsara** | Lab Technician | San Francisco - SF9 | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7585607?gh_jid=7585607) |
-| 🏢 **Samsara** | Sales Operations Analyst - Renewals | Chicago | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7587205?gh_jid=7587205) |
+| 🏢 **Astranis** | Propulsion Technician, Tube Bending | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4430423006) |
+| 🏢 **Samsara** | Enterprise Implementation Consultant | Philadelphia | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266711?gh_jid=7266711) |
+| 🏢 **Samsara** | Lab Technician | San Francisco - SF9 | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7585607?gh_jid=7585607) |
+| 🏢 **Samsara** | Sales Operations Analyst - Renewals | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7587205?gh_jid=7587205) |
 | 🏢 **Lucid Motors** | Manufacturing Technician | Casa Grande, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5049845007) |
 | 🏢 **Lucid Motors** | Service Technician (2nd Shift), Riviera Beach, FL | Riviera Beach, FL | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5050532007) |
 | 🏢 **Lucid Motors** | Logistics Maintenance Technician | Casa Grande, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5044642007) |
@@ -694,9 +694,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Lucid Motors** | Service Technician, Oceanside | San Diego, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5042011007) |
 | 🏢 **Lucid Motors** | Serviceability Technician - ( Service Procedure Development Specialist) | Fremont, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4667045007) |
 | 🏢 **Applied Intuition** | IT Operations Engineer | San Diego | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4576095005?gh_jid=4576095005) |
-| 🏢 **Anduril** | Operations & Logistics Associate | Waltham | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5017185007?gh_jid=5017185007) |
-| 🏢 **Anduril** | Microelectronics Technician | Lexington | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5059372007?gh_jid=5059372007) |
-| 🏢 **Anduril** | Wire Bonding Technician | Lexington | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5059356007?gh_jid=5059356007) |
+| 🏢 **Anduril** | Operations & Logistics Associate | Waltham | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5017185007?gh_jid=5017185007) |
+| 🏢 **Anduril** | Microelectronics Technician | Lexington | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5059372007?gh_jid=5059372007) |
+| 🏢 **Anduril** | Wire Bonding Technician | Lexington | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5059356007?gh_jid=5059356007) |
 | 🏢 **Anduril** | Technician, Electrical/PCBAs | Costa Mesa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5025544007?gh_jid=5025544007) |
 | 🎮 **NVIDIA** | Product Data Operations Engineering Systems Analyst | US, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016) |
 
@@ -980,7 +980,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 9418 current opportunities from 635 companies**
+**🎯 9417 current opportunities from 634 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
