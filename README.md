@@ -14,7 +14,7 @@
 ![Other Jobs](https://img.shields.io/badge/Other_Jobs-2884-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 8:15 PM CST
+> ⏱ Last updated: Mar 1, 8:30 PM CST
 
 Updated job openings for new grads in SWE and other tech roles | 2026
 
@@ -77,10 +77,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🤖 **OpenAI** | Android Engineer, ChatGPT Mobile Infrastructure 🏠 | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7/application) |
 | 💳 **Stripe** | Software Engineer, Internal Systems | Seattle | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7009186) |
 | 🏢 **Leidos** | Junior Software Engineer - TS/SCI 🇺🇸 | Pepper Mill Village | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/peppermill-village-md/junior-software-engineer-ts-sci-937997/) |
-| 🏢 **Lucid Motors** | Network Engineer - 2nd Shift | Casa Grande, AZ | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5061550007) |
-| 🏢 **Elastic** | Software Engineer II - Python - Developer Tools - Search 🏠 | United States | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101) |
+| 🏢 **Lucid Motors** | Network Engineer - 2nd Shift | Casa Grande, AZ | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5061550007) |
+| 🏢 **Elastic** | Software Engineer II - Python - Developer Tools - Search 🏠 | United States | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101) |
 | 🏢 **Leidos** | Junior Software Engineer 🇺🇸 | Meridianville | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/meridianville-al/junior-software-engineer-898611/) |
-| 🏢 **MongoDB** | Software Engineer 3, Insights and Telemetry | New York City | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7571347) |
+| 🏢 **MongoDB** | Software Engineer 3, Insights and Telemetry | New York City | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7571347) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer, Personal Information & Identity Management | Boston, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3192473/software-development-engineer-personal-information-identity-management) |
 | 🏢 **The MITRE Corporation** | Entry Level - Software Engineering or Computer Science | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science) |
 | 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.morningstar.com/us/en/job/AP-23077420/Associate-Software-Engineer-Credit-Tech) |
@@ -475,7 +475,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **AT&T** | B2B Sales Account Executive | Tampa | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tampa-Florida/B2B-Sales-Account-Executive_R-98397) |
+| 🏢 **AT&T** | B2B Sales Account Executive | Tampa | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Tampa-Florida/B2B-Sales-Account-Executive_R-98397) |
 | 🧠 **Anthropic** | Account Coordinator | New York City, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5074975008) |
 | 🎮 **Discord** | Account Executive - Tech & Telco | San Francisco Bay... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8433948002) |
 | 🏢 **Cleveland Clinic** | Account Executive | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Account-Executive_322822) |
@@ -585,8 +585,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Phlebotomy Technician | Wooster Family He... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Wooster-Family-Health-Center/Phlebotomy-Technician_329528) |
-| 🏢 **Cleveland Clinic** | Phlebotomist Technician | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Phlebotomist-Technician_320257) |
+| 🏢 **Cleveland Clinic** | Phlebotomy Technician | Wooster Family He... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Wooster-Family-Health-Center/Phlebotomy-Technician_329528) |
+| 🏢 **Cleveland Clinic** | Phlebotomist Technician | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Phlebotomist-Technician_320257) |
 | 🎮 **NVIDIA** | Product Data Operations Engineering Systems Analyst | US, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016) |
 | 🧠 **Anthropic** | Support Operations Specialist, Learning & Education | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5080927008) |
 | 🏢 **Lucid Motors** | Mobile Service Technician - Orlando, FL | Orlando, FL | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002640007) |
@@ -695,11 +695,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | RN HOPS - Cardiac Cath Lab | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-HOPS---Cardiac-Cath-Lab_332778-1) |
-| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post  - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post----Neuro-Expansion_326007) |
-| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post---Neuro-Expansion_325975) |
-| 🏢 **Cleveland Clinic** | RN Hospital Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Weekender-Flex---Neuro-Expansion_326001) |
-| 🏢 **Cleveland Clinic** | RN Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Weekender-Flex---Neuro-Expansion_326000) |
+| 🏢 **Cleveland Clinic** | RN HOPS - Cardiac Cath Lab | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-HOPS---Cardiac-Cath-Lab_332778-1) |
+| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post  - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post----Neuro-Expansion_326007) |
+| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post---Neuro-Expansion_325975) |
+| 🏢 **Cleveland Clinic** | RN Hospital Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Weekender-Flex---Neuro-Expansion_326001) |
+| 🏢 **Cleveland Clinic** | RN Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Weekender-Flex---Neuro-Expansion_326000) |
 | 🏢 **The George Washington University Hospital** | New Grad RN Residency Program All Specialties (July 2026 Cohort) | Suitland-Silver Hill | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/suitland-md/new-grad-rn-residency-program-all-specialties-july-2026-cohort-044625/) |
 | 🏢 **SSM Health** | RN-Resident (Post Licensure) | Eldorado | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobserve.com/us/en/extjob/RN-RESIDENT-in-Eldorado-Wisconsin-USA-49DA40EC5FD68342DA/) |
 | 🏢 **SSM Health** | Registered Nurse - Emergency - Nights - No Experience Required | St Ann | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/saint-ann-mo/registered-nurse-emergency-nights-063878/) |
@@ -805,19 +805,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Ochsner Health** | Armed Security Officer - Laplace | New Orleans Regio... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Laplace---New-Orleans-Region---Louisiana/Armed-Security-Officer---Laplace_REQ_00256663-1) |
-| 🏢 **Mass General Brigham** | Patient Care Assistant Neurology BWH | MA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Patient-Care-Assistant-Neurology-BWH_RQ4050886) |
-| 🏢 **Intermountain Health** | Security Officer | Good Samaritan Ho... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/Security-Officer_R162987-1) |
-| 🏢 **Intermountain Health** | Security Officer | Intermountain Hea... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Security-Officer_R162497) |
-| 🏢 **Intermountain Health** | Patient Service Representative | Dee Hospital | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Patient-Service-Representative_R162856) |
-| 🏢 **Cleveland Clinic** | Clinical Pharmacist - Hospital Care at Home | Indian River Hosp... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/Clinical-Pharmacist---Hospital-Care-at-Home_316659) |
-| 🏢 **Cleveland Clinic** | Intern Administrative College (Unpaid) - Office of Physician and APP Recruitment and Alignment | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Intern-Administrative-College--Unpaid----Office-of-Physician-and-APP-Recruitment-and-Alignment_333250) |
-| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA) – SANE Program - PRN | Akron General Med... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Advanced-Practice-Provider--NP-PA----SANE-Program---PRN_330596) |
-| 🏢 **Boeing** | Mechanical Systems Design & Analysis Engineer (Associate or Experienced) | Oklahoma City, OK | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mechanical-Systems-Design---Analysis-Engineer--Associate-or-Experienced-_JR2026493196) |
-| 🏢 **Leidos** | CNC Tool Room Attendant | Huntsville, AL | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/CNC-Tool-Room-Attendant_R-00175788-1) |
+| 🏢 **Ochsner Health** | Armed Security Officer - Laplace | New Orleans Regio... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Laplace---New-Orleans-Region---Louisiana/Armed-Security-Officer---Laplace_REQ_00256663-1) |
+| 🏢 **Mass General Brigham** | Patient Care Assistant Neurology BWH | MA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Patient-Care-Assistant-Neurology-BWH_RQ4050886) |
+| 🏢 **Intermountain Health** | Security Officer | Good Samaritan Ho... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/Security-Officer_R162987-1) |
+| 🏢 **Intermountain Health** | Security Officer | Intermountain Hea... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Security-Officer_R162497) |
+| 🏢 **Intermountain Health** | Patient Service Representative | Dee Hospital | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Patient-Service-Representative_R162856) |
+| 🏢 **Cleveland Clinic** | Clinical Pharmacist - Hospital Care at Home | Indian River Hosp... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/Clinical-Pharmacist---Hospital-Care-at-Home_316659) |
+| 🏢 **Cleveland Clinic** | Intern Administrative College (Unpaid) - Office of Physician and APP Recruitment and Alignment | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Intern-Administrative-College--Unpaid----Office-of-Physician-and-APP-Recruitment-and-Alignment_333250) |
+| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA) – SANE Program - PRN | Akron General Med... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Advanced-Practice-Provider--NP-PA----SANE-Program---PRN_330596) |
+| 🏢 **Boeing** | Mechanical Systems Design & Analysis Engineer (Associate or Experienced) | Oklahoma City, OK | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mechanical-Systems-Design---Analysis-Engineer--Associate-or-Experienced-_JR2026493196) |
+| 🏢 **Leidos** | CNC Tool Room Attendant | Huntsville, AL | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/CNC-Tool-Room-Attendant_R-00175788-1) |
 | 🎮 **NVIDIA** | Product Compliance Engineer - Environmental and Sustainability | US, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Compliance-Engineer---Environmental-and-Sustainability_JR2011157) |
 | 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
-| 🏢 **Lucid Motors** | ADAS Software Integration Engineer | Newark, CA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4954042007) |
+| 🏢 **Lucid Motors** | ADAS Software Integration Engineer | Newark, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4954042007) |
 | 🏢 **Lucid Motors** | Admin Assistant, Engineering | Newark, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5015108007) |
 | 🏢 **Lucid Motors** | Service Advisor, Coolidge | Coolidge, AZ | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5004291007) |
 | 🏢 **Lucid Motors** | Delivery Associate 🏠 | Chicago, IL | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5002653007) |
