@@ -150,8 +150,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Akuna Capital** | Software Engineer Intern - Full Stack Web, Summer 2026 | Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/job-details?gh_jid=7060087) |
 | 🏢 **Akuna Capital** | Software Engineer Intern - Python, Summer 2026 | Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/job-details?gh_jid=7055471) |
 | 🏢 **Twilio** | Software Engineer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
-| 🏢 **Jobs via Dice** | Remote- Digital Manufacturing Software Engineer | Atlanta | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/remote-digital-manufacturing-software-engineer-at-jobs-via-dice-4377937760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Star Tribune Media Company LLC** | Software Engineer Intern - Fall 2026 | Minneapolis | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=b4157b42be55dad3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Jobs via Dice** | Remote- Digital Manufacturing Software Engineer | Atlanta | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/remote-digital-manufacturing-software-engineer-at-jobs-via-dice-4377937760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Star Tribune Media Company LLC** | Software Engineer Intern - Fall 2026 | Minneapolis | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=b4157b42be55dad3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Dropbox** | Full Stack Software Engineer, Dash Experiences | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7569140?gh_jid=7569140) |
 | 🏢 **MongoDB** | Site Reliability Engineer 3 | New York City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7145126) |
 | 🏢 **Anduril** | Software Engineer, Manufacturing Test | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5003658007?gh_jid=5003658007) |
@@ -172,7 +172,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, C++ | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673932007?gh_jid=4673932007) |
 | 🏢 **Anduril** | Mission Software Engineer, Air Vehicle Autonomy, C++ | Washington | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674096007?gh_jid=4674096007) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -282,7 +282,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Instacart** | Machine Learning PhD Intern, Economics | United States - R... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) |
 | 🏢 **Caterpillar** | People Analytics - Data Scientist | 3 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/People-Analytics---Data-Scientist_R0000353001-1) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -354,7 +354,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🚀 **SpaceX** | Product Security Engineer (Starshield) | Washington, DC | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8425940002?gh_jid=8425940002) |
 | 🚀 **SpaceX** | Product Security Engineer (Starshield) | Hawthorne, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8425936002?gh_jid=8425936002) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -464,7 +464,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Manufacturing Engineer | Morrisville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4854770007?gh_jid=4854770007) |
 | 🏢 **Anduril** | Manufacturing Engineering Intern | Ashville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797700007?gh_jid=4797700007) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -574,7 +574,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Account Executive, Select, San Mateo (Corp) | San Mateo, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4388198007) |
 | 🏢 **Verkada** | Account Executive, Select, San Mateo (SLED) | San Mateo, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4388200007) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -684,7 +684,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🛡️ **CrowdStrike** | Sales Operations Analyst | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Sales-Operations-Analyst_R27379) |
 | 🎮 **NVIDIA** | Engineering Technician - Hardware | US, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Engineering-Technician---Hardware_JR2013893-1) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -794,7 +794,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intermountain Health** | Neurosurgery Nurse Practitioner or Physician Assistant | Intermountain Hea... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Neurosurgery-Nurse-Practitioner-or-Physician-Assistant_R163767) |
 | 🏢 **Intermountain Health** | Patient Care Tech CNA Surg Transplant | Intermountain Hea... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Patient-Care-Tech-CNA-Surg-Transplant_R155768) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -904,7 +904,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ochsner Health** | Respiratory Therapist-Certified - OALH  Respiratory - PRN | Acadiana Region -... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Jennings---Acadiana-Region---Louisiana/Respiratory-Therapist------OLG-American-Legion---Respiratory---PRN_REQ_00251288) |
 | 🏢 **Ochsner Health** | Environmental Services Aide - Housekeeping - Chabert Campus - Day Shift - Full Time | Houma/Raceland Re... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Houma---HoumaRaceland-Region---Louisiana/Environmental-Services-Aide---Housekeeping---Chabert-Campus---Day-Shift---Full-Time_REQ_00256718) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
