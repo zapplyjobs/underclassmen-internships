@@ -9,8 +9,8 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-9284-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-655-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-9281-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-654-blue?style=flat&logo=building)
 ![Other Jobs](https://img.shields.io/badge/Other_Jobs-3887-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -107,12 +107,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Twilio** | Software Engineer Intern - United States | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7560246) |
 | 🏢 **Twilio** | Android Engineer - P3 - Security + Identity | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7229383) |
 | 🏢 **Twilio** | Software Engineer | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7070250) |
-| 🏢 **Elastic** | Software Engineer II - Python - Developer Tools - Search | United States | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101) |
+| 🏢 **Elastic** | Software Engineer II - Python - Developer Tools - Search | United States | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7602101&gh_jid=7602101) |
 | 🏢 **Chime** | Backend Engineer | San Francisco, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8342770002?gh_jid=8342770002) |
 | 🏢 **Chime** | Backend Engineer (Chicago) | Chicago, IL | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8376910002?gh_jid=8376910002) |
 | 🏢 **Anduril** | Early Career Software Engineer, Warfighter Systems | Bellevue | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5050193007?gh_jid=5050193007) |
 | 🏢 **Lucid Motors** | Network Engineer - 2nd Shift | Casa Grande, AZ | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5061550007) |
-| 📈 **Robinhood** | Software Engineer, Streaming Infrastructure | Bellevue, WA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7489770?t=gh_src=&gh_jid=7489770) |
+| 📈 **Robinhood** | Software Engineer, Streaming Infrastructure | Bellevue, WA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7489770?t=gh_src=&gh_jid=7489770) |
 | ₿ **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
 | ₿ **Coinbase** | Software Engineer | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
 | ₿ **Coinbase** | Product Designer II, Defi | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7604149?gh_jid=7604149) |
@@ -122,9 +122,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | ₿ **Coinbase** | Software Engineer Intern | San Francisco, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
 | ₿ **Coinbase** | Software Engineer, Backend (Institutional - Custody) | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
 | ₿ **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
-| 🤖 **OpenAI** | Software Engineer Systems Research Internship, Applied Emerging Talent (Summer 2026) | San Francisco | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f/application) |
+| 🤖 **OpenAI** | Software Engineer Systems Research Internship, Applied Emerging Talent (Summer 2026) | San Francisco | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/13a9e4e4-505b-4545-8b2b-b0bcc09c2b4f/application) |
 | ₿ **Coinbase** | Software Engineer, Frontend - Identity | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035) |
-| 🏢 **xAI** | Mobile Android Engineer | New York, NY | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4892323007) |
+| 🏢 **xAI** | Mobile Android Engineer | New York, NY | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4892323007) |
 | 🏢 **xAI** | Fullstack Engineer - Companions | Palo Alto, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4789505007) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer, Fire TV | Sunnyvale, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193658/software-development-engineer-fire-tv) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer, AWS Proactive Security | Seattle, WA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3194445/software-development-engineer-aws-proactive-security) |
@@ -134,10 +134,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Lucid Software** | UX Designer | Salt Lake City, UT | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5812414004) |
 | 🏢 **Lucid Software** | UX Designer | Raleigh, NC | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5817343004) |
 | ☁️ **Salesforce** | Software Engineering LMTS | 3 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR323339-1) |
-| 🏢 **The Trade Desk** | Full Stack Software Engineer II | Bellevue; Seattle | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5043258007) |
-| 🏢 **The Trade Desk** | IT Network Engineer II | New York | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5024451007) |
-| 🏢 **The Trade Desk** | Software Engineer II | Bellevue | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5054936007) |
-| 🏢 **The Trade Desk** | Software Engineer II - Platform API | Bellevue; Seattle | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5043167007) |
+| 🏢 **The Trade Desk** | Full Stack Software Engineer II | Bellevue; Seattle | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5043258007) |
+| 🏢 **The Trade Desk** | IT Network Engineer II | New York | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5024451007) |
+| 🏢 **The Trade Desk** | Software Engineer II | Bellevue | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5054936007) |
+| 🏢 **The Trade Desk** | Software Engineer II - Platform API | Bellevue; Seattle | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5043167007) |
 | 🏢 **xAI** | Fullstack Engineer - Education (Spanish Bilingual) | Palo Alto, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5026678007) |
 | 🏢 **xAI** | Mobile iOS Engineer | Palo Alto, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4985386007) |
 | 🏢 **xAI** | Network Engineer | Memphis, TN | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4870731007) |
@@ -147,17 +147,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **xAI** | Backend Engineer - Grok Imagine | Palo Alto, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4913335007) |
 | 🏢 **xAI** | Software Engineer - Infrastructure/Supercomputing | Palo Alto, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4370588007) |
 | 🏢 **xAI** | Software Engineer - Networking Software and Services | Palo Alto, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4946696007) |
-| 🚀 **SpaceX** | Electrical Test and Reliability Engineer, Gateways (Starlink) | Bastrop, TX | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8445519002?gh_jid=8445519002) |
+| 🚀 **SpaceX** | Electrical Test and Reliability Engineer, Gateways (Starlink) | Bastrop, TX | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8445519002?gh_jid=8445519002) |
 | 🚀 **SpaceX** | RF Silicon Software Engineer (Starlink) | Redmond, WA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8439627002?gh_jid=8439627002) |
-| 👁️ **Palantir** | Forward Deployed Software Engineer - Tactical Edge | Washington | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43/apply) |
-| 🏢 **MongoDB** | Software Engineer 3 | New York City | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7644278) |
-| 🏢 **Anduril** | Early Career Software Engineer, Mixed Reality | Bellevue | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051227007?gh_jid=5051227007) |
+| 👁️ **Palantir** | Forward Deployed Software Engineer - Tactical Edge | Washington | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43/apply) |
+| 🏢 **MongoDB** | Software Engineer 3 | New York City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7644278) |
+| 🏢 **Anduril** | Early Career Software Engineer, Mixed Reality | Bellevue | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051227007?gh_jid=5051227007) |
 | 🏢 **MongoDB** | Site Reliability Engineer 3 | New York City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7145126) |
 | 🏢 **MongoDB** | Software Engineer 3 | Palo Alto; Seattle | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
 | 🏢 **MongoDB** | Software Engineer 3, Atlas Data Federation Customer Experience | New York City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7551186) |
 | 🏢 **MongoDB** | Software Engineer 3, Insights and Telemetry | New York City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7571347) |
 | 🏢 **MongoDB** | Software Engineer 3 (SE3), Developer Productivity (Backstage) | United States | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7527309) |
-| 🎵 **Spotify** | Fullstack Engineer – Platform Developer Experience | New York, NY | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/651491f7-cd91-49bd-93f5-eb939344463b/apply) |
+| 🎵 **Spotify** | Fullstack Engineer – Platform Developer Experience | New York, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/651491f7-cd91-49bd-93f5-eb939344463b/apply) |
 | 🏢 **Ascensus** | Associate Software Engineer, | Upper Dublin Town... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.ascensus.com/jobs/associate-software-engineer-dresher-pennsylvania-united-states-bb55bb6b-8a45-465c-97e8-0f36ca48d3b3) |
 | 🏢 **Ascensus** | Associate Software Engineer, | Newton | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.ascensus.com/jobs/associate-software-engineer-newton-massachusetts-united-states-1f376bf6-d0c3-4f09-bc17-d4701e2f6572) |
 | 🏢 **AppLovin** | Product Designer | Palo Alto, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4614405006?gh_jid=4614405006) |
@@ -201,14 +201,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Data Engineer, Amazon Smart Vehicles | Sunnyvale, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3194491/data-engineer-amazon-smart-vehicles) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Applied Scientist, Quantum Device Packaging & Environment R&D, Device Team, AWS Center for Quantum Computing, Device Team | Pasadena, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193702/applied-scientist-quantum-device-packaging-environment-r-d-device-team-aws-center-for-quantum-computing-device-team) |
 | 🏢 **Tenstorrent** | C++ Machine Learning Engineer, AI Models Training | Santa Clara | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) |
-| 🏢 **The Trade Desk** | Applied Scientist II | Bellevue | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5063672007) |
-| 🏢 **The Trade Desk** | Applied Scientist II | Irvine | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5063664007) |
+| 🏢 **The Trade Desk** | Applied Scientist II | Bellevue | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5063672007) |
+| 🏢 **The Trade Desk** | Applied Scientist II | Irvine | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5063664007) |
 | 🏢 **BAE Systems** | Data Scientist Internship Summer 2026 | Stafford | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/121525BR/Data-Scientist-Internship-Summer-2026) |
 | 🏢 **PG&E Corporation** | Data Scientist Intern - System Performance Monitoring | Oakland | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.pge.com/job/oakland/data-scientist-intern-system-performance-monitoring/29673/92327830352) |
-| 🎨 **Adobe** | Machine Learning and NLP Engineer | San Jose | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-and-NLP-Engineer_R166111) |
+| 🎨 **Adobe** | Machine Learning and NLP Engineer | San Jose | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-and-NLP-Engineer_R166111) |
 | 🏢 **Figure AI** | Helix AI Engineer, Agentic Systems | San Jose, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4659175006) |
-| 🏢 **Datadog** | AI Research Engineer – Datadog AI Research (DAIR) | New York | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013) |
-| 🏢 **Datadog** | AI Research Scientist – Datadog AI Research (DAIR) | New York | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669) |
+| 🏢 **Datadog** | AI Research Engineer – Datadog AI Research (DAIR) | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013) |
+| 🏢 **Datadog** | AI Research Scientist – Datadog AI Research (DAIR) | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669) |
 | 🏠 **Airbnb** | Machine Learning Engineering Intern (PhD) | United States | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7669906?gh_jid=7669906) |
 | 🏢 **Crusoe** | Strategic Sourcing Data Analyst | Denver, CO | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/cf79c92a-3895-4c8d-97a7-984dffc3222c/application) |
 | 🏢 **HubSpot** | Analytics Engineer | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
@@ -265,7 +265,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Sony Interactive Entertainment** | Machine Learning Engineer II, Search | United States, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5813165004) |
 | 🏢 **Sony Interactive Entertainment** | Audience Business Analyst | United States, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5691882004) |
 | 🟢 **DeepMind** | Research Engineer, Developer Experience, Gemini Robotics | Mountain View, US | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7411063) |
-| 🏢 **Snorkel AI** | Applied AI Engineer - Federal | Washington | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5721276004) |
+| 🏢 **Snorkel AI** | Applied AI Engineer - Federal | Washington | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5721276004) |
 | 🧠 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
 | 🧠 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
 | 🏢 **Snorkel AI** | Research Scientist | Redwood City, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5690608004) |
@@ -435,9 +435,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🟩 **Roblox** | Quality Engineer, Game Engine | San Mateo, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7645318?gh_jid=7645318) |
 | 🏢 **Anduril** | Product Quality Engineer | Irvine | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034002007?gh_jid=5034002007) |
-| 🏢 **Datadog** | Enablement Systems Engineer | New York | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
-| 🏢 **Tenstorrent** | ASIC Networking Engineer | United States | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5062896007) |
-| 🚀 **SpaceX** | Manufacturing Engineer (Composites) | Hawthorne, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8303135002?gh_jid=8303135002) |
+| 🏢 **Datadog** | Enablement Systems Engineer | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7538717/?gh_jid=7538717) |
+| 🏢 **Tenstorrent** | ASIC Networking Engineer | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5062896007) |
+| 🚀 **SpaceX** | Manufacturing Engineer (Composites) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8303135002?gh_jid=8303135002) |
 | 🏢 **Applied Materials** | New Product Manufacturing Engineer II | Austin, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/New-Product-Manufacturing-Engineer-II_R2613285) |
 | 🏢 **Figure AI** | Reliability Test Engineer, Mechatronics (All Levels) | San Jose, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4655258006) |
 | 🏢 **Anduril** | Mechanical Engineer, Imaging | Lexington | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5064569007?gh_jid=5064569007) |
@@ -513,7 +513,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | ☁️ **Salesforce** | Named Account Executive, K-12 | Remote 🏠 | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Named-Account-Executive--K-12_JR319908) |
 | 🏢 **AT&T** | B2B Sales Account Executive - Fiber | 2 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATNKnoxville--Magnolia-Ave---Co-3d410-W-Magnolia-Ave/Specialist-Sales-Exec-S1-Territory-Fib_R-102611) |
 | 🏢 **Verkada** | Sales Development Representative (AAE), Phoenix | Tempe, AZ | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135267007) |
-| 🏢 **Grafana Labs** | Commercial Account Executive, Acquisition   Texas   Remote | United States (Re... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/grafanalabs/jobs/5775909004) |
+| 🏢 **Grafana Labs** | Commercial Account Executive, Acquisition   Texas   Remote | United States (Re... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/grafanalabs/jobs/5775909004) |
 | 🏢 **MongoDB** | Account Development Representative | Tysons | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7669637) |
 | 🏢 **Airtable** | Account Executive, Mid Market | Austin, TX | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8403107002) |
 | 🏢 **Twilio** | Account Executive 3 | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7610263) |
@@ -521,40 +521,40 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Twilio** | Digital Sales Representative - Expansion | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7620973) |
 | 🏢 **Twilio** | Sales Development Representative | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7481689) |
 | 🏢 **Chime** | Sales Development Representative | New York, NY | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8430045002?gh_jid=8430045002) |
-| 🏢 **MongoDB** | Account Development Representative | Boston | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7310552) |
+| 🏢 **MongoDB** | Account Development Representative | Boston | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7310552) |
 | ₿ **Coinbase** | Supervisor, Customer Success Team (Onsite - Relocation Assistance Available) | Charlotte, NC | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049) |
 | 🏢 **Celonis** | Business Development Representative Intern | New York, US | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/6300202003?gh_jid=6300202003) |
 | 🏢 **Celonis** | Business Development Representative Intern | Raleigh, US | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/5978629003?gh_jid=5978629003) |
 | 🔐 **Okta** | Business Development Representative Intern (Summer 2026) | Bellevue, DC | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7539373?gh_jid=7539373) |
 | 🧠 **Anthropic** | Growth Account Executive, Startups | San Francisco, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4423394008) |
 | 🧠 **Anthropic** | Account Executive, Startups | San Francisco, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4461450008) |
-| 📊 **Databricks** | Business Development Representative | New York City | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8423158002) |
+| 📊 **Databricks** | Business Development Representative | New York City | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8423158002) |
 | 🏢 **Lucid Software** | NA SMB New Logo Account Executive | Raleigh, NC | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5817018004) |
 | 🏢 **Lucid Software** | NA SMB New Logo Account Executive | Salt Lake City, UT | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5817017004) |
 | 🏢 **Lucid Software** | NA Mid-Market New Logo Account Executive | Salt Lake City, UT | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5817012004) |
 | 🏢 **Lucid Software** | NA Mid-Market New Logo Account Executive | Raleigh, NC | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5817011004) |
-| 🏢 **Datadog** | Commercial Account Executive | Denver | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375) |
-| 🏢 **Datadog** | Commercial Account Executive (Boston) | Boston | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543) |
-| 🏢 **Datadog** | Commercial Account Executive - LATAM (Portuguese Speaking) | Denver | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7460318/?gh_jid=7460318) |
-| 🏢 **Datadog** | Commercial Account Executive - LATAM (Spanish Speaking) - Boston | Boston | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207) |
-| 🏢 **Datadog** | Commercial Sales Engineer (East) | Boston | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
-| 🏢 **Datadog** | Customer Success Associate - Boston | Boston | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466) |
-| 🏢 **Datadog** | Enterprise Sales Engineer - SLED | California | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7647175/?gh_jid=7647175) |
-| 🏢 **Datadog** | Enterprise Sales Executive | North Carolina | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331) |
-| 🏢 **Datadog** | Enterprise Sales Executive | Florida | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155) |
-| 🏢 **Datadog** | Enterprise Sales Executive | Boston | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254) |
-| 🏢 **Datadog** | Enterprise Sales Executive | Georgia | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822) |
-| 🏢 **Datadog** | Enterprise Sales Executive | Washington | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707) |
-| 🏢 **Datadog** | Enterprise Sales Executive | New York | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831) |
-| 🏢 **Datadog** | Enterprise Sales Executive (FED) | Maryland | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284) |
-| 🏢 **Datadog** | Enterprise Sales Executive (FED) | Washington | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680) |
-| 🏢 **Datadog** | Enterprise Sales Executive (SLED) | Illinois | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
-| 🏢 **Datadog** | Enterprise Sales Executive (SLED) | San Francisco | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752) |
-| 🏢 **Datadog** | Mid Market Account Executive | Denver | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246) |
-| 🏢 **Datadog** | Mid Market Account Executive | New York | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385) |
-| 🏢 **Datadog** | Mid-Market Account Executive (Boston) | Boston | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820) |
-| 🏢 **Datadog** | Mid-Market Account Executive (San Francisco) | San Francisco | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012) |
-| 🏢 **Datadog** | Security Sales Engineer | California | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
+| 🏢 **Datadog** | Commercial Account Executive | Denver | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375) |
+| 🏢 **Datadog** | Commercial Account Executive (Boston) | Boston | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543) |
+| 🏢 **Datadog** | Commercial Account Executive - LATAM (Portuguese Speaking) | Denver | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7460318/?gh_jid=7460318) |
+| 🏢 **Datadog** | Commercial Account Executive - LATAM (Spanish Speaking) - Boston | Boston | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207) |
+| 🏢 **Datadog** | Commercial Sales Engineer (East) | Boston | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669) |
+| 🏢 **Datadog** | Customer Success Associate - Boston | Boston | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466) |
+| 🏢 **Datadog** | Enterprise Sales Engineer - SLED | California | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7647175/?gh_jid=7647175) |
+| 🏢 **Datadog** | Enterprise Sales Executive | North Carolina | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331) |
+| 🏢 **Datadog** | Enterprise Sales Executive | Florida | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155) |
+| 🏢 **Datadog** | Enterprise Sales Executive | Boston | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254) |
+| 🏢 **Datadog** | Enterprise Sales Executive | Georgia | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822) |
+| 🏢 **Datadog** | Enterprise Sales Executive | Washington | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426707/?gh_jid=7426707) |
+| 🏢 **Datadog** | Enterprise Sales Executive | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831) |
+| 🏢 **Datadog** | Enterprise Sales Executive (FED) | Maryland | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284) |
+| 🏢 **Datadog** | Enterprise Sales Executive (FED) | Washington | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680) |
+| 🏢 **Datadog** | Enterprise Sales Executive (SLED) | Illinois | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039) |
+| 🏢 **Datadog** | Enterprise Sales Executive (SLED) | San Francisco | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7426752/?gh_jid=7426752) |
+| 🏢 **Datadog** | Mid Market Account Executive | Denver | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246) |
+| 🏢 **Datadog** | Mid Market Account Executive | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385) |
+| 🏢 **Datadog** | Mid-Market Account Executive (Boston) | Boston | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820) |
+| 🏢 **Datadog** | Mid-Market Account Executive (San Francisco) | San Francisco | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012) |
+| 🏢 **Datadog** | Security Sales Engineer | California | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | 🏢 **MongoDB** | Account Development Representative | New York City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7310506) |
 | 🏢 **MongoDB** | Account Development Representative | Atlanta | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7317925) |
 | 🏢 **MongoDB** | Account Development Representative | Austin | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7311204) |
@@ -693,19 +693,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Brex** | Technical Consultant | Seattle | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8442452002?gh_jid=8442452002) |
 | 🏢 **Brex** | Technical Consultant | New York | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8442450002?gh_jid=8442450002) |
 | 🏢 **Brex** | Technical Consultant | San Francisco | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8442443002?gh_jid=8442443002) |
-| 🏢 **Boeing** | Associate Supply Chain Specialist | Hazelwood, MO | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Supply-Chain-Specialist_JR2026498383-1) |
+| 🏢 **Boeing** | Associate Supply Chain Specialist | Hazelwood, MO | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Supply-Chain-Specialist_JR2026498383-1) |
 | 🏢 **Verkada** | Enterprise Solutions Engineer, Southern California | Los Angeles, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4185319007) |
 | 🏢 **Decagon** | Associate Solutions Engineer | San Francisco | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/decagon/60f9082c-5ab9-49ef-8731-c86707b45dfa/application) |
 | 🏢 **Anduril** | Hardware Technician I | Lexington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5067121007?gh_jid=5067121007) |
 | 🏢 **Anduril** | Wire Bonding Technician | Lexington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5059356007?gh_jid=5059356007) |
 | 🏢 **Anduril** | Microelectronics Technician | Lexington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5059372007?gh_jid=5059372007) |
-| 🚀 **SpaceX** | Test Technician (Starlink) | Redmond, WA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8444958002?gh_jid=8444958002) |
-| 🚀 **SpaceX** | Supply Chain Planner (Starshield) | Hawthorne, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8438752002?gh_jid=8438752002) |
+| 🚀 **SpaceX** | Test Technician (Starlink) | Redmond, WA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8444958002?gh_jid=8444958002) |
+| 🚀 **SpaceX** | Supply Chain Planner (Starshield) | Hawthorne, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8438752002?gh_jid=8438752002) |
 | 🔐 **Okta** | Recruiting Programs Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544487?gh_jid=7544487) |
 | 🔐 **Okta** | University Recruiting Intern (Summer 2026) | San Francisco | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544485?gh_jid=7544485) |
-| 🏢 **xAI** | IT Services Technician | Seattle, WA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5033586007) |
-| 🏢 **xAI** | IT Services Technician | Palo Alto, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5033593007) |
-| 🏢 **Lucid Motors** | Service Technician, Phoenix | Phoenix, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4927160007) |
+| 🏢 **xAI** | IT Services Technician | Seattle, WA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5033586007) |
+| 🏢 **xAI** | IT Services Technician | Palo Alto, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5033593007) |
+| 🏢 **Lucid Motors** | Service Technician, Phoenix | Phoenix, AZ | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4927160007) |
 | 🏢 **Anduril** | Field Operations Associate, RC Pilot | Costa Mesa | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5056275007?gh_jid=5056275007) |
 | 🏢 **Anduril** | Field Operations Associate, RC Pilot | Fort Stockton | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5056302007?gh_jid=5056302007) |
 
@@ -992,7 +992,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 9284 current opportunities from 655 companies**
+**🎯 9281 current opportunities from 654 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
