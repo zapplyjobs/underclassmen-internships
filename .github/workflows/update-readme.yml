@@ -7,14 +7,7 @@ name: Update README Only
 # - Regenerate README without fetching new jobs
 
 on:
-  workflow_dispatch:  # Manual trigger only
-  push:
-    branches: [ master, main ]
-    paths:
-      - '.github/scripts/job-fetcher/readme-generator.js'
-      - '.github/scripts/job-fetcher/update-readme-only.js'
-      - '.github/scripts/job-fetcher/utils.js'
-      - '.github/scripts/job-fetcher/*.json'  # Category config files
+  workflow_dispatch:  # Manual trigger only — push trigger removed (job-fetcher/ paths no longer change via current submodule-based workflow)
 
 jobs:
   update-readme:
