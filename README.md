@@ -9,9 +9,9 @@
 
 # New Grad Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-11225-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-11207-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-426-blue?style=flat&logo=building)
-![Other Jobs](https://img.shields.io/badge/Other_Jobs-5492-red?style=flat&logo=star)
+![Other Jobs](https://img.shields.io/badge/Other_Jobs-5484-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 Updated job openings for new grads in SWE and other tech roles | 2026
@@ -71,20 +71,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Caterpillar** | Software Engineer | Irving | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Software-Engineer_R0000356600) |
+| 🏢 **Caterpillar** | Software Engineer | Irving | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Software-Engineer_R0000356600) |
 | 🏢 **PayPal** | Software Engineer, Backend Python | San Jose | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Backend-Python_R0134430) |
 | 🏢 **Jane Street** | Front End Software Engineer | New York | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/6184529002) |
-| 🏢 **Jane Street** | Software Engineer | New York | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/4274288002) |
+| 🏢 **Jane Street** | Software Engineer | New York | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/4274288002) |
 | 🎮 **Twitch** | Software Engineer, Creator Sponsorships | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8345959002) |
 | 🏢 **Anduril** | Propulsion Test Infrastructure Engineer | Santa Ana | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030310007?gh_jid=5030310007) |
 | 🏢 **Anduril** | Software Engineer, Data Engineering | Costa Mesa | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) |
 | 🧠 **Anthropic** | Full Stack Software Engineer, Reinforcement Learning | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5098984008) |
 | 🧠 **Anthropic** | Software Engineer, Enterprise AI Products | New York City, NY | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4941996008) |
 | 🧠 **Anthropic** | Software Engineer, Growth | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5042025008) |
-| 🚀 **SpaceX** | Design Reliability Engineer | Hawthorne, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8424711002?gh_jid=8424711002) |
+| 🚀 **SpaceX** | Design Reliability Engineer | Hawthorne, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8424711002?gh_jid=8424711002) |
 | 🎮 **Twitch** | Software Development Engineer, Money | San Francisco, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8375575002) |
 | 🎮 **Twitch** | UX Designer, Monetization | Irvine, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8458011002) |
-| 🏢 **The MITRE Corporation** | Entry Level - Software Engineering or Computer Science | McLean | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science) |
+| 🏢 **The MITRE Corporation** | Entry Level - Software Engineering or Computer Science | McLean | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115689/Entry-Level-Software-Engineering-or-Computer-Science) |
 | 🚀 **SpaceX** | Security Software Engineer (Starlink) | Redmond, WA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8406031002?gh_jid=8406031002) |
 | 🚀 **SpaceX** | Security Software Engineer (Starlink) | Hawthorne, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8445643002?gh_jid=8445643002) |
 | 🏢 **Scale AI** | Software Engineer, Full Stack – Scale GP | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4637485005) |
@@ -94,9 +94,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 📋 **Asana** | Software Engineer, CI/CD | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7299272?gh_jid=7299272) |
 | 📋 **Asana** | iOS Engineer | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/6806085?gh_jid=6806085) |
 | 🏢 **Anduril** | Security Software Engineer - Crypto Services | Costa Mesa | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5002794007?gh_jid=5002794007) |
-| 🏢 **Point72** | Cloud Engineer | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8109650002?gh_jid=8109650002) |
-| 🏢 **Point72** | Quantitative Analyst / Software Developer | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) |
-| 🏢 **Point72** | Quantitative Software Developer | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) |
+| 🏢 **Point72** | Cloud Engineer | New York, NY | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8109650002?gh_jid=8109650002) |
+| 🏢 **Point72** | Quantitative Analyst / Software Developer | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) |
+| 🏢 **Point72** | Quantitative Software Developer | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) |
 | 🏢 **xAI** | Site Reliability Engineer - Cybersecurity | Palo Alto, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4803447007) |
 | 🏢 **Applied Intuition** | Software Engineer - E2E Autonomy | Sunnyvale | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4626940005?gh_jid=4626940005) |
 | 🏢 **xAI** | Fullstack Engineer - Companions | Palo Alto, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4789505007) |
@@ -106,13 +106,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🟩 **Roblox** | Software Engineer, Assessments | San Mateo, CA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7664878?gh_jid=7664878) |
 | 🏢 **D.E. Shaw** | Platform Engineer, C/FICCO | Chicago | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7696484) |
 | 🏢 **CACI** | NASA Lunar Gateway Data Services Web Software Developer | US TX Houston | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Lunar-Gateway-Data-Services-Web-Software-Developer_323036) |
-| 🔐 **Okta** | Associate Software Engineer (New Grad) | San Francisco | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7401519?gh_jid=7401519) |
+| 🔐 **Okta** | Associate Software Engineer (New Grad) | San Francisco | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7401519?gh_jid=7401519) |
 | 🏢 **Together AI** | Software Engineer - Storage & Observability (Early Career) | San Francisco | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5073769007) |
 | 🏢 **Kitware** | Systems Administrator | Clifton Park | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/5f46d4a7-80c5-4dcf-bcd8-438108aa3d12/apply) |
-| 🏢 **Amentum** | Junior Software Engineer for Naval Research Technology | Fredericksburg | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amentumcareers.com/jobs/junior-software-engineer-for-naval-research-technology-fredericksburg-virginia-united-states-12b4dac1-aa46-424b-80f9-6c8e8332c4cb) |
+| 🏢 **Amentum** | Junior Software Engineer for Naval Research Technology | Fredericksburg | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amentumcareers.com/jobs/junior-software-engineer-for-naval-research-technology-fredericksburg-virginia-united-states-12b4dac1-aa46-424b-80f9-6c8e8332c4cb) |
 | 🤖 **OpenAI** | Software Engineer, Delivery / CD | San Francisco | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/e14fc37c-7ae5-4a6b-ba0d-a36860cf9bb2/application) |
-| 🏢 **Cloudflare** | Software Engineer, Workers Deploy & Config | Hybrid | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424) |
-| 🎵 **Spotify** | Product Designer - Advertising | New York, NY | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/a6bee751-d090-4f8d-92f6-ae1550bcfe02/apply) |
+| 🏢 **Cloudflare** | Software Engineer, Workers Deploy & Config | Hybrid | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424) |
+| 🎵 **Spotify** | Product Designer - Advertising | New York, NY | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/a6bee751-d090-4f8d-92f6-ae1550bcfe02/apply) |
 | 🏢 **PayPal** | Web Software Engineer | San Jose | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Web-Software-Engineer_R0134512) |
 | 🏢 **Cloudflare** | Frontend Software Engineer - Cloudforce One | Hybrid | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7563764?gh_jid=7563764) |
 | 🏢 **PayPal** | Software Engineer 3 | San Jose | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-3_R0135297) |
@@ -282,22 +282,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Elastic** | Business Intelligence & Insights Analyst (Marketing Analytics) | United States | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7648141&gh_jid=7648141) |
+| 🏢 **Elastic** | Business Intelligence & Insights Analyst (Marketing Analytics) | United States | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7648141&gh_jid=7648141) |
 | 🧠 **Anthropic** | Research Engineer, Economic Research | San Francisco, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5071132008) |
 | 🏢 **Jane Street** | Data Engineer | New York | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) |
 | 🏢 **WorldQuant** | NLP Data Engineer | Hanoi OR Ho Chi M... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/worldquant/jobs/4653495006) |
 | 🧠 **Anthropic** | Applied AI Engineer, Beneficial Deployments | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5068226008) |
 | 🧠 **Anthropic** | Applied AI Engineer (Digital Natives Business) | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5057647008) |
-| 🏢 **The MITRE Corporation** | Entry Level - Data Science, Artificial Intelligence, Operations Research, Math and Statistics | McLean | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115687/Entry-Level-Data-Science-Artificial-Intelligence-Operations-Research-Math-and-Statistics) |
+| 🏢 **The MITRE Corporation** | Entry Level - Data Science, Artificial Intelligence, Operations Research, Math and Statistics | McLean | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115687/Entry-Level-Data-Science-Artificial-Intelligence-Operations-Research-Math-and-Statistics) |
 | 🚀 **SpaceX** | Business Analyst, Customer Operations (Starlink) | Redmond, WA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8318394002?gh_jid=8318394002) |
 | 🚀 **SpaceX** | Business Analyst (Starlink Growth) | Redmond, WA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8403125002?gh_jid=8403125002) |
 | 🚀 **SpaceX** | Business Analyst (Starlink Growth) | Hawthorne, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8402995002?gh_jid=8402995002) |
-| 🏢 **Inflection AI** | Machine Learning Engineer | Palo Alto | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/inflectionai/jobs/4661506006?gh_jid=4661506006) |
+| 🏢 **Inflection AI** | Machine Learning Engineer | Palo Alto | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/inflectionai/jobs/4661506006?gh_jid=4661506006) |
 | 🤖 **OpenAI** | Research Engineer, SLAM & Multi-View Geometry | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68/application) |
-| 🏢 **Point72** | Access and Identity Management Business Analyst | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8433961002?gh_jid=8433961002) |
-| 🏢 **Point72** | AI Engineer – Investment Research & Workflows | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8351985002?gh_jid=8351985002) |
-| 🏢 **Point72** | Business Analyst, Equities Technology | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8409245002?gh_jid=8409245002) |
-| 🏢 **Torc Robotics** | Data Scientist, I - Decision Science | Ann Arbor, MI | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8445206002) |
+| 🏢 **Point72** | Access and Identity Management Business Analyst | United States | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8433961002?gh_jid=8433961002) |
+| 🏢 **Point72** | AI Engineer – Investment Research & Workflows | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8351985002?gh_jid=8351985002) |
+| 🏢 **Point72** | Business Analyst, Equities Technology | New York, NY | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8409245002?gh_jid=8409245002) |
+| 🏢 **Torc Robotics** | Data Scientist, I - Decision Science | Ann Arbor, MI | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8445206002) |
 | 🏢 **Jane Street** | Machine Learning Educator | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8056588002) |
 | 🏢 **Jane Street** | Machine Learning Engineer | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8048874002) |
 | 🏢 **Amazon.com Services LLC** | Business Intelligence Engineer , GTMO DATA | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3200733/business-intelligence-engineer-gtmo-data) |
@@ -476,9 +476,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🧠 **Anthropic** | Security Engineer, Detection & Response | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4982193008) |
 | 🏢 **Rocket Lab** | Security Analyst | Wallops Island, VA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7656394003) |
-| 🏢 **Rocket Lab** | Security Analyst | Long Beach, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7652585003) |
-| 🏢 **Rocket Lab** | Security Analyst | Albuquerque, NM | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7652587003) |
-| 🏢 **xAI** | Security Engineer - Detection & Response | New York, NY | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5008186007) |
+| 🏢 **Rocket Lab** | Security Analyst | Long Beach, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7652585003) |
+| 🏢 **Rocket Lab** | Security Analyst | Albuquerque, NM | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7652587003) |
+| 🏢 **xAI** | Security Engineer - Detection & Response | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5008186007) |
 | ₿ **Coinbase** | Blockchain Security Engineer | Remote | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7701657?gh_jid=7701657) |
 | 🏢 **xAI** | Network Security Engineer | Palo Alto, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4800712007) |
 | 📋 **Asana** | Corporate Security Engineer | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7441441?gh_jid=7441441) |
@@ -540,9 +540,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Development Test Engineer | Costa Mesa | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4676612007?gh_jid=4676612007) |
 | 🏢 **Anduril** | Quality Engineer | Santa Ana | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5069200007?gh_jid=5069200007) |
 | 🟢 **Waymo** | Systems Test Engineer, Commercialization Test Automation | Mountain View, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7702392) |
-| 🚀 **SpaceX** | Manufacturing Engineer (Merlin Thrust Chamber Assemblies) - 2nd Shift | Hawthorne, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8368853002?gh_jid=8368853002) |
-| 🚀 **SpaceX** | Manufacturing Engineer (Merlin Thrust Chamber Assemblies) | Hawthorne, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8233140002?gh_jid=8233140002) |
-| 🚀 **SpaceX** | Propulsion Engineer (Falcon Components) | Hawthorne, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8419416002?gh_jid=8419416002) |
+| 🚀 **SpaceX** | Manufacturing Engineer (Merlin Thrust Chamber Assemblies) - 2nd Shift | Hawthorne, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8368853002?gh_jid=8368853002) |
+| 🚀 **SpaceX** | Manufacturing Engineer (Merlin Thrust Chamber Assemblies) | Hawthorne, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8233140002?gh_jid=8233140002) |
+| 🚀 **SpaceX** | Propulsion Engineer (Falcon Components) | Hawthorne, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8419416002?gh_jid=8419416002) |
 | 🏢 **Lucid Motors** | Body Controls Engineer | Newark, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4847987007) |
 | 📈 **Robinhood** | Quality Engineer, Options | Menlo Park, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7580045?t=gh_src=&gh_jid=7580045) |
 | 🏢 **Neuralink** | Robot Reliability and Test Engineer | Austin | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7660771003?gh_jid=7660771003) |
@@ -721,8 +721,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🧠 **Anthropic** | Account Coordinator | New York City, NY | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5074975008) |
 | 🧠 **Anthropic** | Account Executive, Nonprofit | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4976314008) |
 | 🧠 **Anthropic** | Account Executive, Nonprofit | New York City, NY | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5083143008) |
-| 🏢 **Lucid Software** | NA Corporate New Logo Account Executive | Raleigh, NC | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5822540004) |
-| 🏢 **Lucid Software** | NA Corporate New Logo Account Executive | Salt Lake City, UT | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5476717004) |
+| 🏢 **Lucid Software** | NA Corporate New Logo Account Executive | Raleigh, NC | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5822540004) |
+| 🏢 **Lucid Software** | NA Corporate New Logo Account Executive | Salt Lake City, UT | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5476717004) |
 | 🚀 **SpaceX** | Automation Engineer (Starlink Customer Success) | Redmond, WA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8407790002?gh_jid=8407790002) |
 | 🚀 **SpaceX** | Automation Engineer (Starlink Customer Success) | Hawthorne, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8407774002?gh_jid=8407774002) |
 | 🚀 **SpaceX** | Technical Operations Engineer, Customer Success (Starlink) | Redmond, WA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8318355002?gh_jid=8318355002) |
@@ -732,18 +732,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Datadog** | Commercial Sales Engineer (AMER - West) | Denver | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226) |
 | 📋 **Asana** | Emerging Enterprise Account Executive, Financial Services | Chicago | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7558860?gh_jid=7558860) |
 | 📋 **Asana** | Corporate Account Executive | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7366083?gh_jid=7366083) |
-| 📊 **Databricks** | Startup Core Account Executive - West | West Coast - Unit... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8405827002) |
+| 📊 **Databricks** | Startup Core Account Executive - West | West Coast - Unit... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8405827002) |
 | 🏢 **MongoDB** | Associate Commercial Growth Account Executive | Austin; Boston; N... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7622319) |
 | 🏢 **Zscaler** | Sales Development Representative | Boston | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5052791007) |
 | 🏢 **Celonis** | Business Development Representative | New York, US | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/6095979003?gh_jid=6095979003) |
 | 🏢 **Instacart** | Sales Associate | United States - R... | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7572155) |
 | 🏢 **Instacart** | Sales Associate - New York | United States - R... | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7558978) |
 | 🏢 **Instacart** | Sales Associate - San Francisco/Los Angeles | United States - R... | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7560993) |
-| 🛡️ **CrowdStrike** | Sales Engineer, NG SIEM (Remote) Southeast | Remote 🏠 | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-GA/Sales-Engineer--NG-SIEM--Remote--BRA-_R26644) |
+| 🛡️ **CrowdStrike** | Sales Engineer, NG SIEM (Remote) Southeast | Remote 🏠 | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-GA/Sales-Engineer--NG-SIEM--Remote--BRA-_R26644) |
 | 🏢 **Hudl** | Sales Development Representative - Elite (American Football) | Lincoln, NE | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7517063) |
 | 🏢 **Hudl** | Account Executive - Competitive | Lincoln, NE | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7325847) |
-| ▲ **Vercel** | Account Executive- Startups, Install Base | San Francisco | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5789770004) |
-| ▲ **Vercel** | Account Executive- Startups, Greenfield | San Francisco | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5624231004) |
+| ▲ **Vercel** | Account Executive- Startups, Install Base | San Francisco | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5789770004) |
+| ▲ **Vercel** | Account Executive- Startups, Greenfield | San Francisco | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5624231004) |
 | 🏢 **Braze** | Customer Account Executive, Scale | Austin | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/braze/jobs/7699781?gh_jid=7699781) |
 | 🏢 **Braze** | Customer Account Executive, Scale | Chicago | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/braze/jobs/7699765?gh_jid=7699765) |
 | 🏢 **Braze** | Customer Account Executive, Scale | San Francisco | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/braze/jobs/7699748?gh_jid=7699748) |
@@ -889,11 +889,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Geisinger Health** | Environmental Services Technician | Port Matilda, PA | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Port-Matilda-PA/Environmental-Services-Technician_R-93404) |
-| 🏢 **AT&T** | Temporary Outside Plant Technician | Hanford | 34m | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hanford-California/Temporary-Outside-Plant-Technician_R-102515) |
-| 🏢 **Lucid Motors** | Serviceability Technician - ( Service Procedure Development Specialist) | Fremont, CA | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4667045007) |
+| 🏢 **Geisinger Health** | Environmental Services Technician | Port Matilda, PA | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Port-Matilda-PA/Environmental-Services-Technician_R-93404) |
+| 🏢 **AT&T** | Temporary Outside Plant Technician | Hanford | 50m | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Hanford-California/Temporary-Outside-Plant-Technician_R-102515) |
+| 🏢 **Lucid Motors** | Serviceability Technician - ( Service Procedure Development Specialist) | Fremont, CA | 50m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4667045007) |
 | ☁️ **Salesforce** | Business Operations Analyst | 11 Locations | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Operations-Analyst_JR331584) |
-| 🏢 **Caterpillar** | Talent Acquisition Partner - CAT Technology | 2 Locations | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Talent-Acquisition-Partner---CAT-Technology_R0000353892) |
+| 🏢 **Caterpillar** | Talent Acquisition Partner - CAT Technology | 2 Locations | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Talent-Acquisition-Partner---CAT-Technology_R0000353892) |
 | 🏢 **Anduril** | Product Operations Associate, Ground Control Station | Costa Mesa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5055334007?gh_jid=5055334007) |
 | 🚀 **SpaceX** | Propulsion Technician (Raptor) | Hawthorne, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8457594002?gh_jid=8457594002) |
 | 🏢 **Anduril** | Cutting Technician | Santa Ana | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5069147007?gh_jid=5069147007) |
@@ -904,16 +904,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🚀 **SpaceX** | Propulsion Technician (Fluid Systems) | Hawthorne, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8458023002?gh_jid=8458023002) |
 | 🏢 **Neuralink** | Equipment Quality Technician | Austin | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7536503003?gh_jid=7536503003) |
 | 🏢 **xAI** | IT Services Technician | New York, NY | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4916679007) |
-| 🚀 **SpaceX** | Operations Engineer (Thermal Hardware) | Cape Canaveral, FL | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8457097002?gh_jid=8457097002) |
+| 🚀 **SpaceX** | Operations Engineer (Thermal Hardware) | Cape Canaveral, FL | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8457097002?gh_jid=8457097002) |
 | 🏢 **xAI** | Fiber Technician | Memphis, TN | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4426115007) |
 | 🏢 **xAI** | Receiving & Logistics Clerk | Memphis, TN | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4502447007) |
-| 🏢 **EliseAI** | Copy of GTM Strategy and Operations Associate   Housing | New York City | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eliseai/bec3a7d9-3ee0-4fdf-8918-81f7a36f08b9/application) |
-| 🏢 **Xometry** | Corporate Recruiter | Lexington, KY | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5066898007) |
+| 🏢 **EliseAI** | Copy of GTM Strategy and Operations Associate   Housing | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eliseai/bec3a7d9-3ee0-4fdf-8918-81f7a36f08b9/application) |
+| 🏢 **Xometry** | Corporate Recruiter | Lexington, KY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5066898007) |
 | 📈 **Robinhood** | Collections Operations Specialist | Chicago, IL | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7545868?t=gh_src=&gh_jid=7545868) |
 | 📋 **Asana** | Legal Operations Analyst | Chicago | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7584602?gh_jid=7584602) |
 | 📋 **Asana** | Commercial Counsel, Procurement | Chicago | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7494313?gh_jid=7494313) |
-| 🏢 **Point72** | Credit Analyst | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7925887002?gh_jid=7925887002) |
-| 🏢 **Point72** | Credit Analyst | Florida | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7707006002?gh_jid=7707006002) |
+| 🏢 **Point72** | Credit Analyst | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7925887002?gh_jid=7925887002) |
+| 🏢 **Point72** | Credit Analyst | Florida | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7707006002?gh_jid=7707006002) |
 | 🏢 **Lucid Motors** | Maintenance Technician, Stamping | Casa Grande, AZ | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5075422007) |
 | 🏢 **Ochsner Health** | Surgical Technician-Certified | Central Mississip... | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Meridian---Central-Mississippi-Region---Mississippi/Surgical-Technician-Certified_REQ_00257942) |
 | 🏢 **Lucid Motors** | Service Technician, Riviera Beach, FL | Riviera Beach, FL | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5050532007) |
@@ -922,7 +922,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Relativity Space** | Propulsion Test Technician I | Stennis Space Center | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8125996002?gh_jid=8125996002) |
 | 🏢 **Sierra** | GTM Operations Analyst, Agent Development | San Francisco, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872/application) |
 | 🚪 **DoorDash** | Associate, Dasher & Logistics - Logistics Growth & Regulatory Compliance Strategy & Operations | San Francisco, CA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7550497) |
-| 🏢 **Pure Storage** | Events and Facilities Coordinator | Santa Clara | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7658349) |
+| 🏢 **Pure Storage** | Events and Facilities Coordinator | Santa Clara | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7658349) |
 | 🏢 **Kitware** | Technical Support Specialist | Clifton Park | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/8fe61804-6d79-4a94-8f97-23405b32e4cb/apply) |
 | 🏢 **Figure AI** | Legal Operations Analyst | San Jose, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4661638006) |
 | 🏢 **Jane Street** | Operations Specialist | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8360490002) |
@@ -1012,7 +1012,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🔐 **Okta** | Solutions Engineer, Okta | Florida; New York... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/6948361?gh_jid=6948361) |
 | 🧠 **Anthropic** | Support Operations Specialist, Content & Knowledge Management | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5080929008) |
 | 🏢 **KBR** | Principe Technician- Metrology | Phoenix | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Phoenix-Arizona/Principe-Technician--Metrology_R2119620) |
-| 🏢 **AT&T** | Installation Technician | San Diego | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Diego-California/Installation-Technician_R-100551) |
+| 🏢 **AT&T** | Installation Technician | San Diego | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Diego-California/Installation-Technician_R-100551) |
 | 🏢 **KLA** | Technical Support Engineer-Film and Scatterometry Technologies | Phoenix, AZ | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Support-Engineer_2633981) |
 | 🏢 **Entegris** | Manufacturing POU Technician | San Luis Obispo, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Manufacturing-POU-Technician_REQ-10671) |
 | 🏢 **Moog** | Electronic Calibration Technician | Buffalo, NY | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Electronic-Calibration-Technician_R-26-16457) |
@@ -1047,8 +1047,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WVU Medicine** | 2 West Med Surg/Tele/Stepdown Patient Care Technician Non-Certified Full Time Night Shift | Princeton Communi... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/XMLNAME-2-West-Med-Surg-Tele-Stepdown-Patient-Care-Technician-Non-Certified-Full-Time-Night-Shift_JR26-29081) |
 | 🏢 **Cloudflare** | Digital Solutions Engineer | Hybrid | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7671993?gh_jid=7671993) |
 | 🏢 **Cloudflare** | Specialist Solutions Engineer | Hybrid | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7525971?gh_jid=7525971) |
-| 🏢 **Sharp Healthcare** | Certified Phlebotomy Technician -  SRS Santee & Grossmont - Day Shift - Full Time | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/Santee-CA/Certified-Phlebotomy-Technician----SRS-Santee---Grossmont---Day-Shift---Full-Time_JR204801) |
-| 🏢 **Applied Materials** | Reliability Testing Technician | Santa Clara, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Reliability-Testing-Technician_R2519347) |
+| 🏢 **Sharp Healthcare** | Certified Phlebotomy Technician -  SRS Santee & Grossmont - Day Shift - Full Time | 2 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/Santee-CA/Certified-Phlebotomy-Technician----SRS-Santee---Grossmont---Day-Shift---Full-Time_JR204801) |
+| 🏢 **Applied Materials** | Reliability Testing Technician | Santa Clara, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Reliability-Testing-Technician_R2519347) |
 | 🏢 **KLA** | Manufacturing Technician | Oak Ridge, TN | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Oak-Ridge-TN/Manufacturing-Technician_2634568) |
 | 🏢 **HP Inc** | Field Technical Support | All Cities | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Georgia-United-States-of-America/Field-Technical-Support_3156400-1) |
 | 🏢 **HP Inc** | Field Technical Support Representative | All Cities | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/All-Cities-Utah-United-States-of-America/Field-Technical-Support-Representative_3159876-1) |
@@ -1100,16 +1100,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg & Telemetry | Fairview Hospital | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg---Telemetry_331056) |
-| 🏢 **Cleveland Clinic** | RN BU - Cardiac Cath Lab | Indian River Hosp... | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/RN-BU---Cardiac-Cath-Lab_332639-1) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg & Telemetry | Fairview Hospital | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg---Telemetry_331056) |
+| 🏢 **Cleveland Clinic** | RN BU - Cardiac Cath Lab | Indian River Hosp... | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/RN-BU---Cardiac-Cath-Lab_332639-1) |
 | 🏢 **UNC Health** | RN New Graduate Nurse - Medical Surgical / Outpatient / Cardiac Recovery | Smithfield | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169233108-rn-new-graduate-nurse-medical-surgical-outpatient-cardiac-recovery) |
 | 🏢 **UNC Health** | RN New Graduate Nurse- Surgical/Trauma Critical Care Unit | Chapel Hill | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169162287-rn-new-graduate-nurse-surgical-trauma-critical-care-unit) |
 | 🏢 **UNC Health** | RN New Graduate Nurse UNC Hillsborough Hospital Emergency Department | Hillsborough | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169174901-rn-new-graduate-nurse-unc-hillsborough-hospital-emergency-department) |
-| 🏢 **Banner Health** | Registered Nurse RNOutpatient Infusion | BUMC Tucson Unive... | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-University-of-Arizona-1891-W-Orange-Grove-Rd/Registered-Nurse-RNOutpatient-Infusion_R4432759) |
+| 🏢 **Banner Health** | Registered Nurse RNOutpatient Infusion | BUMC Tucson Unive... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-University-of-Arizona-1891-W-Orange-Grove-Rd/Registered-Nurse-RNOutpatient-Infusion_R4432759) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg | Florida Weston Ho... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Florida-Weston-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg_333522) |
-| 🏢 **Intermountain Health** | Registered Nurse Clinical Decision Unit | St. Marys Regiona... | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/Registered-Nurse-Clinical-Decision-Unit_R165095) |
-| 🏢 **Norton King's Daughters' Health** | RN, Pediatric Med/Surg, 7p-7a | Madison | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169334508-rn-pediatric-med-surg-7p-7a) |
-| 🏢 **HCA Healthcare** | New Grad RN PCU - No Experience Required | Greenbrier | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/greenbrier-tn/new-grad-rn-pcu-182841/) |
+| 🏢 **Intermountain Health** | Registered Nurse Clinical Decision Unit | St. Marys Regiona... | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/Registered-Nurse-Clinical-Decision-Unit_R165095) |
+| 🏢 **Norton King's Daughters' Health** | RN, Pediatric Med/Surg, 7p-7a | Madison | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169334508-rn-pediatric-med-surg-7p-7a) |
+| 🏢 **HCA Healthcare** | New Grad RN PCU - No Experience Required | Greenbrier | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/greenbrier-tn/new-grad-rn-pcu-182841/) |
 | 🏢 **Sharp Healthcare** | Advanced Clinician RN - Rapid Response Team (RRT) ICU/ED - Sharp Grossmont Hospital - Night Shift - Full-time -  May be eligible for Relocation Incentive | La Mesa, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Advanced-Clinician-RN---Rapid-Response-Team--RRT--ICU-ED---Night-Shift---Full-time----May-be-eligible-for-Relocation-Incentive_JR204863-1) |
 | 🏢 **American Addiction Centers** | RN New Grad Nights 7NT | Winston-Salem | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tealhq.com/job/rn-new-grad-nights_7ea1a54268b58b221e3fc9fecee491de231c5) |
 | 🏢 **WVU Medicine** | RN 4 East Inpatient Oncology / Med Surg Night Shift | Princeton Communi... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/RN-4-East-Inpatient-Oncology---Med-Surg_JR26-29414) |
@@ -1260,46 +1260,46 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **State Street** | Private Equity, Fund Accounting & Administration, Officer | 5 Locations | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Equity--Fund-Accounting---Administration--Officer_R-785644-1) |
-| 🏢 **Micron** | Engineer, DEG Technology Node DEV PE | Main Site, ID | 17m | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer--DEG-Technology-Node-DEV-PE_JR93543) |
-| 🏢 **Geisinger Health** | Medical Laboratory Scientist - Days | Barre, PA, PA | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Medical-Laboratory-Scientist---Days_R-92778) |
-| 🏢 **Intermountain Health** | General Surgeon | Holy Rosary Hospital | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holy-Rosary-Hospital/Physician-General-Surgery_R161242-1) |
-| 🏢 **Cleveland Clinic** | HVTI Affiliate Consultant - Quality & Clinical Documentation | Cleveland Clinic ... | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/HVTI-Affiliate-Consultant---Quality---Clinical-Documentation_325358) |
-| 🏢 **Cleveland Clinic** | Health Unit Coordinator - Pediatric Emergency Department (ED) | Fairview Hospital | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Health-Unit-Coordinator---Pediatric-Emergency-Department--ED-_333345) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Float Pool | Avon Hospital | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/Patient-Care-Nurse-Assistant--PCNA----Float-Pool_324639) |
-| 🏢 **Caterpillar** | Orders and Demand Consultant | Pontiac | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Pontiac-Illinois/Orders-and-Demand-Consultant_R0000356595) |
-| 🏢 **Leidos** | Program Financial Analyst | 2 Locations | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Scoresby-Victoria-Australia/Program-Financial-Analyst_R-00177908) |
-| 🏢 **Lucid Motors** | Interactive Media and Instructional Designer | Fremont, CA | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4915643007) |
-| 🏢 **WVU Medicine** | MRI Tech Aide | Princeton Communi... | 48m | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/MRI-Tech-Aide_JR26-30660) |
+| 🏢 **State Street** | Private Equity, Fund Accounting & Administration, Officer | 5 Locations | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Equity--Fund-Accounting---Administration--Officer_R-785644-1) |
+| 🏢 **Micron** | Engineer, DEG Technology Node DEV PE | Main Site, ID | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer--DEG-Technology-Node-DEV-PE_JR93543) |
+| 🏢 **Geisinger Health** | Medical Laboratory Scientist - Days | Barre, PA, PA | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Medical-Laboratory-Scientist---Days_R-92778) |
+| 🏢 **Intermountain Health** | General Surgeon | Holy Rosary Hospital | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holy-Rosary-Hospital/Physician-General-Surgery_R161242-1) |
+| 🏢 **Cleveland Clinic** | HVTI Affiliate Consultant - Quality & Clinical Documentation | Cleveland Clinic ... | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/HVTI-Affiliate-Consultant---Quality---Clinical-Documentation_325358) |
+| 🏢 **Cleveland Clinic** | Health Unit Coordinator - Pediatric Emergency Department (ED) | Fairview Hospital | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Health-Unit-Coordinator---Pediatric-Emergency-Department--ED-_333345) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Float Pool | Avon Hospital | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/Patient-Care-Nurse-Assistant--PCNA----Float-Pool_324639) |
+| 🏢 **Caterpillar** | Orders and Demand Consultant | Pontiac | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Pontiac-Illinois/Orders-and-Demand-Consultant_R0000356595) |
+| 🏢 **Leidos** | Program Financial Analyst | 2 Locations | 34m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Scoresby-Victoria-Australia/Program-Financial-Analyst_R-00177908) |
+| 🏢 **Lucid Motors** | Interactive Media and Instructional Designer | Fremont, CA | 36m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4915643007) |
+| 🏢 **WVU Medicine** | MRI Tech Aide | Princeton Communi... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/MRI-Tech-Aide_JR26-30660) |
 | ☁️ **Salesforce** | Account Solution Engineer: Non-Profit | 5 Locations | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/Account-Solution-Engineer--Non-Profit_JR331415) |
 | 🏢 **Applied Intuition** | Solution Engineer | Sunnyvale | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4580414005?gh_jid=4580414005) |
 | 🏢 **Jane Street** | Windows Engineer | New York | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/4276263002) |
-| 🏢 **Montefiore Medical Center** | Administrative Supervisor AWS - MSHP | 3380 Reservoir Ov... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/3380-Reservoir-Oval-East/Administrative-Supervisor-AWS---MSHP_JR226655) |
-| ☁️ **Salesforce** | Design Solution Engineer | 10 Locations | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Lead--Strategic-SE_JR329373) |
-| 🏢 **Anduril** | Modeling and Simulation Engineer, Space | Costa Mesa | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4984579007?gh_jid=4984579007) |
-| 🏢 **Figure AI** | AI Tooling Engineer, Helix | San Jose, CA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4660876006) |
+| 🏢 **Montefiore Medical Center** | Administrative Supervisor AWS - MSHP | 3380 Reservoir Ov... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/3380-Reservoir-Oval-East/Administrative-Supervisor-AWS---MSHP_JR226655) |
+| ☁️ **Salesforce** | Design Solution Engineer | 10 Locations | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Lead--Strategic-SE_JR329373) |
+| 🏢 **Anduril** | Modeling and Simulation Engineer, Space | Costa Mesa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4984579007?gh_jid=4984579007) |
+| 🏢 **Figure AI** | AI Tooling Engineer, Helix | San Jose, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4660876006) |
 | 🏢 **Anduril** | Mechanical Design Engineer, Propulsion | Santa Ana | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5023224007?gh_jid=5023224007) |
 | 🏢 **Anduril** | Propulsion Design & Sustainment Engineer | Santa Ana | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5063204007?gh_jid=5063204007) |
 | 🏢 **Cloudflare** | Technical Program Manager Intern (Summer 2026) | In-Office | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7702175?gh_jid=7702175) |
 | 🧠 **Anthropic** | Commercial Counsel, GTM | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5074052008) |
 | 🧠 **Anthropic** | Design Engineer, Web | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
 | 🧠 **Anthropic** | Event Designer | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5117705008) |
-| 🚀 **SpaceX** | Dynamics Engineer (Falcon) | Hawthorne, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8359768002?gh_jid=8359768002) |
+| 🚀 **SpaceX** | Dynamics Engineer (Falcon) | Hawthorne, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8359768002?gh_jid=8359768002) |
 | 🏢 **Lucid Motors** | Sales Specialist | Boston, MA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5074362007) |
 | 🚀 **SpaceX** | Certification Engineer (Falcon) | Hawthorne, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8292805002?gh_jid=8292805002) |
 | 🏢 **xAI** | Accounting Expert | Palo Alto, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4922800007) |
 | 🚀 **SpaceX** | Diamond Turning Machinist (Starlink) - Level 4/5 | Redmond, WA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8452928002?gh_jid=8452928002) |
 | 🏢 **Crusoe** | Receiving Specialist | Tulsa, OK | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/1c626b50-1bb6-48f3-9572-f4e7834fe4a8/application) |
 | 📊 **Databricks** | Developer Advocate - Neon | San Francisco | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8124849002) |
-| 🏢 **Northwood Space** | DSP Engineer (Early Career) | Torrance, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691/application) |
-| 🏢 **Lucid Software** | HRIS Analyst | Raleigh, NC | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5820378004) |
-| 🏢 **Lucid Software** | HRIS Analyst | Salt Lake City, UT | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5820161004) |
-| 🏢 **Samsara** | Bilingual Customer Support Specialist | Remote | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7658873?gh_jid=7658873) |
+| 🏢 **Northwood Space** | DSP Engineer (Early Career) | Torrance, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691/application) |
+| 🏢 **Lucid Software** | HRIS Analyst | Raleigh, NC | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5820378004) |
+| 🏢 **Lucid Software** | HRIS Analyst | Salt Lake City, UT | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5820161004) |
+| 🏢 **Samsara** | Bilingual Customer Support Specialist | Remote | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7658873?gh_jid=7658873) |
 | 🏢 **The Trade Desk** | IT Support Analyst I | Los Angeles | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5075714007) |
 | 🏢 **xAI** | Safety Specialist | Memphis, TN | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4777102007) |
 | 🏢 **xAI** | Inventory Specialist | Memphis, TN | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4854780007) |
-| 🟩 **Roblox** | Operations and Analytics Associate | San Mateo, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7688070?gh_jid=7688070) |
-| 🏢 **Lucid Motors** | Sales Specialist | Denver, CO | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5071354007) |
+| 🟩 **Roblox** | Operations and Analytics Associate | San Mateo, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7688070?gh_jid=7688070) |
+| 🏢 **Lucid Motors** | Sales Specialist | Denver, CO | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5071354007) |
 | 📈 **Robinhood** | Customer Experience Representative, Concierge | Chicago, IL | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7700773?t=gh_src=&gh_jid=7700773) |
 | 🏢 **Scale AI** | Technical Advisor Specialist - GenAI | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) |
 | 🏢 **EliseAI** | Growth PM   Housing | New York City | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eliseai/18fff164-2ab9-407e-bbc6-3a34d8d5a3ce/application) |
@@ -1310,30 +1310,30 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cloudflare** | Escalation Engineer, CDN/Developer Platform | Hybrid | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7228933?gh_jid=7228933) |
 | 🏢 **Figure AI** | MES Engineer - Ignition/SCADA | San Jose, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4574734006) |
 | 🏢 **Point72** | IT Operation Engineer - Research | United States | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8342483002?gh_jid=8342483002) |
-| 🏢 **IMC Trading** | Graduate Broker Trader | Chicago | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) |
-| 🏢 **Point72** | 2026 Cubist Hackathon | New York | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8446515002?gh_jid=8446515002) |
-| 🏢 **Point72** | Associate, Equity Valuation & PnL Reporting | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8367892002?gh_jid=8367892002) |
+| 🏢 **IMC Trading** | Graduate Broker Trader | Chicago | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) |
+| 🏢 **Point72** | 2026 Cubist Hackathon | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8446515002?gh_jid=8446515002) |
+| 🏢 **Point72** | Associate, Equity Valuation & PnL Reporting | New York, NY | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8367892002?gh_jid=8367892002) |
 | 🏢 **Fullscript** | Warehouse Associate (Lenexa, KS) | Lenexa, KS | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/fullscript/4d79b4bd-e0e9-44f3-827b-4280af4349ee/apply) |
 | 🏢 **Pure Storage** | Associate Value Consultant | North Carolina | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7689246) |
 | 🏢 **Airtable** | Professional Services Engineer (East Coast) | Remote | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8432883002) |
-| 🏢 **Intermountain Health** | Patient Service Representative | Grand Junction Ne... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Grand-Junction-Neurosurgery/Patient-Service-Representative_R157825) |
-| 🏢 **Relativity Space** | Weld Engineer I | Long Beach | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8453656002?gh_jid=8453656002) |
-| 🏢 **Jump Trading** | Trader   Global Centralized Trading Desk | Chicago, IL | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=7572460) |
+| 🏢 **Intermountain Health** | Patient Service Representative | Grand Junction Ne... | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Grand-Junction-Neurosurgery/Patient-Service-Representative_R157825) |
+| 🏢 **Relativity Space** | Weld Engineer I | Long Beach | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8453656002?gh_jid=8453656002) |
+| 🏢 **Jump Trading** | Trader   Global Centralized Trading Desk | Chicago, IL | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=7572460) |
 | 🏢 **Hudl** | Support Representative, Tier 1 (Competitive) | Lincoln, NE | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7521131) |
 | 📌 **Pinterest** | Administrative Business Partner I | San Francisco, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=6482891) |
 | 🏢 **Gusto** | Future Opportunities: Payroll Advocate | Chicago, IL | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/7379026) |
 | 🏢 **Squarespace** | Employment & Litigation Counsel | New York City | 12h | [<img src="images/apply.png" width="75" alt="Apply">](http://www.squarespace.com/about/careers?gh_jid=7701295) |
 | 🏢 **Verkada** | Data Strategy Associate, Global Revenue Informatics | San Mateo, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5064464007) |
-| 🏢 **Snorkel AI** | Forward Deployed Engineer - Data-as-a-Service | New York City, NY | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5689470004) |
+| 🏢 **Snorkel AI** | Forward Deployed Engineer - Data-as-a-Service | New York City, NY | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5689470004) |
 | 🏢 **Samsara** | Business Value Strategist - PubSec | Remote | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7671348?gh_jid=7671348) |
 | 🏢 **Relativity Space** | High Performance Compute Responsible Engineer | Long Beach | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8453401002?gh_jid=8453401002) |
 | 🏠 **Airbnb** | Market Associate | California | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7688806?gh_jid=7688806) |
-| 🏢 **CACI** | Damo Fires / 130i Planner | US DC Washington | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Damo-Fires---130i-Planner_322649) |
+| 🏢 **CACI** | Damo Fires / 130i Planner | US DC Washington | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Damo-Fires---130i-Planner_322649) |
 | 🏢 **Relativity Space** | EHS Specialist I - Training Focus | Stennis Space Center | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8371503002?gh_jid=8371503002) |
 | 🛻 **Lyft** | Anaplan Model Builder | Seattle, WA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8414974002?gh_jid=8414974002) |
 | 🤖 **Reddit** | Experience Coordinator, San Francisco | San Francisco, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7700153) |
-| 🏢 **Caterpillar** | EHS Safety Specialist | Griffin | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/EHS-Safety-Specialist_R0000332985) |
-| 🏢 **Instacart** | Lifecycle Marketing Coordinator | United States - R... | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7697470) |
+| 🏢 **Caterpillar** | EHS Safety Specialist | Griffin | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/EHS-Safety-Specialist_R0000332985) |
+| 🏢 **Instacart** | Lifecycle Marketing Coordinator | United States - R... | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7697470) |
 | ❄️ **Snowflake** | Streamlit Solutions Specialist | US-CA-Menlo Park | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/0ce406b4-f618-43c3-8806-0c14a354eff0/application) |
 | 🟢 **DeepMind** | Administrative Business Partner (12 month fixed term contract) | Mountain View, US | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7602072) |
 | 🏢 **Astranis** | PCB Librarian | San Francisco | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351487006) |
@@ -1343,8 +1343,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 💳 **Stripe** | Product Support Specialist, Money Management | Atlanta | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7604228) |
 | 🏢 **HubSpot** | Associate Sales Specialist | Remote | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7635162?gh_jid=7635162) |
 | 🏢 **Capital One** | Associate Legal Specialist, Litigation (Hybrid) | 3 Locations | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate-Legal-Specialist--Litigation--Hybrid-_R236116-1) |
-| 🏢 **Twilio** | Social Media Specialist | Remote | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7697439) |
-| 🏢 **Kitware** | Open Door Scholarship | Clifton Park | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/fa153982-7251-45ac-b362-46f833453c9f/apply) |
+| 🏢 **Twilio** | Social Media Specialist | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7697439) |
+| 🏢 **Kitware** | Open Door Scholarship | Clifton Park | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/kitware/fa153982-7251-45ac-b362-46f833453c9f/apply) |
 | 🏢 **Jane Street** | Leaves & Accommodations Coordinator | New York | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8456072002) |
 | 🏢 **Jane Street** | Compliance Coordinator | New York | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8398832002) |
 | 🏢 **Boeing** | BCA Engineering Project Management Specialist | Everett, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/BCA-Engineering-Project-Management-Specialist_JR2026491380-1) |
@@ -1522,7 +1522,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11225 current opportunities from 426 companies**
+**🎯 11207 current opportunities from 426 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
