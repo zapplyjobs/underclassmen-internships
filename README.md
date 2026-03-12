@@ -1535,7 +1535,7 @@ Check out our other repos for jobs and free resources:
   <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2026"><img src="images/repo-nsj.png" alt="Healthcare Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
