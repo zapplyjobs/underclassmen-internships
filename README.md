@@ -14,7 +14,7 @@
 ![Other Jobs](https://img.shields.io/badge/Other_Jobs-8277-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-
+Updated job openings for new grads in SWE and other tech roles | 2026
 
 </div>
 
@@ -783,7 +783,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **AT&T** | B2B Sales Account Executive | Orlando | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orlando-Florida/B2B-Sales-Account-Executive_R-103262) |
+| 🏢 **AT&T** | B2B Sales Account Executive | Orlando | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Orlando-Florida/B2B-Sales-Account-Executive_R-103262) |
 | 🏢 **Lucid Motors** | Inside Sales Associate | Phoenix, AZ | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4957536007) |
 | 🦊 **GitLab** | New Business Account Executive, SLED | US | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8445575002) |
 | 📋 **Asana** | Corporate Account Executive | Chicago | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.asana.com/jobs/apply/7594694?gh_jid=7594694) |
@@ -842,7 +842,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Endoluminal Sales Associate | Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000114426597) |
 | 🏢 **Elastic** | Enterprise Account Executive - West | Colorado | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7712224&gh_jid=7712224) |
 | 🏢 **Elastic** | Enterprise Account Executive - West | California | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7712221&gh_jid=7712221) |
-| 🏢 **Elastic** | Enterprise Account Executive - West | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7712210&gh_jid=7712210) |
+| 🏢 **Elastic** | Enterprise Account Executive - West | Washington | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7712210&gh_jid=7712210) |
 | 🔧 **ServiceNow** | Federal Civilian Solution Sales Executive- Identity and Security | Washington | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000114416164) |
 | 🏢 **Cox Enterprises** | Retail Sales Associate | Warner Robins GA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Warner-Robins-GA/Retail-Sales-Associate_R202571276-1) |
 | 🏢 **Cox Enterprises** | Residential Outside Sales Representative | West Warwick RI | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/West-Warwick-RI/Residential-Outside-Sales-Representative_R202674381) |
@@ -939,7 +939,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Sales Development Representative (AAE), Tampa | St. Petersburg, FL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135271007) |
 | 🏢 **Verkada** | Account Executive, Select, San Mateo (Corp) | San Mateo, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4388198007) |
 | 🏢 **Klaviyo** | Commercial Account Executive | Denver, CO | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.klaviyo.com/careers/jobs?gh_jid=7577985003) |
-| 🏢 **HPE** | Services Sales Representative (Central/West) | 8 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Texas-United-States-of-America/Services-Sales-Representative--Central-West-_1202539-3) |
+| 🏢 **HPE** | Services Sales Representative (Central/West) | 8 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Texas-United-States-of-America/Services-Sales-Representative--Central-West-_1202539-3) |
 | 🟦 **LinkedIn** | Account Executive 3, Performance & Expansion, Marketing Solutions | Chicago, IL | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000113540095) |
 | 🟦 **LinkedIn** | Account Executive 3, Performance & Expansion, Marketing Solutions | New York, NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000113538872) |
 | 🏢 **PNC Financial** | Merchant Services Account Executive - Business Banking | Pittsburgh | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Merchant-Services-Account-Executive---Business-Banking_R214084-1) |
@@ -994,8 +994,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Micron** | Facilities Operations HVAC Coordinator | ID1, ID | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Facilities-Operations-HVAC-Coordinator_JR94399) |
-| 🏢 **Geisinger Health** | Dietetic Technician - Milk Lab | Danville, PA | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Dietetic-Technician---Milk-Lab_R-93597) |
+| 🏢 **Micron** | Facilities Operations HVAC Coordinator | ID1, ID | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Facilities-Operations-HVAC-Coordinator_JR94399) |
+| 🏢 **Geisinger Health** | Dietetic Technician - Milk Lab | Danville, PA | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Dietetic-Technician---Milk-Lab_R-93597) |
 | 🏢 **Lucid Motors** | Mobile Service Technician | North Carolina | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5072851007) |
 | 🏢 **Lucid Motors** | Service Technician | Roswell, GA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5072847007) |
 | 🏢 **Lucid Motors** | Service Technician, Torrance (2nd shift) | Torrance, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5034751007) |
@@ -1294,19 +1294,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **PNC Financial** | Personal Banker Corpus Christi Moore | Corpus Christi | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Corpus-Christi-78411/Personal-Banker-Corpus-Christi-Moore_R211436-1) |
-| 🏢 **PNC Financial** | Personal Banker | Stockton | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/CA---Stockton-95202/Personal-Banker_R208288-1) |
-| 🏢 **FLIR Systems** | Material Quote Specialist | Lewisburg, TN, TN | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Material-Quote-Specialist_REQ33457-1) |
-| 🏢 **Baker Hughes** | Technicien(ne) Services Après-vente (F/H) | BFC-FOUGEROLLES-2... | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/FR-BFC-FOUGEROLLES-2-4-RUE-DE-FONTAINE/Technicien-ne--Services-Aprs-vente--F-H-_R156146) |
-| 🏢 **Entegris** | Warehouse Worker - Kitting | Chaska, MN | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Warehouse-Worker---Kitting_REQ-10760) |
-| 🏢 **Entegris** | Manufacturing Operator | Bloomington, MN | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Manufacturing-Operator_REQ-10932) |
-| 🏢 **Fidelity Investments** | Financial Analyst | Jersey City, NJ | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Jersey-City-NJ/Financial-Analyst_2124972) |
-| 🏢 **CACI** | Database Administrator | US VA Sterling | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Database-Administrator_323231) |
-| 🏢 **Intermountain Health** | Security Officer | Intermountain Hea... | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Security-Officer_R164374) |
-| 🏢 **Intermountain Health** | Equipment Systems Specialist | Good Samaritan Ho... | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/Plumber_R132818) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) �� Oncology & Women’s Health | Fairview Hospital | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
-| 🏢 **IXL Learning** | Canadian French Language Tutor, Rosetta Stone (PT) | United States | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8430255002) |
+| 🏢 **PNC Financial** | Personal Banker Corpus Christi Moore | Corpus Christi | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Corpus-Christi-78411/Personal-Banker-Corpus-Christi-Moore_R211436-1) |
+| 🏢 **PNC Financial** | Personal Banker | Stockton | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/CA---Stockton-95202/Personal-Banker_R208288-1) |
+| 🏢 **FLIR Systems** | Material Quote Specialist | Lewisburg, TN, TN | 22m | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Material-Quote-Specialist_REQ33457-1) |
+| 🏢 **Baker Hughes** | Technicien(ne) Services Après-vente (F/H) | BFC-FOUGEROLLES-2... | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/FR-BFC-FOUGEROLLES-2-4-RUE-DE-FONTAINE/Technicien-ne--Services-Aprs-vente--F-H-_R156146) |
+| 🏢 **Entegris** | Warehouse Worker - Kitting | Chaska, MN | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Warehouse-Worker---Kitting_REQ-10760) |
+| 🏢 **Entegris** | Manufacturing Operator | Bloomington, MN | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Manufacturing-Operator_REQ-10932) |
+| 🏢 **Fidelity Investments** | Financial Analyst | Jersey City, NJ | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Jersey-City-NJ/Financial-Analyst_2124972) |
+| 🏢 **CACI** | Database Administrator | US VA Sterling | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Database-Administrator_323231) |
+| 🏢 **Intermountain Health** | Security Officer | Intermountain Hea... | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Security-Officer_R164374) |
+| 🏢 **Intermountain Health** | Equipment Systems Specialist | Good Samaritan Ho... | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/Plumber_R132818) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Oncology & Women’s Health | Fairview Hospital | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Oncology---Women-s-Health_328838) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Progressive Coronary Care Unit | Fairview Hospital | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Progressive-Coronary-Care-Unit_331870) |
+| 🏢 **IXL Learning** | Canadian French Language Tutor, Rosetta Stone (PT) | United States | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8430255002) |
 | 🏢 **Lucid Motors** | Service Advisor, Millbrae | Millbrae, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5076224007) |
 | 🏢 **Lucid Motors** | Service Advisor, Miami | Miami, FL | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063440007) |
 | 🏢 **Lucid Motors** | Service Advisor, Tysons Galleria | McLean, VA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5063438007) |
