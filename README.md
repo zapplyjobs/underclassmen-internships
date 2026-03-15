@@ -31,15 +31,6 @@ Updated job openings for new grads in SWE and other tech roles | 2026
 
 <img src="images/zapply.png" alt="Apply to jobs in seconds with Zapply.">
 
-Explore Zapply's website and check out:
-
-- Our chrome extension that auto-fills your job applications in seconds.
-- A dedicated job board with the latest jobs for various types of roles.
-- User account providing multiple profiles for different resume roles.
-- Job application tracking with streaks to unlock commitment awards.
-
-Experience an advanced career journey with us! 🚀
-
 <p align="center">
   <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
