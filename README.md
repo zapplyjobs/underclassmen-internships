@@ -13,7 +13,7 @@
 
 </div>
 
-<p align="center">🚀 Entry-level jobs across tech, finance, healthcare, and more for new graduates, updated in real time.</p>
+<p align="center">🚀 Entry-level jobs across software, hardware, finance, healthcare & more for new graduates, updated in real time.</p>
 
 <div align="center">
 
