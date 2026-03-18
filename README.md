@@ -31,6 +31,12 @@
 
 <img src="images/zapply.png" alt="Apply to jobs in seconds with Zapply.">
 
+Explore Zapply's website and check out:
+
+Our chrome extension that autofills your job applications in seconds.
+A dedicated job board with the latest jobs for various types of roles.
+Experience an advanced career journey with us! 🚀
+
 <p align="center">
   <a href="https://zapply.jobs/?ref=github"><img src="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates/raw/master/images/zapply-button-2.png" alt="Visit Our Website" width="600"></a>
 </p>
