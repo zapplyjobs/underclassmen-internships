@@ -33,8 +33,9 @@
 
 Explore Zapply's website and check out:
 
-Our chrome extension that autofills your job applications in seconds.
-A dedicated job board with the latest jobs for various types of roles.
+- Our chrome extension that autofills your job applications in seconds.
+- A dedicated job board with the latest jobs for various types of roles.
+
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
