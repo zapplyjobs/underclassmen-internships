@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-11116-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-11114-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-452-blue?style=flat&logo=building)
-![Other Jobs](https://img.shields.io/badge/Other_Jobs-6140-red?style=flat&logo=star)
+![Other Jobs](https://img.shields.io/badge/Other_Jobs-6139-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Herndon, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Herndon-VA/Data-Scientist_R0233691) |
 | 📌 **Pinterest** | Machine Learning Engineer, Core Engineering | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=6121450) |
 | 📌 **Pinterest** | Machine Learning Engineer, Monetization Engineering | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=6121543) |
-| 🏢 **Guidepoint** | Healthcare Data Analyst | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8433429002) |
+| 🏢 **Guidepoint** | Healthcare Data Analyst | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8433429002) |
 | 🧠 **Anthropic** | Research Engineer / Scientist, Frontier Red Team (Cyber) | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076477008) |
 | 🏢 **Visa** | Business Analyst, Cloud FinOps | Austin, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000117356394) |
 | 🏢 **Red Bull** | Project Mgr, Business Intelligence | Santa Monica, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000117348984) |
@@ -642,7 +642,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Space Systems Engineer | Chantilly, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Space-Systems-Engineer_R0232528) |
 | 🏢 **Bosch Group** | Process Engineer I | Lincolnshire, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000117379103) |
 | 🏢 **Sierra Nevada Corporation** | Electrical Engineer I | Hagerstown, MD | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Electrical-Engineer-I_R0029640) |
-| 🏢 **Pure Storage** | NVMe/SSD Qualification Engineer, Systems Engineering | Santa Clara | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7732117) |
+| 🏢 **Pure Storage** | NVMe/SSD Qualification Engineer, Systems Engineering | Santa Clara | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7732117) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **Figure AI** | Embedded Systems Integration Engineer | San Jose, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4589430006) |
 | 🏢 **Axon** | Industrial Engineer I (Onsite) | Scottsdale | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7624218003) |
@@ -1222,8 +1222,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Thermo Fisher Scientific** | Supervisor - Cell and Gene Therapy | Middleton | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Supervisor---Cell-and-Gene-Therapy_R-01345874) |
-| 🏢 **Thermo Fisher Scientific** | Digital PPI Specialist | Marietta | 56m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/Digital-PPI-Specialist_R-01343948) |
+| 🏢 **Thermo Fisher Scientific** | Supervisor - Cell and Gene Therapy | Middleton | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Supervisor---Cell-and-Gene-Therapy_R-01345874) |
+| 🏢 **Thermo Fisher Scientific** | Digital PPI Specialist | Marietta | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/Digital-PPI-Specialist_R-01343948) |
 | 🚀 **SpaceX** | Product Compliance Engineer (Starlink) | Bastrop, TX | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8484568002?gh_jid=8484568002) |
 | 🏢 **Lowe's** | Full Time - Cashier - Opening | Jacksonville, FL | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Jacksonville-FL-NE-Jacksonville-1699/Full-Time---Cashier---Opening_JR-02458391) |
 | 🏢 **Lowe's** | Full Time - Merchandising Service Associate - Day | Lodi, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lodi-CA-1706/Full-Time---Merchandising-Service-Associate---Day_JR-02458390) |
@@ -1232,13 +1232,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🚀 **SpaceX** | RF & Wireless Compliance Engineer (Starlink) | Bastrop, TX | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8484564002?gh_jid=8484564002) |
 | 🚀 **SpaceX** | Environmental & Materials Compliance Engineer (Starlink) | Bastrop, TX | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8484560002?gh_jid=8484560002) |
 | 🏢 **Lumentum** | Prod Tech | CA - San Jose | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Rose/Prod-Tech_2026392) |
-| 🏢 **Lowe's** | Full Time - Head Cashier - Day | Poughkeepsie, NY | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Poughkeepsie-NY-0541/Full-Time---Head-Cashier---Day_JR-02457085-1) |
+| 🏢 **Lowe's** | Full Time - Head Cashier - Day | Poughkeepsie, NY | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Poughkeepsie-NY-0541/Full-Time---Head-Cashier---Day_JR-02457085-1) |
 | 🏢 **Latitude AI** | Mission Operator - Pittsburgh, PA (Contract) | Pittsburgh, PA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/7764862) |
 | 🏢 **Cisco** | Executive Assistant | San Francisco, US | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Executive-Assistant_2010604) |
 | 🏢 **Arrow Electronics** | Device Engineer | Benton Harbor | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/Benton-Harbor-Michigan/Device-Engineer_R242718) |
 | 🏢 **Cisco** | UI/UX Developer | San Jose | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-Costa-Rica/UI-UX-Developer_2010273) |
 | 🔷 **Intel** | Design Verification Engineer | 2 Locations | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Design-Verification-Engineer_JR0282208) |
-| 🏢 **Leidos** | Network Monitor Specialist | Meridian, ID | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Meridian-ID/Network-Monitor-Specialist_R-00179362) |
+| 🏢 **Leidos** | Network Monitor Specialist | Meridian, ID | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Meridian-ID/Network-Monitor-Specialist_R-00179362) |
 | 🏢 **Caterpillar** | Production Associate (Paint)-1st, 2nd and 3rd Shift | Athens | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Athens-Georgia/Production-Associate--Paint--1st--2nd-and-3rd-Shift_R0000341530) |
 | 🏢 **Toyota Research Institute** | VC Associate | Los Altos, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/42c0845c-218c-47f0-8546-ffb3903cf4e5/apply) |
 | 🏢 **AIG** | Actuary - US Programs | 7 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/NY-New-York/Actuary---US-Programs_JR2600355) |
@@ -1477,7 +1477,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11116 current opportunities from 452 companies**
+**🎯 11114 current opportunities from 452 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
