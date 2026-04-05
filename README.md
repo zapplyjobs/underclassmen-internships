@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-8404-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-8405-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-399-blue?style=flat&logo=building)
 ![Other Jobs](https://img.shields.io/badge/Other_Jobs-5076-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -69,7 +69,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Leidos** | Junior Software Developer | Baltimore, MD | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Junior-Software-Developer_R-00179998) |
+| 🏢 **Leidos** | Junior Software Developer | Baltimore, MD | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Junior-Software-Developer_R-00179998) |
+| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, EC2 UltraServer Availability | Seattle, WA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383566/software-development-engineer-ec2-ultraserver-availability) |
 | 📹 **Zoom** | Software Development Engineer, Asynchronous | San Jose | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer--Asynchronous_R18872-1) |
 | 📹 **Zoom** | Software Engineer | San Jose | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R18600) |
 | 🏢 **American Express** | Software Engineers | Sunrise | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40610405) |
@@ -129,12 +130,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🔵 **Red Hat** | Product Owner - Red Hat Hybrid Cloud Console and Lightspeed | Raleigh | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Owner---Senior-Software-Engineer---Red-Hat-Lightspeed_R-055953-1) |
 | 🏢 **Baton Corporation** | Software Engineer | New York City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baton/70f30a22-fe97-43ff-a67a-a89e3a2de557/application) |
 | 🏢 **Medtronic** | Software Engineer I - Lafayette | Lafayette | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I---Lafayette_R62770-1) |
+| 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | Unknown | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383063/software-development-engineer) |
 | 🏢 **Amazon.com Services LLC** | Robotics - Software Development Engineer | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383254/robotics-software-development-engineer) |
 | 🏢 **Amazon Data Services, Inc.** | Software Development Engineer, Management Plane | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383244/software-development-engineer-management-plane) |
-| 🏢 **Amazon.com Services LLC** | Software Development Engineer, Advertiser 1P Data | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383375/software-development-engineer-advertiser-1p-data) |
+| 🏢 **Amazon.com Services LLC** | Software Development Engineer, Advertiser 1P Data | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383376/software-development-engineer-advertiser-1p-data) |
 | 🏢 **The Doctors Company** | Associate Software Engineer | East Lansing | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.theladders.com/job/associate-software-engineer-doctors-east-lansing-mi_86358025) |
-| 🏢 **The MITRE Corporation** | Internships in Computer Science or Software Engineering | McLean | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115479/Internships-in-Computer-Science-or-Software-Engineering) |
 | 🏢 **Boeing** | Associate Software Engineer | Huntington Beach | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-4023-16f1d9102608cd6f0f4316dd0a8c19f9) |
 | 🏢 **Freeform** | Software Engineer (Edge Data & Telemetry) | Los Angeles, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688757003) |
 | 🏢 **Perplexity** | IT Systems Administrator | San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0/application) |
@@ -268,7 +269,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Zipline** | Fullstack - Data Platform (Autonomy) | South San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7607673003) |
 | 🏢 **Zipline** | Software Engineer - Embedded Firmware | South San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=5465339003) |
 | 🏢 **Zipline** | Software Engineer - Systems Validation | South San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7564211003) |
-| 🏢 **Morgan Stanley** | Full Stack Engineer - Associate | New York | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Full-Stack-Engineer---Associate_PT-JR033501) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -280,9 +280,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 📹 **Zoom** | Research Scientist | Seattle | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1) |
 | 📹 **Zoom** | Machine Learning Engineer, Responsible AI | Seattle | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1) |
 | 📹 **Zoom** | Data Engineer | San Jose | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Engineer---Digital-Marketing_R18533-1) |
-| 📹 **Zoom** | AI Engineer | Seattle | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1) |
 | 🏢 **Guidehouse** | Databricks Data Engineer | VA, Arlington | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Databricks-Data-Engineer_36141-1) |
 | 🏢 **New iTalent Digital** | Junior Data Analyst - Entry Level(100% Remote) at New iTalent Digital California | Unknown | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://weequahicalumni.org/library/job/junior-data-analyst-entry-level100-percent-remote-at-new-italent-digital-california-dlpKbGZnSGtNMXk3TXB0VURmSUtkWjlSUVE9PQ==) |
 | 🏢 **American Express** | Data Engineer - TechCare Operations: Blueprint team | Phoenix | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40643989) |
@@ -387,11 +387,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Point72** | Business Analyst, Equities Technology | New York, NY | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8409245002?gh_jid=8409245002) |
 | 🏢 **Glean** | Machine Learning Engineer, AI Assistant & Autonomous AI Agents | San Francisco Bay... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4605215005) |
 | 🏢 **American Express** | Data Analyst - Issues & Event Management | Sandy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40748650) |
-| 🏢 **Enterprise Business Solutions, Inc.** | Entry-Level Business Analyst (OPT) – Data & Process Impact | Reston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/entry-level-business-analyst-opt-data-process-impact--reston--e6076f1550c106bee03b9f6e19b255140) |
-| 🏢 **Jobsultant Solutions** | Data Analyst - Entry Level (Remote) | Charlotte | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp) |
 | 🏢 **Amazon.com Services LLC** | Big Data Engineer | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10381795/big-data-engineer) |
 | 🏢 **Amazon.com Services LLC** | Machine Learning Engineer, Alexa AI | Boston, MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10381642/machine-learning-engineer-alexa-ai) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Data Scientist, AWS Quick Data | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10380934/data-scientist-aws-quick-data) |
+| 🏢 **Enterprise Business Solutions, Inc.** | Entry-Level Business Analyst (OPT) – Data & Process Impact | Reston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/entry-level-business-analyst-opt-data-process-impact--reston--e6076f1550c106bee03b9f6e19b255140) |
+| 🏢 **Jobsultant Solutions** | Data Analyst - Entry Level (Remote) | Charlotte | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp) |
 | 🏢 **re:Cycle Reverse Logistics LLC** | Product Test Engineer - Machine Learning Hardware, RRL Technical Engineering | Florence, KY | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10381619/product-test-engineer-machine-learning-hardware-rrl-technical-engineering) |
 | 🏢 **Toyota Research Institute** | Machine Learning Research Scientist, Adaptive Behavioral Systems | Los Altos, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/6f67ad25-840f-4cd2-9b10-b31455ed9233/apply) |
 | 🟢 **DeepMind** | Research Scientist, Response Quality/Hermes | Mountain View, US | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7669124) |
@@ -530,10 +530,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Applied Materials** | Process Engineer (Early in Career) | Santa Clara, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer--Early-in-Career-_R2616745) |
-| 🏢 **Boeing** | Associate Aerodynamics Engineer (Aerodynamic Analysis) | North Charleston, SC | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Aerodynamics-Engineer--Aerodynamic-Analysis-_JR2026504399-1) |
+| 🏢 **Boeing** | Associate Aerodynamics Engineer (Aerodynamic Analysis) | North Charleston, SC | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Aerodynamics-Engineer--Aerodynamic-Analysis-_JR2026504399-1) |
 | 🏢 **Blue Origin** | Manufacturing Engineer - All Levels | Space Coast, FL | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---All-Levels_R62027) |
 | 🏢 **Oshkosh Corporation** | Electrical Engineer - Project | Neenah | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Neenah-Wisconsin-United-States/Electrical-Engineer---Project_R44446) |
-| 🎮 **NVIDIA** | Firmware Engineer - Memory Subsystem | US, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer---Memory-Subsystem_JR2010087) |
+| 🎮 **NVIDIA** | Firmware Engineer - Memory Subsystem | US, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer---Memory-Subsystem_JR2010087) |
 | 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | RF RAN Systems Engineer, Amazon Leo | Redmond, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383542/rf-ran-systems-engineer-amazon-leo) |
 | 🏢 **Western Digital** | Technologist, RFIC Design Engineer | San Jose, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000118659937) |
 | 🏢 **Boeing** | Associate Test Engineer | 2 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Associate-Test-Engineer_JR2026503074-1) |
@@ -670,9 +670,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🟢 **Waymo** | Systems Engineer, Power Systems (Low Voltage) | Mountain View, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7572411) |
 | 🏢 **Waabi** | Manufacturing Engineer (NPI) | Pittsburgh, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/57b4a051-c187-4f62-9c45-3b81249d337c/apply) |
 | 🏢 **Waabi** | Product Quality Engineer | Pittsburgh, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/8484a684-39b9-4ce9-9d23-2af71b6d6d62/apply) |
+| 🏢 **BAE Systems** | 2026 Entry Level Electrical Engineer - RF Specific (Hybrid) | Unknown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119747BR/2026-Entry-Level-Electrical-Engineer-RF-Specific-Hybrid) |
 | 🏢 **Amazon.com Services LLC** | Service Engineer - Avionics, PSO, Amazon Prime Air | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10380941/service-engineer-avionics-pso-amazon-prime-air) |
 | 🏢 **The MITRE Corporation** | Internships in Systems, Mechanical, Aerospace Engineering or Physics | Unknown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115474/Internships-in-Systems-Mechanical-Aerospace-Engineering-or-Physics) |
-| 🏢 **BAE Systems** | 2026 Entry Level Electrical Engineer - RF Specific (Hybrid) | Nashua | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119747BR/2026-Entry-Level-Electrical-Engineer-RF-Specific-Hybrid) |
 | 🏢 **Fermi National Accelerator Laboratory** | High Level RF Engineer | Batavia | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/High-Level-RF-Engineer_R_009268) |
 | 🏢 **CFS Energy** | Manufacturing Engineer - Weekend First Shift | Devens, MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/cfsenergy/437d01ab-3487-481d-a366-b0c79233c23e/apply) |
 | 🏢 **Dell Technologies** | Electrical Engineer Power Systems | 3 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Electrical-Engineer-Power-Systems_R287237) |
@@ -730,7 +730,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Trimble** | Business Development Professional | 6 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-Washington-DC/Business-Development-Professional_R54347-1) |
 | 🏢 **Exact Sciences** | Screening Sales Representative - Kingman, AZ | 6 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---AZ---Kingman/Screening-Sales-Representative---Kingman--AZ_R26-12660) |
 | 🏢 **Autodesk** | Business Development Representative - Forma | United States - C... | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---United-States---Colorado---Denver---Wewatta/Business-Development-Representative---Forma_26WD99164) |
-| 🏢 **F5** | SLED Account Executive - Michigan and Indiana | 2 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Field-MI/SLED-Account-Executive---Michigan-and-Indiana_RP1036925) |
+| 🏢 **F5** | SLED Account Executive - Michigan and Indiana | 2 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Field-MI/SLED-Account-Executive---Michigan-and-Indiana_RP1036925) |
 | 🏢 **Zebra Technologies** | Inside Business Development Representative (Onsite Chicago) | Chicago | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.zebra.com/careers/job/343637193826) |
 | 🏢 **Toast** | Flex Territory Account Executive SMB - San Diego, CA | San Diego, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=7757902) |
 | 🏢 **Workday Inc** | Sales Development Representative (APAC and Japan Accounts) | USA, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/SDR-BDR_JR-0102258) |
@@ -852,8 +852,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Fable** | Business Development Representative | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/fable/b8b78ec8-8208-4bfb-b854-10243b775b82/application) |
 | 🏢 **Fable** | Account Executive - Central | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/fable/644c838d-092e-457d-adfe-6266de762962/application) |
 | 🏢 **Fable** | Account Executive - South East | GA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/fable/a3ce3052-cc95-4318-87eb-cab8f285a639/application) |
-| 🏢 **Decagon** | Enterprise Account Executive | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/decagon/67c794bd-e423-44b2-8b80-d7b759994cde/application) |
 | 🏢 **Decagon** | Enterprise Account Executive | New York City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/decagon/db2926db-4f62-49fc-bbcd-29825ada8d8c/application) |
+| 🏢 **Decagon** | Enterprise Account Executive | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/decagon/67c794bd-e423-44b2-8b80-d7b759994cde/application) |
 | 🏢 **Perforce** | Sales Development Representative | Minneapolis, MN | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/perforce/42c9838b-5b5f-4223-9f34-56353b402d3c/apply) |
 | 🏢 **Baseten** | Account Executive - AI Native: Startups | New York | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/1261fe76-f577-4b3d-aac8-df65846ae445/application) |
 | 🏢 **1Password** | Business Development Representative, SMB | Toronto, ON | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/1password/bc30bba9-550b-41a3-8f90-e18346405b6b/application) |
@@ -936,7 +936,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Applied Materials** | Engineer Technician | Santa Clara, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineer-Technician_R2616681) |
-| 🏢 **Takeda** | Plasma Center Technician | VA - Roanoke | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Plasma-Center-Technician_R0177605-1) |
+| 🏢 **Takeda** | Plasma Center Technician | VA - Roanoke | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---VA---Roanoke/Plasma-Center-Technician_R0177605-1) |
 | 📹 **Zoom** | Upmarket Solutions Engineer | 2 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--SC/Solutions-Engineer_R18870-1) |
 | 📹 **Zoom** | Data Center Support Engineer | San Jose | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Center-Support-Engineer_R18866-1) |
 | 🏢 **Intuitive** | Clinical Development Lab Technician | Sunnyvale, CA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000118701147) |
@@ -944,7 +944,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Trimble** | Field Technical Support | Portsmouth, NH, NH | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Portsmouth-NH/Field-Technical-Support_R54424) |
 | 🏢 **Trimble** | Technical Support Analyst | OR, Lake Oswego | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Technical-Support-Analyst_R53398) |
 | 🏢 **Allegion** | Automatic Door Service Technician | Columbus, OH | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Columbus-OH/Automatic-Door-Service-Technician_JR35028) |
-| 🏢 **Motorola Solutions** | Technical Support Analyst  (Hybrid) | Allen, TX | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Technical-Support-Analyst---Hybrid-_R62141) |
+| 🏢 **Motorola Solutions** | Technical Support Analyst  (Hybrid) | Allen, TX | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Technical-Support-Analyst---Hybrid-_R62141) |
 | 🏢 **Takeda** | Plasma Center Technician | TX - Dallas | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Dallas/Plasma-Center-Technician_R0174022-1) |
 | 🏢 **Takeda** | Plasma Center Technician | CO - Colorado Spr... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CO---Colorado-Springs---Sou/Plasma-Center-Technician_R0173977-1) |
 | 🏢 **SEL** | Quality Technician | Pullman, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Quality-Technician_2026-20532) |
@@ -1099,8 +1099,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Etched** | Recruiting Coordinator | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/5b2f6036-54ee-4900-942c-bf2e973c455d/application) |
 | 🏢 **Dandy** | Milling Technician (TX) | USA - Carrollton TX | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/13bdf576-75fc-4d50-bca9-c2655e058736/application) |
 | 🏢 **Dandy** | Entry-Level Crown & Bridge Technician - Swing Shift | USA - Lehi UT | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/dandy/a8e5116e-5454-4f1e-87c9-6b6d7f911811/application) |
-| 🏢 **Commure** | Implementation Consultant | Mountain View, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/commure/1ec6f6e5-c748-4d37-ab7e-17de5b05a37c/application) |
 | 🏢 **Commure** | Business Operations Associate | United States | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/commure/0f38dabd-36db-4351-9725-2dd9878fd9a3/application) |
+| 🏢 **Commure** | Implementation Consultant | Mountain View, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/commure/1ec6f6e5-c748-4d37-ab7e-17de5b05a37c/application) |
 | 🏢 **Commure** | Operations Associate, Payer Operations | Mountain View, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/commure/41012eee-5a69-464f-b2c0-6c68e40c565a/application) |
 | 🏢 **NimbleRx** | Recruiter | Redwood City, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/nimblerx/1ee5d980-9610-4c46-a8b8-cc33736d4c05/apply) |
 | 🏢 **Magnet Forensics** | Hardware Operations Specialist | Atlanta | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/magnetforensics/58e5e093-6b7a-475e-b1fe-fcef7cccfcd8/apply) |
@@ -1164,34 +1164,34 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Zebra Technologies** | Repair Services Associate, I | Buffalo Grove | 58m | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.zebra.com/careers/job/343638549706) |
-| 🏢 **American Express** | Associate-Digital Product Management | Phoenix | 59m | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/39619688) |
+| 🏢 **Zebra Technologies** | Repair Services Associate, I | Buffalo Grove | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.zebra.com/careers/job/343638549706) |
+| 🏢 **American Express** | Associate-Digital Product Management | Phoenix | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/39619688) |
 | 🏢 **Lowe's** | Full Time - Head Cashier - Day | Sumter, SC | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Sumter-SC-0626/Full-Time---Head-Cashier---Day_JR-02456535-1) |
 | 🟩 **Roblox** | Product Counsel, Advertising | San Mateo, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7779120?gh_jid=7779120) |
-| 🏢 **Experian** | Client Executive, Healthcare SaaS -Strategic Expansion & New Business (TX/OK) | United States | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000118727893) |
+| 🏢 **Experian** | Client Executive, Healthcare SaaS -Strategic Expansion & New Business (TX/OK) | United States | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000118727893) |
 | 🏢 **Experian** | Client Executive, Healthcare SaaS -Strategic Expansion & New Business (CA/ NV) | United States | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000118724480) |
 | 🏢 **Applied Materials** | Global Product Support (early in Career) | Santa Clara, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--early-in-Career-_R2616746-1) |
 | 🏢 **Applied Materials** | Account Technologist (Early in Career) | Santa Clara, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Account-Technologist--Early-in-Career-_R2616744) |
 | 🏢 **USAA** | Insurance Professional – Sales and Service | Crossways I & II, VA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/CVAVA-Crossways-I--II/Insurance-Professional---Sales-and-Service_R0116630) |
 | 🏢 **USAA** | Licensed P&C Insurance Professional - Sales and Service (Signing Bonus) | Crossways I & II, VA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/CVAVA-Crossways-I--II/Licensed-P-C-Insurance-Professional---Sales-and-Service--Signing-Bonus-_R0116827) |
 | 🏢 **Lowe's** | Part Time - Loader/Cart Associate - Opening | Goose Creek, SC | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Goose-Creek-SC-2464/Part-Time---Loader-Cart-Associate---Opening_JR-02465933) |
-| 🏢 **Jabil** | Inventory Control SME | Memphis, TN | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Inventory-Control-SME_J2432246) |
-| 🏢 **Takeda** | Medical Screener | NJ - Deptford | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0175557-1) |
-| 🏢 **Takeda** | Advanced EMT (AEMT) | LA - Lafayette | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Advanced-EMT--AEMT-_R0174815-1) |
+| 🏢 **Jabil** | Inventory Control SME | Memphis, TN | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Inventory-Control-SME_J2432246) |
+| 🏢 **Takeda** | Medical Screener | NJ - Deptford | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---NJ---Deptford/Medical-Screener_R0175557-1) |
+| 🏢 **Takeda** | Advanced EMT (AEMT) | LA - Lafayette | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---LA---Lafayette/Advanced-EMT--AEMT-_R0174815-1) |
+| 📹 **Zoom** | Enterprise Systems QA Engineer | San Jose | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Enterprise-Systems-QA-Engineer_R18853-2) |
 | 📹 **Zoom** | Counsel, Online Business and Marketing | 3 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Denver-CO/Counsel--Online-Business-and-Marketing_R18728-1) |
 | 📹 **Zoom** | Counsel, Litigation (eDiscovery) | 3 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Counsel--Litigation_R18343-1) |
-| 📹 **Zoom** | Enterprise Systems QA Engineer | San Jose | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Enterprise-Systems-QA-Engineer_R18853-2) |
 | 🏢 **The Hartford** | **June 8th Start** Inbound Sales Center Insurance Agent, Personal Lines | Remote | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/United-States---Remote/XMLNAME---June-8th-Start---Inbound-Sales-Center-Insurance-Agent--Personal-Lines_R2624771) |
 | 🏢 **The Hartford** | **June 22 START** Licensed Inbound Sales Center Insurance Agent, Personal Lines | Remote | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/United-States---Remote/XMLNAME---June-22-START---Licensed-Inbound-Sales-Center-Insurance-Agent--Personal-Lines_R2624777) |
 | 🏢 **Lowe's** | Full Time - Sales Specialist - ProServices - Day | Paducah, KY | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Paducah-KY-0465/Full-Time---Sales-Specialist---ProServices---Day_JR-02465253-1) |
 | 🏢 **Boeing** | Associate Propulsion System Integration Engineer | North Charleston, SC | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1) |
-| 🏢 **Johnson Controls** | Fire Alarm Installer | Tennessee-United ... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Chattanooga-Tennessee-United-States-of-America/Fire-Alarm-Installer_WD30263780) |
-| 🏢 **Johnson Controls** | Fire Sprinkler Installer | Florida-United St... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Fire-Sprinkler-Installer_WD30265515) |
-| 🏢 **Johnson Controls** | Entry Level Fire Sprinkler Installer | Florida-United St... | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Entry-Level-Fire-Sprinkler-Installer_WD30265514) |
-| 🎨 **Adobe** | Delivery Consultant, Customer Journeys | 9 Locations | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Delivery-Consultant--Customer-Journeys_R165020) |
-| 🏢 **American Express** | Associate-Digital Product Management | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/39619675) |
-| 🏢 **Boeing** | Associate Acoustics Engineer | North Charleston, SC | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Acoustics-Engineer_JR2026503533-2) |
-| 🏢 **Leidos** | Insurance Assurance Engineer | Norfolk, VA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00180023) |
+| 🏢 **Johnson Controls** | Fire Alarm Installer | Tennessee-United ... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Chattanooga-Tennessee-United-States-of-America/Fire-Alarm-Installer_WD30263780) |
+| 🏢 **Johnson Controls** | Fire Sprinkler Installer | Florida-United St... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Fire-Sprinkler-Installer_WD30265515) |
+| 🏢 **Johnson Controls** | Entry Level Fire Sprinkler Installer | Florida-United St... | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Entry-Level-Fire-Sprinkler-Installer_WD30265514) |
+| 🎨 **Adobe** | Delivery Consultant, Customer Journeys | 9 Locations | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Delivery-Consultant--Customer-Journeys_R165020) |
+| 🏢 **American Express** | Associate-Digital Product Management | New York | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/39619675) |
+| 🏢 **Boeing** | Associate Acoustics Engineer | North Charleston, SC | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Acoustics-Engineer_JR2026503533-2) |
+| 🏢 **Leidos** | Insurance Assurance Engineer | Norfolk, VA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Insurance-Assurance-Engineer_R-00180023) |
 | 🏢 **Cadence** | Corporate Counsel - Employment | SAN JOSE | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Corporate-Counsel---Employment_R54245) |
 | 🏢 **Trimble** | Application Support Specialist | OR, Lake Oswego | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Application-Support-Specialist_R53650-1) |
 | 🏢 **Trimble** | Professional Services Consulting Professional | 6 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Portsmouth-NH/Professional-Services-Consulting-Professional_R54806) |
@@ -1207,10 +1207,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **FLIR Systems** | Field Service Engineer | 2 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Exton-PA/Field-Service-Engineer_REQ33320) |
 | 🏢 **CACI** | Part-Time Hydrodynamic Engineer | 2 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Part-Time-Hydrodynamic-Engineer_323806) |
 | 🏢 **Motorola Solutions** | Receptionist | Los Angeles, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Receptionist_R63066) |
-| 🏢 **TransUnion** | Product Compliance Advisor–Global Fraud Solutions | 6 Locations | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Compliance-Advisor---Global-Fraud-Solutions_19038750) |
-| 🏢 **Motorola Solutions** | Shipping Associate- I | Los Angeles, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Shipping-Associate--I_R63022) |
-| 🏢 **Blue Origin** | Battery Responsible Engineer - Electrical Power Systems - New Glenn | Greater Seattle Area | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Battery-Responsible-Engineer---Electrical-Power-Systems---New-Glenn_R58293) |
-| 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Immediate Benefits | MI - Ypsilanti | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Entry-Level-Phlebotomist-Medical-Screener---Immediate-Benefits_R0177312-1) |
+| 🏢 **TransUnion** | Product Compliance Advisor–Global Fraud Solutions | 6 Locations | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Compliance-Advisor---Global-Fraud-Solutions_19038750) |
+| 🏢 **Motorola Solutions** | Shipping Associate- I | Los Angeles, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Shipping-Associate--I_R63022) |
+| 🏢 **Blue Origin** | Battery Responsible Engineer - Electrical Power Systems - New Glenn | Greater Seattle Area | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Battery-Responsible-Engineer---Electrical-Power-Systems---New-Glenn_R58293) |
+| 🏢 **Takeda** | Entry Level Phlebotomist/Medical Screener - Immediate Benefits | MI - Ypsilanti | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Ypsilanti/Entry-Level-Phlebotomist-Medical-Screener---Immediate-Benefits_R0177312-1) |
 | 🏢 **Abbott** | Field Clinical Specialist | Illinois - Abbott... | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Field-Clinical-Specialist_31134905-1) |
 | 🏢 **American Express** | Associate - Tech Ops Engineering | Phoenix | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/39256505) |
 | 🏢 **Micron** | New College Grad - Wafer Bonding Process Development Engineer | Main Site, ID | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Wafer-Bonding-Process-Development-Engineer_JR94564) |
@@ -1280,8 +1280,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Merck & Co.** | Specialist, Quality Control | North Carolina - ... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Quality-Control_R392153-1) |
 | 🏢 **Veolia Environnement SA** | Material Handler I | Sauget, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118650897) |
 | 🏢 **Disney** | Photo Editor (National Geographic) | Washington, DC | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Washington-DC-USA/Photo-Editor--National-Geographic-_10147358) |
-| 🏢 **Entegris** | Machine Operator, 10 pm to 6:30 am, Sunday-Thursday | Bedford, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Machine-Operator--10-pm-to-6-30-am--Sunday-Thursday_REQ-11258-1) |
 | 🏢 **Entegris** | Machine Operator, 2 pm to 10:30 pm, Mon-Fri | Bedford, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Machine-Operator--2-pm-to-10-30-pm--Mon-Fri_REQ-11256) |
+| 🏢 **Entegris** | Machine Operator, 10 pm to 6:30 am, Sunday-Thursday | Bedford, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Machine-Operator--10-pm-to-6-30-am--Sunday-Thursday_REQ-11258-1) |
 | 🏢 **CACI** | General Clerk I | US TN Millington | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TN-Millington/General-Clerk-I_323526) |
 | 🏢 **Visa** | Analyst, Visa Consulting and Analytics | Atlanta, GA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000118650637) |
 | 🏢 **Anduril** | Generative AI Integration Engineer | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4792948007?gh_jid=4792948007) |
@@ -1419,7 +1419,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 8404 current opportunities from 399 companies**
+**🎯 8405 current opportunities from 399 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
