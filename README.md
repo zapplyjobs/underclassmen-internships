@@ -758,7 +758,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🟫 **Block** | Territory Account Executive, South Central |  |  | Lake Charles, LA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](http://block.xyz/careers/jobs/5039596008?gh_jid=5039596008) |
 | 🏢 **Glean** | Sales Development Representative |  |  | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4006925005) |
 | 🏢 **AbbVie** | National Employer Account Executive (Remote) |  |  | Irvine, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012541196) |
-| 🏢 **AbbVie** | National Employer Account Executive (Remote) |  |  | Dallas, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012540897) |
+| 🏢 **AbbVie** | National Employer Account Executive (Remote) |  |  | Dallas, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012540897) |
 | 🟫 **Block** | Territory Account Executive, Central South |  |  | Lake Charles, LA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](http://block.xyz/careers/jobs/5120012008?gh_jid=5120012008) |
 | 🏢 **Pure Storage** | Account Executive, Federal (FSI) |  |  | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7791916) |
 | 🏢 **Elastic** | FedCiv Account Executive - Dept of Treasury |  |  | Arlington, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7802531&gh_jid=7802531) |
