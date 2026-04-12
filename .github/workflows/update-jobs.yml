@@ -61,7 +61,7 @@ jobs:
         REPO_NAME: New-Grad-Jobs-2026
       run: |
         mkdir -p .github/data
-        export CURR_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+        export CURR_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
         node -e "
           const fs = require('fs');
           const https = require('https');
@@ -92,7 +92,7 @@ jobs:
       run: |
         echo "Job collection completed"
         if [ -f "README.md" ]; then
-          JOB_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
           echo "Total positions: $JOB_COUNT"
         fi
 
@@ -131,7 +131,7 @@ jobs:
 
             git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/data/run_metrics.json .github/logs/ || true
 
-            JOB_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+            JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
 
             COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT positions"
 
@@ -162,7 +162,7 @@ jobs:
         echo "" >> $GITHUB_STEP_SUMMARY
 
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          JOB_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
 
           echo "Successfully updated new grad job board" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
