@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
+| 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
 | 🔵 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
 | 🏢 **Ivo** | Product Designer |  | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/7f29a899-83a2-45d7-a4eb-72e5a950ffd9/apply) |
 | 🏢 **Ivo** | Software Engineer, Backend |  | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d/apply) |
@@ -1255,8 +1255,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Baker Hughes** | Engineering Specialist - Applications and Software | 🏢 Sponsor Employer | Mh, IN | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Engineering-Specialist---Applications-and-Software_R160606) |
-| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
-| 🏢 **Baker Hughes** | Field Operator V -  WLE |  | Jw, ID | 43m | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Operator-V----WLE_R163315-1) |
+| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
+| 🏢 **Baker Hughes** | Field Operator V -  WLE |  | Jw, ID | 44m | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Operator-V----WLE_R163315-1) |
 | 🏢 **Baker Hughes** | Field Operator V - WLE |  | Jw, ID + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Operator-V---WLE_R163312-1) |
 | 🏢 **Olsson** | Geotechnical Engineer - Rail | ✅ Sponsors Visa | Colorado Springs, CO | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5126221008) |
 | 🏢 **Thermo Fisher Scientific** | Patient Recruitment Associate I |  | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Patient-Recruitment-Associate-I_R-01348935-1) |
