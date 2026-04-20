@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-12281-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-12267-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-512-blue?style=flat&logo=building)
-![Other Jobs](https://img.shields.io/badge/Other_Jobs-6532-red?style=flat&logo=star)
+![Other Jobs](https://img.shields.io/badge/Other_Jobs-6526-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,12 +69,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Toast** | MBA Product Manager Intern |  | Boston, MA | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=7254875) |
-| 🏢 **Cloudflare** | Product Manager Intern (Summer 2026) |  | Remote + 2 more | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7362113?gh_jid=7362113) |
-| 🏢 **Appian** | Product Manager Intern |  | McLean | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/7201589) |
-| 🏢 **Crusoe** | Product Manager Intern |  | San Francisco, CA | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/a2795433-0c9a-4035-bd32-d0272a936aae/application) |
-| 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
-| 🔵 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
+| 🏢 **Nike** | Software Engineer | 🏢 Sponsor Employer | Beaverton | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) |
+| 🔵 **Red Hat** | Software Engineer - API Server (OpenShift) | 🏢 Sponsor Employer | Raleigh | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) |
 | 🏢 **Ivo** | Software Engineer, Backend |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d/apply) |
 | 🏢 **Ivo** | Software Engineer, Frontend |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57/apply) |
 | 🏢 **Ivo** | Software Engineer, Fullstack |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c/apply) |
@@ -269,6 +265,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Hermeus** | Software Engineer HILs | ✅ Sponsors Visa | Atlanta, GA + 1 more | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/00b4f74f-2b3e-45f3-963a-1409552c7677/apply) |
 | 🏢 **Hermeus** | Flight Software Engineer | ✅ Sponsors Visa | Los Angeles, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/de110c1f-faa3-4442-a5ff-bcffb958608a/apply) |
 | 🏢 **Nuro** | Software Engineer, AI Platform - New Grad | ✅ Sponsors Visa | Mountain View | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7351066) |
+| 🏢 **Nuro** | Software Engineer, Autonomy Visualization | ✅ Sponsors Visa | Mountain View | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7701347) |
+| 🏢 **Nuro** | Software Engineer, Distributed Compute System | ✅ Sponsors Visa | Mountain View | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7583621) |
+| 🏢 **Oklo** | Junior Software Engineer | ✅ Sponsors Visa | Santa Clara, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5739861004) |
+| 🏢 **Oklo** | Software Engineer | ✅ Sponsors Visa | Santa Clara, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/4018702004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -281,9 +281,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Blue Origin** | Business Analyst Sr |  | Space Coast, FL | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Business-Analyst-Sr_R62996) |
-| 🏢 **Capco** | ETRM Business Analyst - Power Trading |  | Houston | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7545187) |
-| 🏢 **Capco** | Business Analyst - OpenLink - Houston |  | Houston | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7544448) |
-| 🏢 **Capco** | Business Analyst - Retail Energy |  | Houston + 2 more | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7407471) |
+| 🏢 **Capco** | ETRM Business Analyst - Power Trading |  | Houston | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7545187) |
+| 🏢 **Capco** | Business Analyst - OpenLink - Houston |  | Houston | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7544448) |
+| 🏢 **Capco** | Business Analyst - Retail Energy |  | Houston + 2 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7407471) |
 | 🏢 **Life.Church (YouVersion)** | Data Analyst | ✅ Sponsors Visa | Edmond, OK | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/e03ce24d-e4f5-4b5a-b3e3-9552852ea8ed/apply) |
 | 🏢 **Toyota Research Institute** | Machine Learning Research Scientist, Adaptive Behavioral Systems | 🏢 Sponsor Employer | Los Altos, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/6f67ad25-840f-4cd2-9b10-b31455ed9233/apply) |
 | 🏢 **Toyota Research Institute** | Machine Learning Research Scientist, Mechanical Intuition in Multimodal Models | 🏢 Sponsor Employer | Los Altos, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/tri/8851c6af-6a0f-4fc2-8805-8d8b266d1dd3/apply) |
@@ -547,8 +547,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 👁️ **Palantir** | Product Infrastructure Security Engineer | ✅ Sponsors Visa | Washington + 3 more | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/15f01f3a-922d-4cff-b093-888333d88628/apply) |
 | 👁️ **Palantir** | Information Security Engineer | ✅ Sponsors Visa | Seattle, WA + 2 more | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b/apply) |
 | 🏢 **Airtable** | Product Security Engineer | ✅ Sponsors Visa | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/8194662002) |
-| 🏢 **HPE** | Cybersecurity Sales Specialist |  | 3 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Dallas-Texas-United-States-of-America/Cybersecurity-Sales-Specialist_1203707) |
-| 🏢 **HPE (University)** | Cybersecurity Sales Specialist |  | 3 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Dallas-Texas-United-States-of-America/Cybersecurity-Sales-Specialist_1203707-2) |
+| 🏢 **HPE** | Cybersecurity Sales Specialist |  | 3 Locations | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Dallas-Texas-United-States-of-America/Cybersecurity-Sales-Specialist_1203707) |
+| 🏢 **HPE (University)** | Cybersecurity Sales Specialist |  | 3 Locations | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Dallas-Texas-United-States-of-America/Cybersecurity-Sales-Specialist_1203707-2) |
 | 🏢 **Visa** | Cybersecurity Analyst | 🏢 Sponsor Employer | Foster City, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000121414183) |
 | 🏢 **RTX** | Cloud Network Security Engineer (Puerto Rico) | 🏢 Sponsor Employer | PR-SANTA ISABEL-B1 | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Cloud-Network-Security-Engineer--Puerto-Rico-_01838700) |
 | 🏢 **Northrop Grumman** | Industrial Security Analyst - Level 3 |  | Colorado-Boulder | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Industrial-Security-Analyst---Level-3_R10229822) |
@@ -600,7 +600,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **SEL** | Associate Mechanical Engineer |  | Pullman, WA + 1 more | 17m | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Mechanical-Engineer_2026-20476) |
+| 🏢 **SEL** | Associate Mechanical Engineer | 🏢 Sponsor Employer | Pullman, WA + 1 more | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Mechanical-Engineer_2026-20476) |
 | 🏢 **Zoox** | System Test Engineer | ✅ Sponsors Visa | Foster City, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb/apply) |
 | 🏢 **Zoox** | Quality Engineer, Receiving and Vehicle Quality | ✅ Sponsors Visa | Hayward, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/82346558-eca6-4da3-8b5f-079a097abf78/apply) |
 | 🏢 **Zoox** | Firmware Validation Engineer | ✅ Sponsors Visa | Foster City, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b/apply) |
@@ -727,8 +727,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Allen Control Systems** | Controls Engineer | ✅ Sponsors Visa | Austin, TX | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4780166008) |
 | 🏢 **Allen Control Systems** | Electrical Engineer | ✅ Sponsors Visa | Austin, TX | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4641926008) |
 | 🏢 **Allen Control Systems** | Embedded Engineer | ✅ Sponsors Visa | Austin, TX | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4515650008) |
-| 🏢 **HPE** | Silicon Validation Engineer | 🏢 Sponsor Employer | 6 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Silicon-Validation-Engineer_1205863-1) |
-| 🏢 **HPE (University)** | Silicon Validation Engineer |  | 6 Locations | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Silicon-Validation-Engineer_1205863) |
+| 🏢 **HPE** | Silicon Validation Engineer | 🏢 Sponsor Employer | 6 Locations | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Silicon-Validation-Engineer_1205863-1) |
+| 🏢 **HPE (University)** | Silicon Validation Engineer |  | 6 Locations | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Silicon-Validation-Engineer_1205863) |
 | 🏢 **SEL** | Associate Test Engineer | 🏢 Sponsor Employer | Lewiston, ID | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Test-Engineer_2026-20411) |
 | 🏢 **SEL** | Welding Process Engineer | 🏢 Sponsor Employer | Pullman, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Welding-Process-Engineer_2026-20544) |
 | 🏢 **Boston Dynamics** | Robotics Engineer- Stretch Perception | ✅ Sponsors Visa | Waltham, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Engineer--Stretch-Perception_R2537) |
@@ -741,7 +741,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Smiths Group** | Manufacturing Engineering Tech | 🏢 Sponsor Employer | 93 Lexington Drive | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000121475617) |
 | 🏢 **Intuitive** | Manufacturing Engineer - Systems |  | Sunnyvale, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000121454257) |
 | 🏢 **Moog** | Quality Engineer |  | Buffalo, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Quality-Engineer_R-25-15466) |
-| 🏢 **Illumina** | Validation Engineer 2 |  | California - San ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Validation-Engineer-2_42590-JOB-1) |
+| 🏢 **Illumina** | Validation Engineer 2 | 🏢 Sponsor Employer | California - San ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Validation-Engineer-2_42590-JOB-1) |
 | 🏢 **Takeda** | Computerized System Validation Engineer I | 🏢 Sponsor Employer | GA - Social Circl... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Hwy-278/Computerized-System-Validation-Engineer-I_R0177919-1) |
 | 🏢 **RTX** | Systems Engineer (Active Clearance) | 🏢 Sponsor Employer | CA-EL SEGUNDO-E04 | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Systems-Engineer--Active-Clearance-_01837951) |
 | 🏢 **RTX** | 2026 Signal Processing Engineer I - Onsite | 🏢 Sponsor Employer | AZ-TUCSON-849 | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-849--1151-E-Hermans-Rd--BLDG-849-External-Site/XMLNAME-2026-Signal-Processing-Engineer-I---Onsite_01835292) |
@@ -811,8 +811,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Cloudflare** | Partner Account Manager Intern (Summer 2026) |  | Remote | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7771263?gh_jid=7771263) |
-| 🏢 **Cloudflare** | Business Development Representative, ASEAN (Bahasa speaking) |  | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7676967?gh_jid=7676967) |
+| 🏢 **Cloudflare** | Business Development Representative, ASEAN (Bahasa speaking) |  | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7676967?gh_jid=7676967) |
 | 🏢 **Ivo** | Strategic Account Executive |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/95cb577b-2ffb-4fcb-9172-692ea4bd5ccc/apply) |
 | 🏢 **Ivo** | Enterprise Account Executive |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/fe83d7ec-81aa-4bbb-af7a-06521640df83/apply) |
 | 🏢 **Ivo** | Sales Development Representative |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/8c103ca8-f36f-4c7c-bf40-408237d335ed/apply) |
@@ -1011,6 +1010,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Dialpad** | Account Executive, Commercial |  | Tempe, US + 1 more | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8485852002) |
 | 🏢 **Dialpad** | Sales Development Representative |  | Austin, US | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8479313002) |
 | 🏢 **Dropbox** | Product and Platform Partnerships, Business Development |  | Remote | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7614716?gh_jid=7614716) |
+| 🎮 **Discord** | Account Executive - Tech |  | San Francisco Bay... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8433948002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -1022,10 +1022,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Southwest Airlines** | Aircraft Maintenance Technician - DEN |  | Denver, CO | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/CO-Denver/Aircraft-Maintenance-Technician---DEN_R-2026-67587-1) |
+| 🏢 **Southwest Airlines** | Aircraft Maintenance Technician - DEN |  | Denver, CO | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/CO-Denver/Aircraft-Maintenance-Technician---DEN_R-2026-67587-1) |
 | 🏢 **Etched** | Lab Engineering Technician |  | San Jose | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/591fce9d-1c8e-47d2-b5a8-d14817afb423/application) |
-| 🏢 **Moog** | Aerospace Assembly & Test Technician, 1st shift |  | Torrance, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Aerospace-Assembly---Test-Technician--1st-shift_R-26-17127) |
-| 🏢 **TD Bank** | CSB Credit Specialist I - Commercial Leasing |  | Mount Laurel | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/CSB-Credit-Specialist-I---Commercial-Leasing_R_1484430) |
+| 🏢 **Moog** | Aerospace Assembly & Test Technician, 1st shift |  | Torrance, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Aerospace-Assembly---Test-Technician--1st-shift_R-26-17127) |
+| 🏢 **TD Bank** | CSB Credit Specialist I - Commercial Leasing |  | Mount Laurel | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/CSB-Credit-Specialist-I---Commercial-Leasing_R_1484430) |
 | 🏢 **Promise** | IT Specialist | ✅ Sponsors Visa | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/promise/7f83127d-59c1-4348-8c15-bae23891576b/application) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Boynton Beach, FL (Temp) |  | Boynton Beach, FL | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/eca13175-3838-4a88-a138-d44231ca6fef/apply) |
 | 🏢 **Ro** | Fulfillment Pharmacy Technician - Romeoville, IL |  | Romeoville, IL | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ro/56cf6679-2618-4be9-acc4-f53afdee3b5b/apply) |
@@ -1254,26 +1254,23 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **PayPal** | VAS and Payouts Specialist |  | New York City | 17m | [<img src="images/apply.png" width="75" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/VAS-and-Payouts-Specialist_R0135492-1) |
-| 🏢 **Elanco** | Industrieelektroniker/ Mechatroniker/ Elektroniker für Automatisierungstechnik (m/w/d) |  | Kiel | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/DE---Kiel/Industrieelektroniker--Mechatroniker--Elektroniker-fr-Automatisierungstechnik--m-w-d-_R0025264-1) |
-| 🏢 **Cloudflare** | Sales and Marketing Project Manager Intern (Summer 2026) |  | Remote | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736669?gh_jid=7736669) |
-| 🏢 **Cloudflare** | Sales Project Manager Intern (AI Innovation) (Summer 2026) |  | Remote | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) |
-| 🏢 **Cloudflare** | Technical Program Manager Intern (Summer 2026) |  | Remote + 1 more | 20m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) |
+| 🏢 **PayPal** | VAS and Payouts Specialist |  | New York City | 32m | [<img src="images/apply.png" width="75" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/VAS-and-Payouts-Specialist_R0135492-1) |
+| 🏢 **Elanco** | Industrieelektroniker/ Mechatroniker/ Elektroniker für Automatisierungstechnik (m/w/d) |  | Kiel | 34m | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/DE---Kiel/Industrieelektroniker--Mechatroniker--Elektroniker-fr-Automatisierungstechnik--m-w-d-_R0025264-1) |
 | 🏢 **Baker Hughes** | Engineering Specialist - Applications and Software | 🏢 Sponsor Employer | Mh, IN | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Engineering-Specialist---Applications-and-Software_R160606) |
-| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
-| 🏢 **Baker Hughes** | Field Operator V -  WLE |  | Jw, ID | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Operator-V----WLE_R163315-1) |
+| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
+| 🏢 **Baker Hughes** | Field Operator V -  WLE |  | Jw, ID | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Operator-V----WLE_R163315-1) |
 | 🏢 **Baker Hughes** | Field Operator V - WLE |  | Jw, ID + 1 more | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/ID-JW-NAROGONG-JL-RAYA-NAROGONG-NO-10-KM-9/Field-Operator-V---WLE_R163312-1) |
 | 🏢 **Olsson** | Geotechnical Engineer - Rail | ✅ Sponsors Visa | Colorado Springs, CO | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5126221008) |
-| 🏢 **Thermo Fisher Scientific** | Patient Recruitment Associate I |  | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Patient-Recruitment-Associate-I_R-01348935-1) |
-| 🏢 **Southwest Airlines** | Fleet Transactions Consultant |  | Dallas, TX | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Fleet-Transactions-Consultant_R-2026-67025) |
+| 🏢 **Thermo Fisher Scientific** | Patient Recruitment Associate I |  | Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Texas-USA/Patient-Recruitment-Associate-I_R-01348935-1) |
+| 🏢 **Southwest Airlines** | Fleet Transactions Consultant |  | Dallas, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Fleet-Transactions-Consultant_R-2026-67025) |
 | 🏢 **Micron** | Engineer - Design Verification |  | Phoenix Aquila, I... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer---Design-Verification_JR97529) |
 | ☁️ **Salesforce** | Solution Engineering, Early Career | 🏢 Sponsor Employer | Illinois Chicago | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Solution-Engineering--Early-Career_JR339058-1) |
-| 🏢 **Lowe's** | Part Time - Fulfillment Associate - Flexible |  | Martinsville, VA + 109 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Martinsville-VA-0707/Part-Time---Fulfillment-Associate---Flexible_JR-02489846) |
-| 🏢 **Jabil** | Trainer |  | Florence, KY + 1 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Trainer_J2447010) |
-| 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
+| 🏢 **Lowe's** | Part Time - Fulfillment Associate - Flexible |  | Martinsville, VA + 109 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Martinsville-VA-0707/Part-Time---Fulfillment-Associate---Flexible_JR-02489846) |
+| 🏢 **Jabil** | Trainer |  | Florence, KY + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Trainer_J2447010) |
+| 🏢 **Caterpillar** | Ruby on Rails Developer | 🏢 Sponsor Employer | Kennett Square, PA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/PA-Kennett-Square-Tangent-Energy-Solutions/Ruby-on-Rails-Developer_R0000363864) |
 | 👻 **Snap** | Product Design Engineer | 🏢 Sponsor Employer | Los Angeles | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Product-Design-Engineer_R0042673-1) |
 | 🏢 **Applied Materials** | 2026 Summer Radio Frequency Engineer- Master's (Santa Clara, CA) |  | Santa Clara, CA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Radio-Frequency-Engineer--Master-s--Santa-Clara--CA-_R2612746) |
-| 🏢 **Leidos** | Program Financial Analyst |  | Reston, VA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Program-Financial-Analyst_R-00180808-1) |
+| 🏢 **Leidos** | Program Financial Analyst |  | Reston, VA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Program-Financial-Analyst_R-00180808-1) |
 | 🏢 **Ivo** | Junior GTM Sourcer |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/4cc0a902-f23c-4686-ba24-a7ebdd5aa67e/apply) |
 | 🏢 **Ivo** | Junior Technical Sourcer |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/284ea859-c570-4e3b-ae5c-73af4ff0785e/apply) |
 | 🏢 **Ivo** | Design Engineer |  | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/01d58618-688c-4a0f-8378-f51de2902d66/apply) |
@@ -1454,6 +1451,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Trace3** | Associate, Management Consulting |  | Southern Californ... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7674442) |
 | 🏢 **Trace3** | Cloud / Transformation |  | United States | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596213) |
 | 🏢 **Trace3** | Computational Physicist/Scientist   Secret Clearance Required | ✅ Sponsors Visa | Colorado Springs, CO | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7728833) |
+| 🏢 **Together AI** | AI Researcher, Core ML (Turbo) | ✅ Sponsors Visa | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/4187681007) |
+| 🏢 **TransMarket Group** | Junior Algorithmic Trader |  | Chicago | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749910007?gh_jid=4749910007) |
+| 🏢 **The Trade Desk** | Trading Specialist |  | Chicago | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5067774007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -1509,7 +1509,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 12281 current opportunities from 512 companies**
+**🎯 12267 current opportunities from 512 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
