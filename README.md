@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-13804-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-13832-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-498-blue?style=flat&logo=building)
-![Other Jobs](https://img.shields.io/badge/Other_Jobs-7590-red?style=flat&logo=star)
+![Other Jobs](https://img.shields.io/badge/Other_Jobs-7602-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,11 +69,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **Northrop Grumman** | [DevOps Engineer - Level 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/DevOps-Engineer---Level-3_R10230403) |  | Colorado-Colorado... + 1 more | 8m |
-| 🏢 **RTX** | [Software Engineer I - RDPL, Onsite →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I---RDPL--Onsite_01823174) | 🏢 Sponsor Employer | CA-FULLERTON-675 | 38m |
-| 🏢 **Northrop Grumman** | [Software Engineer - Level 3 or 4 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-3-or-4_R10230566) |  | Colorado-Colorado... | 39m |
-| 🏢 **Northwood Space** | [Infrastructure Engineer →](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99/application) | ✅ Sponsors Visa | Torrance, CA | 49m |
-| 🏢 **Northwood Space** | [Infrastructure Engineer - Early Career →](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) | ✅ Sponsors Visa | Torrance, CA | 57m |
+| 🏢 **Blue Origin** | [Software Development Engineer Sr →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-Sr_R57396) |  | Greater Seattle Area | 13m |
+| 🏢 **CACI** | [Full Stack Developer →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Full-Stack-Developer_324845) |  | VA Ashburn + 1 more | 13m |
+| 🏢 **Cadence (University)** | [C++ Software Engineer →](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer_R53008) |  | SAN JOSE | 13m |
+| 🎨 **Adobe** | [Software Development Engineer →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R152506) |  | San Jose + 8 more | 14m |
+| 🏢 **Northrop Grumman** | [DevOps Engineer - Level 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/DevOps-Engineer---Level-3_R10230403) |  | Colorado-Colorado... + 1 more | 23m |
+| 🏢 **RTX** | [Software Engineer I - RDPL, Onsite →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I---RDPL--Onsite_01823174) | 🏢 Sponsor Employer | CA-FULLERTON-675 | 53m |
+| 🏢 **Northrop Grumman** | [Software Engineer - Level 3 or 4 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-3-or-4_R10230566) |  | Colorado-Colorado... | 54m |
+| 🏢 **Northwood Space** | [Infrastructure Engineer →](https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99/application) | ✅ Sponsors Visa | Torrance, CA | 1h |
+| 🏢 **Northwood Space** | [Infrastructure Engineer - Early Career →](https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c/application) | ✅ Sponsors Visa | Torrance, CA | 1h |
 | 🏢 **Northrop Grumman** | [Software Engineer - Level 2 or 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-2-or-3_R10230594) |  | Colorado-Colorado... | 1h |
 | 🏢 **LLNL** | [Software Engineer →](https://jobs.smartrecruiters.com/llnl/3743990012782386) | 🏢 Sponsor Employer | Livermore, CA | 1h |
 | 🏢 **Zipline** | [Autonomy Software Engineer, Validation Tools →](https://www.flyzipline.com/careers/open-roles?gh_jid=7711584003) | ✅ Sponsors Visa | South San Francisco | 1h |
@@ -92,11 +96,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cisco** | [Crypto Applications Team Software Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Crypto-Applications-Team-Software-Engineer_2006217-1) | 🏢 Sponsor Employer | RTP, US | 4h |
 | 🚀 **SpaceX** | [RF Software Engineer (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8517637002?gh_jid=8517637002) |  | Hawthorne, CA | 4h |
 | 🏢 **Booz Allen Hamilton** | [Software Engineer, Junior →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer--Junior_R0238429) | 🏢 Sponsor Employer | McLean, VA | 4h |
-| 🏢 **Leidos** | [Linux System Administrator →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Linux-System-Administrator_R-00177537) | 🏢 Sponsor Employer | Huntsville, AL | 4h |
-| 🏢 **Booz Allen Hamilton** | [Data Platform Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Platform-Engineer_R0238430) | 🏢 Sponsor Employer | Alexandria, VA | 4h |
-| 🏢 **Benchling** | [Software Engineer, Scientific Models →](https://jobs.ashbyhq.com/benchling/323e4f43-cd7d-4b6c-acad-981893636bfb/application) | ✅ Sponsors Visa | San Francisco, CA | 4h |
-| 🏢 **Leidos** | [Network Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Network-Engineer_R-00181495) | 🏢 Sponsor Employer | Fort Belvoir, VA + 3 more | 4h |
-| 🏢 **General Motors** | [Software Engineer - Virtualization & SIL Integration →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Virtualization---SIL-Integration_JR-202606594-1) | 🏢 Sponsor Employer | Milford | 4h |
+| 🏢 **Leidos** | [Linux System Administrator →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Linux-System-Administrator_R-00177537) | 🏢 Sponsor Employer | Huntsville, AL | 5h |
+| 🏢 **Booz Allen Hamilton** | [Data Platform Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Platform-Engineer_R0238430) | 🏢 Sponsor Employer | Alexandria, VA | 5h |
+| 🏢 **Benchling** | [Software Engineer, Scientific Models →](https://jobs.ashbyhq.com/benchling/323e4f43-cd7d-4b6c-acad-981893636bfb/application) | ✅ Sponsors Visa | San Francisco, CA | 5h |
+| 🏢 **Leidos** | [Network Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Network-Engineer_R-00181495) | 🏢 Sponsor Employer | Fort Belvoir, VA + 3 more | 5h |
+| 🏢 **General Motors** | [Software Engineer - Virtualization & SIL Integration →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Virtualization---SIL-Integration_JR-202606594-1) | 🏢 Sponsor Employer | Milford | 5h |
 | 🏢 **General Motors** | [Software Developer - Lab Systems Integration →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Lab-Systems-Integration_JR-202608927) | 🏢 Sponsor Employer | Milford | 5h |
 | 🏢 **Cadence** | [C++ Software Engineer →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer_R53008-1) | 🏢 Sponsor Employer | SAN JOSE + 1 more | 5h |
 | 🏢 **CACI** | [Software Developer →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Ashburn/Software-Developer_325220-1) | 🏢 Sponsor Employer | VA Ashburn + 6 more | 5h |
@@ -104,42 +108,40 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | [SCCM/MECM Systems Administrator →](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SCCM-MECM-Systems-Administrator_R-00170863) | 🏢 Sponsor Employer | Alexandria, VA | 5h |
 | 🏢 **Baker Hughes** | [Specialized Application Engineer - Nuclear →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-10575-Red-Bluff-Road/Specialized-Application-Engineer---Nuclear_R158465-1) | 🏢 Sponsor Employer | TX-10575 Red Bluf... | 5h |
 | 🏢 **Anduril** | [Embedded Software Engineer, EW →](https://boards.greenhouse.io/andurilindustries/jobs/5117734007?gh_jid=5117734007) | ✅ Sponsors Visa | Costa Mesa | 5h |
-| 🏢 **RTX** | [Software Engineer I - Military Avionics FMS (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Military-Avionics-FMS--Onsite-_01839874) | 🏢 Sponsor Employer | IA-CEDAR RAPIDS-182 | 5h |
-| 🔷 **Intel** | [Software Development Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Development-Engineer_JR0283216) | 🏢 Sponsor Employer | US + 1 more | 5h |
-| 🏢 **Johnson Controls** | [Controls Application Engineer I →](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Controls-Application-Engineer-I_WD30264505) | 🏢 Sponsor Employer | San Jose-Costa Rica | 5h |
+| 🏢 **RTX** | [Software Engineer I - Military Avionics FMS (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Military-Avionics-FMS--Onsite-_01839874) | 🏢 Sponsor Employer | IA-CEDAR RAPIDS-182 | 6h |
+| 🔷 **Intel** | [Software Development Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Development-Engineer_JR0283216) | 🏢 Sponsor Employer | US + 1 more | 6h |
+| 🏢 **Johnson Controls** | [Controls Application Engineer I →](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Controls-Application-Engineer-I_WD30264505) | 🏢 Sponsor Employer | San Jose-Costa Rica | 6h |
 | 🏢 **Truveta** | [Software Engineer - Search →](https://job-boards.greenhouse.io/truveta/jobs/5979001004) | ✅ Sponsors Visa | Seattle, WA | 6h |
 | 🏢 **Fidelity Investments** | [Cloud Engineer →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Cloud-Engineer_2124991-1) | 🏢 Sponsor Employer | Westlake, TX | 6h |
 | 🏢 **KBR** | [Software Engineer →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Software-Engineer_R2122454) | 🏢 Sponsor Employer | Beavercreek + 1 more | 6h |
-| 🏢 **Captivation** | [Software Engineer 3 - JavaScript/TypeScript/React/Java/Spring →](https://job-boards.greenhouse.io/captivation/jobs/5196988008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
-| 🏢 **Captivation** | [Software Engineer 2 - Grafana/Bash/Python/JavaScript →](https://job-boards.greenhouse.io/captivation/jobs/5196985008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
-| 🟢 **Waymo** | [Software Engineer, Planner Reasoning, Onboard Infrastructure →](https://careers.withwaymo.com/jobs?gh_jid=7460969) | 🏢 Sponsor Employer | Mountain View, CA | 6h |
-| 🏢 **Captivation** | [Software Engineer 2 - Spark/MapReduce/SQL/NoSQL/Pandas/Numpy/SciPy →](https://job-boards.greenhouse.io/captivation/jobs/5196983008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
-| 🏢 **RTX** | [Software Engineering I (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-I--Onsite-_01820057) | 🏢 Sponsor Employer | MA-MARLBOROUGH-MA3 | 6h |
+| 🏢 **Captivation** | [Software Engineer 3 - JavaScript/TypeScript/React/Java/Spring →](https://job-boards.greenhouse.io/captivation/jobs/5196988008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
+| 🏢 **Captivation** | [Software Engineer 2 - Grafana/Bash/Python/JavaScript →](https://job-boards.greenhouse.io/captivation/jobs/5196985008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
+| 🟢 **Waymo** | [Software Engineer, Planner Reasoning, Onboard Infrastructure →](https://careers.withwaymo.com/jobs?gh_jid=7460969) | 🏢 Sponsor Employer | Mountain View, CA | 7h |
+| 🏢 **Captivation** | [Software Engineer 2 - Spark/MapReduce/SQL/NoSQL/Pandas/Numpy/SciPy →](https://job-boards.greenhouse.io/captivation/jobs/5196983008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
+| 🏢 **RTX** | [Software Engineering I (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-I--Onsite-_01820057) | 🏢 Sponsor Employer | MA-MARLBOROUGH-MA3 | 7h |
 | 🏢 **Copart** | [Technology Product Analyst →](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst_JR108282) |  | Headquarters, TX | 7h |
-| 🎨 **Adobe** | [Software Development Engineer →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Software-Development-Engineer_R168044) | 🏢 Sponsor Employer | San Francisco + 5 more | 7h |
 | 🏢 **Comcast** | [AI Agentic Software Engineer →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/AI-Agentic-Software-Engineer_R434815) | 🏢 Sponsor Employer | West Chester, 135... | 7h |
 | 🏢 **HP Inc** | [AI Software Engineer - HP IQ →](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3161805-1) |  | San Francisco | 7h |
 | 🏢 **Jabil** | [Site Reliability Technician (402) →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Site-Reliability-Technician--402-_J2447460) | 🏢 Sponsor Employer | Florence, KY | 7h |
 | 🤖 **OpenAI** | [Software Engineer, Security Observability →](https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d/application) | ✅ Sponsors Visa | San Francisco | 7h |
 | 🏢 **Boeing** | [Associate Software Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026506003-1) | 🏢 Sponsor Employer | Hazelwood, MO | 7h |
 | 🔧 **ServiceNow** | [Dir, Software Engineering Management, Platform - Veza →](https://jobs.smartrecruiters.com/ServiceNow/744000122306239) | 🏢 Sponsor Employer | Santa Clara | 7h |
-| 🏢 **Comcast** | [Software Engineer - Agentic AI →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer---Agentic-AI_R434812) | 🏢 Sponsor Employer | Philadelphia, 180... | 7h |
-| 🏢 **Philips** | [Software Engineer - C++ Systems Programming / Application Development (Cambridge, MA) →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Engineer---C---Systems-Programming---Application-Development--Cambridge--MA-_576840) | 🏢 Sponsor Employer | Cambridge (US) | 7h |
-| 🏢 **Fidelity Investments** | [Software Engineer →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Software-Engineer_2124973-1) | 🏢 Sponsor Employer | Durham, NC | 7h |
-| 🏢 **Boeing** | [Software Engineer (Associate or Experienced) →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Software-Engineer--Associate-or-Experienced-_JR2026506844) | 🏢 Sponsor Employer | Kirtland AFB, NM | 7h |
+| 🏢 **Comcast** | [Software Engineer - Agentic AI →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer---Agentic-AI_R434812) | 🏢 Sponsor Employer | Philadelphia, 180... | 8h |
+| 🏢 **Philips** | [Software Engineer - C++ Systems Programming / Application Development (Cambridge, MA) →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Engineer---C---Systems-Programming---Application-Development--Cambridge--MA-_576840) | 🏢 Sponsor Employer | Cambridge (US) | 8h |
+| 🏢 **Fidelity Investments** | [Software Engineer →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Durham-NC/Software-Engineer_2124973-1) | 🏢 Sponsor Employer | Durham, NC | 8h |
+| 🏢 **Boeing** | [Software Engineer (Associate or Experienced) →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Software-Engineer--Associate-or-Experienced-_JR2026506844) | 🏢 Sponsor Employer | Kirtland AFB, NM | 8h |
 | 🏢 **NBCUniversal** | [Site Reliability Engineer - Nexthink →](https://jobs.smartrecruiters.com/NBCUniversal3/744000122298602) | 🏢 Sponsor Employer | New York | 8h |
 | 🏢 **Anduril** | [Early Career Software Engineer →](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | ✅ Sponsors Visa | Costa Mesa | 8h |
-| 🏢 **CACI** | [Software Engineer - Backend →](https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Software-Engineer---Backend_325214) | 🏢 Sponsor Employer | SC North Charleston | 8h |
+| 🏢 **CACI** | [Software Engineer - Backend →](https://caci.wd1.myworkdayjobs.com/External/job/US-SC-North-Charleston/Software-Engineer---Backend_325214) | 🏢 Sponsor Employer | SC North Charleston | 9h |
 | 🏢 **Mastercard** | [Software Engineer →](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer---_R-275823) | 🏢 Sponsor Employer | O'Fallon | 9h |
 | 🏢 **General Motors** | [Software Engineer, Autonomous Vehicles Software Systems - Early Career →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) | 🏢 Sponsor Employer | 2 Locations | 9h |
-| 🏢 **Fidelity Investments** | [Full Stack Engineer (Angular, Typescript, Nodejs) →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Full-Stack-Engineer--Angular--Typescript--Nodejs-_2125053) | 🏢 Sponsor Employer | Merrimack, NH | 9h |
-| 🏢 **Apptronik** | [Full Stack Software Engineer - Fleet Connect →](https://boards.greenhouse.io/apptronik/jobs/5978803004?gh_jid=5978803004) | 🏢 Sponsor Employer | Austin, TX | 9h |
+| 🏢 **Fidelity Investments** | [Full Stack Engineer (Angular, Typescript, Nodejs) →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Full-Stack-Engineer--Angular--Typescript--Nodejs-_2125053) | 🏢 Sponsor Employer | Merrimack, NH | 10h |
+| 🏢 **Apptronik** | [Full Stack Software Engineer - Fleet Connect →](https://boards.greenhouse.io/apptronik/jobs/5978803004?gh_jid=5978803004) | 🏢 Sponsor Employer | Austin, TX | 10h |
 | 🏢 **Ramp** | [Software Engineer, Banking →](https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165/application) | 🏢 Sponsor Employer | New York, NY | 10h |
 | 🏢 **NBCUniversal** | [Software Engineer →](https://jobs.smartrecruiters.com/NBCUniversal3/744000122269958) | 🏢 Sponsor Employer | New York | 10h |
 | 🏢 **Medtronic** | [Associate Product Manager - Lumbar Spinal Fusion (Onsite) →](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Manager---Lumbar-Spinal-Fusion--Onsite-_R64900) |  | 3 Locations | 11h |
-| 🏢 **CLEAR** | [iOS Engineer →](https://job-boards.greenhouse.io/clear/jobs/7819202) | ✅ Sponsors Visa | New York | 11h |
-| 🏢 **Guidehouse** | [UX Designer →](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/UX-Designer_38704) |  | VA McLean | 11h |
-| 🏢 **CACI** | [Application Engineer (Backend) →](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Linthicum/Application-Engineer--Backend-_325198) | 🏢 Sponsor Employer | MD Linthicum | 11h |
+| 🏢 **CLEAR** | [iOS Engineer →](https://job-boards.greenhouse.io/clear/jobs/7819202) | ✅ Sponsors Visa | New York | 12h |
+| 🏢 **Guidehouse** | [UX Designer →](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/UX-Designer_38704) |  | VA McLean | 12h |
 | 🏢 **Cisco** | [Software Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer_2007058-1) | 🏢 Sponsor Employer | Milpitas, US + 1 more | 12h |
 | 🏢 **Mercor** | [Software Engineer, Fraud →](https://jobs.ashbyhq.com/mercor/4d817fa9-8860-4063-9da7-f484569ed1dc/application) |  | San Francisco or NYC | 19h |
 | 🏢 **Snorkel AI** | [Software Engineer - Core Services →](https://job-boards.greenhouse.io/snorkelai/jobs/5970324004) | ✅ Sponsors Visa | Redwood City, CA | 21h |
@@ -267,8 +269,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Nike** | [Software Engineer →](https://nike.wd1.myworkdayjobs.com/NKE/job/Beaverton-Oregon/Software-Engineer_R-82625) | 🏢 Sponsor Employer | Beaverton | 2d |
 | 🏢 **KBR** | [Junior Software Engineer →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294) | 🏢 Sponsor Employer | Beavercreek | 2d |
 | 🏢 **Marvell** | [Systems Application Engineer - Early Career →](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer_2501748-1) | 🏢 Sponsor Employer | Santa Clara, CA | 2d |
-| 🔵 **Red Hat** | [Software Engineer - API Server (OpenShift) →](https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer---API-Server--OpenShift-_R-056136) | 🏢 Sponsor Employer | Raleigh | 2d |
-| 🏢 **Ivo** | [Software Engineer, Frontend →](https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57/apply) | 🏢 Sponsor Employer | San Francisco | 2d |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -280,6 +280,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
+| 🏢 **AIG** | [Global A&H CRM Business Analyst →](https://aig.wd1.myworkdayjobs.com/AIG/job/NC-Charlotte/Global-A-H-CRM-Business-Analyst_JR2601297) |  | Charlotte, NC | 13m |
 | 📹 **Zoom** | [Trust & Safety Machine Learning Engineer →](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Trust---Safety-Machine-Learning-Engineer_R17692-1) | 🏢 Sponsor Employer | San Jose | 1h |
 | 🏢 **Cisco** | [Data Science Analyst →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Data-Science-Analyst_2011813) | 🏢 Sponsor Employer | Maynard, US | 1h |
 | 🏢 **Guidehouse** | [Transportation Security Business Analyst →](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Springfield/Transportation-Security-Business-Analyst_36318) |  | VA, Springfield | 2h |
@@ -288,35 +289,35 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ameriprise Financial** | [Quantitative Equity Analyst →](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Quantitative--Analyst_R26_0822-1) | 🏢 Sponsor Employer | Boston | 3h |
 | 🎮 **NVIDIA** | [Sourcing Data Analyst →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Sourcing-Data-Analyst_JR2016583-1) | 🏢 Sponsor Employer | US, CA | 3h |
 | 🏢 **Guidehouse** | [Junior Data Engineer →](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Junior-Data-Engineer_38141) | 🏢 Sponsor Employer | VA McLean | 3h |
-| 🏢 **Mistral AI** | [Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto →](https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328/apply) | 🏢 Sponsor Employer | Palo Alto | 3h |
+| 🏢 **Mistral AI** | [Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto →](https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328/apply) | 🏢 Sponsor Employer | Palo Alto | 4h |
 | 🏢 **The Hartford** | [Associate Data and AI Engineer →](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate-Data-and-AI-Engineer_R2625084) | 🏢 Sponsor Employer | Hartford, CT | 4h |
 | 🏢 **Guidehouse** | [AI Engineer →](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/AI-Engineer_38812) | 🏢 Sponsor Employer | VA McLean | 4h |
 | 🏢 **Match Group** | [Data Scientist →](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) | ✅ Sponsors Visa | Los Angeles | 4h |
 | 🟢 **Waymo** | [Machine Learning Engineer, ML Resources →](https://careers.withwaymo.com/jobs?gh_jid=7424806) | 🏢 Sponsor Employer | Mountain View, CA | 4h |
-| 🏢 **Leidos** | [Journeyman Data Scientist →](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Data-Scientist_R-00181512) | 🏢 Sponsor Employer | Alexandria, VA + 1 more | 4h |
-| 🏢 **Capital One** | [Applied Researcher I →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R241118) | 🏢 Sponsor Employer | New York, NY | 4h |
-| 🏢 **Broadridge** | [Business Analyst (Hybrid) →](https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Business-Analyst--Hybrid-_JR1082245) |  | New York, NY | 4h |
+| 🏢 **Leidos** | [Journeyman Data Scientist →](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Data-Scientist_R-00181512) | 🏢 Sponsor Employer | Alexandria, VA + 1 more | 5h |
+| 🏢 **Capital One** | [Applied Researcher I →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R241118) | 🏢 Sponsor Employer | New York, NY | 5h |
+| 🏢 **Broadridge** | [Business Analyst (Hybrid) →](https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Business-Analyst--Hybrid-_JR1082245) |  | New York, NY | 5h |
 | 🏢 **Red Bull** | [Business Analyst, Distribution Operations →](https://jobs.smartrecruiters.com/RedBull/744000122330549) |  | Concord, NC | 5h |
 | 🏢 **Morgan Stanley** | [MSIM- Emerging Markets- Quantitative Portfolio Analyst →](https://ms.wd5.myworkdayjobs.com/External/job/Boston-Massachusetts-United-States-of-America/MSIM--Emerging-Markets--Quantitative-Portfolio-Analyst_JR034714) |  | Boston | 5h |
-| 🏢 **KBR** | [ATR / Autonomy / Computer Vision SME →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/ATR---Autonomy---Computer-Vision-SME_R2122405) | 🏢 Sponsor Employer | Beavercreek Township | 5h |
-| 🏢 **Blueprint Technologies** | [Data Engineer →](https://job-boards.greenhouse.io/bpcs/jobs/7843477) | 🏢 Sponsor Employer | Redmond, WA | 5h |
+| 🏢 **KBR** | [ATR / Autonomy / Computer Vision SME →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/ATR---Autonomy---Computer-Vision-SME_R2122405) | 🏢 Sponsor Employer | Beavercreek Township | 6h |
+| 🏢 **Blueprint Technologies** | [Data Engineer →](https://job-boards.greenhouse.io/bpcs/jobs/7843477) | 🏢 Sponsor Employer | Redmond, WA | 6h |
 | 🏢 **Red Bull** | [IT Business Analyst →](https://jobs.smartrecruiters.com/RedBull/744000122319730) | 🏢 Sponsor Employer | Santa Monica, CA | 6h |
 | 🏢 **Booz Allen Hamilton** | [AWS Streaming Data Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/AWS-Streaming-Data-Engineer_R0238411) | 🏢 Sponsor Employer | Springfield, VA | 6h |
 | 🏢 **Datadog** | [Associate Marketing Data Analyst – Marketing Analytics →](https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084) | 🏢 Sponsor Employer | New York | 6h |
 | 🏢 **Hitachi** | [Supply Chain Systems and Data Analyst →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Supply-Chain-Systems-and-Data-Analyst_R0123510-1) | 🏢 Sponsor Employer | North Carolina, U... | 6h |
-| 🏢 **Booz Allen Hamilton** | [Data Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Data-Engineer_R0238398) | 🏢 Sponsor Employer | San Antonio, TX + 8 more | 6h |
-| 🏢 **Booz Allen Hamilton** | [Machine Learning Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0234987) | 🏢 Sponsor Employer | McLean, VA + 5 more | 6h |
+| 🏢 **Booz Allen Hamilton** | [Machine Learning Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/Machine-Learning-Engineer_R0235685) | 🏢 Sponsor Employer | Norfolk, VA + 5 more | 7h |
+| 🏢 **Booz Allen Hamilton** | [Data Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Data-Engineer_R0238398) | 🏢 Sponsor Employer | San Antonio, TX + 8 more | 7h |
 | 🎮 **NVIDIA** | [Data Engineer – Finance →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Engineer---Finance_JR2015089) | 🏢 Sponsor Employer | US, CA | 7h |
 | 🎮 **NVIDIA** | [AI Research Engineer - Applied Scientist Compilers →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Research-Engineer---Applied-Scientist-Compilers_JR2016804-1) | 🏢 Sponsor Employer | CA Santa Clara | 7h |
 | 🏢 **Captivation** | [Data Scientist 2 - Python/R/TensorFlow/SQL/Tableau →](https://job-boards.greenhouse.io/captivation/jobs/5196927008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
 | 🏢 **Hitachi** | [Power Systems Research Scientist →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Power-Systems-Research-Scientist_R0126424-1) | 🏢 Sponsor Employer | Santa Clara | 7h |
-| 🏢 **Nextdoor** | [Machine Learning Engineer - New Grad 2026 →](https://about.nextdoor.com/careers-list/?gh_jid=7264954) | 🏢 Sponsor Employer | San Francisco, CA | 7h |
+| 🏢 **Nextdoor** | [Machine Learning Engineer - New Grad 2026 →](https://about.nextdoor.com/careers-list/?gh_jid=7264954) | 🏢 Sponsor Employer | San Francisco, CA | 8h |
 | 🏢 **CACI** | [Data Analyst →](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-Analyst_325215) | 🏢 Sponsor Employer | Remote | 9h |
-| 🏢 **CACI** | [Data Scientist (AI/ML) →](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Scientist--AI-ML-_325085-1) | 🏢 Sponsor Employer | CO Denver | 9h |
-| 🏢 **Guidepoint** | [Healthcare Data Analyst →](https://job-boards.greenhouse.io/guidepoint/jobs/8433429002) | 🏢 Sponsor Employer | New York | 9h |
+| 🏢 **CACI** | [Data Scientist (AI/ML) →](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Scientist--AI-ML-_325085-1) | 🏢 Sponsor Employer | CO Denver | 10h |
+| 🏢 **Guidepoint** | [Healthcare Data Analyst →](https://job-boards.greenhouse.io/guidepoint/jobs/8433429002) | 🏢 Sponsor Employer | New York | 10h |
 | 🏢 **State Street** | [Business Analyst, GlobalLink Shared Services Product Team, Officer →](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Business-Analyst--GlobalLink-Shared-Services-Product-Team--Officer_R-784734) |  | Boston | 11h |
-| 🏢 **Crusoe** | [Strategic Sourcing Data Analyst →](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application) | ✅ Sponsors Visa | Denver, CO | 12h |
-| 🏢 **Lucid Motors** | [Business Analyst - Sales Analytics →](https://job-boards.greenhouse.io/lucidmotors/jobs/5089279007) |  | Amsterdam, NH | 15h |
+| 🏢 **Crusoe** | [Strategic Sourcing Data Analyst →](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application) | ✅ Sponsors Visa | Denver, CO | 13h |
+| 🏢 **Lucid Motors** | [Business Analyst - Sales Analytics →](https://job-boards.greenhouse.io/lucidmotors/jobs/5089279007) |  | Amsterdam, NH | 16h |
 | 🏢 **Amazon.com Services LLC** | [Data Engineer, AMZL Orbit Data Engineering →](https://www.amazon.jobs/en/jobs/10399571/data-engineer-amzl-orbit-data-engineering) | 🏢 Sponsor Employer | Bellevue, WA | 1d |
 | 🏢 **Amazon.com Services LLC** | [Data Engineer, ORBIT (AMZL operational reporting and BI) →](https://www.amazon.jobs/en/jobs/10399979/data-engineer-orbit-amzl-operational-reporting-and-bi) | 🏢 Sponsor Employer | Austin, TX | 1d |
 | 🏢 **Amazon Web Services, Inc.** | [Machine Learning Engineer, Data & Machine Learning (DML) →](https://www.amazon.jobs/en/jobs/10399924/machine-learning-engineer-data-machine-learning-dml) | 🏢 Sponsor Employer | Arlington, VA + 2 more | 1d |
@@ -345,8 +346,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Trimble** | [Marketing Analytics Engineer →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Marketing-Analytics-Engineer_R55737) | 🏢 Sponsor Employer | CO, Westminster | 1d |
 | 📹 **Zoom** | [Research Scientist - AI Incubation →](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist---AI-Incubation_R18458-1) | 🏢 Sponsor Employer | Seattle, WA | 1d |
 | 🔷 **Intel** | [DARC Reporting and Data Analyst →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/DARC-Reporting-and-Data-Analyst_JR0282368-1) | 🏢 Sponsor Employer | Oregon Hillsboro | 1d |
-| 🏢 **Robert Half** | [Data Analyst - Entry →](https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen) |  | Mendota Heights | 2d |
 | 🏢 **Amazon.com Services LLC** | [Data Engineer, Ring Agent Platforms →](https://www.amazon.jobs/en/jobs/10398979/data-engineer-ring-agent-platforms) | 🏢 Sponsor Employer | Hawthorne, CA | 2d |
+| 🏢 **Robert Half** | [Data Analyst - Entry →](https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen) | 🏢 Sponsor Employer | Mendota Heights | 2d |
 | 🏢 **SONIMUS LLC** | [Remote Data Analyst - Entry-Level with Paid Training →](https://www.whatjobs.com/jobs/data-analyst-entry-level/remote?id=2647435780) |  | Nevada + 1 more | 2d |
 | 🏠 **Airbnb** | [Machine Learning Engineer, Customer Support Engineering →](https://careers.airbnb.com/positions/7826337?gh_jid=7826337) | 🏢 Sponsor Employer | Remote | 2d |
 | 🏢 **Labelbox** | [Forward Deployed Research Scientist →](https://job-boards.greenhouse.io/labelbox/jobs/5101375007) | 🏢 Sponsor Employer | San Francisco Bay... | 2d |
@@ -379,20 +380,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Life.Church (YouVersion)** | [Data Analyst →](https://jobs.lever.co/life/e03ce24d-e4f5-4b5a-b3e3-9552852ea8ed/apply) | ✅ Sponsors Visa | Edmond, OK | 2d |
 | 🏢 **Toyota Research Institute** | [Machine Learning Research Scientist, Adaptive Behavioral Systems →](https://jobs.lever.co/tri/6f67ad25-840f-4cd2-9b10-b31455ed9233/apply) | 🏢 Sponsor Employer | Los Altos, CA | 2d |
 | 🏢 **Toyota Research Institute** | [Machine Learning Research Scientist, Mechanical Intuition in Multimodal Models →](https://jobs.lever.co/tri/8851c6af-6a0f-4fc2-8805-8d8b266d1dd3/apply) | 🏢 Sponsor Employer | Los Altos, CA | 2d |
+| 🏢 **Zoox** | [Data Engineer →](https://jobs.lever.co/zoox/c73446f6-3e66-4e3d-a694-f768e86038e9/apply) | ✅ Sponsors Visa | Foster City, CA | 2d |
 | 🏢 **Zoox** | [Data Scientist - Perception Verification and Validation →](https://jobs.lever.co/zoox/9ab192af-3480-40a7-9ff3-f81061ac6301/apply) | 🏢 Sponsor Employer | Boston, MA | 2d |
 | 🏢 **Zoox** | [Machine Learning Engineer - 3D Sensor Simulation →](https://jobs.lever.co/zoox/55e51bf3-68ee-40d4-a1c5-5196e0e2d100/apply) | ✅ Sponsors Visa | Foster City, CA + 1 more | 2d |
-| 🏢 **Zoox** | [Machine Learning Engineer - MLA Perception Offline Driving Intelligence →](https://jobs.lever.co/zoox/03b2ccc5-85ac-4f55-9633-9215451246b2/apply) | ✅ Sponsors Visa | Foster City, CA + 1 more | 2d |
 | 🏦 **Plaid** | [Data Scientist - Network Value →](https://jobs.lever.co/plaid/18503c02-17a0-4c47-98c8-155b0b6ccc2a/apply) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **Waabi** | [Research Engineer →](https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe/apply) |  | Remote | 2d |
 | 🏢 **Waabi** | [Research Engineer, Learnable Planner (Integration) →](https://jobs.lever.co/waabi/30f77194-6f1c-4ee2-8bb9-0eb9763250af/apply) |  | Remote | 2d |
 | 🏢 **ClickUp** | [Growth Machine Learning Engineer →](https://jobs.ashbyhq.com/clickup/30044ca8-927b-462a-b5dd-d49c1134481d/application) | ✅ Sponsors Visa | United States | 2d |
 | 🏢 **Semgrep** | [Data Scientist →](https://jobs.ashbyhq.com/semgrep/140c5384-c4fd-4d63-b810-b6afe9567c99/application) | ✅ Sponsors Visa | San Francisco | 2d |
+| 🏢 **Cursor** | [Data Scientist, Agents →](https://jobs.ashbyhq.com/cursor/6171cf55-7b93-494d-b334-daf91448dbfd/application) | 🏢 Sponsor Employer | San Francisco | 2d |
 | 🏢 **Cursor** | [Research Scientist →](https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae/application) | 🏢 Sponsor Employer | San Francisco | 2d |
 | 🏢 **Cursor** | [Data Engineer, Analytics →](https://jobs.ashbyhq.com/cursor/546cbbe0-2afb-48f4-a935-aea10c25d797/application) | 🏢 Sponsor Employer | San Francisco | 2d |
-| 🏢 **Cursor** | [Data Scientist, Agents →](https://jobs.ashbyhq.com/cursor/6171cf55-7b93-494d-b334-daf91448dbfd/application) | 🏢 Sponsor Employer | San Francisco | 2d |
-| 🏢 **Whatnot** | [Data Engineer →](https://jobs.ashbyhq.com/whatnot/9fd6fef1-619f-48dd-97b0-c91063432df3/application) | ✅ Sponsors Visa | San Francisco, CA + 1 more | 2d |
-| 🏢 **Whatnot** | [Data Scientist, Product Analytics →](https://jobs.ashbyhq.com/whatnot/ab093aed-b59a-4efa-a451-0a88e0e084ed/application) | ✅ Sponsors Visa | San Francisco, CA + 1 more | 2d |
 | 🏢 **Whatnot** | [Machine Learning, Content and Navigation →](https://jobs.ashbyhq.com/whatnot/3926a4a7-e441-4ea6-9726-5c22bfe6c025/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
+| 🏢 **Whatnot** | [Machine Learning Engineer, Content and Navigation →](https://jobs.ashbyhq.com/whatnot/fc9888be-75e6-47f3-891f-814a666cfe0a/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
+| 🏢 **Whatnot** | [Data Engineer →](https://jobs.ashbyhq.com/whatnot/9fd6fef1-619f-48dd-97b0-c91063432df3/application) | ✅ Sponsors Visa | San Francisco, CA + 1 more | 2d |
 | 🏢 **WHOOP** | [Research Scientist ll, Design Research (Temporary) →](https://jobs.lever.co/whoop/a1360285-7bef-4a1c-b241-13006c02520c/apply) | ✅ Sponsors Visa | Boston, MA | 2d |
 | 🏢 **WeRide** | [New Grads 2026 - Data Engineer →](https://jobs.lever.co/weride/7815ebc0-1668-4aa8-b4ba-919f5c3f9622/apply) | ✅ Sponsors Visa | San Jose, CA | 2d |
 | 🏢 **Valkyrie Trading** | [Quantitative Researcher (Experienced) →](https://jobs.lever.co/valkyrietrading/c4b4fe8f-bcec-4b4e-a5dd-cbd26f1f4943/apply) | ✅ Sponsors Visa | Chicago, IL | 2d |
@@ -409,8 +410,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WorldQuant** | [Experienced Quantitative Strategist →](https://job-boards.greenhouse.io/worldquant/jobs/4252938006) |  | Austin OR Chicago... | 2d |
 | 🏢 **WorldQuant** | [AI Research Scientist (Value Addition) →](https://job-boards.greenhouse.io/worldquant/jobs/4579506006) | 🏢 Sponsor Employer | New York | 2d |
 | 🏢 **Pulse** | [Machine Learning Engineer →](https://jobs.ashbyhq.com/pulse/4935a638-7f2e-461d-ac2b-76fd7460893d/application) | ✅ Sponsors Visa | San Francisco | 2d |
+| 🟢 **Waymo** | [Applied Research Scientist, 3D Object Detection  (PhD New Grad) →](https://careers.withwaymo.com/jobs?gh_jid=7467839) | 🏢 Sponsor Employer | Mountain View, CA | 2d |
 | 🟢 **Waymo** | [Business Intelligence Analyst / Data Analyst (SQL) →](https://careers.withwaymo.com/jobs?gh_jid=7788473) | 🏢 Sponsor Employer | Mountain View, CA | 2d |
-| 🟢 **Waymo** | [Data Scientist →](https://careers.withwaymo.com/jobs?gh_jid=6608598) | 🏢 Sponsor Employer | Mountain View | 2d |
 | 🏢 **Virtu Financial** | [Machine Learning Researcher →](https://job-boards.greenhouse.io/virtu/jobs/8477580002) | ✅ Sponsors Visa | New York | 2d |
 | 🏢 **Virtu Financial** | [Options Quantitative Strategist →](https://job-boards.greenhouse.io/virtu/jobs/8017272002) |  | New York | 2d |
 | 🏢 **Virtu Financial** | [Quantitative Researcher - Analytics →](https://job-boards.greenhouse.io/virtu/jobs/4283516002) | 🏢 Sponsor Employer | Boston | 2d |
@@ -431,12 +432,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Tenstorrent** | [C++ Machine Learning Engineer, AI Models Training →](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) | 🏢 Sponsor Employer | Santa Clara | 2d |
 | 🏢 **Tailscale** | [Analytics Engineer, Data →](https://job-boards.greenhouse.io/tailscale/jobs/4562146005) | ✅ Sponsors Visa | Remote | 2d |
 | 🏢 **Take-Two Interactive** | [Data Engineer (Python/Spark) →](https://job-boards.greenhouse.io/taketwo/jobs/7635245) | ✅ Sponsors Visa | Austin | 2d |
+| 🚀 **SpaceX** | [Business Analyst (Starlink Growth) →](https://boards.greenhouse.io/spacex/jobs/8403125002?gh_jid=8403125002) |  | Redmond, WA + 2 more | 2d |
 | 🚀 **SpaceX** | [Data Analyst, Supply Chain (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8330510002?gh_jid=8330510002) |  | Redmond, WA | 2d |
 | 🚀 **SpaceX** | [Data Engineer (Direct To Cell) →](https://boards.greenhouse.io/spacex/jobs/8391768002?gh_jid=8391768002) |  | Redmond, WA | 2d |
-| 🚀 **SpaceX** | [Data Engineer (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8494787002?gh_jid=8494787002) |  | Redmond, WA | 2d |
-| 🏢 **Mercor** | [Machine Learning Engineer →](https://jobs.ashbyhq.com/mercor/e0ba162c-7e0e-4eee-a296-838c8b6e9034/application) |  | San Francisco | 2d |
-| 🏢 **Mercor** | [Data Scientist →](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) | ✅ Sponsors Visa | San Francisco | 2d |
-| 🏢 **Mercor** | [Data Engineer →](https://jobs.ashbyhq.com/mercor/7d9d9439-848b-4fb4-b276-9efc71bb7148/application) | ✅ Sponsors Visa | San Francisco | 2d |
+| 🏢 **Mercor** | [Research Engineer - Environments, Data and Post-Training →](https://jobs.ashbyhq.com/mercor/97b8c17e-e438-4b61-bab1-9ae18e2c3f34/application) | ✅ Sponsors Visa | San Francisco | 2d |
+| 🏢 **Mercor** | [Research Engineer – Benchmarking, Evals & Failure Analysis →](https://jobs.ashbyhq.com/mercor/e2c6a4a0-87d2-425d-bf2c-322e6128d8dc/application) | ✅ Sponsors Visa | San Francisco | 2d |
+| 🏢 **Mercor** | [Machine Learning Engineer, Anonymization →](https://jobs.ashbyhq.com/mercor/547dead0-d223-4023-8357-206714d94d12/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **Handshake** | [AI Research Scientist →](https://jobs.ashbyhq.com/handshake/b40c221b-c4e9-482a-b0e0-3a0182f054eb/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
 | 🏢 **Handshake** | [Associate Machine Learning Engineer →](https://jobs.ashbyhq.com/handshake/8eff0d8a-2f32-44b2-8c49-7a9263615651/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
 | 🏢 **Handshake** | [Machine Learning Engineer I →](https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
@@ -479,7 +480,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Kikoff** | [Marketing Data Scientist →](https://job-boards.greenhouse.io/kikoff/jobs/4209451009) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **LaunchDarkly** | [Data Scientist, Data Science →](https://job-boards.greenhouse.io/launchdarkly/jobs/7617683003) | ✅ Sponsors Visa | Remote | 2d |
 | 🏢 **Labelbox** | [Applied Research Engineer →](https://job-boards.greenhouse.io/labelbox/jobs/4640965007) | 🏢 Sponsor Employer | San Francisco Bay... | 2d |
-| 🏢 **Labelbox** | [Applied Research Engineer, Agents →](https://job-boards.greenhouse.io/labelbox/jobs/4829775007) | 🏢 Sponsor Employer | San Francisco Bay... | 2d |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -492,16 +492,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
 | 🏢 **Motorola Solutions** | [Cybersecurity Analyst (FedRAMP) →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) | 🏢 Sponsor Employer | Illinois Remote Work | 1h |
-| 🏢 **Northrop Grumman** | [Industrial Security Analyst →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Industrial-Security-Analyst_R10230612) |  | West Virginia-Rocket + 1 more | 3h |
-| 🏢 **CACI** | [Cyber Security Subject Matter Expert →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Cyber-Security-Subject-Matter-Expert_324162) | 🏢 Sponsor Employer | VA Sterling | 4h |
+| 🏢 **Northrop Grumman** | [Industrial Security Analyst →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Industrial-Security-Analyst_R10230612) |  | West Virginia-Rocket + 1 more | 4h |
+| 🏢 **CACI** | [Cyber Security Subject Matter Expert →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Cyber-Security-Subject-Matter-Expert_324162) | 🏢 Sponsor Employer | VA Sterling | 5h |
 | 🦊 **GitLab** | [Software Security Engineer →](https://job-boards.greenhouse.io/gitlab/jobs/8516916002) | ✅ Sponsors Visa | Canada; Remote, US | 5h |
 | 🏢 **KLA** | [Cybersecurity Engineer - Endpoint Detection →](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Cybersecurity-Engineer---Endpoint-Detection_2635605-1) | 🏢 Sponsor Employer | Ann Arbor, MI | 5h |
 | 🏢 **Fidelity Investments** | [Privacy & Cybersecurity Counsel →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Jersey-City-NJ/Privacy---Cybersecurity-Counsel_2127618-1) | 🏢 Sponsor Employer | Jersey City, NJ | 6h |
 | 🏢 **Booz Allen Hamilton** | [Cyber Security Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Cyber-Security-Engineer_R0235772) | 🏢 Sponsor Employer | Fort Belvoir, VA | 8h |
-| 🏢 **FLIR Systems** | [Information Systems Security Engineer →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL-Arsenal/Information-Systems-Security-Engineer_REQ34397) | 🏢 Sponsor Employer | Huntsville, AL, AL | 8h |
-| 🏢 **Booz Allen Hamilton** | [Forescout Cybersecurity Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Forescout-Cybersecurity-Engineer_R0238361) | 🏢 Sponsor Employer | Reston, VA | 8h |
+| 🏢 **FLIR Systems** | [Information Systems Security Engineer →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL-Arsenal/Information-Systems-Security-Engineer_REQ34397) | 🏢 Sponsor Employer | Huntsville, AL, AL | 9h |
+| 🏢 **Booz Allen Hamilton** | [Forescout Cybersecurity Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Forescout-Cybersecurity-Engineer_R0238361) | 🏢 Sponsor Employer | Reston, VA | 9h |
 | 🏢 **Leidos** | [Cyber Security Analyst →](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Cyber-Security-Analyst_R-00181468) | 🏢 Sponsor Employer | Fort Meade, MD + 1 more | 9h |
-| 🏢 **CACI** | [Cybersecurity Analyst →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Cybersecurity-Analyst_325160) | 🏢 Sponsor Employer | VA Fort Belvoir | 11h |
+| 🏢 **CACI** | [Cybersecurity Analyst →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Cybersecurity-Analyst_325160) | 🏢 Sponsor Employer | VA Fort Belvoir | 12h |
 | 🏢 **RTX** | [2026 Raytheon Systems Security Engineer I - Onsite - Tucson, AZ →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331) | 🏢 Sponsor Employer | AZ-TUCSON-801 | 1d |
 | 🚀 **SpaceX** | [Information Security Analyst →](https://boards.greenhouse.io/spacex/jobs/8517412002?gh_jid=8517412002) |  | Hawthorne, CA | 1d |
 | 🏢 **Booz Allen Hamilton** | [Cybersecurity Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Cybersecurity-Engineer_R0238313) | 🏢 Sponsor Employer | Arlington, VA | 1d |
@@ -531,16 +531,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WHOOP** | [Security Engineer, IAM →](https://jobs.lever.co/whoop/7b4065d5-0cbb-47da-9d1e-3e52d9f75917/apply) | ✅ Sponsors Visa | Boston, MA | 2d |
 | 🏢 **Ramp** | [Security Engineer, Privacy →](https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36/application) | 🏢 Sponsor Employer | New York, NY | 2d |
 | 🏢 **Magnet Forensics** | [Vulnerability Researcher →](https://jobs.lever.co/magnetforensics/0c7c5eb2-f0fc-4327-a038-f56de3fcc218/apply) |  | United States | 2d |
+| 🏢 **xAI** | [Application Security Engineer →](https://job-boards.greenhouse.io/xai/jobs/4559147007) | ✅ Sponsors Visa | Palo Alto, CA | 2d |
 | 🏢 **xAI** | [Infrastructure Security Engineer →](https://job-boards.greenhouse.io/xai/jobs/5090998007) | ✅ Sponsors Visa | Palo Alto, CA | 2d |
-| 🏢 **xAI** | [Network Security Engineer →](https://job-boards.greenhouse.io/xai/jobs/4800712007) | ✅ Sponsors Visa | Palo Alto, CA | 2d |
 | 🤖 **OpenAI** | [Security Engineer, Host Assurance →](https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🤖 **OpenAI** | [Researcher, Frontier Cybersecurity Risks →](https://jobs.ashbyhq.com/openai/97a7eeae-9625-4d00-874f-e50131f98369/application) | ✅ Sponsors Visa | San Francisco | 2d |
-| 🤖 **OpenAI** | [Enterprise Security Engineer →](https://jobs.ashbyhq.com/openai/720b6d72-0c98-4acc-ab75-d67dd36fbccf/application) | ✅ Sponsors Visa | New York City + 3 more | 2d |
+| 🤖 **OpenAI** | [Enterprise Security Engineer →](https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329/application) | ✅ Sponsors Visa | San Francisco + 3 more | 2d |
 | 🏢 **Trace3** | [Cybersecurity Engineer, ACAS Administrator   TS/SCI →](https://job-boards.greenhouse.io/trace3/jobs/7728076) | 🏢 Sponsor Employer | Colorado Springs, CO | 2d |
-| 🏢 **Take-Two Interactive** | [Cloud Security Engineer →](https://job-boards.greenhouse.io/taketwo/jobs/7072655) | ✅ Sponsors Visa | Austin | 2d |
 | 🏢 **Take-Two Interactive** | [Information Security Engineer →](https://job-boards.greenhouse.io/taketwo/jobs/7647578) | ✅ Sponsors Visa | Austin + 1 more | 2d |
-| 🚀 **SpaceX** | [Product Security Engineer (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8459547002?gh_jid=8459547002) |  | Redmond, WA + 2 more | 2d |
-| 🚀 **SpaceX** | [Product Security Engineer (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8492058002?gh_jid=8492058002) |  | Washington, DC + 1 more | 2d |
+| 🏢 **Take-Two Interactive** | [Cloud Security Engineer →](https://job-boards.greenhouse.io/taketwo/jobs/7072655) | ✅ Sponsors Visa | Austin | 2d |
+| 🚀 **SpaceX** | [Security Engineer (Blue Team) →](https://boards.greenhouse.io/spacex/jobs/8426411002?gh_jid=8426411002) |  | Hawthorne, CA + 1 more | 2d |
+| 🚀 **SpaceX** | [Security Engineer (Security Operations) →](https://boards.greenhouse.io/spacex/jobs/8208779002?gh_jid=8208779002) |  | Redmond, WA + 1 more | 2d |
 | 💳 **Stripe** | [Security Engineer, New Grad →](https://stripe.com/jobs/search?gh_jid=7477571) |  | Seattle, WA | 2d |
 | 🏢 **Snorkel AI** | [Infrastructure Security Engineer →](https://job-boards.greenhouse.io/snorkelai/jobs/5839660004) | ✅ Sponsors Visa | Redwood City, CA | 2d |
 | 🏢 **Scale AI** | [Security Engineer, Infrastructure →](https://job-boards.greenhouse.io/scaleai/jobs/4646888005) | ✅ Sponsors Visa | New York, NY | 2d |
@@ -551,8 +551,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 📈 **Robinhood** | [Security Engineer, Detection & Response →](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) | ✅ Sponsors Visa | Menlo Park, CA | 2d |
 | 📌 **Pinterest** | [Vendor Security Analyst →](https://www.pinterestcareers.com/jobs/?gh_jid=7494921) | 🏢 Sponsor Employer | Chicago, IL | 2d |
 | 🏢 **Latitude AI** | [Cyber Security Engineer - Identity Solutions, Asset Management, & Data Protection →](https://job-boards.greenhouse.io/latitude/jobs/7809755) | ✅ Sponsors Visa | Pittsburgh, PA | 2d |
-| 🏢 **Jane Street** | [Cybersecurity Engineer - Threat Modelling →](https://job-boards.greenhouse.io/janestreet/jobs/7999330002) | 🏢 Sponsor Employer | New York | 2d |
 | 🏢 **Jane Street** | [IT Security Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8155302002) | 🏢 Sponsor Employer | New York | 2d |
+| 🏢 **Jane Street** | [Cybersecurity Engineer - Threat Modelling →](https://job-boards.greenhouse.io/janestreet/jobs/7999330002) | 🏢 Sponsor Employer | New York | 2d |
 | 🦊 **GitLab** | [Infrastructure Security Engineer (USA) →](https://job-boards.greenhouse.io/gitlab/jobs/8459132002) | ✅ Sponsors Visa | US | 2d |
 | 🏢 **Glean** | [Security Engineer, Cloud Security →](https://job-boards.greenhouse.io/gleanwork/jobs/4650994005) | 🏢 Sponsor Employer | Remote | 2d |
 | 📊 **Databricks** | [Product Security Engineer →](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002) | ✅ Sponsors Visa | United States | 2d |
@@ -570,8 +570,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🧠 **Anthropic** | [Security Engineer, Detection & Response →](https://job-boards.greenhouse.io/anthropic/jobs/4982193008) | ✅ Sponsors Visa | San Francisco, CA | 2d |
 | 🏢 **Applied Intuition** | [Security Engineer (Purple Team) →](https://boards.greenhouse.io/appliedintuition/jobs/4435584005?gh_jid=4435584005) | ✅ Sponsors Visa | Sunnyvale | 2d |
 | 🏢 **Anduril** | [Travel Security Analyst →](https://boards.greenhouse.io/andurilindustries/jobs/5063495007?gh_jid=5063495007) |  | Costa Mesa | 2d |
-| 🏢 **Anduril** | [System Security Engineer, Program Protection →](https://boards.greenhouse.io/andurilindustries/jobs/4978917007?gh_jid=4978917007) | ✅ Sponsors Visa | Costa Mesa | 2d |
 | 🏢 **Anduril** | [Systems Security Engineer, Anti-Tamper →](https://boards.greenhouse.io/andurilindustries/jobs/5044386007?gh_jid=5044386007) | ✅ Sponsors Visa | Costa Mesa | 2d |
+| 🏢 **Anduril** | [Systems Security Engineer (Program Protection) →](https://boards.greenhouse.io/andurilindustries/jobs/5098387007?gh_jid=5098387007) | ✅ Sponsors Visa | Costa Mesa | 2d |
 | 🏢 **Decagon** | [Security Engineer →](https://jobs.ashbyhq.com/decagon/3998068a-4ce9-4a70-b9c0-7e89ef531331/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **Benchling** | [Application Security Engineer →](https://jobs.ashbyhq.com/benchling/7300821b-f2ee-4d20-95fe-6df6a0b88dc6/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
 | 🏢 **Candid Health** | [Security Engineer →](https://jobs.ashbyhq.com/candidhealth/05085e52-174c-4d29-a31f-0e85970b8c55/application) | ✅ Sponsors Visa | New York City | 2d |
@@ -603,8 +603,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **RTX** | [Systems Engineer I – Algorithms (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Systems-Engineer-I---Algorithms--Onsite-_01836372) |  | CA-FULLERTON-676 | 8m |
-| 🏢 **Northrop Grumman** | [Power Systems Engineer 2/3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Power-Systems-Engineer-2-3_R10227183) |  | Utah-Magna | 39m |
+| 🏢 **Northrop Grumman** | [Systems Engineer - Level 3 or 4 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-Engineer---Level-3-or-4_R10230638) |  | Alabama-Huntsville + 2 more | 11m |
+| 🏢 **Aurora Innovation** | [Vehicle Platform Systems Engineer →](https://aurora.tech/jobs/8508606002?gh_jid=8508606002) |  | Dallas | 16m |
+| 🏢 **RTX** | [Systems Engineer I – Algorithms (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Systems-Engineer-I---Algorithms--Onsite-_01836372) | 🏢 Sponsor Employer | CA-FULLERTON-676 | 23m |
+| 🏢 **Northrop Grumman** | [Power Systems Engineer 2/3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Power-Systems-Engineer-2-3_R10227183) |  | Utah-Magna | 54m |
 | 🏢 **Booz Allen Hamilton** | [Model Based Systems Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Clearfield-UT/Model-Based-Systems-Engineer_R0236018) | 🏢 Sponsor Employer | Clearfield, UT | 1h |
 | 🏢 **Northrop Grumman** | [Electromechanical Engineer (Level 2 OR 3) →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-2-OR-3-_R10230488) |  | Colorado-Aurora | 2h |
 | 🏢 **Leidos** | [Electrical/Electronics Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Electrical-Electronics-Engineer_R-00180379) | 🏢 Sponsor Employer | Fort Worth, TX | 2h |
@@ -613,49 +615,48 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | [Power Design Electrical Engineer →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Power-Design-Electrical-Engineer_01840319-1) | 🏢 Sponsor Employer | AL-HUNTSVILLE-315 | 2h |
 | 🏢 **Sierra Nevada Corporation** | [Mechanical Engineer I →](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Plano-TX/Mechanical-Engineer-I_R0029636) | 🏢 Sponsor Employer | Plano, TX | 2h |
 | 🏢 **NXP** | [Metrology Process Engineer →](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Metrology-Process-Engineer_R-10062945) | 🏢 Sponsor Employer | Chandler | 2h |
-| 🏢 **Anduril** | [Firmware Engineer, Embedded Systems →](https://boards.greenhouse.io/andurilindustries/jobs/5118039007?gh_jid=5118039007) | ✅ Sponsors Visa | Costa Mesa | 2h |
+| 🏢 **Anduril** | [Firmware Engineer, Embedded Systems →](https://boards.greenhouse.io/andurilindustries/jobs/5118039007?gh_jid=5118039007) | ✅ Sponsors Visa | Costa Mesa | 3h |
 | 🏢 **CFS Energy** | [Field Mechanical Engineer - Assembly →](https://jobs.lever.co/cfsenergy/c64879d8-5da6-449a-976f-6593ba83064b/apply) |  | Devens, MA | 3h |
 | 🏢 **Caterpillar** | [Quality Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Quality-Engineer_R0000365759) | 🏢 Sponsor Employer | East Peoria Illinois | 3h |
 | 🏢 **Abbott** | [Controls Engineer - Virginia Plant →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Controls-Engineer---Virginia-Plant_31143762-2) | 🏢 Sponsor Employer | Virginia - Altavista | 3h |
 | 🏢 **Abbott** | [Quality Engineer →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Temecula/Quality-Engineer_31144042-1) | 🏢 Sponsor Employer | California - Teme... + 2 more | 3h |
 | 🏢 **LLNL** | [Microwave/RF Engineer →](https://jobs.smartrecruiters.com/llnl/3743990012778996) | 🏢 Sponsor Employer | Livermore, CA | 4h |
-| 🏢 **CACI** | [Systems Engineer →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Systems-Engineer_325169) | 🏢 Sponsor Employer | VA Fort Belvoir + 1 more | 4h |
-| 🏢 **Boeing** | [Flight Test Engineering Manger →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Flight-Test-Engineering-Manger_JR2026507096-1) | 🏢 Sponsor Employer | Seattle, WA | 4h |
-| 🏢 **CACI** | [Systems Engineer - Enterprise →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Hampton/Systems-Engineer---Enterprise_325216) | 🏢 Sponsor Employer | VA Hampton | 4h |
+| 🏢 **CACI** | [Systems Engineer →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Systems-Engineer_325169) | 🏢 Sponsor Employer | VA Fort Belvoir + 1 more | 5h |
+| 🏢 **Boeing** | [Flight Test Engineering Manger →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Flight-Test-Engineering-Manger_JR2026507096-1) | 🏢 Sponsor Employer | Seattle, WA | 5h |
+| 🏢 **CACI** | [Systems Engineer - Enterprise →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Hampton/Systems-Engineer---Enterprise_325216) | 🏢 Sponsor Employer | VA Hampton | 5h |
 | 🏢 **GE Vernova** | [Experienced Hardware Engineer - (Circuit Design, Industrialization, Wireless, ECAD) Relocation Assistance →](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/Hardware-Engineer_R5022726-2) | 🏢 Sponsor Employer | Rochester | 5h |
 | 🏢 **Baker Hughes** | [R&D Electrical Engineering Technologist →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NY-SKANEATELES-721-VISIONS-DRIVE/R-D-Electrical-Engineering-Technologist_R163505) | 🏢 Sponsor Employer | NY-SKANEATELES-72... | 5h |
 | 🚀 **SpaceX** | [Mechanical Engineer, Space Lasers Manufacturing (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8516943002?gh_jid=8516943002) |  | Redmond, WA | 5h |
-| 🏢 **Philips** | [Manufacturing Engineer →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Manufacturing-Engineer_573544-1) |  | Latham | 5h |
-| 🏢 **General Motors** | [Process Engineer - Machining →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Process-Engineer---Machining_JR-202609058) | 🏢 Sponsor Employer | Spring Hill | 5h |
-| 🏢 **Smiths Group** | [Manufacturing Quality Engineer →](https://jobs.smartrecruiters.com/SmithsGroup2/744000122322095) | 🏢 Sponsor Employer | Irving, TX | 5h |
-| 🏢 **Boeing** | [Mission Systems Integration & Test Engineer - Entry and Associate Level →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Mission-Systems-Integration---Test-Engineer---Entry-and-Associate-Level_JR2026505670-1) | 🏢 Sponsor Employer | Daytona Beach, FL | 5h |
-| 🏢 **Blue Origin** | [Avionics Hardware Engineer - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer---TeraWave_R59821) | 🏢 Sponsor Employer | Greater Seattle Area | 5h |
-| 🏢 **Applied Materials** | [Mechanical Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-III_R2614470) | 🏢 Sponsor Employer | Santa Clara, CA + 1 more | 5h |
-| 🏢 **Northrop Grumman** | [Associate Manufacturing Engineer →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Associate-Manufacturing-Engineer_R10229746) |  | California-Palmdale | 6h |
-| 🏢 **Captivation** | [Systems Engineer 1 (Travel Required)  - RF/Python →](https://job-boards.greenhouse.io/captivation/jobs/5196989008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
-| 🏢 **Leidos** | [Systems Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Systems-Engineer_R-00181485) | 🏢 Sponsor Employer | Fort Belvoir, VA + 2 more | 6h |
-| 🚀 **SpaceX** | [Mechanical Integration & Test Engineer, User Products (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002) |  | Hawthorne, CA | 6h |
-| 🏢 **ASML** | [Advanced Processing Coating Process Engineer →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Advanced-Processing-Coating-Process-Engineer_J-00339120-1) | 🏢 Sponsor Employer | Wilton, CT | 6h |
+| 🏢 **Philips** | [Manufacturing Engineer →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Manufacturing-Engineer_573544-1) |  | Latham | 6h |
+| 🏢 **General Motors** | [Process Engineer - Machining →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Process-Engineer---Machining_JR-202609058) | 🏢 Sponsor Employer | Spring Hill | 6h |
+| 🏢 **Smiths Group** | [Manufacturing Quality Engineer →](https://jobs.smartrecruiters.com/SmithsGroup2/744000122322095) | 🏢 Sponsor Employer | Irving, TX | 6h |
+| 🏢 **Boeing** | [Mission Systems Integration & Test Engineer - Entry and Associate Level →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Mission-Systems-Integration---Test-Engineer---Entry-and-Associate-Level_JR2026505670-1) | 🏢 Sponsor Employer | Daytona Beach, FL | 6h |
+| 🏢 **Blue Origin** | [Avionics Hardware Engineer - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer---TeraWave_R59821) | 🏢 Sponsor Employer | Greater Seattle Area | 6h |
+| 🏢 **Applied Materials** | [Mechanical Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-III_R2614470) | 🏢 Sponsor Employer | Santa Clara, CA + 1 more | 6h |
+| 🏢 **Captivation** | [Systems Engineer 1 (Travel Required)  - RF/Python →](https://job-boards.greenhouse.io/captivation/jobs/5196989008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
+| 🏢 **Leidos** | [Systems Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Systems-Engineer_R-00181485) | 🏢 Sponsor Employer | Fort Belvoir, VA + 2 more | 7h |
+| 🚀 **SpaceX** | [Mechanical Integration & Test Engineer, User Products (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002) |  | Hawthorne, CA | 7h |
+| 🏢 **ASML** | [Advanced Processing Coating Process Engineer →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Advanced-Processing-Coating-Process-Engineer_J-00339120-1) | 🏢 Sponsor Employer | Wilton, CT | 7h |
 | 🏢 **Olsson** | [Project Mechanical Engineer →](https://job-boards.greenhouse.io/olsson/jobs/5196941008) | ✅ Sponsors Visa | Lincoln, NE + 1 more | 7h |
 | 🏢 **Olsson** | [Licensed Structural Engineer - Building Design →](https://job-boards.greenhouse.io/olsson/jobs/5196925008) | ✅ Sponsors Visa | Omaha, NE + 1 more | 7h |
 | 🏢 **Caterpillar** | [Autonomy Systems Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Autonomy-Systems-Engineer_R0000354263) | 🏢 Sponsor Employer | Mossville Illinois + 1 more | 7h |
 | 🏢 **Applied Materials** | [Electrical Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Electrical-Engineer_R2613607) | 🏢 Sponsor Employer | Santa Clara, CA | 7h |
-| 🏢 **Booz Allen Hamilton** | [UAS Robotics Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/UAS-Software-Engineer_R0237617) | 🏢 Sponsor Employer | Honolulu, HI | 7h |
+| 🏢 **Booz Allen Hamilton** | [UAS Robotics Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/UAS-Software-Engineer_R0237617) | 🏢 Sponsor Employer | Honolulu, HI | 8h |
 | 🏢 **ASML** | [Quality Engineer →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Senior-Quality-Engineer_J-00332524) | 🏢 Sponsor Employer | San Diego, CA | 8h |
 | 🏢 **Boeing** | [MQ-25 2nd Shift Manufacturing Engineer (Assembly and Installation) →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mascoutah-IL/MQ-25-2nd-Shift-Manufacturing-Engineer--Assembly-and-Installation-_JR2026506684) |  | Mascoutah, IL | 8h |
 | 🔷 **Intel** | [GPU Validation Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Validation-Engineer_JR0283114) | 🏢 Sponsor Employer | California Folsom + 1 more | 8h |
 | 🏢 **Johnson Controls** | [Electrical Engineer (hybrid) →](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Electrical-Engineer--hybrid-_WD30266410) | 🏢 Sponsor Employer | Pennsylvania-Unit... | 8h |
-| 🏢 **Anduril** | [Events Coordinator, Air Dominance & Strike →](https://boards.greenhouse.io/andurilindustries/jobs/5091196007?gh_jid=5091196007) |  | Costa Mesa | 8h |
+| 🏢 **Anduril** | [Events Coordinator, Air Dominance & Strike →](https://boards.greenhouse.io/andurilindustries/jobs/5091196007?gh_jid=5091196007) |  | Costa Mesa | 9h |
 | 🏢 **Medtronic** | [Quality Engineer I - Plymouth, MN →](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Quality-Engineer-I---Plymouth--MN_R64759-1) | 🏢 Sponsor Employer | Plymouth | 9h |
 | 🏢 **FLIR Systems** | [Supplier Quality Engineer →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Supplier-Quality-Engineer_REQ33957) | 🏢 Sponsor Employer | Wilsonville, OR, OR | 9h |
 | 🏢 **General Motors** | [ML Validation Engineer - Early Career →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769) | 🏢 Sponsor Employer | Sunnyvale | 9h |
-| 🏢 **Leidos** | [RADAR Integration and Test Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RADAR-Integration-and-Test-Engineer_R-00181414) | 🏢 Sponsor Employer | Huntsville, AL | 9h |
-| 🏢 **Jabil** | [Quality Engineer I - Day shift - Defense and Aerospace St. Petersburg Florida →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Quality-Engineer-I---Day-shift---Defense-and-Aerospace-St-Petersburg-Florida_J2446144) |  | St. Petersburg/Ta... | 9h |
+| 🏢 **Leidos** | [RADAR Integration and Test Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RADAR-Integration-and-Test-Engineer_R-00181414) | 🏢 Sponsor Employer | Huntsville, AL | 10h |
+| 🏢 **Jabil** | [Quality Engineer I - Day shift - Defense and Aerospace St. Petersburg Florida →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Quality-Engineer-I---Day-shift---Defense-and-Aerospace-St-Petersburg-Florida_J2446144) |  | St. Petersburg/Ta... | 10h |
 | 🏢 **Booz Allen Hamilton** | [RF Electrical Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/RF-Electrical-Engineer_R0231433) | 🏢 Sponsor Employer | Colorado Springs, CO | 10h |
-| 🏢 **Johnson Controls** | [HVAC Data Center Controls Systems Engineer →](https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/HVAC-Data-Center-Controls-Systems-Engineer_WD30267020) | 🏢 Sponsor Employer | Texas-United Stat... + 1 more | 10h |
+| 🏢 **Johnson Controls** | [HVAC Data Center Controls Systems Engineer →](https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/HVAC-Data-Center-Controls-Systems-Engineer_WD30267020) | 🏢 Sponsor Employer | Texas-United Stat... + 1 more | 11h |
 | 🏢 **KBR** | [Systems Engineer →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dulles-Virginia/Systems-Engineer_R2122399) | 🏢 Sponsor Employer | Dulles + 1 more | 11h |
 | 🏢 **Thermo Fisher Scientific** | [Data Integrity Quality Engineer →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/Data-Integrity-Quality-Engineer_R-01349204-1) |  | St. Louis | 11h |
-| 🏢 **Abbott** | [Manufacturing Engineering Supervisor →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minnetonka/Senior-Manufacturing-Engineer_31147218-1) |  | Minnesota - Minne... | 11h |
+| 🏢 **Abbott** | [Manufacturing Engineering Supervisor →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minnetonka/Senior-Manufacturing-Engineer_31147218-1) |  | Minnesota - Minne... | 12h |
 | 🏢 **Formlabs** | [Mechanical Engineer →](https://careers.formlabs.com/job/7841811/apply/?gh_jid=7841811) | ✅ Sponsors Visa | Boston, MA + 1 more | 12h |
 | 🏢 **Thermo Fisher Scientific** | [Supervisor, Manufacturing Engineering →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Madison-Wisconsin-USA/Supervisor--Manufacturing-Engineering_R-01350421) |  | Madison | 19h |
 | 🏢 **Carrier Global** | [Electronic Manufacturing Test Engineer →](https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Electronic-Manufacturing-Test-Engineer_30201677) | 🏢 Sponsor Employer | GA18: 1150 Robert... | 19h |
@@ -697,8 +698,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KLA** | [Hardware Systems Engineer (MBSE) →](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Senior-Systems-Engineer_2635355-1) | 🏢 Sponsor Employer | Ann Arbor, MI | 1d |
 | 🏢 **Johnson & Johnson** | [Associate Mechanical Engineer →](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Associate-Mechanical-Engineer_R-070246-2) | 🏢 Sponsor Employer | Cincinnati | 1d |
 | 🏢 **GE Aerospace** | [Manufacturing Engineer/Operations Development →](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Arkansas-City/Manufacturing-Engineer-Operations-Development_R5025410-1) |  | Arkansas City | 1d |
-| 🏢 **Carrier Global** | [Controls Engineer →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CATX3-1218-Arion-Parkway-San-Antonio-TX-78216-USA/Controls-Engineer_30201443) | 🏢 Sponsor Employer | CATX3: 1218 Arion... + 1 more | 1d |
 | 🏢 **Carrier Global** | [Thermal Systems Engineer →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN82-AL-N-Carolina-CLT-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Thermal-Systems-Engineer_30201072) | 🏢 Sponsor Employer | CAN82: AL N Carol... + 1 more | 1d |
+| 🏢 **Carrier Global** | [Controls Engineer →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAA11-ALC-West-AZ-4615-South-33rd-Place-Phoenix-AZ-85040-USA/Controls-Engineer_30189032) | 🏢 Sponsor Employer | CAA11: ALC West A... + 1 more | 1d |
 | 🏢 **Blue Origin** | [ECLS Hardware Engineer →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ECLS-Hardware-Engineer_R63296) | 🏢 Sponsor Employer | Greater Seattle Area | 1d |
 | 🏢 **CFS Energy** | [Mechanical Engineer →](https://jobs.lever.co/cfsenergy/e1a68141-52e5-4ea2-ae16-a407909ef454/apply) |  | Devens, MA | 1d |
 | 🎮 **NVIDIA** | [ASIC Timing Engineer →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Physical-Design-and-Timing-Engineer_JR2012182) | 🏢 Sponsor Employer | US, CA | 1d |
@@ -719,12 +720,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Sierra Nevada Corporation** | [Systems Engineer I →](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Engineer-I_R0029686) | 🏢 Sponsor Employer | Hagerstown, MD | 2d |
 | 🏢 **KBR** | [Junior Systems Engineer →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2122293) | 🏢 Sponsor Employer | Beavercreek | 2d |
 | 🏢 **Moog** | [Manufacturing Engineer I →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Manufacturing-Engineer-I_R-26-17248) |  | Blacksburg, VA | 2d |
-| 🏢 **Hitachi** | [Process Engineer - 3rd Shift →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Process-Engineer---3rd-Shift_R0123472) | 🏢 Sponsor Employer | South Boston | 2d |
+| 🏢 **Hitachi** | [Customer Quality Engineer →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hunker-Pennsylvania-United-States-of-America/Customer-Quality-Engineer_R0118129) | 🏢 Sponsor Employer | Hunker | 2d |
 | 🔷 **Intel** | [CPU Validation Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CPU-Validation-Engineer_JR0283143) | 🏢 Sponsor Employer | US | 2d |
 | 🏢 **Johnson & Johnson** | [Mechanical Engineer - Robotic R&D →](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineer---Robotic-R-D_R-071030-1) | 🏢 Sponsor Employer | Santa Clara | 2d |
 | 🏢 **Zoox** | [System Test Engineer →](https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb/apply) | ✅ Sponsors Visa | Foster City, CA | 2d |
 | 🏢 **Zoox** | [Quality Engineer, Receiving and Vehicle Quality →](https://jobs.lever.co/zoox/82346558-eca6-4da3-8b5f-079a097abf78/apply) | ✅ Sponsors Visa | Hayward, CA | 2d |
-| 🏢 **Zoox** | [Firmware Validation Engineer →](https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b/apply) | ✅ Sponsors Visa | Foster City, CA | 2d |
+| 🏢 **Zoox** | [Part-Time Student Worker - Test Engineering →](https://jobs.lever.co/zoox/d3e43085-86b6-4cfb-8348-d9fd8ca8dfb2/apply) | ✅ Sponsors Visa | Foster City, CA | 2d |
 | 🏢 **Multiply Labs** | [Mechanical Engineer - Consumables →](https://jobs.lever.co/multiplylabs/bc14e69c-f030-461c-9853-8305f4af203a/apply) | 🏢 Sponsor Employer | San Francisco | 2d |
 | 🏢 **Waabi** | [Manufacturing Engineer (NPI) →](https://jobs.lever.co/waabi/57b4a051-c187-4f62-9c45-3b81249d337c/apply) | 🏢 Sponsor Employer | Pittsburgh, PA | 2d |
 | 🏢 **Waabi** | [Mechanical Engineer →](https://jobs.lever.co/waabi/548a93ba-52cb-4b21-a68a-70d812187e5b/apply) | 🏢 Sponsor Employer | Pittsburgh, PA | 2d |
@@ -765,9 +766,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Scale AI** | [Robotics Engineer →](https://job-boards.greenhouse.io/scaleai/jobs/4655744005) | ✅ Sponsors Visa | San Francisco, CA | 2d |
 | 🟩 **Roblox** | [Quality Engineer, Game Engine →](https://careers.roblox.com/jobs/7645318?gh_jid=7645318) | ✅ Sponsors Visa | San Mateo, CA | 2d |
 | 🏢 **Rocket Lab** | [Ground Systems Engineer I, Electrical →](https://job-boards.greenhouse.io/rocketlab/jobs/7593331003) | 🏢 Sponsor Employer | Stennis Space | 2d |
+| 🏢 **Relativity Space** | [Vehicle Hardware Test Engineer I (Fluids) →](https://boards.greenhouse.io/relativity/jobs/8472053002?gh_jid=8472053002) |  | Long Beach | 2d |
 | 🏢 **Relativity Space** | [Instrumentation and Controls Engineer I (Operations) →](https://boards.greenhouse.io/relativity/jobs/8452900002?gh_jid=8452900002) |  | Stennis Space | 2d |
 | 🏢 **Relativity Space** | [Manufacturing Test Engineer I, Pneumatic Mechanisms & Fluid Assemblies →](https://boards.greenhouse.io/relativity/jobs/8462778002?gh_jid=8462778002) |  | Long Beach | 2d |
-| 🏢 **Relativity Space** | [Power Systems Engineer I – Test & Launch →](https://boards.greenhouse.io/relativity/jobs/8141065002?gh_jid=8141065002) |  | Stennis Space | 2d |
 | 🏢 **Pure Storage** | [Consulting Pre-Sales Systems Engineer, Global Strategics- Financials →](https://job-boards.greenhouse.io/purestorage/jobs/7363420) |  | Dallas | 2d |
 | 🏢 **Pure Storage** | [Hardware Engineer, Hyperscale Line of Business →](https://job-boards.greenhouse.io/purestorage/jobs/7596268) | ✅ Sponsors Visa | Santa Clara | 2d |
 | 🏢 **Pure Storage** | [NVMe/SSD Qualification Engineer, Systems Engineering →](https://job-boards.greenhouse.io/purestorage/jobs/7732117) | ✅ Sponsors Visa | Santa Clara | 2d |
@@ -789,20 +790,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **MatX** | [ASIC/SOC Silicon Verification Engineer →](https://job-boards.greenhouse.io/matx/jobs/4002906008) | ✅ Sponsors Visa | Mountain View, CA | 2d |
 | 🏢 **Lucid Motors** | [Plant Floor Systems Engineer →](https://job-boards.greenhouse.io/lucidmotors/jobs/5049849007) | ✅ Sponsors Visa | Casa Grande, AZ | 2d |
 | 🏢 **Latitude AI** | [Hardware Engineer I →](https://job-boards.greenhouse.io/latitude/jobs/7611153) | ✅ Sponsors Visa | Palo Alto, CA | 2d |
+| 🏢 **Jane Street** | [FPGA Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8061011002) | 🏢 Sponsor Employer | New York + 1 more | 2d |
 | 🏢 **Jane Street** | [ASIC Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8213653002) | 🏢 Sponsor Employer | New York | 2d |
-| 🏢 **Jane Street** | [FPGA Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8062455002) | 🏢 Sponsor Employer | New York + 1 more | 2d |
 | 🏢 **Etched** | [Platform Validation Engineer →](https://jobs.ashbyhq.com/etched/ccf2ae62-5490-4a59-87e8-8761f573b22a/application) |  | San Jose | 2d |
 | 🏢 **Etched** | [Board Bring-Up Specialist (Validation Engineering) →](https://jobs.ashbyhq.com/etched/74710ea6-471c-48d0-885b-70c5b85ab5fc/application) |  | San Jose | 2d |
 | 🏢 **Intrinsic Robotics** | [Automation and Controls Engineer →](https://boards.greenhouse.io/intrinsicrobotics/jobs/5843008004?gh_jid=5843008004) | 🏢 Sponsor Employer | Mountain View | 2d |
+| 🏢 **Crusoe** | [Electrical Engineer →](https://jobs.ashbyhq.com/crusoe/8747a8c1-7004-4053-87b7-951a13d3fcb5/application) | ✅ Sponsors Visa | Arvada, CO | 2d |
 | 🏢 **Crusoe** | [Mechanical Engineer →](https://jobs.ashbyhq.com/crusoe/028b064e-2044-406d-bc90-2ab9bee731bd/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
 | 🏢 **Crusoe** | [Hardware Systems Engineer I →](https://jobs.ashbyhq.com/crusoe/90d01247-2315-4af0-8ac7-8754340d6fa1/application) | ✅ Sponsors Visa | San Francisco, CA | 2d |
-| 🏢 **Crusoe** | [Electrical Engineer →](https://jobs.ashbyhq.com/crusoe/8747a8c1-7004-4053-87b7-951a13d3fcb5/application) | ✅ Sponsors Visa | Arvada, CO | 2d |
 | 🏢 **Graphcore** | [Graduate Electrical Engineer →](https://job-boards.greenhouse.io/graphcore/jobs/8386144002) |  | Milpitas | 2d |
 | 🏢 **Zipline** | [Interconnect Integration Test Engineer →](https://www.flyzipline.com/careers/open-roles?gh_jid=7665049003) | ✅ Sponsors Visa | South San Francisco | 2d |
 | 🏢 **Zipline** | [Process Engineer, Service Tooling & Processes →](https://www.flyzipline.com/careers/open-roles?gh_jid=7350124003) | ✅ Sponsors Visa | Esparto | 2d |
 | 🏢 **Freeform** | [Electrical Engineer (Hardware Design) →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688763003) |  | Los Angeles, CA | 2d |
 | 🏢 **Freeform** | [Mechanical Engineer (Complex Precision Systems) →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692972003) |  | Los Angeles, CA | 2d |
-| 🏢 **Figure AI** | [Supplier Quality Engineer, BotQ →](https://job-boards.greenhouse.io/figureai/jobs/4660300006) | 🏢 Sponsor Employer | San Jose, CA | 2d |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -814,7 +814,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **PagerDuty** | [Commercial Account Executive →](https://job-boards.greenhouse.io/pagerduty/jobs/5974052004) |  | San Francisco | 39m |
+| 🏢 **Comcast** | [Account Executive, SMB →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IN---Indianapolis-5330-E-65th-St/Outside-Sales-Executive--B2B_R435423) |  | Indianapolis, 533... + 6 more | 9m |
+| 🏢 **PagerDuty** | [Commercial Account Executive →](https://job-boards.greenhouse.io/pagerduty/jobs/5974052004) |  | San Francisco | 54m |
 | ☁️ **Salesforce** | [Named Account Executive, Federal Civilian (DOE) →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--DOE-_JR338529) |  | Virginia Mclean | 1h |
 | ☁️ **Salesforce** | [Named Account Executive, Federal Civilian (NASA) →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Named-Account-Executive--Federal-Civilian--NASA-_JR338530) |  | Virginia Mclean | 1h |
 | 🏢 **FIS** | [Sales Executive, Asset Management →](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-PA-COL-Virtual/Sales-Executive--Asset-Management_JR0304754) |  | PA COL Virtual | 1h |
@@ -823,37 +824,36 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **T-Mobile** | [Account Executive, Business Team Sales - Ontario,  CA →](https://tmobile.wd1.myworkdayjobs.com/External/job/Ontario-California/Account-Executive--Business-Team-Sales---Ontario---CA_REQ352821-1) |  | Ontario | 1h |
 | 🏢 **Lowe's** | [Full Time - Sales Associate - Flooring - Opening →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Littleton-CO-2419/Full-Time---Sales-Associate---Flooring---Opening_JR-02494189) |  | Littleton, CO | 2h |
 | 🏢 **Zipline** | [Field Sales Representative, Houston →](https://www.flyzipline.com/careers/open-roles?gh_jid=7616566003) |  | Houston | 2h |
-| 🏢 **Hudl** | [Account Executive - Small College →](https://job-boards.greenhouse.io/hudl/jobs/7843994) |  | Lincoln, NE | 2h |
+| 🏢 **Hudl** | [Account Executive - Small College →](https://job-boards.greenhouse.io/hudl/jobs/7843994) |  | Lincoln, NE | 3h |
 | 🏢 **Baton Corporation** | [Sales Development Representative →](https://jobs.ashbyhq.com/baton/f08aceb6-dae6-4881-bf2c-ad315bb020b6/application) |  | New York City | 3h |
 | 🏢 **Carrier Global** | [Service Sales Representative- Automated Logic →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAA11-ALC-West-AZ-4615-South-33rd-Place-Phoenix-AZ-85040-USA/Service-Sales-Representative--Automated-Logic_30204359) | 🏢 Sponsor Employer | CAA11: ALC West A... | 3h |
 | 🏢 **Toast** | [Retail Account Executive - Denver, CO →](https://careers.toasttab.com/jobs?gh_jid=7842801) |  | Denver, CO | 3h |
 | 🏢 **Comcast** | [Comcast Business - Sales Engineer 1 →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---Plymouth-35-Resnik-Rd/Comcast-Business---Sales-Engineer-1_R432128) |  | Plymouth, 35 Resn... | 3h |
 | 🏢 **Lowe's** | [Full Time - Sales Associate - Outside Lawn & Garden - Closing →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Sumter-SC-0626/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02494113) |  | Sumter, SC + 11 more | 3h |
-| 🏢 **Toast** | [Territory Account Executive - Lafayette, IN →](https://careers.toasttab.com/jobs?gh_jid=7843086) |  | Lafayette, IN | 3h |
+| 🏢 **Toast** | [Territory Account Executive - Lafayette, IN →](https://careers.toasttab.com/jobs?gh_jid=7843086) |  | Lafayette, IN | 4h |
 | 🏢 **Lowe's** | [Full Time - Sales Associate - Tools - Day →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Murrieta-CA-1576/Full-Time---Sales-Associate---Tools---Day_JR-02494023) |  | Murrieta, CA + 3 more | 4h |
 | 🏢 **Anaplan** | [Sales Development Representative →](https://job-boards.greenhouse.io/anaplan/jobs/8387511002) |  | Minneapolis | 4h |
 | 🏢 **Toast** | [Bilingual Business Development Representative (Mandarin) →](https://careers.toasttab.com/jobs?gh_jid=7843843) |  | San Diego, CA + 3 more | 4h |
-| 🏢 **Comcast** | [Account Executive, SMB →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/TN---Antioch-5510-Crossings-Circle/Account-Executive--SMB_R436034) |  | Antioch, 5510 Cro... + 5 more | 4h |
 | 🏢 **Intuitive** | [Endoluminal Sales Associate →](https://jobs.smartrecruiters.com/Intuitive/744000122334239) |  | Nashville, TN | 4h |
 | 📝 **Notion** | [Account Executive, Commercial →](https://jobs.ashbyhq.com/notion/9526496b-5c39-456b-a454-ebec889e7149/application) |  | New York + 1 more | 4h |
-| 🏢 **Johnson & Johnson** | [Account Executive I - Advanced Hemostasis and Healing (AHH) - North Baltimore - Johnson & Johnson MedTech - Surgery →](https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Account-Executive-I---Advanced-Hemostasis-and-Healing--AHH----North-Baltimore---Johnson---Johnson-MedTech---Surgery_R-056997-2) |  | Baltimore | 4h |
-| 📊 **Databricks** | [Commercial Account Executive →](https://databricks.com/company/careers/open-positions/job?gh_jid=8519576002) |  | Austin | 4h |
+| 🏢 **Johnson & Johnson** | [Account Executive I - Advanced Hemostasis and Healing (AHH) - North Baltimore - Johnson & Johnson MedTech - Surgery →](https://jj.wd5.myworkdayjobs.com/jj/job/Baltimore-Maryland-United-States/Account-Executive-I---Advanced-Hemostasis-and-Healing--AHH----North-Baltimore---Johnson---Johnson-MedTech---Surgery_R-056997-2) |  | Baltimore | 5h |
+| 📊 **Databricks** | [Commercial Account Executive →](https://databricks.com/company/careers/open-positions/job?gh_jid=8519576002) |  | Austin | 5h |
 | 🏢 **ElevenLabs** | [Account Executive - North America - Corporate →](https://jobs.ashbyhq.com/elevenlabs/144dafdb-03aa-46ff-8555-a16ffec52abc/application) |  | San Francisco | 5h |
 | 🏢 **Medtronic** | [Associate Sales Representative - Acute Care and Monitoring (Orlando) →](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Orlando-Florida-United-States-of-America/Associate-Sales-Representative---Acute-Care-and-Monitoring--Orlando-_R64949-1) |  | Orlando | 5h |
-| 🏢 **Thermo Fisher Scientific** | [Business Development Associate (Bioanalytical Labs) - US Remote West Coast →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Business-Development-Associate--Bioanalytical-Labs----US-Remote-West-Coast_R-01348378) |  | Remote | 5h |
-| 🏢 **Biogen** | [Business Development Counsel →](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Business-Development-Counsel_REQ23119) |  | Cambridge, MA | 5h |
-| 🏢 **Moog** | [Technical Business Development Engineer →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Engineer-Systems_R-25-14206) |  | Phoenix, AZ | 6h |
+| 🏢 **Thermo Fisher Scientific** | [Business Development Associate (Bioanalytical Labs) - US Remote West Coast →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Business-Development-Associate--Bioanalytical-Labs----US-Remote-West-Coast_R-01348378) |  | Remote | 6h |
+| 🏢 **Biogen** | [Business Development Counsel →](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Business-Development-Counsel_REQ23119) |  | Cambridge, MA | 6h |
+| 🏢 **Moog** | [Technical Business Development Engineer →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Engineer-Systems_R-25-14206) |  | Phoenix, AZ | 7h |
 | 🛡️ **CrowdStrike** | [Partner Account Executive, Portuguese-Speaking (Hybrid, Austin) →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Partner-Account-Executive--Portuguese-Speaking--Hybrid--Austin-_R27682) |  | Austin, TX | 7h |
 | 🏢 **EVERSANA** | [Virtual Sales Representative - Rare Disease - Remote →](https://jobs.smartrecruiters.com/EVERSANA1/744000122309604) |  | Atlanta, GA + 4 more | 7h |
 | 🏢 **Comcast** | [Enterprise Account Executive →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CA---San-Francisco-1485-Bayshore-Blvd/Enterprise-Account-Executive_R435914) |  | San Francisco, 14... + 4 more | 7h |
 | ☁️ **Salesforce** | [Small, Medium and Growth Business - Account Executive - San Francisco →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Small--Medium-and-Growth-Business---Account-Executive---San-Francisco_JR283068) |  | San Francisco, CA | 7h |
-| 🏢 **Replicant** | [Sales Development Representative →](https://jobs.ashbyhq.com/Replicant/47c2bae2-293f-4a6d-8ba1-f797fed2e5cf/application) |  | United States | 7h |
+| 🏢 **Replicant** | [Sales Development Representative →](https://jobs.ashbyhq.com/Replicant/47c2bae2-293f-4a6d-8ba1-f797fed2e5cf/application) |  | United States | 8h |
 | 🏢 **Mastercard** | [Managing Consultant, Business Development – Fuel & Convenience →](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Managing-Consultant--Business-Development---Fuel---Convenience_R-275303) |  | Purchase New York | 8h |
 | 🏢 **Cisco** | [Account Executive - Portfolio →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Account-Executive---Portfolio_2010719) |  | Seattle Washingto... + 3 more | 8h |
 | 🏢 **Johnson Controls** | [New PSA Service Sales Representative 2 →](https://jci.wd5.myworkdayjobs.com/JCI/job/Newburgh-New-York-United-States-of-America/New-PSA-Service-Sales-Representative-2_WD30265770) |  | New York-United S... | 8h |
 | 🏢 **Vanguard** | [Field Sales Executive, RIA-Northeast →](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Boston-MA/Field-Sales-Executive--RIA-Northeast_177049) |  | Boston, MA | 8h |
 | 🏢 **Johnson Controls** | [HVAC Smart Building Sales Account Executive →](https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Smart-Building-Sales-Account-Executive_WD30265959) |  | Maryland-United S... | 8h |
-| 🏢 **Johnson & Johnson** | [Sales Associate - Boston, MA - Johnson & Johnson MedTech - Orthopaedics →](https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Sales-Associate---Boston--MA---Johnson---Johnson-MedTech---Orthopaedics_R-063317-1) |  | Boston | 8h |
+| 🏢 **Johnson & Johnson** | [Sales Associate - Boston, MA - Johnson & Johnson MedTech - Orthopaedics →](https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Sales-Associate---Boston--MA---Johnson---Johnson-MedTech---Orthopaedics_R-063317-1) |  | Boston | 9h |
 | 🏢 **Medtronic** | [Sales Representative - Cardiac Rhythm Management - Indianapolis →](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Indianapolis-Indiana-United-States-of-America/Sales-Representative---Cardiac-Rhythm-Management---Indianapolis_R60241-2) |  | Indianapolis | 9h |
 | 🏢 **Elastic** | [Enterprise Account Executive - Pursuit, East →](https://jobs.elastic.co/jobs?gh_jid=7729082&gh_jid=7729082) |  | Georgia + 5 more | 9h |
 | 🏢 **Johnson & Johnson** | [Sales Associate, Trauma - North Houston - Johnson & Johnson MedTech, Orthopaedics →](https://jj.wd5.myworkdayjobs.com/jj/job/Houston-Texas-United-States-of-America/Sales-Associate--Trauma---North-Houston---Johnson---Johnson-MedTech--Orthopaedics_R-070287-2) |  | Houston | 9h |
@@ -864,7 +864,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cisco** | [Account Executive - Splunk, SLED/Higher Ed.- WA →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Account-Executive---Splunk--SLED-Higher-Ed--WA_2012256) |  | Seattle Washingto... | 11h |
 | 🏢 **Arrow Electronics** | [Strategic Enterprise Account Executive (Cloud & AI Platform Partnerships) →](https://arrow.wd1.myworkdayjobs.com/AC/job/US-CO-Colorado-Remote-Employees/Enterprise-Sales-Account-Executive_R242705) |  | CO Colorado Emplo... | 11h |
 | 🏢 **Abbott** | [Point of Care Diagnostics Sales Representative - Nashville, TN →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Tennessee---Nashville/Point-of-Care-Diagnostics-Sales-Representative---Nashville--TN_31148188) |  | Tennessee - Nashv... | 11h |
-| 🏢 **Smiths Group** | [Inside Sales Representative →](https://jobs.smartrecruiters.com/SmithsGroup2/744000122239562) |  | Romeoville, IL | 12h |
+| 🏢 **Smiths Group** | [Inside Sales Representative →](https://jobs.smartrecruiters.com/SmithsGroup2/744000122239562) |  | Romeoville, IL | 13h |
 | 🛡️ **CrowdStrike** | [Corporate Sales Engineer (Remote) →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Corporate-Sales-Engineer--Remote-_R27893) |  | Remote | 17h |
 | 🔐 **Okta** | [Strategic Account Executive, Auth0 →](https://www.okta.com/company/careers/opportunity/7813123?gh_jid=7813123) |  | Massachusetts + 4 more | 1d |
 | 🏢 **Carrier Global** | [Commercial Sales Engineer →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAMAO-Carrier-Home-Massachusetts-Remote-Location-Remote-City-MA-01001-USA/Commercial-Sales-Engineer_30193406) |  | Home Massachusett... | 1d |
@@ -953,8 +953,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Vanta** | [Sales Development Representative, Early Stage →](https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5/application) |  | San Francisco, CA | 2d |
 | 🏢 **Vanta** | [Sales Development Representative, Growth →](https://jobs.ashbyhq.com/vanta/ec4bbbe2-5fee-4f18-9c14-0305fdc34513/application) |  | San Francisco, CA | 2d |
 | 🏢 **Vanta** | [Sales Development Representative, Upmarket →](https://jobs.ashbyhq.com/vanta/a5cdc446-1fc4-40a7-8175-3f314a5c8ef2/application) |  | San Francisco, CA + 1 more | 2d |
-| 🏢 **Cursor** | [Geo Enterprise Account Executive →](https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39/application) |  | San Francisco + 1 more | 2d |
 | 🏢 **Cursor** | [Commercial Account Executive →](https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b/application) |  | New York + 1 more | 2d |
+| 🏢 **Cursor** | [Geo Enterprise Account Executive →](https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233/application) |  | New York + 1 more | 2d |
 | 🏢 **Zip** | [Business Development Representative →](https://jobs.ashbyhq.com/zip/de71f88b-02ba-4807-a11d-6da6ff24d994/application) |  | San Francisco | 2d |
 | 🏢 **Zip** | [Enterprise Account Executive →](https://jobs.ashbyhq.com/zip/dceace45-8473-49a4-a05c-901112601d88/application) |  | New York City | 2d |
 | 🏢 **Zip** | [Enterprise Account Executive - Central →](https://jobs.ashbyhq.com/zip/f5318e56-1fb8-43ba-917c-83983ac7d9d5/application) |  | Remote | 2d |
@@ -970,9 +970,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **UiPath** | [Enterprise Sales Execuitive - Peak AI / Supply Chain →](https://jobs.ashbyhq.com/uipath/e52b3296-3d75-4075-a3a9-b17815bad99b/application) |  | Remote | 2d |
 | 🏢 **Unify** | [Sales Development Representative →](https://jobs.ashbyhq.com/unify/a629e834-eb99-4677-b894-9a5bbd3cd07a/application) |  | New York | 2d |
 | 🏢 **Talos Trading** | [Sales Associate, New York →](https://jobs.ashbyhq.com/talos-trading/add01889-5796-4331-8b00-aa3e7ee7b713/application) |  | New York | 2d |
-| ❄️ **Snowflake** | [Account Executive, Commercial Acquisition →](https://jobs.ashbyhq.com/snowflake/893806bb-b3c2-47d2-9058-fb3889db33ff/application) |  | CO-Denver + 3 more | 2d |
 | ❄️ **Snowflake** | [Account Executive, Commercial →](https://jobs.ashbyhq.com/snowflake/b394b40b-ebab-4e7b-a43b-27d2b3247a42/application) |  | CO-Denver + 1 more | 2d |
-| ❄️ **Snowflake** | [Sales Development Representative - Spanish Speaker →](https://jobs.ashbyhq.com/snowflake/d1823395-6522-4b35-bfbf-365ad939529f/application) |  | GA-Atlanta | 2d |
+| ❄️ **Snowflake** | [Account Executive, Commercial Acquisition →](https://jobs.ashbyhq.com/snowflake/893806bb-b3c2-47d2-9058-fb3889db33ff/application) |  | CO-Denver + 3 more | 2d |
+| ❄️ **Snowflake** | [Account Executive, Majors, Financial Services →](https://jobs.ashbyhq.com/snowflake/38f39127-ead9-477f-92a2-0ae918ba3588/application) | ✅ Sponsors Visa | NY-New York City-... | 2d |
 | 🗄️ **Supabase** | [Account Executive (USA) →](https://jobs.ashbyhq.com/supabase/0aba9686-a3f0-4459-be3e-337bc7b0f90c/application) |  | Remote | 2d |
 | 🗄️ **Supabase** | [Account Executive, EMEA →](https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc/application) |  | Remote | 2d |
 | 🏢 **Rilla** | [Sales Development Representative →](https://jobs.ashbyhq.com/rilla/7583651b-639d-4514-b168-bb593a704bf6/application) |  | New York City | 2d |
@@ -996,8 +996,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Reality Defender** | [Business Development Representative (BDR) →](https://jobs.ashbyhq.com/realitydefender/84601b10-c1f2-44de-8d6c-4a16fd66f71f/application) |  | New York City | 2d |
 | 🏢 **Reality Defender** | [Account Executive →](https://jobs.ashbyhq.com/realitydefender/56632990-f262-488a-bed4-c18d0d48f69d/application) |  | New York City | 2d |
 | 🏢 **Workato** | [Outbound Sales Development Representative →](https://job-boards.greenhouse.io/workato/jobs/8465075002) |  | Palo Alto | 2d |
-| 🏢 **Webflow** | [Growth Account Executive - Central →](https://job-boards.greenhouse.io/webflow/jobs/7708042) |  | Chicago | 2d |
 | 🏢 **Webflow** | [Sales Development Representative (SDR) →](https://job-boards.greenhouse.io/webflow/jobs/7203091) |  | Chicago + 1 more | 2d |
+| 🏢 **Webflow** | [Growth Account Executive - Central →](https://job-boards.greenhouse.io/webflow/jobs/7708042) |  | Chicago | 2d |
 | 🏢 **Pulse** | [Account Executive →](https://jobs.ashbyhq.com/pulse/518656e1-0130-4056-a65e-48de0fd6680e/application) |  | San Francisco | 2d |
 | 🏢 **Pulse** | [Business Development Representative (BDR) →](https://jobs.ashbyhq.com/pulse/551c0720-bcd5-45a7-9fce-22a4c214ac1b/application) |  | San Francisco | 2d |
 | 🏢 **Verkada** | [Sales Development Representative (AAE), Bay Area →](https://job-boards.greenhouse.io/verkada/jobs/4086535007) |  | San Mateo, CA | 2d |
@@ -1025,12 +1025,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **Comcast** | [Residential Installation & Service Technician →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/AL---Florence-421-Gerrard-Dr/Residential-Installation---Service-Technician_R433202) |  | Florence, 421 Ger... + 12 more | 6m |
-| 🏢 **Proofpoint** | [Office and Facilities Coordinator →](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Facilities-Coordinator_R14021) |  | Draper, UT | 9m |
-| 🏢 **FLIR Systems** | [Process Technician →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Process-Technician_REQ34373) |  | Goleta, CA, CA | 10m |
-| ☁️ **Salesforce** | [Technical Support Engineer - Sales Cloud →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Technical-Support-Engineer_JR334959) | 🏢 Sponsor Employer | Indiana Indianapolis | 38m |
-| 🏢 **Northrop Grumman** | [Computer Operations Analyst – Regional COSA (26-118) →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Computer-Operations-Analyst---Regional-COSA--26-118-_R10230641) |  | Colorado-Schrieve... | 39m |
-| 🚀 **SpaceX** | [Materials Technician, Insource Manufacturing →](https://boards.greenhouse.io/spacex/jobs/8517667002?gh_jid=8517667002) |  | Bastrop, TX | 42m |
+| 🏢 **CACI** | [Technician →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dulles/Technician_325128) |  | VA Dulles + 1 more | 13m |
+| 🏢 **CACI** | [Document Management Technician (Entry Level Legal Support) →](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Document-Management-Technician--Entry-Level-Legal-Support-_324374) |  | DC Washington + 1 more | 13m |
+| 🏢 **Comcast** | [Residential Installation & Service Technician →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/AL---Florence-421-Gerrard-Dr/Residential-Installation---Service-Technician_R433202) | 🏢 Sponsor Employer | Florence, 421 Ger... + 12 more | 21m |
+| 🏢 **Proofpoint** | [Office and Facilities Coordinator →](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Facilities-Coordinator_R14021) |  | Draper, UT | 24m |
+| 🏢 **FLIR Systems** | [Process Technician →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Process-Technician_REQ34373) | 🏢 Sponsor Employer | Goleta, CA, CA | 25m |
+| ☁️ **Salesforce** | [Technical Support Engineer - Sales Cloud →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Technical-Support-Engineer_JR334959) | 🏢 Sponsor Employer | Indiana Indianapolis | 53m |
+| 🏢 **Northrop Grumman** | [Computer Operations Analyst – Regional COSA (26-118) →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Computer-Operations-Analyst---Regional-COSA--26-118-_R10230641) |  | Colorado-Schrieve... | 54m |
+| 🚀 **SpaceX** | [Materials Technician, Insource Manufacturing →](https://boards.greenhouse.io/spacex/jobs/8517667002?gh_jid=8517667002) |  | Bastrop, TX | 57m |
 | 🏢 **KBR** | [ICS: AFHE Maintenance Technician →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Cherry-Point-North-Carolina/ICS--AFHE-Maintenance-Technician_R2122377) |  | Cherry Point + 1 more | 1h |
 | 🏢 **Anduril** | [Technician, Electrical/PCBAs →](https://boards.greenhouse.io/andurilindustries/jobs/5118161007?gh_jid=5118161007) | ✅ Sponsors Visa | Costa Mesa | 1h |
 | 🏢 **Anduril** | [Electrical Test Technician →](https://boards.greenhouse.io/andurilindustries/jobs/5118151007?gh_jid=5118151007) | ✅ Sponsors Visa | Costa Mesa | 1h |
@@ -1045,13 +1047,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **ResMed** | [Facilities and Equipment Maintenance Technician, First Shift →](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Lithia-Springs-GA-United-States/Facilities-and-Equipment-Maintenance-Technician--2nd-Shift_JR_045018-1) |  | Lithia Springs, GA | 2h |
 | 🏢 **Applied Materials** | [Logistics Operations B2 →](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Logistics-Operations-B2_R2618060) |  | AustinTX | 2h |
 | 🏢 **Jump Trading** | [Data Center Technician →](https://www.jumptrading.com/hr/job?gh_jid=7781600) | ✅ Sponsors Visa | Carrollton, TX | 2h |
-| 🚪 **DoorDash** | [Operations Specialist, Logistics →](https://job-boards.greenhouse.io/doordashusa/jobs/7844093) |  | Dublin, CA + 1 more | 2h |
-| 🏢 **AbbVie** | [QA Technician →](https://jobs.smartrecruiters.com/AbbVie/3743990012781306) |  | Tempe, AZ | 2h |
-| 🏢 **AbbVie** | [Technician, QA I →](https://jobs.smartrecruiters.com/AbbVie/3743990012781226) |  | Tempe, AZ | 2h |
+| 🚪 **DoorDash** | [Operations Specialist, Logistics →](https://job-boards.greenhouse.io/doordashusa/jobs/7844093) |  | Dublin, CA + 1 more | 3h |
+| 🏢 **AbbVie** | [QA Technician →](https://jobs.smartrecruiters.com/AbbVie/3743990012781306) |  | Tempe, AZ | 3h |
+| 🏢 **AbbVie** | [Technician, QA I →](https://jobs.smartrecruiters.com/AbbVie/3743990012781226) |  | Tempe, AZ | 3h |
 | 🔷 **Intel** | [Intel Contract - Facilities Water/Waste Treatment Technician →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Intel-Contract---Facilities-Water-Waste-Treatment-Technician_JR0283274) |  | US | 3h |
 | 🏢 **FLIR Systems** | [Assembly Technician →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Assembly-Manufacturing-Engineer_REQ33475) |  | Camarillo, CA, CA + 1 more | 3h |
 | 🏢 **Blue Origin** | [Recruiting Coordinator (Fixed Term) →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Recruiting-Coordinator--Fixed-Term-_R61641) |  | Space Coast, FL + 4 more | 3h |
-| 🏢 **CACI** | [Document Management Technician (Entry Level Legal Support) →](https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Document-Management-Technician--Entry-Level-Legal-Support-_321979-1) | 🏢 Sponsor Employer | DC Washington | 3h |
 | 🏢 **Leidos** | [Journeyman Cloud Operations Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Cloud-Operations-Engineer_R-00181520) | 🏢 Sponsor Employer | Alexandria, VA | 3h |
 | 🔷 **Intel** | [Manufacturing Equipment Technician (MTE) - Night Shift 6 →](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Manufacturing-Equipment-Technician--MTE----Night-Shift-6_JR0281386) | 🏢 Sponsor Employer | US | 3h |
 | 🏢 **Boeing** | [Supply Chain Specialist →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Supply-Chain-Specialist_JR2026507125-1) |  | Seal Beach, CA + 1 more | 3h |
@@ -1059,19 +1060,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **FLIR Systems** | [Wire Bonding Technician →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Wire-Bonding-Technician_REQ32239) |  | Camarillo, CA, CA | 3h |
 | 🏢 **Boeing** | [Supply Chain Specialist (Supply Chain Management) →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Supply-Chain-Specialist--Supply-Chain-Management-_JR2026502410-1) |  | Dallas, TX | 3h |
 | 🏢 **Booz Allen Hamilton** | [Cloud Infrastructure Support Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Cloud-Infrastructure-Support-Engineer_R0238450) | 🏢 Sponsor Employer | Charlottesville, VA | 3h |
-| 🏢 **Veolia Environnement SA** | [Driver/Service Technician -Water Technologies →](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122338959) |  | Arvada, CO | 3h |
-| 🔷 **Intel** | [Supply Chain Technical Planning Analyst →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Technical-Planning-Analyst_JR0282425) |  | US | 3h |
-| 🏢 **Johnson & Johnson** | [Maintenance Technician 1 →](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Maintenance-Technician-1_R-062285) |  | Danvers | 3h |
-| 🏢 **Cisco** | [Solutions Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Memphis-Tennessee-US/Solutions-Engineer_2012720) | 🏢 Sponsor Employer | Memphis, US + 5 more | 3h |
-| 🏢 **Latitude AI** | [Bench Technician Associate - Pittsburgh, PA (Contract) →](https://job-boards.greenhouse.io/latitude/jobs/7816212) | ✅ Sponsors Visa | Pittsburgh, PA | 3h |
+| 🏢 **Veolia Environnement SA** | [Driver/Service Technician -Water Technologies →](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122338959) |  | Arvada, CO | 4h |
+| 🔷 **Intel** | [Supply Chain Technical Planning Analyst →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Technical-Planning-Analyst_JR0282425) |  | US | 4h |
+| 🏢 **Johnson & Johnson** | [Maintenance Technician 1 →](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Maintenance-Technician-1_R-062285) |  | Danvers | 4h |
+| 🏢 **Cisco** | [Solutions Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Memphis-Tennessee-US/Solutions-Engineer_2012720) | 🏢 Sponsor Employer | Memphis, US + 5 more | 4h |
+| 🏢 **Latitude AI** | [Bench Technician Associate - Pittsburgh, PA (Contract) →](https://job-boards.greenhouse.io/latitude/jobs/7816212) | ✅ Sponsors Visa | Pittsburgh, PA | 4h |
 | 🏢 **RTX** | [Mechanical Repair Technician 1 →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Mechanical-Repair-Technician-1_01813449) |  | KS-LENEXA-885 | 4h |
 | 🏢 **Lowe's** | [Supply Chain Quality Assurance Team Member - MW12s Nights →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Westfield-MA-Flatbed-Distribution-1432/Supply-Chain-Quality-Assurance-Team-Member---MW12s-Nights_JR-02493968) |  | Westfield, MA | 4h |
 | 🏢 **Lowe's** | [Supply Chain Quality Assurance Team Member - Nights →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Westfield-MA-Flatbed-Distribution-1432/Supply-Chain-Quality-Assurance-Team-Member---Nights_JR-02454057-1) |  | Westfield, MA | 4h |
 | 🏢 **Jabil** | [Tooling Technician →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Tooling-Technician_J2446828) |  | St. Petersburg/Ta... | 4h |
 | 🏢 **Curtiss-Wright** | [Electrical Test Technician →](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Hauppauge/Electrical-Test-Technician_JR11895-2) |  | NY-Hauppauge | 4h |
 | 🏢 **AbbVie** | [Strategic Sourcer, Talent Acquisition- Operations →](https://jobs.smartrecruiters.com/AbbVie/3743990012778157) |  | Richmond, VA + 3 more | 4h |
-| 🏢 **Takeda** | [Lab Technician - 2nd Shift →](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0178989-1) |  | GA - Social Circl... | 4h |
-| 🏢 **Philips** | [Distribution Technician l →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Phoenix-Arizona-United-States/Distribution-Technician-l_579033) |  | Phoenix | 4h |
+| 🏢 **Takeda** | [Lab Technician - 2nd Shift →](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0178989-1) |  | GA - Social Circl... | 5h |
+| 🏢 **Philips** | [Distribution Technician l →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Phoenix-Arizona-United-States/Distribution-Technician-l_579033) |  | Phoenix | 5h |
 | 🏢 **Polaris** | [Powertrain Development Technician I →](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Roseau-MN-USA/Powertrain-Development-Technician-I_R29414) | 🏢 Sponsor Employer | Roseau, MN | 5h |
 | 🏢 **Moog** | [A&T Technician I - 2nd Shift →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/A-T-Technician-I---2nd-Shift_R-26-17334) |  | Buffalo, NY | 5h |
 | 🏢 **Jabil** | [Quality Technician I →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Quality-Technician-I_J2447481) |  | Monument, CO | 5h |
@@ -1082,25 +1083,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | [Mobile Repair Team (MRT) Technician →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-REMOTE/Mobile-Repair-Team--MRT--Technician_01840254) |  | US, AZ + 1 more | 5h |
 | 🏢 **Carrier Global** | [Logistics Technician →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG10-ALC-HQ-1025-Cobb-Place-Boulevard-Kennesaw-GA-30145-USA/Logistics-Technician_30204336-2) |  | CAG10: ALC | 5h |
 | 🏢 **Veolia Environnement SA** | [Water Metering Technician →](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122324198) |  | East Palo Alto, CA | 5h |
-| 🏢 **Mercury** | [Recruiter - Sales →](https://job-boards.greenhouse.io/mercury/jobs/5970956004) |  | San Francisco, CA | 5h |
-| 🏢 **Box** | [Go to Market Sales Operations Analyst →](https://job-boards.greenhouse.io/boxinc/jobs/7774330) |  | Redwood City | 5h |
-| 🏢 **Veolia Environnement SA** | [Wastewater Technician →](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122323304) |  | Hemlock, MI | 5h |
+| 🏢 **Mercury** | [Recruiter - Sales →](https://job-boards.greenhouse.io/mercury/jobs/5970956004) |  | San Francisco, CA | 6h |
+| 🏢 **Box** | [Go to Market Sales Operations Analyst →](https://job-boards.greenhouse.io/boxinc/jobs/7774330) |  | Redwood City | 6h |
+| 🏢 **Veolia Environnement SA** | [Wastewater Technician →](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122323304) |  | Hemlock, MI | 6h |
 | 🏢 **Johnson & Johnson** | [IMM Technician →](https://jj.wd5.myworkdayjobs.com/jj/job/Jacksonville-Florida-United-States-of-America/IMM-Technician_R-061940) |  | Jacksonville | 6h |
 | 🏢 **Dandy** | [Milling Technician (TX) →](https://jobs.ashbyhq.com/dandy/13bdf576-75fc-4d50-bca9-c2655e058736/application) |  | USA - Carrollton TX | 6h |
 | 🏢 **Merck & Co.** | [Associate Specialist, Supply Chain Management →](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Specialist--Supply-Chain-Management_R394697-1) |  | Pennsylvania - We... | 6h |
 | 🏢 **Hitachi** | [Supply Chain Systems Analyst →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Supply-Chain-Systems-Analyst_R0121458-2) | 🏢 Sponsor Employer | North Carolina, U... | 6h |
 | 🏢 **ASML** | [Optical Fabrication Technicians: CWW Front End Nights (6:00pm-6:00am Sunday-Tuesday, every other Wednesday) 15 % Differential →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technicians--CWW-Front-End-Nights--6-00pm-6-00am-Sunday-Tuesday--every-other-Wednesday--15---Differential_J-00339886) |  | Wilton, CT | 6h |
-| 🏢 **Takeda** | [Part Time Plasma Center Technician- Phlebotomy →](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Plasma-Center-Technician--Phlebotomy_R0178973-1) |  | CA - Visalia | 6h |
-| 🏢 **Moog** | [Scheduling & Logistics Coordinator →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Scheduling---Logistics-Coordinator_R-26-17264) |  | Buffalo, NY | 6h |
+| 🏢 **Takeda** | [Part Time Plasma Center Technician- Phlebotomy →](https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Visalia/Part-Time-Plasma-Center-Technician--Phlebotomy_R0178973-1) |  | CA - Visalia | 7h |
+| 🏢 **Moog** | [Scheduling & Logistics Coordinator →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Scheduling---Logistics-Coordinator_R-26-17264) |  | Buffalo, NY | 7h |
 | 🏢 **Cisco** | [Technician (Onsite) →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Technician_2000534-1) |  | Holmdel, US | 7h |
 | 🏢 **Booz Allen Hamilton** | [Logistics and Equipment Specialist →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Logistics-and-Equipment-Specialist_R0238386) |  | Honolulu, HI | 7h |
 | 🏢 **NXP** | [Etch Equipment Maintenance Technician- Compressed Days 1 Shift →](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Ed-Bluestein-Manufacturing/Etch-Equipment-Maintenance-Technician--Compressed-Days-1-Shift_R-10062986) |  | Austin | 7h |
 | ☁️ **Salesforce** | [Agentforce & Data 360 Technical Support Engineer →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Agentforce---Data-360-Support-Engineer_JR336646) | 🏢 Sponsor Employer | Georgia Atlanta | 7h |
 | 🏢 **Johnson Controls** | [Building Automation Controls Service Technician →](https://jci.wd5.myworkdayjobs.com/JCI/job/Columbia-South-Carolina-United-States-of-America/Building-Automation-Controls-Service-Technician_WD30267528) | 🏢 Sponsor Employer | South Carolina-Un... | 7h |
-| 🏢 **CACI** | [Technician →](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dulles/Technician_325127) |  | VA Dulles | 7h |
 | 🚀 **SpaceX** | [Business Operations Analyst (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8511086002?gh_jid=8511086002) |  | Hawthorne, CA | 7h |
 | 🏢 **KBR** | [Engineering Technician →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Antonio-New-Mexico/Engineering-Technician_R2118324-1) | 🏢 Sponsor Employer | San Antonio | 7h |
-| 🏢 **Johnson Controls** | [PreCon Field Procurement Mgr →](https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/PreCon-Field-Procurement-Mgr_WD30263455-2) |  | Texas-United Stat... | 7h |
+| 🏢 **Johnson Controls** | [PreCon Field Procurement Mgr →](https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/PreCon-Field-Procurement-Mgr_WD30263455-2) |  | Texas-United Stat... | 8h |
 | 🚀 **SpaceX** | [IT Support Technician →](https://boards.greenhouse.io/spacex/jobs/8517131002?gh_jid=8517131002) |  | Vandenberg, CA | 8h |
 | 🏢 **Formlabs** | [Engineering Technician →](https://careers.formlabs.com/job/7818759/apply/?gh_jid=7818759) | ✅ Sponsors Visa | Somerville, MA + 1 more | 8h |
 | 🏢 **Johnson Controls** | [Engineering Technician (onsite) →](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Engineering-Technician--onsite-_WD30266275) | 🏢 Sponsor Employer | Pennsylvania-Unit... | 8h |
@@ -1109,10 +1109,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson & Johnson** | [Reliability Technician, Utilities →](https://jj.wd5.myworkdayjobs.com/jj/job/Wilson-North-Carolina-United-States-of-America/Reliability-Technician--Utilities_R-039524) | 🏢 Sponsor Employer | Wilson | 9h |
 | 🏢 **Caterpillar** | [Logistics Technician →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Morton-Illinois/Logistics-Technician_R0000365037) |  | Morton | 9h |
 | 🏢 **Formlabs** | [Field Service Technician - 3D Printers →](https://careers.formlabs.com/job/7818517/apply/?gh_jid=7818517) | ✅ Sponsors Visa | Atlanta, GA | 9h |
-| 🔐 **Okta** | [Associate Solutions Engineer →](https://www.okta.com/company/careers/opportunity/7838437?gh_jid=7838437) | ✅ Sponsors Visa | Chicago + 1 more | 9h |
-| 🏢 **Jabil** | [Level 1 Server Hardware Helpdesk Technician →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Level-1-Server-Hardware-Helpdesk-Technician_J2447289) | 🏢 Sponsor Employer | Austin, TX | 9h |
-| 🏢 **Abbott** | [Facilities Supervisor →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Indiana---Westfield/Facilities-Supervisor_31143739-1) |  | Indiana - Westfield | 9h |
-| 🏢 **Dandy** | [Acrylic Dentures Technician →](https://jobs.ashbyhq.com/dandy/d3ea7ff3-0464-4b46-87ce-06eaccfb0355/application) |  | USA - Carrollton TX | 9h |
+| 🔐 **Okta** | [Associate Solutions Engineer →](https://www.okta.com/company/careers/opportunity/7838437?gh_jid=7838437) | ✅ Sponsors Visa | Chicago + 1 more | 10h |
+| 🏢 **Jabil** | [Level 1 Server Hardware Helpdesk Technician →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Level-1-Server-Hardware-Helpdesk-Technician_J2447289) | 🏢 Sponsor Employer | Austin, TX | 10h |
+| 🏢 **Abbott** | [Facilities Supervisor →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Indiana---Westfield/Facilities-Supervisor_31143739-1) |  | Indiana - Westfield | 10h |
+| 🏢 **Dandy** | [Acrylic Dentures Technician →](https://jobs.ashbyhq.com/dandy/d3ea7ff3-0464-4b46-87ce-06eaccfb0355/application) |  | USA - Carrollton TX | 10h |
 | 🏢 **Bosch Group** | [Engineering Test Technician- Hourly Role →](https://jobs.smartrecruiters.com/BoschGroup/744000122274756) |  | Albion, IN | 10h |
 | 🏢 **Philips** | [Failure Analysis Technician →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Failure-Analysis-Technician_580158) |  | Bothell | 10h |
 | 🏢 **Caterpillar** | [Supply Chain Planning Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Waco-Texas/Supply-Chain-Planning-Engineer_R0000361912) |  | Waco + 1 more | 10h |
@@ -1122,12 +1122,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CoreWeave** | [Recruiting Operations Specialist - Contract →](https://coreweave.com/careers/job?4675260006&board=coreweave&gh_jid=4675260006) |  | Livingston, NJ | 11h |
 | 🏢 **CACI** | [Biomedical Equipment Repair Technician →](https://caci.wd1.myworkdayjobs.com/External/job/US-GU-Tamuning/Biomedical-Equipment-Repair-Technician_324848) | 🏢 Sponsor Employer | GU Tamuning | 11h |
 | 🏢 **AES Corporation** | [Commercial Operations Analyst →](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Arlington-VA/Commercial-Operations-Analyst_R1063311) |  | US, VA | 11h |
-| 🏢 **Oshkosh Corporation** | [Quality Technician I →](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Quality-Technician-I_R40301) |  | Spartanburg | 11h |
-| 🏢 **NCR Voyix** | [Field Service Technician - Amarillo, TX →](https://ncr.wd1.myworkdayjobs.com/ext_us/job/AMARILLO-TX-USA/Field-Service-Technician---Amarillo--TX_JR2604084) |  | AMARILLO, TX | 11h |
+| 🏢 **Oshkosh Corporation** | [Quality Technician I →](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Quality-Technician-I_R40301) |  | Spartanburg | 12h |
+| 🏢 **NCR Voyix** | [Field Service Technician - Amarillo, TX →](https://ncr.wd1.myworkdayjobs.com/ext_us/job/AMARILLO-TX-USA/Field-Service-Technician---Amarillo--TX_JR2604084) |  | AMARILLO, TX | 12h |
 | 🏢 **Arrow Electronics** | [Sales Operations Associate I →](https://arrow.wd1.myworkdayjobs.com/AC/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Sales-Operations-Associate-I_R241396) |  | Casablanca, MA | 14h |
 | 🏢 **NCR Voyix** | [Field Service Technician - Roanoke, VA →](https://ncr.wd1.myworkdayjobs.com/ext_us/job/VIRGINIA-VIRTUAL-USA/Field-Service-Technician---Roanoke--VA_JR2604129) |  | VIRGINIA VIRTUAL | 14h |
 | 🏢 **NCR Voyix** | [Field Service Technician - Raleigh, NC →](https://ncr.wd1.myworkdayjobs.com/ext_us/job/NORTH-CAROLINA-VIRTUAL-USA/Field-Service-Technician---Raleigh--NC_JR2604127) |  | NORTH CAROLINA VI... | 14h |
-| 🏢 **GE Vernova** | [Aero Alliance Mesagne IT Specialist →](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/MESAGNE/Aero-Alliance-Mesagne-IT-Specialist_R5036422-2) |  | MESAGNE | 14h |
+| 🏢 **GE Vernova** | [Aero Alliance Mesagne IT Specialist →](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/MESAGNE/Aero-Alliance-Mesagne-IT-Specialist_R5036422-2) |  | MESAGNE | 15h |
 | 🏢 **Micron** | [Toxic Gas Monitoring (TGM) Technician →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Toxic-Gas-Monitoring--TGM--Technician_JR85104) |  | ID1, ID | 18h |
 | 🏢 **Moog** | [Logistic Technician →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Logistic-Technician_R-26-17206-1) |  | Torrance, CA | 19h |
 | 🏢 **Micron** | [Facilities Medium Voltage Electrical Maintenance Technician →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Facilities-Medium-Voltage-Electrical-Maintenance-Technician_JR99389) |  | ID1, ID | 19h |
@@ -1255,28 +1255,31 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| ☁️ **Salesforce** | [Account Solution Engineer, Higher Education →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Lead--Account-SE_JR334666-1) |  | Illinois Chicago | 8m |
-| 🏢 **Northrop Grumman** | [Drafter/Designer →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Drafter-Designer_R10230642) |  | West Virginia-Rocket | 8m |
-| 🏢 **Johnson & Johnson** | [InternCoOp NonLDP Int →](https://jj.wd5.myworkdayjobs.com/jj/job/Guaynabo-Puerto-Rico-United-States-of-America/InternCoOp-NonLDP-Int_R-070285) |  | Guaynabo | 10m |
-| 🏢 **SoFi** | [Associate Manager, Originations (Review) →](https://sofi.com/careers/job/7675985003?gh_jid=7675985003) |  | FL - Jacksonville | 15m |
-| 🏢 **T-Mobile** | [Mobile Associate, Store-in-Store    Retail Sales →](https://tmobile.wd1.myworkdayjobs.com/External/job/San-Bernardino-California/Mobile-Associate--Store-in-Store----Retail-Sales_REQ352688-1) |  | San Bernardino | 37m |
-| 🏢 **T-Mobile** | [Mobile Associate, Store-in-Store - Retail Sales →](https://tmobile.wd1.myworkdayjobs.com/External/job/El-Monte-California/Mobile-Associate--Store-in-Store---Retail-Sales_REQ352801-1) |  | El Monte + 23 more | 37m |
-| 🏢 **T-Mobile** | [Mobile Associate - Retail Sales →](https://tmobile.wd1.myworkdayjobs.com/External/job/Santa-Clarita-California/Mobile-Associate---Retail-Sales_REQ352791-1) |  | Santa Clarita + 131 more | 37m |
-| 🏢 **Northrop Grumman** | [Manufacturing Scheduler 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Waynesboro-Virginia/Manufacturing-Scheduler-3_R10230011) |  | Waynesboro-Virginia | 39m |
-| 🏢 **Northrop Grumman** | [Chemical Handler 2 or 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Chemical-Handler-2-or-3_R10230640-1) |  | Utah-Clearfield | 39m |
-| 🏢 **Lowe's** | [Part Time - Fulfillment Associate - Flexible →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Tarentum-PA-NE-Pittsburgh-2219/Part-Time---Fulfillment-Associate---Flexible_JR-02494282) |  | Tarentum, PA + 144 more | 39m |
-| 🏢 **Disney** | [Executive Assistant, Production (20th Television) →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Production--20th-Television-_10148714) |  | Burbank, CA | 40m |
-| 🏢 **Abbott** | [Night Shift - Processing Operator - Nutrition Manufacturing - Casa Grande, AZ →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/Night-Shift---Processing-Operator---Nutrition-Manufacturing---Casa-Grande--AZ_31148508-1) |  | Arizona - Casa Gr... | 41m |
-| 🏢 **Abbott** | [Night Shift - Processing Operator - Casa Grande, AZ Plant →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/Night-Shift---Processing-Operator---Casa-Grande--AZ-Plant_31148504-1) |  | Arizona - Casa Gr... | 41m |
-| 🏢 **Abbott** | [Processing Operator 1 - Dayshift - Nutrition - Casa Grande, AZ →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/Processing-Operator-1---Dayshift---Nutrition---Casa-Grande--AZ_31148512-1) |  | Arizona - Casa Gr... | 41m |
-| 🏢 **Lambda** | [Warehouse Associate →](https://jobs.ashbyhq.com/lambda/8b423e61-73a0-4838-a64c-ce655a9b6f14/application) |  | San Jose | 51m |
+| 🏢 **Morgan Stanley** | [Service Associate →](https://ms.wd5.myworkdayjobs.com/External/job/Washington-District-of-Columbia-United-States-of-America/Registered-Service-Associate_JR028977) |  | Washington + 1 more | 9m |
+| 🏢 **Comcast** | [Xfinity Retail Sales Consultant (Salem, OR) →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/OR---Salem-831-Lancaster-Drive-NE---Retail---XFR3561/Xfinity-Retail-Sales-Consultant--Salem--OR-_R433268) |  | Salem, 831 Lancas... | 9m |
+| 🏢 **CACI** | [Sensitive Activities Training Specialist →](https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Sensitive-Activities-Training-Specialist_324944) |  | NC Fort Bragg + 1 more | 13m |
+| 🏢 **Abbott** | [Clinical Specialist I, CPT - Phoenix, AZ →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Phoenix/Clinical-Specialist-I--CPT---Phoenix--AZ_31148208-1) |  | Arizona - Phoenix + 1 more | 13m |
+| ☁️ **Salesforce** | [Account Solution Engineer, Higher Education →](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Lead--Account-SE_JR334666-1) | 🏢 Sponsor Employer | Illinois Chicago | 23m |
+| 🏢 **Northrop Grumman** | [Drafter/Designer →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Drafter-Designer_R10230642) |  | West Virginia-Rocket | 23m |
+| 🏢 **Johnson & Johnson** | [Finance Co‑Op →](https://jj.wd5.myworkdayjobs.com/jj/job/Guaynabo-Puerto-Rico-United-States-of-America/InternCoOp-NonLDP-Int_R-070285) |  | Guaynabo | 25m |
+| 🏢 **SoFi** | [Associate Manager, Originations (Review) →](https://sofi.com/careers/job/7675985003?gh_jid=7675985003) |  | FL - Jacksonville | 30m |
+| 🏢 **T-Mobile** | [Mobile Associate, Store-in-Store    Retail Sales →](https://tmobile.wd1.myworkdayjobs.com/External/job/San-Bernardino-California/Mobile-Associate--Store-in-Store----Retail-Sales_REQ352688-1) |  | San Bernardino | 52m |
+| 🏢 **T-Mobile** | [Mobile Associate, Store-in-Store - Retail Sales →](https://tmobile.wd1.myworkdayjobs.com/External/job/El-Monte-California/Mobile-Associate--Store-in-Store---Retail-Sales_REQ352801-1) |  | El Monte + 23 more | 52m |
+| 🏢 **T-Mobile** | [Mobile Associate - Retail Sales →](https://tmobile.wd1.myworkdayjobs.com/External/job/Santa-Clarita-California/Mobile-Associate---Retail-Sales_REQ352791-1) |  | Santa Clarita + 131 more | 52m |
+| 🏢 **Northrop Grumman** | [Manufacturing Scheduler 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Waynesboro-Virginia/Manufacturing-Scheduler-3_R10230011) |  | Waynesboro-Virginia | 54m |
+| 🏢 **Northrop Grumman** | [Chemical Handler 2 or 3 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Chemical-Handler-2-or-3_R10230640-1) |  | Utah-Clearfield | 54m |
+| 🏢 **Lowe's** | [Part Time - Fulfillment Associate - Flexible →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Tarentum-PA-NE-Pittsburgh-2219/Part-Time---Fulfillment-Associate---Flexible_JR-02494282) |  | Tarentum, PA + 144 more | 54m |
+| 🏢 **Disney** | [Executive Assistant, Production (20th Television) →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Production--20th-Television-_10148714) |  | Burbank, CA | 55m |
+| 🏢 **Abbott** | [Night Shift - Processing Operator - Nutrition Manufacturing - Casa Grande, AZ →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/Night-Shift---Processing-Operator---Nutrition-Manufacturing---Casa-Grande--AZ_31148508-1) |  | Arizona - Casa Gr... | 56m |
+| 🏢 **Abbott** | [Night Shift - Processing Operator - Casa Grande, AZ Plant →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Arizona---Casa-Grande/Night-Shift---Processing-Operator---Casa-Grande--AZ-Plant_31148504-1) |  | Arizona - Casa Gr... | 56m |
+| 🏢 **Lambda** | [Warehouse Associate →](https://jobs.ashbyhq.com/lambda/8b423e61-73a0-4838-a64c-ce655a9b6f14/application) |  | San Jose | 1h |
 | 🏢 **Disney** | [Animation Timer - Disney Television Animation →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Animation-Timer---Disney-Television-Animation_10149318-1) |  | Glendale, CA | 1h |
 | 🏢 **Lowe's** | [Full Time - Sales Specialist - ProServices - Bilingual Preferred →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Opelika-AL-0736/Full-Time---Sales-Specialist---ProServices---Bilingual-Preferred_JR-02494193) |  | Opelika, AL + 1 more | 1h |
 | 🏢 **Generac** | [Welder I - 1st Shift →](https://generac.wd5.myworkdayjobs.com/External/job/Berlin-WI---USA/Welder-I---1st-Shift_JR13679) |  | USA, WI | 1h |
 | 🏢 **USAA** | [Executive Assistant →](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Executive-Assistant_R0116931) |  | Plano Legacy | 1h |
 | 🏢 **Lowe's** | [Full Time - Sales Specialist - Cabinets - Closing →](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bayonne-NJ-2676/Full-Time---Sales-Specialist---Cabinets---Closing_JR-02490361-1) |  | Bayonne, NJ + 1 more | 1h |
 | 🔷 **Intel** | [Compiler Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Compiler-Engineer_JR0281201) | 🏢 Sponsor Employer | Oregon Hillsboro | 1h |
-| 🏢 **EVERSANA** | [HIV Therapeutic Specialist - New York Territory →](https://jobs.smartrecruiters.com/EVERSANA1/744000122347845) |  | New York, NY | 1h |
+| 🏢 **EVERSANA** | [HIV Therapeutic Specialist - New York Territory →](https://jobs.smartrecruiters.com/EVERSANA1/744000122347845) |  | New York, NY | 2h |
 | 🏢 **LLNL** | [Security Planning Analyst →](https://jobs.smartrecruiters.com/llnl/3743990012781916) |  | Livermore, CA | 2h |
 | 🏢 **Hitachi** | [2nd Shift Assembler →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hunker-Pennsylvania-United-States-of-America/XMLNAME-2nd-Shift-Assembler_R0127305) |  | Hunker | 2h |
 | 🔷 **Intel** | [Linux Kernel Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Linux-Kernel-Engineer_JR0278075) | 🏢 Sponsor Employer | US | 2h |
@@ -1297,8 +1300,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Benchling** | [Strategic Finance Analyst, CX & Professional Services →](https://jobs.ashbyhq.com/benchling/c8665d89-2cca-412b-8ff6-32846b1d02c1/application) |  | San Francisco, CA | 2h |
 | 🏢 **Hitachi** | [Coil Assembler →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Richland-Mississippi-United-States/Coil-Assembler_R0123034) |  | Richland | 2h |
 | 🏢 **Boeing** | [Associate Supply Base Management Specialist →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Supply-Base-Management-Specialist_JR2026506562-1) |  | Hazelwood, MO | 2h |
-| 🏢 **Applied Materials** | [Account Technologist (Early in Career/ New College Grad) →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Account-Technologist--Early-in-Career--New-College-Grad-_R2616168) |  | Santa Clara, CA | 2h |
 | 🏢 **Applied Materials** | [Global Product Support - EPI →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support---EPI_R2617935) |  | Santa Clara, CA | 2h |
+| 🏢 **Applied Materials** | [Account Technologist (Early in Career/ New College Grad) →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Account-Technologist--Early-in-Career--New-College-Grad-_R2616168) |  | Santa Clara, CA | 2h |
 | 🏢 **Klaviyo** | [Commercial Partner Sales Specialist →](https://www.klaviyo.com/careers/jobs?gh_jid=7709952003) |  | Denver, CO | 2h |
 | 🏢 **TD Bank** | [Financial Planner →](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Aurora-Ontario/Financial-Planner_R_1470701) |  | Aurora | 2h |
 | 🏢 **Comcast** | [Xfinity Retail Service Associate →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/TX---Houston-2616-S-Voss-Rd---Retail-XFR3250/Xfinity-Retail-Service-Associate_R436057) |  | Houston, 2616 S V... + 21 more | 2h |
@@ -1309,10 +1312,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | [Associate Structural Analysis Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Structural-Analysis-Engineer_JR2026507131-1) | 🏢 Sponsor Employer | Berkeley, MO | 2h |
 | 🏢 **ASML** | [Sales Business Coordinator →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chandler-AZ-USA/Sales-Business-Coordinator_J-00335184-1) |  | Chandler, AZ | 2h |
 | 🏢 **EVERSANA** | [HIV Therapeutic Specialist - Miami Territory →](https://jobs.smartrecruiters.com/EVERSANA1/744000122345619) |  | Miami, FL | 2h |
-| 🔧 **ServiceNow** | [AI Agent Engineer – Moveworks   Customer Deployment →](https://jobs.smartrecruiters.com/ServiceNow/744000122345339) |  | Albany | 2h |
-| 🚀 **SpaceX** | [Forward Deployed Engineer, Mission Systems (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8520029002?gh_jid=8520029002) |  | Hawthorne, CA | 2h |
-| 🚀 **SpaceX** | [Mission Integration Engineer, Network and Infrastructure (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8519574002?gh_jid=8519574002) |  | Hawthorne, CA | 2h |
-| 🏢 **Applied Intuition** | [Software Quality Assurance Engineer →](https://boards.greenhouse.io/appliedintuition/jobs/4680916005?gh_jid=4680916005) | ✅ Sponsors Visa | Sunnyvale | 2h |
+| 🔧 **ServiceNow** | [AI Agent Engineer – Moveworks   Customer Deployment →](https://jobs.smartrecruiters.com/ServiceNow/744000122345339) |  | Albany | 3h |
+| 🚀 **SpaceX** | [Forward Deployed Engineer, Mission Systems (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8520029002?gh_jid=8520029002) |  | Hawthorne, CA | 3h |
+| 🚀 **SpaceX** | [Mission Integration Engineer, Network and Infrastructure (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8519574002?gh_jid=8519574002) |  | Hawthorne, CA | 3h |
+| 🏢 **Applied Intuition** | [Software Quality Assurance Engineer →](https://boards.greenhouse.io/appliedintuition/jobs/4680916005?gh_jid=4680916005) | ✅ Sponsors Visa | Sunnyvale | 3h |
 | 🏢 **TransUnion** | [Sustainability Data Advisor →](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Reston/Sustainability-Data-Advisor_19040108) |  | Reston | 3h |
 | 🏢 **RTX** | [Mechanical Assembler I - 1st Shift (Onsite) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Mechanical-Assembler-I---1st-Shift--Onsite-_01837136) |  | NC-WILSON-4200 | 3h |
 | 🏢 **Philips** | [Field Service Engineer, Ultrasound (Field: Burlington, VT) →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Burlington-VT-Vermont-United-States/Field-Service-Engineer--Ultrasound--Field--Burlington--VT-_581192) | 🏢 Sponsor Employer | Burlington VT | 3h |
@@ -1355,17 +1358,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Baker Hughes** | [Customer Care Representative I – Quoting & Pricing →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-MIDLAND-2101-MARKET-STREET/Customer-Care-Representative-I---Quoting---Pricing_R161105-1) |  | TX-MIDLAND-2101 M... | 3h |
 | 🏢 **Baker Hughes** | [Manufacturing Professional - Prod Process and Equip →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Professional---Prod-Process-and-Equip_R163453-1) |  | NV-MINDEN-1631 BE... | 3h |
 | 🏢 **AES Corporation** | [Transmission Line Design Engineer →](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Transmission-Line-Design-Engineer_R1062943) | 🏢 Sponsor Employer | US, IN | 3h |
-| 🏢 **Veolia Environnement SA** | [Operator I →](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122339429) |  | Old Ocean, TX + 1 more | 3h |
-| 🏢 **Red Bull** | [Sales Trainee →](https://jobs.smartrecruiters.com/RedBull/744000122338155) |  | Allentown, PA + 25 more | 3h |
-| 🏢 **Morgan Stanley** | [Registered Client Service Associate →](https://ms.wd5.myworkdayjobs.com/External/job/San-Mateo-California-United-States-of-America/Registered-Client-Service-Associate_JR027955-1) |  | San Mateo + 13 more | 3h |
-| 🏢 **Comcast** | [Coordinator 2, Facility Maintenance →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---West-Palm-Beach-1401-Northpoint-Parkway/Coordinator-2--Facility-Maintenance_R435045) |  | West Palm Beach, ... | 3h |
-| 🏢 **AbbVie** | [Specialty Representative, Parkinson's - Bakersfield, CA →](https://jobs.smartrecruiters.com/AbbVie/3743990012779616) |  | Bakersfield, CA | 3h |
-| 🏢 **Johnson Controls** | [HVAC Truck Based Chiller Journeyman Mechanic (union) →](https://jci.wd5.myworkdayjobs.com/JCI/job/Boise-Idaho-United-States-of-America/HVAC-Truck-Based-Chiller-Journeyman-Mechanic--union-_WD30267292) |  | Idaho-United Stat... + 3 more | 3h |
-| 🏢 **Booz Allen Hamilton** | [DevSecOps Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rockville-MD/DevSecOps-Engineer_R0238433) | 🏢 Sponsor Employer | Rockville, MD + 1 more | 3h |
-| 🏢 **CACI** | [System Safety Engineer →](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Bethesda/System-Safety-Engineer_325242) | 🏢 Sponsor Employer | MD Bethesda | 3h |
-| 🏢 **Applied Materials** | [Account Technologist V (E5) →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Account-Technologist-V--E5-_R2617473-1) |  | Santa Clara, CA | 3h |
-| 🏢 **Allegion** | [Machine Operator →](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Machine-Operator_JR35995) |  | Colorado Springs, CO + 1 more | 3h |
-| 🏢 **Life.Church (YouVersion)** | [Content Strategist →](https://jobs.lever.co/life/b711e94b-1227-4f31-82aa-9c2977371c41/apply) |  | Edmond, OK | 3h |
+| 🏢 **Veolia Environnement SA** | [Operator I →](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122339429) |  | Old Ocean, TX + 1 more | 4h |
+| 🏢 **Red Bull** | [Sales Trainee →](https://jobs.smartrecruiters.com/RedBull/744000122338155) |  | Allentown, PA + 25 more | 4h |
+| 🏢 **Morgan Stanley** | [Registered Client Service Associate →](https://ms.wd5.myworkdayjobs.com/External/job/San-Mateo-California-United-States-of-America/Registered-Client-Service-Associate_JR027955-1) |  | San Mateo + 14 more | 4h |
+| 🏢 **Comcast** | [Coordinator 2, Facility Maintenance →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---West-Palm-Beach-1401-Northpoint-Parkway/Coordinator-2--Facility-Maintenance_R435045) |  | West Palm Beach, ... | 4h |
+| 🏢 **AbbVie** | [Specialty Representative, Parkinson's - Bakersfield, CA →](https://jobs.smartrecruiters.com/AbbVie/3743990012779616) |  | Bakersfield, CA | 4h |
+| 🏢 **Johnson Controls** | [HVAC Truck Based Chiller Journeyman Mechanic (union) →](https://jci.wd5.myworkdayjobs.com/JCI/job/Boise-Idaho-United-States-of-America/HVAC-Truck-Based-Chiller-Journeyman-Mechanic--union-_WD30267292) |  | Idaho-United Stat... + 3 more | 4h |
+| 🏢 **Booz Allen Hamilton** | [DevSecOps Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rockville-MD/DevSecOps-Engineer_R0238433) | 🏢 Sponsor Employer | Rockville, MD + 1 more | 4h |
+| 🏢 **CACI** | [System Safety Engineer →](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Bethesda/System-Safety-Engineer_325242) | 🏢 Sponsor Employer | MD Bethesda | 4h |
+| 🏢 **Applied Materials** | [Account Technologist V (E5) →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Account-Technologist-V--E5-_R2617473-1) |  | Santa Clara, CA | 4h |
+| 🏢 **Allegion** | [Machine Operator →](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Machine-Operator_JR35995) |  | Colorado Springs, CO + 1 more | 4h |
+| 🏢 **Life.Church (YouVersion)** | [Content Strategist →](https://jobs.lever.co/life/b711e94b-1227-4f31-82aa-9c2977371c41/apply) |  | Edmond, OK | 4h |
 | 🏢 **WHOOP** | [Associate People Business Partner →](https://jobs.lever.co/whoop/75cca8b0-0627-4616-a274-86fbaa02d6b4/apply) |  | Boston, MA | 4h |
 | 🏢 **Trimble** | [Agentic AI Quality Assurance Engineer →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Agentic-AI-Quality-Assurance-Engineer_R55036) |  | OR, Lake Oswego | 4h |
 | 🏢 **USAA** | [Life Actuarial Valuation, Reporting, and Forecasting Actuary →](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Life-Actuarial-Valuation--Reporting--and-Forecasting-Actuary_R0117274) |  | San Antonio + 1 more | 4h |
@@ -1389,20 +1392,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Generac** | [Dealer Acquisition Representative →](https://generac.wd5.myworkdayjobs.com/External/job/South-Burlington-VT---USA/Dealer-Acquisition-Representative_JR13500) |  | USA, VT | 4h |
 | 🏢 **Generac** | [Assembler – 2nd shift →](https://generac.wd5.myworkdayjobs.com/External/job/Beaver-Dam-WI---USA/Assembler---2nd-shift_JR13803) |  | USA, WI | 4h |
 | 🏢 **BlackRock** | [Associate, Securities Lending Trader, BlackRock Global Markets (BGM) →](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate--Securities-Lending-Trader--BlackRock-Global-Markets--BGM-_R263737) |  | New York, NY | 4h |
-| 🏢 **CACI** | [SOF Intelligence and Operations Integrator →](https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/SOF-Intelligence-and-Operations-Integrator_324952) |  | NC Fort Bragg | 4h |
 | 🏢 **Life.Church (YouVersion)** | [Kitchen Coordinator →](https://jobs.lever.co/life/5dd9d473-51ff-4cdd-87d4-f8dc995dd6e6/apply) |  | Edmond, OK | 4h |
 | 🏢 **PDI Technologies** | [Renewals Specialist →](https://jobs.lever.co/pditechnologies/4f95a26a-0a9b-4374-8889-207c54128f6b/apply) |  | Alpharetta, GA | 4h |
 | 🏢 **Datadog** | [AI Governance Analyst 1 →](https://careers.datadoghq.com/detail/7843744/?gh_jid=7843744) | 🏢 Sponsor Employer | New York | 4h |
-| 🏢 **The Trade Desk** | [Compensation Analyst →](https://job-boards.greenhouse.io/thetradedesk/jobs/5117568007) |  | Irvine; New York;... | 4h |
-| 🏢 **Allegion** | [Shipping Coordinator →](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Shipping-Coordinator_JR35999) |  | Colorado Springs, CO | 4h |
-| 🏢 **Intuitive** | [Material Handler 2- Gilroy →](https://jobs.smartrecruiters.com/Intuitive/744000122331230) |  | Sunnyvale | 4h |
-| 🏢 **Comcast** | [Engineer, AI/ML Operations →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer--AI-ML-Operations_R432030) | 🏢 Sponsor Employer | Philadelphia, 180... | 4h |
-| 🏢 **Thermo Fisher Scientific** | [Field Service Engineer →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Columbus-Ohio-USA/Field-Service-Engineer_R-01349397) |  | Columbus + 1 more | 4h |
-| 🏢 **Johnson & Johnson** | [Neuroscience Sales Specialist (Tri Cities, WA) – Johnson & Johnson Innovative Medicine →](https://jj.wd5.myworkdayjobs.com/jj/job/Kennewick-Washington-United-States/Neuroscience-Sales-Specialist--Tri-Cities--WA----Johnson---Johnson-Innovative-Medicine_R-071063-1) |  | 2 Locations | 4h |
-| 🏢 **athenahealth** | [Product Analytics, Associate →](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Product-Analytics--Associate_R14690-1) |  | Belfast, ME | 4h |
-| 🎨 **Adobe** | [Transformational Solution Consultant →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Transformational-Solution-Consultant_R164085-1) |  | San Jose | 4h |
+| 🏢 **The Trade Desk** | [Compensation Analyst →](https://job-boards.greenhouse.io/thetradedesk/jobs/5117568007) |  | Irvine; New York;... | 5h |
+| 🏢 **Allegion** | [Shipping Coordinator →](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Shipping-Coordinator_JR35999) |  | Colorado Springs, CO | 5h |
+| 🏢 **Intuitive** | [Material Handler 2- Gilroy →](https://jobs.smartrecruiters.com/Intuitive/744000122331230) |  | Sunnyvale | 5h |
+| 🏢 **Thermo Fisher Scientific** | [Field Service Engineer →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Columbus-Ohio-USA/Field-Service-Engineer_R-01349397) |  | Columbus + 1 more | 5h |
+| 🏢 **Johnson & Johnson** | [Neuroscience Sales Specialist (Tri Cities, WA) – Johnson & Johnson Innovative Medicine →](https://jj.wd5.myworkdayjobs.com/jj/job/Kennewick-Washington-United-States/Neuroscience-Sales-Specialist--Tri-Cities--WA----Johnson---Johnson-Innovative-Medicine_R-071063-1) |  | 2 Locations | 5h |
+| 🏢 **athenahealth** | [Product Analytics, Associate →](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Product-Analytics--Associate_R14690-1) |  | Belfast, ME | 5h |
+| 🎨 **Adobe** | [Transformational Solution Consultant →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Transformational-Solution-Consultant_R164085-1) |  | San Jose | 5h |
 | 🏢 **Visa** | [Payroll Tax Specialist →](https://jobs.smartrecruiters.com/Visa/744000122328850) |  | Atlanta, GA | 5h |
-| 🏢 **Morgan Stanley** | [Central Review Unit Risk Officer - Wealth Management Client Segment →](https://ms.wd5.myworkdayjobs.com/External/job/South-Jordan-Utah-United-States-of-America/Central-Review-Unit-Risk-Officer---Wealth-Management-Client-Segment_JR035707) |  | South Jordan | 5h |
 | 🏢 **Takeda** | [Part Time Phlebotomy →](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MN---Saint-Paul/Part-Time-Phlebotomy_R0178985-1) |  | MN - Saint Paul | 5h |
 | 🏢 **Thermo Fisher Scientific** | [Field Applications Scientist, Downstream Purification (Pacific Northwest) →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Washington-USA/Field-Applications-Scientist--Downstream-Bioproduction--Pacific-Northwest-_R-01346939) |  | Washington | 5h |
 | 🏢 **Medtronic** | [CRM Clinical Specialist - Hartford, CT →](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hartford-Connecticut-United-States-of-America/CRM-Clinical-Specialist---Hartford--CT_R62598-1) |  | Hartford | 5h |
@@ -1425,16 +1425,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Baker Hughes** | [Junior Field Services Engineer →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OH-OTHER-OHIO/Junior-Field-Services-Engineer_R153126) |  | OH OTHER OHIO | 5h |
 | 🚪 **DoorDash** | [Associate, Marketplace Quality →](https://job-boards.greenhouse.io/doordashusa/jobs/7812766) |  | Tempe, AZ | 5h |
 | 🏢 **Allison Transmission** | [Regional Customer Support Representative →](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Georgia/Regional-Customer-Support-Representative_R007418-1) |  | Georgia | 5h |
-| 🏢 **ResMed** | [Upstream Material Flow Specialist →](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Upstream-Material-Flow-Specialist_JR_050503) |  | San Diego, CA | 5h |
-| 🏢 **T. Rowe Price** | [Portfolio Specialist– U.S. Large-Cap Value Equities →](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Portfolio-Specialist--US-Large-Cap-Value-Equities_79273) |  | Baltimore, MD | 5h |
-| 🏢 **Hitachi** | [Manufacturing Supervisor →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/Manufacturing-Supervisor_R0126370) |  | Jefferson City | 5h |
-| 🏢 **General Motors** | [Dealer Engagement and Portfolio Specialist →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Dealer-Engagement-and-Portfolio-Specialist_JR-202608395) |  | Warren | 5h |
-| 🏢 **General Motors** | [Operations Supervisor →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/West-Chester-Ohio-United-States-of-America/Operations-Supervisor_JR-202608318) |  | West Chester | 5h |
-| 🏢 **Blue Origin** | [Electro-Optical Engineer - Optical Payload I&T - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Electro-Optical-Engineer---Optical-Payload-I-T---TeraWave_R59810-1) | 🏢 Sponsor Employer | Greater Seattle Area | 5h |
-| 🏢 **StubHub** | [Junior Maps Design Operations Agent →](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4842259101) |  | Atlanta | 5h |
-| 🏢 **Latitude AI** | [Mission Analyst - Wittman, AZ (Contract) →](https://job-boards.greenhouse.io/latitude/jobs/7818292) |  | Wittman, AZ | 5h |
-| 🏢 **Ameriprise Financial** | [Associate Financial Advisor →](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Austin-Minnesota/Associate-Financial-Advisor_R26_1572) |  | Austin + 3 more | 5h |
-| 📈 **Robinhood** | [Cashiering Support Associate →](https://boards.greenhouse.io/robinhood/jobs/7768865?t=gh_src=&gh_jid=7768865) |  | Chicago, IL | 5h |
+| 🏢 **ResMed** | [Upstream Material Flow Specialist →](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Upstream-Material-Flow-Specialist_JR_050503) |  | San Diego, CA | 6h |
+| 🏢 **T. Rowe Price** | [Portfolio Specialist– U.S. Large-Cap Value Equities →](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Portfolio-Specialist--US-Large-Cap-Value-Equities_79273) |  | Baltimore, MD | 6h |
+| 🏢 **Hitachi** | [Manufacturing Supervisor →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/Manufacturing-Supervisor_R0126370) |  | Jefferson City | 6h |
+| 🏢 **General Motors** | [Dealer Engagement and Portfolio Specialist →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Dealer-Engagement-and-Portfolio-Specialist_JR-202608395) |  | Warren | 6h |
+| 🏢 **General Motors** | [Operations Supervisor →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/West-Chester-Ohio-United-States-of-America/Operations-Supervisor_JR-202608318) |  | West Chester | 6h |
+| 🏢 **Blue Origin** | [Electro-Optical Engineer - Optical Payload I&T - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Electro-Optical-Engineer---Optical-Payload-I-T---TeraWave_R59810-1) | 🏢 Sponsor Employer | Greater Seattle Area | 6h |
+| 🏢 **StubHub** | [Junior Maps Design Operations Agent →](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4842259101) |  | Atlanta | 6h |
+| 🏢 **Latitude AI** | [Mission Analyst - Wittman, AZ (Contract) →](https://job-boards.greenhouse.io/latitude/jobs/7818292) |  | Wittman, AZ | 6h |
+| 🏢 **Ameriprise Financial** | [Associate Financial Advisor →](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Austin-Minnesota/Associate-Financial-Advisor_R26_1572) |  | Austin + 3 more | 6h |
+| 📈 **Robinhood** | [Cashiering Support Associate →](https://boards.greenhouse.io/robinhood/jobs/7768865?t=gh_src=&gh_jid=7768865) |  | Chicago, IL | 6h |
 | 🏢 **Microchip Technology** | [Engineer I-Software →](https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3850-N-First-St/Engineer-I-Software_R1749-26) |  | San Jose - 3850 N... | 6h |
 | 🏢 **IDEXX** | [Quality Control Specialist →](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Quality-Control-Specialist_J-052606) | 🏢 Sponsor Employer | Westbrook, ME | 6h |
 | 🏢 **Aptiv** | [Linux Engineering Dev - eLxr →](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Linux-Engineering-Dev---eLxr_J000695559) | 🏢 Sponsor Employer | WR, CA | 6h |
@@ -1452,9 +1452,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cisco** | [Executive Assistant, SVP,  Sales - Splunk →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Executive-Assistant--SVP---Sales---Splunk_2012988) |  | San Jose Californ... | 6h |
 | 🏢 **AES Corporation** | [Project Controls   Capital Projects   Cost Analyst   SAP →](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Senior-Financial-Analyst--Growth-and-Strategic-Investments_R1062411-1) |  | Indianapolis, IN | 6h |
 | 🏢 **Point72** | [HR Associate, Compensation and Analytics →](https://boards.greenhouse.io/point72/jobs/8518660002?gh_jid=8518660002) |  | Stamford, CT | 6h |
-| 🏢 **Captivation** | [Training Specialist 2 - SIGINT/RF →](https://job-boards.greenhouse.io/captivation/jobs/5196990008) |  | Annapolis Junctio... | 6h |
-| 🏢 **Captivation** | [Information Systems Security Officer 1/2 →](https://job-boards.greenhouse.io/captivation/jobs/5196984008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
-| 🏢 **Capital One** | [Full Time Branch Ambassador - New Iberia →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-Iberia-LA/Full-Time-Branch-Ambassador---New-Iberia_R241041-1) |  | New Iberia, LA | 6h |
+| 🏢 **Captivation** | [Training Specialist 2 - SIGINT/RF →](https://job-boards.greenhouse.io/captivation/jobs/5196990008) |  | Annapolis Junctio... | 7h |
+| 🏢 **Captivation** | [Information Systems Security Officer 1/2 →](https://job-boards.greenhouse.io/captivation/jobs/5196984008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
+| 🏢 **Capital One** | [Full Time Branch Ambassador - New Iberia →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-Iberia-LA/Full-Time-Branch-Ambassador---New-Iberia_R241041-1) |  | New Iberia, LA | 7h |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -1510,7 +1510,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 13804 current opportunities from 498 companies**
+**🎯 13832 current opportunities from 498 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
