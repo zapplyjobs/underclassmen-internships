@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19870-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19868-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-559-blue?style=flat&logo=building)
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-2555-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -686,7 +686,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Hitachi** | Mechanical Engineer | Michigan City | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Michigan-City-Indiana-United-States/Mechanical-Engineer_R0128464) |
 | 🏢 **Booz Allen Hamilton** | UAS Flight Test Engineer | Lorton, VA | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/UAS-Flight-Test-Engineer_R0238814-1) |
 | 🏢 **CACI** | Systems Engineer - Infrastructure | MD Aberdeen Provi... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Systems-Engineer---Infrastructure_325423) |
-| 🏢 **Smiths Group** | Manufacturing Engineer | Kansas City, MO | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000123477109) |
+| 🏢 **Smiths Group** | Manufacturing Engineer | Kansas City, MO | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000123477109) |
 | 🏢 **Caterpillar** | Battery Systems Engineering Specialist | Mossville | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Battery-Systems-Engineering-Specialist_R0000366889) |
 | 🏢 **Johnson Controls** | Electrical Engineer | United States of ... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Electrical-Engineer--onsite-_WD30262865) |
 | 🏢 **CACI** | Manufacturing Engineer (Third Shift) | FL Orlando | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Orlando/Manufacturing-Engineer--Third-Shift-_325331) |
@@ -884,7 +884,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🛡️ **CrowdStrike** | Global Program Coordinator, Sales Development & Corporate Sales | Austin, TX | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Global-Program-Coordinator--Sales-Development---Corporate-Sales_R28485) |
 | 🏢 **Cisco** | Security Account Executive - Commercial Select | RTP, US | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Account-Executive---Commercial-Select_2009855) |
 | 🏢 **Capital One** | Emerging Sales Associate - August 2026 | Plano, TX | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Emerging-Sales-Associate---August-2026_R216324) |
-| 🏢 **Medtronic** | Associate Sales Representative - Acute Care and Monitoring (Bay Area) | 3 Locations | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oakland-California-United-States-of-America/Associate-Sales-Representative---Acute-Care-and-Monitoring--Bay-Area-_R64583) |
+| 🏢 **Medtronic** | Associate Sales Representative - Acute Care and Monitoring (Bay Area) | 3 Locations | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Oakland-California-United-States-of-America/Associate-Sales-Representative---Acute-Care-and-Monitoring--Bay-Area-_R64583) |
 | 🏢 **Glean** | Enterprise Account Executive, Carolinas | Charlotte, NC | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4687412005) |
 | 🏢 **ClickUp** | SMB Account Executive - LATAM | United States | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/clickup/f3b8e6b7-8bbe-4a99-b99b-e4edf706544f/application) |
 | 🏢 **Faire** | Sales Development Representative | San Francisco, CA | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8525230002?gh_jid=8525230002) |
@@ -932,7 +932,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cloudflare** | Business Development Representative - Italian Speaking | Remote | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7850089?gh_jid=7850089) |
 | 🏢 **S&P Global** | Divisional Account Manager, Financial Corporates | Colorado US | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Colorado-US/Divisional-Account-Manager--Financial-Corporates_328131-2) |
 | 🏢 **Citi** | Bilingual Mortgage Telesales Representative (SAFE Act) – Hybrid | Irving Texas Unit... | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Bilingual-Mortgage-Telesales-Representative--SAFE-Act----Hybrid_26931882) |
-| 🏢 **Zendesk** | Sales Development Representative | Austin | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Austin-Texas-United-States-of-America/Sales-Development-Representative_R34648-1) |
+| 🏢 **Zendesk** | Sales Development Representative | Austin | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Austin-Texas-United-States-of-America/Sales-Development-Representative_R34648-1) |
 | 🏢 **Workday Inc** | Medium Enterprise Account Executive - Local Government | IL Chicago | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Chicago/Medium-Enterprise-Account-Executive---Local-Government_JR-0106736) |
 | 🏢 **Thermo Fisher Scientific** | Instrument Sales Representative, Human Identification | Pennsylvania | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Pennsylvania-USA/Instrument-Sales-Representative--Human-Identification_R-01347076) |
 | 🏢 **Alchemy** | Account Executive | New York | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/alchemy/8fb59e45-b90d-47d9-b68d-c96a00d99545/application) |
@@ -1109,8 +1109,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | Supply Chain Operations Coordinator 3 | Clearfield | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Supply-Chain-Operations-Coordinator-3_R10229695) |
 | 🏢 **Jabil** | Repair diagnostic Technician | Florence, KY | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Repair-diagnostic-Technician_J2448031) |
 | 🏢 **FLIR Systems** | Electronics Technician (Power Supply) | Newark, CA, CA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Newark-CA/Electronics-Technician--Power-Supply-_REQ30675) |
-| 🏢 **NCR Voyix** | PS Technical Consultant IV | ATLANTA, GA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/PS-Technical-Consultant-IV_R0157073) |
-| 🏢 **Caterpillar** | Logistics Engineer-Electric Power | Griffin Georgia | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/Logistics-Engineer-Electric-Power_R0000356823) |
+| 🏢 **NCR Voyix** | PS Technical Consultant IV | ATLANTA, GA | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/PS-Technical-Consultant-IV_R0157073) |
+| 🏢 **Caterpillar** | Logistics Engineer-Electric Power | Griffin Georgia | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/Logistics-Engineer-Electric-Power_R0000356823) |
 | 🏢 **Boeing** | Flight Readiness Technician | San Antonio, TX | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Flight-Readiness-Technician_JR2026505998-1) |
 | 🚀 **SpaceX** | Starlink Production Technician | Redmond, WA | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8516033002?gh_jid=8516033002) |
 | 🏢 **AHEAD** | Specialty Solutions Engineer - ServiceNow | Chicago | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/thinkahead/ae3e484b-f851-4c24-bd88-911a3f939e4d/apply) |
@@ -1443,7 +1443,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🚪 **DoorDash** | Advanced Specialist, NV Merchant Sentiment | Tempe, AZ | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7176076) |
 | 🏢 **AllianceBernstein** | Trade Support Analyst | Nashville | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Trade-Support-Analyst_R0018662) |
 | 🏢 **Axon** | Strategic Deployment Manager | Scottsdale | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7658292003) |
-| 🏢 **AbbVie** | Oncology Specialist - New York | Albany, NY | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012859586) |
+| 🏢 **AbbVie** | Oncology Specialist - New York | Albany, NY | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012859586) |
 | 🏢 **NBCUniversal** | Manager, Workforce Management | Universal City | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000123539872) |
 | 🏢 **Veolia Environnement SA** | Wastewater Operations Supervisor | Scottsdale, AZ | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123539774) |
 | 🏢 **Experian** | Tax Credit Accountant | Costa Mesa, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000123537815) |
@@ -1462,7 +1462,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Financial Analyst, Tactical Recon & Strike | Atlanta | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5122945007?gh_jid=5122945007) |
 | 🏢 **Red Bull** | Warehouse Loader (Full Time) | Dallas, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000123531814) |
 | 🏢 **FloQast** | Forward Deployed Accountant | San Francisco | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/floqast/c6e3faf7-5fc1-49b2-8ced-1271234b7905/apply) |
-| 🏢 **FloQast** | Forward Deployed Accountant | New York City, NY | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/floqast/9a1a9b2a-5c33-4d57-b5f7-27dba212a9b1/apply) |
+| 🏢 **FloQast** | Forward Deployed Accountant | New York City, NY | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/floqast/9a1a9b2a-5c33-4d57-b5f7-27dba212a9b1/apply) |
 | 🏢 **Saviynt** | Sales Enablement Specialist | Remote | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/saviynt/9c02299f-ee2c-4b66-a5a0-24ded7d35b58/apply) |
 | 🏢 **Box** | AI Partnerships | Redwood City, CA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7862815) |
 | 🏢 **Cursor** | DX Engineer | San Francisco | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/b7805e95-2c4f-456e-ae6f-8748c0bce83f/application) |
@@ -1493,8 +1493,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Materials** | PDP Technical Project/Program Manager V | Santa Clara, CA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/PDP-Technical-Project-Program-Manager-V_R2617225) |
 | 🏢 **Axon** | Compensation Analyst (Relocation to Boston) | Remote | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7718785003) |
 | 🏢 **SEL** | Leave Partner | Pullman, WA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Leave-Partner_2026-20744) |
-| 🏢 **Mastercard** | Specialist, Customer Onboarding and Partnership | Purchase | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Analyst--Customer-Onboarding-and-Partnership_R-272395) |
-| 🏢 **Generac** | Account Advocate | USA, WI | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Pewaukee-WI---USA/Account-Advocate_JR13876) |
+| 🏢 **Mastercard** | Specialist, Customer Onboarding and Partnership | Purchase | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Analyst--Customer-Onboarding-and-Partnership_R-272395) |
+| 🏢 **Generac** | Account Advocate | USA, WI | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Pewaukee-WI---USA/Account-Advocate_JR13876) |
 | 🏢 **Handshake** | Associate Forward Deployed Engineer | San Francisco, CA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/handshake/dfa844d4-3a17-4773-9320-0455499d6f0b/application) |
 
 <p align="center">Apply for more jobs at</p>
@@ -1551,7 +1551,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19870 current opportunities from 559 companies**
+**🎯 19868 current opportunities from 559 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
