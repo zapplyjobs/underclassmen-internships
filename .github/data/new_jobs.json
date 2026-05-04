@@ -335,6 +335,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "spc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T21:35:27.276Z"
   },
   {
@@ -575,6 +585,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cfd",
+        "fea",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T21:34:00.492Z"
   },
   {
@@ -605,6 +627,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "java",
+        "power bi",
+        "program management",
+        "python",
+        "reporting",
+        "six sigma",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T21:34:00.492Z"
   },
   {
@@ -665,6 +704,54 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "analytics",
+        "api",
+        "azure",
+        "bigquery",
+        "business intelligence",
+        "computer science",
+        "crm",
+        "cybersecurity",
+        "data governance",
+        "data quality",
+        "data science",
+        "data visualization",
+        "data warehouse",
+        "databricks",
+        "embeddings",
+        "fastapi",
+        "forecasting",
+        "google cloud",
+        "langchain",
+        "llm",
+        "looker",
+        "machine learning",
+        "microsoft azure",
+        "microsoft office",
+        "next.js",
+        "power bi",
+        "prompt engineering",
+        "python",
+        "regression",
+        "routing",
+        "salesforce",
+        "snowflake",
+        "sql",
+        "statistics",
+        "tableau",
+        "threat modeling",
+        "vault",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T21:33:31.200Z"
   },
   {
@@ -967,6 +1054,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T21:32:05.696Z"
   },
   {
@@ -1029,6 +1126,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "design patterns",
+        "encryption",
+        "gcp",
+        "infrastructure as code",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T21:28:24.000Z"
   },
   {
@@ -2048,6 +2160,24 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "chatgpt",
+        "deep learning",
+        "distributed systems",
+        "llm",
+        "machine learning",
+        "openai",
+        "pytorch",
+        "ray",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
     "job_posted_at": "2026-05-04T21:17:14.274Z"
   },
   {
@@ -2233,6 +2363,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "cnc",
+        "matlab",
+        "nx",
+        "simulink",
+        "soldering"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T21:16:17.000Z"
   },
   {
@@ -12384,7 +12529,12 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "enrichment": {
-      "required_skills": [],
+      "required_skills": [
+        "azure",
+        "dashboards",
+        "microsoft azure",
+        "reporting"
+      ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -204146,8 +204296,15 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
+      "required_skills": [
+        "c#",
+        "c++",
+        "computer science",
+        "java",
+        "javascript",
+        "python"
+      ],
+      "sponsors_visa": false,
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": null,
@@ -380747,7 +380904,13 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "enrichment": {
-      "required_skills": [],
+      "required_skills": [
+        "c++",
+        "docker",
+        "genai",
+        "golang",
+        "kubernetes"
+      ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -386313,6 +386476,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "hmi",
+        "ids",
+        "lean",
+        "lean manufacturing",
+        "plc",
+        "robotics",
+        "scada",
+        "six sigma",
+        "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-28T21:34:30.237Z"
   },
   {
@@ -478832,451 +479015,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-27T22:01:59.000Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2492540",
-    "job_title": "Optometrist - Sam's Club",
-    "employer_name": "Walmart",
-    "job_city": "(USA) NY CHEEKTOWAGA 06673 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) NY CHEEKTOWAGA 06673 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-NY-CHEEKTOWAGA-06673-SAMS-CLUB/Optometrist---Sam-s-Club_R-2492540-1",
-    "job_posted_at_datetime_utc": "2026-04-27T21:58:01.916Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "04696142382b4b0794f1aa7b51f483eb4e999ea2cafce99c3b30f9322530950a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T21:58:01.916Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2492426",
-    "job_title": "(USA) Operations Manager - Floor I (USA)",
-    "employer_name": "Walmart",
-    "job_city": "US NC SHELBY 06070 REGIONAL",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US NC SHELBY 06070 REGIONAL",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-NC-SHELBY-06070-REGIONAL/XMLNAME--USA--Operations-Manager---Floor-I--USA-_R-2492426",
-    "job_posted_at_datetime_utc": "2026-04-27T21:58:01.916Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8628588a44fa6be83b04bc8cc5e885a9934244d5bb32dcf95fc409e611817a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T21:58:01.916Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4675842006",
-    "job_title": "Associate Program Manager - LATAM",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4675842006",
-    "job_posted_at_datetime_utc": "2026-04-27T21:55:27.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b927a840e754261508216b2784772b66c6371be1e7c4433fca143a10cd0525d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T21:55:27.000Z"
-  },
-  {
-    "job_id": "workday-arrow-electronics-R243029",
-    "job_title": "Field Sales Manager",
-    "employer_name": "Arrow Electronics",
-    "job_city": "US TX Texas Employees",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US TX Texas Employees + 2 more",
-    "job_apply_link": "https://arrow.wd1.myworkdayjobs.com/AC/job/US-TX-Texas-Remote-Employees/Field-Sales-Manager_R243029",
-    "job_posted_at_datetime_utc": "2026-04-27T21:53:28.779Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a01f34c4ade7a60c35fc1ba6ee0e904c2e9d2304df245ccbbcff4efae0870c0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T21:53:28.779Z"
-  },
-  {
-    "job_id": "greenhouse-sofi-7687952003",
-    "job_title": "Frontend Engineer, Money",
-    "employer_name": "SoFi",
-    "job_city": "WA - Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "WA - Seattle",
-    "job_apply_link": "https://sofi.com/careers/job/7687952003?gh_jid=7687952003",
-    "job_posted_at_datetime_utc": "2026-04-27T21:53:27.366Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b1befd9ef1cef97fc77bc84feedd93473303b194df7353425024a3ed694c033",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "Node.js",
-        "PostgreSQL",
-        "docker",
-        "end-to-end testing",
-        "javascript",
-        "kafka",
-        "react",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T21:53:27.366Z"
-  },
-  {
-    "job_id": "greenhouse-ripple-7818910",
-    "job_title": "Manager, Client Support NAM",
-    "employer_name": "Ripple",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, Illinois, United States",
-    "job_apply_link": "https://ripple.com/careers/all-jobs/job/7818910?gh_jid=7818910",
-    "job_posted_at_datetime_utc": "2026-04-27T21:53:26.554Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0510e4250e79309542c90eb4b8bab90ada6a493677e6542e6be9c2b6af7e96fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T21:53:26.554Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5087125007",
-    "job_title": "Warhead Design Engineer - Modeling & Simulation",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5087125007?gh_jid=5087125007",
-    "job_posted_at_datetime_utc": "2026-04-27T21:53:09.285Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eefafca5cc90612661736345d5bc03ad6336f50b0ed4b09b6c0a5ed5f631def9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ansys",
-        "data analysis",
-        "matlab",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T21:53:09.285Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8525383002",
-    "job_title": "Manufacturing Engineer (Starship Components Operations)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8525383002?gh_jid=8525383002",
-    "job_posted_at_datetime_utc": "2026-04-27T21:52:10.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "04c4af75c1f48a1f5b44f10c3ba8dd0230c6d5b102743f513b277b5b2e47313d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T21:52:10.000Z"
-  },
-  {
-    "job_id": "ashby-snowflake-e03f342c-7c03-44e5-962e-f2c52af6998c",
-    "job_title": "Executive Assistant - Engineering",
-    "employer_name": "Snowflake",
-    "job_city": "US-CA-Menlo Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "US-CA-Menlo Park",
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/e03f342c-7c03-44e5-962e-f2c52af6998c/application",
-    "job_posted_at_datetime_utc": "2026-04-27T21:47:34.090Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "d16974cd5c997bea3fbd3a273fe4c024462e0370cc305d5c54f8eee2e47c0fe0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "unicorn"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-27T21:47:34.090Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2491677",
-    "job_title": "Pharmacy Manager - $50,000 Sign On Available!",
-    "employer_name": "Walmart",
-    "job_city": "(USA) MS GREENWOOD 00716 WM SUPERCENTER",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) MS GREENWOOD 00716 WM SUPERCENTER",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-MS-GREENWOOD-00716-WM-SUPERCENTER/Pharmacy-Manager----50-000-Sign-On-Available-_R-2491677",
-    "job_posted_at_datetime_utc": "2026-04-27T21:46:17.343Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26f23539a22bfc5bddbd0b6f8e037d32be47fcb9adeb61d671c08e6f7a368ae5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T21:46:17.343Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2492522",
-    "job_title": "Part-Time Pharmacy Tech Certified Sam's",
-    "employer_name": "Walmart",
-    "job_city": "Severn",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Severn, MD",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Severn-MD/Part-Time-Pharmacy-Tech-Certified-Sam-s_R-2492522",
-    "job_posted_at_datetime_utc": "2026-04-27T21:46:17.343Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b70fa9fc25dd46e76195fd6e71ac350bb868216519ee88222eb0ac8569476a2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T21:46:17.343Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2492523",
-    "job_title": "(USA) Personal Shopper - Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) NM LAS CRUCES 04784 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) NM LAS CRUCES 04784 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-NM-LAS-CRUCES-04784-SAMS-CLUB/XMLNAME--USA--Personal-Shopper---Sam-s_R-2492523",
-    "job_posted_at_datetime_utc": "2026-04-27T21:46:17.343Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5747882c43a38d8f3e49124cd242705c2c9a93877d80f64161ad918de26cf37b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T21:46:17.343Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2492517",
-    "job_title": "(USA) Carwash/Gas Attendant",
-    "employer_name": "Walmart",
-    "job_city": "(USA) VA MIDLOTHIAN 06354 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) VA MIDLOTHIAN 06354 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-MIDLOTHIAN-06354-SAMS-CLUB/XMLNAME--USA--Carwash-Gas-Attendant_R-2492517",
-    "job_posted_at_datetime_utc": "2026-04-27T21:46:17.343Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fd21c747476fc55dd7c874914fab7e78c89394dd00f6271f55035e71c6d21a02",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "logistics"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-27T21:46:17.343Z"
   }
 ]
