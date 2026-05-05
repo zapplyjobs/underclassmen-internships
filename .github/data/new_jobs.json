@@ -179,6 +179,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cadence",
+        "cybersecurity",
+        "dashboards",
+        "incident response",
+        "nist",
+        "reporting",
+        "risk management",
+        "soc",
+        "vulnerability assessment"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
     "job_posted_at": "2026-05-05T17:48:25.906Z"
   },
   {
@@ -239,6 +258,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "dmaic",
+        "jmp",
+        "matlab",
+        "mes",
+        "python",
+        "reporting",
+        "spc",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:50.290Z"
   },
   {
@@ -299,6 +337,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "radar",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:49.468Z"
   },
   {
@@ -449,6 +498,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "plc",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:43.733Z"
   },
   {
@@ -539,6 +600,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data science",
+        "sap"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:27.575Z"
   },
   {
@@ -629,6 +703,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "finite element analysis",
+        "geometric dimensioning",
+        "linear",
+        "nx",
+        "robotics",
+        "siemens nx"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:27.574Z"
   },
   {
@@ -870,6 +960,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "lean",
+        "lean manufacturing",
+        "six sigma"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:46:29.000Z"
   },
   {
@@ -1023,6 +1125,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "concurrency",
+        "linux",
+        "project management",
+        "robotics",
+        "rust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:37:42.000Z"
   },
   {
@@ -1087,6 +1205,17 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "genai",
+        "generative ai"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:35:37.929Z"
   },
   {
@@ -100107,6 +100236,18 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "machine learning",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -100141,6 +100282,16 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "performance testing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -184151,6 +184302,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "azure",
+        "azure devops",
+        "c#",
+        "c++",
+        "cameo",
+        "computer science",
+        "data science",
+        "devops",
+        "git",
+        "javascript",
+        "mbse",
+        "pspice",
+        "python",
+        "requirements management",
+        "sysml"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-02T17:47:27.576Z"
   },
   {
@@ -498770,646 +498945,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-28T18:18:10.000Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2493303",
-    "job_title": "(USA) Member Team Lead",
-    "employer_name": "Walmart",
-    "job_city": "(USA) WI ONALASKA 06436 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) WI ONALASKA 06436 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-WI-ONALASKA-06436-SAMS-CLUB/XMLNAME--USA--Member-Team-Lead_R-2493303",
-    "job_posted_at_datetime_utc": "2026-04-28T18:15:46.993Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cabe86453f401df1c60248c397ee63354e7e41af9e38e0d5cabcf0f6a1dd2baa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:15:46.993Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2493255",
-    "job_title": "(USA) Member Specialist",
-    "employer_name": "Walmart",
-    "job_city": "(USA) CO COLORADO SPRINGS 06219 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) CO COLORADO SPRINGS 06219 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-CO-COLORADO-SPRINGS-06219-SAMS-CLUB/XMLNAME--USA--Member-Specialist_R-2493255",
-    "job_posted_at_datetime_utc": "2026-04-28T18:15:46.993Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea9c0fa5458c1f941daf0b6f1a1f094069a9136f75204403e02541faeb537c6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:15:46.993Z"
-  },
-  {
-    "job_id": "microsoft-200026430",
-    "job_title": "AI Product Management, Copilot",
-    "employer_name": "Microsoft",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mountain View, California, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556753234",
-    "job_posted_at_datetime_utc": "2026-04-28T18:15:35.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc821aff3912639da36e3aa27d98a5bc873cfd37cb99043cf13e382612cfb8fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-04-28T18:15:35.000Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7826722",
-    "job_title": "Corporate Accounting Analyst - Inventory, Fixed Asset & Treasury",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mountain View, CA, USA; San Francisco, CA, USA",
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7826722",
-    "job_posted_at_datetime_utc": "2026-04-28T18:14:53.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acdf7c78ed4915e182a897b7ea87f92083c514d6057d43ff1e0fd0f9c596e0fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T18:14:53.000Z"
-  },
-  {
-    "job_id": "greenhouse-personalisinc-7718791003",
-    "job_title": "Software Engineer 2",
-    "employer_name": "Personalis",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fremont, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/personalisinc/jobs/7718791003",
-    "job_posted_at_datetime_utc": "2026-04-28T18:14:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f47125d97baf8d989b3d558719abc3aa30c438ec2d4119d74214c628d93c2d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "Vue",
-        "angular",
-        "aws",
-        "bitbucket",
-        "ci/cd",
-        "computer science",
-        "docker",
-        "fastapi",
-        "flask",
-        "github",
-        "java",
-        "javascript",
-        "mysql",
-        "postgresql",
-        "python",
-        "react",
-        "rest",
-        "vue"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T18:14:49.000Z"
-  },
-  {
-    "job_id": "workday-microchip-technology-R1548-26",
-    "job_title": "Engineer Application -",
-    "employer_name": "Microchip Technology",
-    "job_city": "Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "AZ - Chandler",
-    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Engineer-Application----_R1548-26",
-    "job_posted_at_datetime_utc": "2026-04-28T18:13:32.574Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea338d98f88ca62839cdb1f0dab0eae13678b46508d60a972fcb13b44c0042e8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:13:32.574Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7834285",
-    "job_title": "Public Affairs Manager, Texas",
-    "employer_name": "Waymo",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote, USA",
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7834285",
-    "job_posted_at_datetime_utc": "2026-04-28T18:13:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f14de35509430171872d0866299333815eed21cab7a288cf9e7d67e148d11869",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T18:13:30.000Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R393204",
-    "job_title": "Oncology Sales Specialist - Eastern Long Island, NY",
-    "employer_name": "Merck & Co.",
-    "job_city": "New York Long Island",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York Long Island + 1 more",
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-York---Long-Island/Oncology-Sales-Specialist---Eastern-Long-Island--NY_R393204",
-    "job_posted_at_datetime_utc": "2026-04-28T18:13:29.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f006126a285ae419cba68d9dd9a5a516e003a6b6f24a356a045dc1390c55537b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:13:29.341Z"
-  },
-  {
-    "job_id": "workday-fidelity-investments-2125965",
-    "job_title": "Planning and Advice Associate - Merrimack, NH",
-    "employer_name": "Fidelity Investments",
-    "job_city": "Merrimack",
-    "job_state": "NH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Merrimack, NH",
-    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/Planning-and-Advice-Associate---Merrimack--NH_2125965",
-    "job_posted_at_datetime_utc": "2026-04-28T18:12:18.049Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a624a84ebe34c981ac3ea436fb9150978aef1a775c360230536c2b8bd9a0b0d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:12:18.049Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026496950",
-    "job_title": "737 Payloads Engineer (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "Renton",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Renton, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/XMLNAME-737-Payloads-Engineer--Associate-or-Experienced-_JR2026496950-1",
-    "job_posted_at_datetime_utc": "2026-04-28T18:11:25.167Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "98553dc9f6d3ccea7b5100b631fbc9a7e5ee7bb79b00390e62987206f8614dd5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:11:25.167Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R61221",
-    "job_title": "Large Volume Metrologist",
-    "employer_name": "Blue Origin",
-    "job_city": "Space Coast",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Space Coast, FL",
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Large-Volume-Metrologist_R61221-1",
-    "job_posted_at_datetime_utc": "2026-04-28T18:11:20.340Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "384d9c16cdb68965d1c09b7bfc1ad077077c9705549097bf28cfdb2af27d138e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:11:20.340Z"
-  },
-  {
-    "job_id": "greenhouse-bpcs-7807811",
-    "job_title": "Software Engineer – Service Reliability & Observability (.NET)",
-    "employer_name": "Blueprint Technologies",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://job-boards.greenhouse.io/bpcs/jobs/7807811",
-    "job_posted_at_datetime_utc": "2026-04-28T18:10:37.026Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fc92bf0d6283a9f8024e14a7b74198dc8c9fef1ceff8ccbf8597ef06ee69d9a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "azure",
-        "data governance",
-        "observability",
-        "react"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T18:10:37.026Z"
-  },
-  {
-    "job_id": "sr-VeoliaEnvironnementSA-744000123520316",
-    "job_title": "Electrician",
-    "employer_name": "Veolia Environnement SA",
-    "job_city": "Oak Creek",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Oak Creek, WI",
-    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123520316",
-    "job_posted_at_datetime_utc": "2026-04-28T18:04:08.046Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "bdddb640cccfc50dc682ccd931c4776fe39f45c0465416c92e34bca3b4b8ed2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-28T18:04:08.046Z"
-  },
-  {
-    "job_id": "microsoft-200035876",
-    "job_title": "Critical Environments (CE) Technical Trainer",
-    "employer_name": "Microsoft",
-    "job_city": "Boydton",
-    "job_state": "Virginia",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boydton, Virginia, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556861587",
-    "job_posted_at_datetime_utc": "2026-04-28T18:03:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5eb42fd3ee9687edb46e6bbbc06ed22215188510b3ce90b34e1ec0f8e5458f18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-04-28T18:03:22.000Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2493272",
-    "job_title": "(USA) Sam's Quality Assurance Verifier",
-    "employer_name": "Walmart",
-    "job_city": "US AR SEARCY 08234 REGIONAL",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US AR SEARCY 08234 REGIONAL",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-AR-SEARCY-08234-REGIONAL/XMLNAME--USA--Sam-s-Quality-Assurance-Verifier_R-2493272",
-    "job_posted_at_datetime_utc": "2026-04-28T18:02:10.578Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d5780b03ff21ee1a8318feada334b2f50c12e5e4ec5b7f9c0ca2e66bdada9a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:02:10.578Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2438234",
-    "job_title": "Exterior Services Technician, DOT Operator  - DS",
-    "employer_name": "Walmart",
-    "job_city": "Elizabethton",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Elizabethton, TN",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Elizabethton-TN/XMLNAME--USA--Exterior-Services-Technician--DOT-Operator----DS_R-2438234-2",
-    "job_posted_at_datetime_utc": "2026-04-28T18:02:10.578Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3701f2abdb6f856c80f0963324d2c2096b19de4b6d7bf62ade363d747c202f63",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T18:02:10.578Z"
-  },
-  {
-    "job_id": "microsoft-200035515",
-    "job_title": "Critical Environments (CE) Technical Trainer",
-    "employer_name": "Microsoft",
-    "job_city": "Chicago",
-    "job_state": "Illinois",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, Illinois, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556860630",
-    "job_posted_at_datetime_utc": "2026-04-28T18:01:32.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "06754433e8704df9620a4c8117403abedfdd84f6fb5e6dcc92b7ee772983c76a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-04-28T18:01:32.000Z"
-  },
-  {
-    "job_id": "apple-200660231",
-    "job_title": "Wireless RF PHY Firmware Engineer",
-    "employer_name": "Apple",
-    "job_city": "Irvine",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Irvine",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200660231/wireless-rf-phy-firmware-engineer",
-    "job_posted_at_datetime_utc": "2026-04-28T18:01:25.318Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a57ac05675aac4e0efe4b38935108d84e4f1fbbed31b26df3f3d75ca237282cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "firmware",
-        "rf",
-        "soc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T18:01:25.318Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8525780002",
-    "job_title": "Sous Chef",
-    "employer_name": "SpaceX",
-    "job_city": "McGregor",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McGregor, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8525780002?gh_jid=8525780002",
-    "job_posted_at_datetime_utc": "2026-04-28T18:01:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1627953bed7d430cff272e8ca3ed74ff98fd9ce2414917d4befbcf11a3dde153",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T18:01:21.000Z"
   }
 ]
