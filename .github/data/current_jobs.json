@@ -331,6 +331,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Node.js",
+        "agile",
+        "angular",
+        "api",
+        "api design",
+        "ci/cd",
+        "computer science",
+        "css",
+        "datadog",
+        "git",
+        "graphql",
+        "html",
+        "javascript",
+        "observability",
+        "react",
+        "restful",
+        "vue"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T16:06:52.600Z"
   },
   {
@@ -361,6 +387,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "arm",
+        "ci/cd",
+        "jenkins",
+        "linux",
+        "risc-v",
+        "rtos"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T16:06:10.766Z"
   },
   {
@@ -692,6 +733,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "assembly",
+        "autocad",
+        "cad",
+        "excel",
+        "nx",
+        "project management",
+        "sap",
+        "siemens nx",
+        "spring",
+        "system design",
+        "teamcenter",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T16:05:19.987Z"
   },
   {
@@ -812,6 +875,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "process improvement",
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T16:04:10.647Z"
   },
   {
@@ -872,6 +948,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "process improvement",
+        "sap",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T16:03:56.295Z"
   },
   {
@@ -932,6 +1022,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "elasticsearch",
+        "jira",
+        "kibana",
+        "servicenow",
+        "splunk"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T16:03:43.298Z"
   },
   {
@@ -1423,6 +1527,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "project management",
+        "react"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:54:54.932Z"
   },
   {
@@ -1936,6 +2052,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:46.012Z"
   },
   {
@@ -1996,6 +2125,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "forecasting",
+        "fortran",
+        "java",
+        "labview",
+        "matlab",
+        "radar",
+        "statistics",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:46.012Z"
   },
   {
@@ -2026,6 +2174,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "powershell",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:46.012Z"
   },
   {
@@ -2056,6 +2216,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache spark",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "fine-tuning",
+        "hadoop",
+        "large language model",
+        "llm",
+        "machine learning",
+        "model context protocol",
+        "natural language processing",
+        "python",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:43.605Z"
   },
   {
@@ -2116,6 +2300,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "azure",
+        "data integration",
+        "linux",
+        "networking",
+        "shell",
+        "shell scripting",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:43.604Z"
   },
   {
@@ -2146,6 +2348,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "dashboards",
+        "git",
+        "grafana",
+        "javascript",
+        "kafka",
+        "kubernetes",
+        "mysql",
+        "project management",
+        "python",
+        "redis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:27.000Z"
   },
   {
@@ -2268,6 +2490,16 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:08.330Z"
   },
   {
@@ -2329,6 +2561,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "hadoop",
+        "hive",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:49:23.000Z"
   },
   {
@@ -2603,6 +2856,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:43:45.246Z"
   },
   {
@@ -2933,6 +3196,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "cyber security",
+        "cybersecurity",
+        "dfmea",
+        "integration testing",
+        "scrum"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:43:00.334Z"
   },
   {
@@ -3145,6 +3424,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cisco",
+        "computer science",
+        "cybersecurity",
+        "fine-tuning",
+        "generative ai",
+        "kubeflow",
+        "mlflow",
+        "networking",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:41:53.342Z"
   },
   {
@@ -3237,6 +3534,24 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "deep learning",
+        "machine learning",
+        "natural language processing",
+        "reinforcement learning",
+        "robotics",
+        "scalability",
+        "statistics",
+        "supervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:40:29.318Z"
   },
   {
@@ -3329,6 +3644,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "lean manufacturing",
+        "reporting",
+        "root cause analysis",
+        "scalability",
+        "vendor management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:37:13.000Z"
   },
   {
@@ -3583,6 +3913,17 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:35:33.022Z"
   },
   {
@@ -4749,6 +5090,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "distributed systems",
+        "java",
+        "kotlin",
+        "scala"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
     "job_posted_at": "2026-05-05T15:32:45.000Z"
   },
   {
@@ -494336,613 +494690,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T16:33:14.000Z"
-  },
-  {
-    "job_id": "google-77911962981147334",
-    "job_title": "Product Manager, Local Ads Data Platform",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77911962981147334",
-    "job_posted_at_datetime_utc": "2026-04-28T16:30:43.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "24a4ca6954306e48b9b31653ff0f76100eda55c6ea1d4332cfd9fa0f922a4ee0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "job_posted_at": "2026-04-28T16:30:43.822Z"
-  },
-  {
-    "job_id": "google-133268525148971718",
-    "job_title": "Software Engineer, Infrastructure, Geo Earth Engine",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133268525148971718",
-    "job_posted_at_datetime_utc": "2026-04-28T16:30:43.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccfa3766672fe7d9a826f61070804887feea8b6d61bb199c4418f0df7d7e9556",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T16:30:43.822Z"
-  },
-  {
-    "job_id": "lever-theathletic-cfeab321-62d7-474d-90ec-3dd8366d0c9a",
-    "job_title": "Manager, Commercial Planning & Analysis (New York, New York)",
-    "employer_name": "The Athletic",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://jobs.lever.co/theathletic/cfeab321-62d7-474d-90ec-3dd8366d0c9a/apply",
-    "job_posted_at_datetime_utc": "2026-04-28T16:28:25.771Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a81154c143f4ddd33954167cf8b99df968fdfd6e5f1b6c6a7f8c444c8585770",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-28T16:28:25.771Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2492958",
-    "job_title": "(USA) Stocking 2 Coach, Non-Complex, Management",
-    "employer_name": "Walmart",
-    "job_city": "Defuniak Springs",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Defuniak Springs, FL",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Defuniak-Springs-FL/XMLNAME--USA--Stocking-2-Coach--Non-Complex--Management_R-2492958-1",
-    "job_posted_at_datetime_utc": "2026-04-28T16:28:03.738Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "12e30d28465c7741899604855e12359d6254d0de824f674b0eba7b66ce9f340e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T16:28:03.738Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5203365008",
-    "job_title": "Transportation Engineer (EIT) - Roadway",
-    "employer_name": "Olsson",
-    "job_city": "Springfield",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Springfield, MO",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5203365008",
-    "job_posted_at_datetime_utc": "2026-04-28T16:27:08.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e0404cb4cb9eca3064c5250e4506f6c42fc1179c130b79e96357ca3fb47039b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "autocad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T16:27:08.000Z"
-  },
-  {
-    "job_id": "workday-comcast-R435292",
-    "job_title": "Analyst, Finance & Accounting",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst--Finance---Accounting_R435292",
-    "job_posted_at_datetime_utc": "2026-04-28T16:23:40.758Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "feeed6d4826bbf97d359b78891b508fa901ed4e0a1f616f9d6905929b02334c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T16:23:40.758Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000123501465",
-    "job_title": "Social Media Content Creator - Diablo Tools",
-    "employer_name": "Bosch Group",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000123501465",
-    "job_posted_at_datetime_utc": "2026-04-28T16:23:28.700Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "63b7d3281e30047879b8ea8d8cd83d94a3445d4fb7d8ba6284eb8024d2baafbf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-28T16:23:28.700Z"
-  },
-  {
-    "job_id": "lever-ro-87940f65-c0de-41f7-bd7c-ab2d6aaaba23",
-    "job_title": "Fulfillment Pharmacy Technician - Torrance, CA",
-    "employer_name": "Ro",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, CA",
-    "job_apply_link": "https://jobs.lever.co/ro/87940f65-c0de-41f7-bd7c-ab2d6aaaba23/apply",
-    "job_posted_at_datetime_utc": "2026-04-28T16:23:09.815Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57b24df1a6ed3090e32238df32ff0620ac7460fae20f0a99327a893d51900005",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-28T16:23:09.815Z"
-  },
-  {
-    "job_id": "workday-aig-JR2505279",
-    "job_title": "Data Business Intelligence (BI) & Power BI Analyst",
-    "employer_name": "AIG",
-    "job_city": "TX Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "TX Dallas + 4 more",
-    "job_apply_link": "https://aig.wd1.myworkdayjobs.com/AIG/job/TX-Dallas/Data-Business-Intelligence--BI----Power-BI-Analyst_JR2505279",
-    "job_posted_at_datetime_utc": "2026-04-28T16:22:59.065Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "27c8e4a31daf0863a867342159d41f0f7bc3a221c9c70aa5af3867984fa9ed59",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "business intelligence",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data modeling",
-        "data quality",
-        "data visualization",
-        "etl",
-        "gcp",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "scrum",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T16:22:59.065Z"
-  },
-  {
-    "job_id": "lever-theathletic-c17448c3-2d86-47c3-9a75-ac4c582dce43",
-    "job_title": "Associate People Partner (Remote)",
-    "employer_name": "The Athletic",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.lever.co/theathletic/c17448c3-2d86-47c3-9a75-ac4c582dce43/apply",
-    "job_posted_at_datetime_utc": "2026-04-28T16:22:50.308Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61ecec86d07abdcca92a6fc6238c98cca8530de1ea983178df4488fd1f9589f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-28T16:22:50.308Z"
-  },
-  {
-    "job_id": "greenhouse-mercury-5969717004",
-    "job_title": "Onboarding QC Specialist",
-    "employer_name": "Mercury",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/mercury/jobs/5969717004",
-    "job_posted_at_datetime_utc": "2026-04-28T16:22:44.424Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bcfa2278b04ac348a306323928c62fc207ec26ea61ef913905e0d43b86d94485",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T16:22:44.424Z"
-  },
-  {
-    "job_id": "greenhouse-gusto-7838275",
-    "job_title": "Future Opportunities: Licensed Benefits Advisor",
-    "employer_name": "Gusto",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Denver, CO; Phoenix, AZ",
-    "job_apply_link": "https://job-boards.greenhouse.io/gusto/jobs/7838275",
-    "job_posted_at_datetime_utc": "2026-04-28T16:22:38.830Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13dda88e5b934784bacd67c1a5fae81cf532cec7042c1659dee8f0abaa9d1aba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T16:22:38.830Z"
-  },
-  {
-    "job_id": "uber-158974",
-    "job_title": "GTM Sales Strategy & Operations Manager, Uber Advertising",
-    "employer_name": "Uber",
-    "job_city": "Chicago",
-    "job_state": "Illinois",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, Illinois",
-    "job_apply_link": "https://www.uber.com/us/en/careers/list/158974/",
-    "job_posted_at_datetime_utc": "2026-04-28T16:22:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df6d0e270afafea6dd2da042e94022a79b7a83e4a77aaaf99fba5c2598f8f08f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "uber",
-    "job_posted_at": "2026-04-28T16:22:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-datadog-7852504",
-    "job_title": "Compensation Partner - Technical Solutions and G&A",
-    "employer_name": "Datadog",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA",
-    "job_apply_link": "https://careers.datadoghq.com/detail/7852504/?gh_jid=7852504",
-    "job_posted_at_datetime_utc": "2026-04-28T16:21:12.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fbeeb70adf368cf748ba2ca6876334e0bf79da44e0ff0d7616ade60ef0865499",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T16:21:12.000Z"
-  },
-  {
-    "job_id": "greenhouse-xometry-5122744007",
-    "job_title": "Quality Documentation Specialist",
-    "employer_name": "Xometry",
-    "job_city": "Lexington",
-    "job_state": "KY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington, KY ",
-    "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5122744007",
-    "job_posted_at_datetime_utc": "2026-04-28T16:18:59.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ada6b321a1e3bdda6e447c3d2736aa0134f2c6d32948f55da90f86b5276d520b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T16:18:59.000Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5203343008",
-    "job_title": "Bridge Engineer",
-    "employer_name": "Olsson",
-    "job_city": "Fayetteville",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fayetteville, AR; Little Rock, AR",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5203343008",
-    "job_posted_at_datetime_utc": "2026-04-28T16:18:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3200be79b5a38c9cdec2244f24df99393575f216c06577f67d6ccc8f8cbde539",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T16:18:20.000Z"
-  },
-  {
-    "job_id": "greenhouse-lucidmotors-5121772007",
-    "job_title": "Sales Specialist",
-    "employer_name": "Lucid Motors",
-    "job_city": "West Palm Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "West Palm Beach, FL",
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/5121772007",
-    "job_posted_at_datetime_utc": "2026-04-28T16:17:26.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2548a6d57f075eb0f589c163be52fa877fb04f5241f9e56e0e55b194f13bbd9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-28T16:17:26.000Z"
-  },
-  {
-    "job_id": "lever-palantir-678d05bc-ea79-45ad-bdce-7a06a7cd9a54",
-    "job_title": "Revenue Accounting Manager",
-    "employer_name": "Palantir",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Palo Alto, CA",
-    "job_apply_link": "https://jobs.lever.co/palantir/678d05bc-ea79-45ad-bdce-7a06a7cd9a54/apply",
-    "job_posted_at_datetime_utc": "2026-04-28T16:17:23.595Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "66f3ee87dba9d2e13277bb57a622228d96a9e4383350851f2b690c49b10e8620",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-28T16:17:23.595Z"
   }
 ]
