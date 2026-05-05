@@ -27,6 +27,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data architecture",
+        "data governance",
+        "data integration",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "data visualization",
+        "etl",
+        "python",
+        "reporting",
+        "snowflake",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T06:06:00.343Z"
   },
   {
@@ -117,6 +143,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "cyber security",
+        "cybersecurity",
+        "dashboards",
+        "incident response",
+        "information security",
+        "iso 27001",
+        "network security",
+        "nist",
+        "project management",
+        "reporting",
+        "risk management",
+        "soc",
+        "splunk"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T06:05:11.653Z"
   },
   {
@@ -520389,112 +520439,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T07:00:06.198Z"
-  },
-  {
-    "job_id": "workday-rtx-01841497",
-    "job_title": "Manufacturing Operator, 2nd shift ( Onsite)",
-    "employer_name": "RTX",
-    "job_city": "ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Machining-Cell-Operator--2nd-shift---Onsite-_01841497",
-    "job_posted_at_datetime_utc": "2026-04-28T06:28:24.168Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2394db5dff009cffa3e2c07ab554a4a15173138308c98c70fa3797afa9bfae7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T06:28:24.168Z"
-  },
-  {
-    "job_id": "ashby-mercor-cae88190-a2fd-4d04-9352-9f48fedb56a7",
-    "job_title": "Software Engineer, Applied AI",
-    "employer_name": "Mercor",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7/application",
-    "job_posted_at_datetime_utc": "2026-04-28T06:25:26.006Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "1d3a82575f49fec565d11f47e2d641e043891d3921f20dae5cb9b5710b6ca376",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "data quality",
-        "go",
-        "python",
-        "requirements gathering",
-        "rust",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T06:25:26.006Z"
-  },
-  {
-    "job_id": "workday-rtx-01841496",
-    "job_title": "Bench/Assembly Cell Operator , Weekend shift ( Onsite)",
-    "employer_name": "RTX",
-    "job_city": "ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Bench-Assembly-Cell-Operator---Weekend-shift---Onsite-_01841496",
-    "job_posted_at_datetime_utc": "2026-04-28T06:16:38.917Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "637fece09ec870b052a00b49c4bc4eaec94031f2bee510dfb5ec1c5e8666a62e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-28T06:16:38.917Z"
   }
 ]
