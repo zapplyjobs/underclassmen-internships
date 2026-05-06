@@ -30,6 +30,14 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T17:47:21.166Z"
   },
   {
@@ -247,6 +255,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cockroachdb",
+        "computer science",
+        "concurrency",
+        "distributed systems",
+        "github",
+        "go",
+        "java",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T17:39:37.000Z"
   },
   {
@@ -51719,6 +51746,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "argocd",
+        "aws",
+        "azure",
+        "bash",
+        "dashboards",
+        "distributed systems",
+        "go",
+        "grafana",
+        "helm",
+        "kubernetes",
+        "networking",
+        "observability",
+        "prometheus",
+        "python",
+        "root cause analysis",
+        "scrum",
+        "terraform",
+        "vmware"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:18:25.369Z"
   },
   {
@@ -454671,188 +454726,5 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-29T18:18:20.921Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000123757849",
-    "job_title": "DSP Team Lead (1st Shift)",
-    "employer_name": "Bosch Group",
-    "job_city": "West Memphis",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "West Memphis, AR",
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000123757849",
-    "job_posted_at_datetime_utc": "2026-04-29T18:14:29.483Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "cf73782f8aefe38388350f2b9a09922f6b1b3f8bad08f959aab6b7b0b96f0ce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "dsp"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T18:14:29.483Z"
-  },
-  {
-    "job_id": "sr-VeoliaEnvironnementSA-744000123756529",
-    "job_title": "Manager of Customer Service",
-    "employer_name": "Veolia Environnement SA",
-    "job_city": "Harrisburg",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Harrisburg, PA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123756529",
-    "job_posted_at_datetime_utc": "2026-04-29T18:07:42.925Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "fcc19c6245f97fd40df5b21b7362956f89bc464f1ee7a73de254014d694d13df",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-29T18:07:42.925Z"
-  },
-  {
-    "job_id": "greenhouse-samsungsemiconductor-7713569003",
-    "job_title": "Thermal Engineer",
-    "employer_name": "Samsung Semiconductor",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7713569003",
-    "job_posted_at_datetime_utc": "2026-04-29T18:06:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7bb094110421fd2b8d43594d2b802c7e9f2d20cda19ec9115742723c981c2619",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cfd"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T18:06:18.000Z"
-  },
-  {
-    "job_id": "sr-RedBull-744000123755599",
-    "job_title": "President, RBDC",
-    "employer_name": "Red Bull",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Columbus, OH",
-    "job_apply_link": "https://jobs.smartrecruiters.com/RedBull/744000123755599",
-    "job_posted_at_datetime_utc": "2026-04-29T18:04:09.670Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "b501a6c993748c6462c7707d4969ddeca80b53f6e8e035e2d3db54e1d4a115fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-29T18:04:09.670Z"
-  },
-  {
-    "job_id": "greenhouse-scaleai-4689947005",
-    "job_title": "SWE Fellow - Human Frontier Collective (US)",
-    "employer_name": "Scale AI",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005",
-    "job_posted_at_datetime_utc": "2026-04-29T18:02:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "161c3f6040511f41add5d6d62f799c9f238b2039be0c5c258021222168b76c49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cisco"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T18:02:21.000Z"
   }
 ]
