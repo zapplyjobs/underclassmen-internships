@@ -28,6 +28,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "mcp"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T19:31:57.000Z"
   },
   {
@@ -61,6 +72,16 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "swift"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T19:28:40.048Z"
   },
   {
@@ -216,6 +237,14 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T19:24:19.229Z"
   },
   {
@@ -249,6 +278,14 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T19:23:59.381Z"
   },
   {
@@ -282,6 +319,14 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T19:23:43.039Z"
   },
   {
@@ -314,6 +359,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "computer science",
+        "graphql",
+        "grpc",
+        "java",
+        "kafka",
+        "ruby",
+        "sql",
+        "sqs",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T19:23:10.000Z"
   },
   {
@@ -30514,6 +30578,14 @@
     },
     "_source": "aggregator",
     "_original_source": "microsoft",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T20:35:21.000Z"
   },
   {
@@ -256722,6 +256794,16 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "design patterns"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
@@ -294556,311 +294638,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T20:03:04.000Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5126798007",
-    "job_title": "Electrical Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boulder, Colorado, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5126798007?gh_jid=5126798007",
-    "job_posted_at_datetime_utc": "2026-05-01T19:57:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a4c447d1b72716c575e0467f890b694696bee455849f58a75e208f9aac99fef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "pcb design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T19:57:19.000Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5126795007",
-    "job_title": "Firmware Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington, Massachusetts, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5126795007?gh_jid=5126795007",
-    "job_posted_at_datetime_utc": "2026-05-01T19:55:32.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adace5d067d40e8a1454b6faabff326077e1b9f0a0010de153da0aaeca08ba72",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "firmware",
-        "fpga",
-        "git",
-        "quartus",
-        "systemverilog",
-        "verilog",
-        "vhdl",
-        "vivado"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T19:55:32.000Z"
-  },
-  {
-    "job_id": "microsoft-200036605",
-    "job_title": "Logistics Technician",
-    "employer_name": "Microsoft",
-    "job_city": "Ashburn",
-    "job_state": "Virginia",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ashburn, Virginia, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863401",
-    "job_posted_at_datetime_utc": "2026-05-01T19:54:39.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26d36588b2217f7175bfbacb229ec74188de87040c17b8d35be1856f6e5715b9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "logistics"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-01T19:54:39.000Z"
-  },
-  {
-    "job_id": "greenhouse-rocketlab-7722342003",
-    "job_title": "Packaging Engineer I",
-    "employer_name": "Rocket Lab",
-    "job_city": "Long Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Long Beach, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/rocketlab/jobs/7722342003",
-    "job_posted_at_datetime_utc": "2026-05-01T19:53:35.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "54e74adf083aba76447ee1eeb2d51b687ef280dd954c516d0ad0f7ce39129f93",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T19:53:35.000Z"
-  },
-  {
-    "job_id": "sr-NBCUniversal3-744000124179369",
-    "job_title": "Freelance Digital Content Writer/Editor - NBC Sports, Bay Area (Part-Time)",
-    "employer_name": "NBCUniversal",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CALIFORNIA",
-    "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000124179369",
-    "job_posted_at_datetime_utc": "2026-05-01T19:52:42.400Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "3249d5eb09a9720044456d25f242b3c9416d011c8b4aa8577f3fb4aee650dd4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T19:52:42.400Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5126791007",
-    "job_title": "Electrical Harness Design Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Waltham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Waltham, Massachusetts, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5126791007?gh_jid=5126791007",
-    "job_posted_at_datetime_utc": "2026-05-01T19:51:37.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c74a260401e715ace172faccc14e32160d6fdb56182e01a138758ab98683313",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "catia",
-        "creo",
-        "mil-std",
-        "nx",
-        "reporting",
-        "routing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T19:51:37.000Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5126790007",
-    "job_title": "Electrical Hardware Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington, Massachusetts, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5126790007?gh_jid=5126790007",
-    "job_posted_at_datetime_utc": "2026-05-01T19:50:37.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe76f927682a8e8e6b754b904b9def7060be82504873178883529bd2509c6e4b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "pcb design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T19:50:37.000Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5126785007",
-    "job_title": "Electrical Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington, Massachusetts, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5126785007?gh_jid=5126785007",
-    "job_posted_at_datetime_utc": "2026-05-01T19:49:50.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb4d877cb2afdafbd6216430144b22930d6722272fe5d858a8ecc774141af7c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "pcb design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T19:49:50.000Z"
   }
 ]
