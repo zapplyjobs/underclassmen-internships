@@ -1,5 +1,128 @@
 [
   {
+    "job_id": "sr-INFICON2-744000125337995",
+    "job_title": "Materials Manager",
+    "employer_name": "INFICON",
+    "job_city": "East Syracuse",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "East Syracuse, NY",
+    "job_apply_link": "https://jobs.smartrecruiters.com/INFICON2/744000125337995",
+    "job_posted_at_datetime_utc": "2026-05-08T13:31:29.979Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "d2e9eadff722495aa624386c69622beaee67e3f7a31e58adba0c298d1006b307",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-08T13:31:29.979Z"
+  },
+  {
+    "job_id": "sr-RedBull-744000125338119",
+    "job_title": "Account Sales Manager",
+    "employer_name": "Red Bull",
+    "job_city": "Florence",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Florence, SC",
+    "job_apply_link": "https://jobs.smartrecruiters.com/RedBull/744000125338119",
+    "job_posted_at_datetime_utc": "2026-05-08T13:30:39.205Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "de5f529194eff87ffc8da906789fcb51afba5e820bfb9d27841eb9114b20c1f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-08T13:30:39.205Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5213045008",
+    "job_title": "Application Engineer",
+    "employer_name": "LG Electronics",
+    "job_city": "California",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "California ",
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5213045008",
+    "job_posted_at_datetime_utc": "2026-05-08T13:27:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "45d3e6a4b9e501cf8efc512f39c0d2acde8b16fc0851e8b321d51c83d37e3067",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T13:27:16.000Z"
+  },
+  {
+    "job_id": "sr-INFICON2-744000125336359",
+    "job_title": "Supply Chain Analytics Manager",
+    "employer_name": "INFICON",
+    "job_city": "East Syracuse",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "East Syracuse, NY",
+    "job_apply_link": "https://jobs.smartrecruiters.com/INFICON2/744000125336359",
+    "job_posted_at_datetime_utc": "2026-05-08T13:24:05.041Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "f7ce722de88c45379dc613f92e8620fded2a8cad507f68a0f11c61838819ac37",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-08T13:24:05.041Z"
+  },
+  {
     "job_id": "sr-AbbVie-3743990013037826",
     "job_title": "Specialty Representative, Rheumatology - Madison, WI",
     "employer_name": "AbbVie",
@@ -242,7 +365,10 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "enrichment": {
-      "required_skills": [],
+      "required_skills": [
+        "computer science",
+        "networking"
+      ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -10833,51 +10959,6 @@
     "job_posted_at": "2026-05-07T15:17:33.256Z"
   },
   {
-    "job_id": "google-107943684279804614",
-    "job_title": "Software Engineer, GDC LLM Serving and GPU Performance",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107943684279804614",
-    "job_posted_at_datetime_utc": "2026-05-07T15:17:33.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02161c16dcf91964bb7961400198bcd0e012626223aa2e52831ae6d3b443c695",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "llm",
-        "scalability",
-        "sre"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-07T15:17:33.255Z"
-  },
-  {
     "job_id": "google-115762311464919750",
     "job_title": "Software Engineer, Gemini Live, DeepMind",
     "employer_name": "Google",
@@ -10954,6 +11035,51 @@
       "required_skills": [
         "machine learning",
         "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-07T15:17:33.255Z"
+  },
+  {
+    "job_id": "google-107943684279804614",
+    "job_title": "Software Engineer, GDC LLM Serving and GPU Performance",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107943684279804614",
+    "job_posted_at_datetime_utc": "2026-05-07T15:17:33.255Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02161c16dcf91964bb7961400198bcd0e012626223aa2e52831ae6d3b443c695",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "llm",
+        "scalability",
+        "sre"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -27983,6 +28109,210 @@
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
+    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
+    "job_title": "Data Visualization Associate",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-da9ebba4-018d-46ea-9750-8427ff5812c4",
+    "job_title": "Associate – Software Engineer",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Melbourne",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Melbourne, FL",
+    "job_apply_link": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1374791300/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "97e786b089a0ca2c0eb7e77592a76fa86d995854684f3b790217a478ba27192f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-5f74e686-6810-4482-8f85-18b30012e11c",
+    "job_title": "Associate – Application Development",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Greenville",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Greenville, TX",
+    "job_apply_link": "https://jobs.l3harris.com/job/Greenville-Associate,-Application-Development-TX-75402/1384093800/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7b524757f76e24e90f536fd8c56217b72bdc5262472facc114d38b5d6c16ee5c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-33139a18-6ca9-490e-8cd8-b2c7c269afe4",
+    "job_title": "Associate – Application Development",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Greenville",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Greenville, TX",
+    "job_apply_link": "https://jobs.l3harris.com/job/Greenville-Associate,-Application-Development-TX-75402/1384102900/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7b524757f76e24e90f536fd8c56217b72bdc5262472facc114d38b5d6c16ee5c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-f6330022-551c-4e0a-a098-747bdf19dd1a",
+    "job_title": "Fixed Income Trading Analyst - Early Careers",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10827/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd911662899a7d298dda370b7e382ea2f89f11b6e33e15a800edc8503cdf6854",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
+    "job_title": "Entry Level Optical Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Bedford",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, IN",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
     "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
     "job_title": "Client Data Analyst",
     "employer_name": "JP Morgan Chase",
@@ -28343,210 +28673,6 @@
       "domains": [
         "hardware",
         "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
-    "job_title": "Data Visualization Associate",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-da9ebba4-018d-46ea-9750-8427ff5812c4",
-    "job_title": "Associate – Software Engineer",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Melbourne",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Melbourne, FL",
-    "job_apply_link": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1374791300/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "97e786b089a0ca2c0eb7e77592a76fa86d995854684f3b790217a478ba27192f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-5f74e686-6810-4482-8f85-18b30012e11c",
-    "job_title": "Associate – Application Development",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Greenville",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Greenville, TX",
-    "job_apply_link": "https://jobs.l3harris.com/job/Greenville-Associate,-Application-Development-TX-75402/1384093800/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b524757f76e24e90f536fd8c56217b72bdc5262472facc114d38b5d6c16ee5c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-33139a18-6ca9-490e-8cd8-b2c7c269afe4",
-    "job_title": "Associate – Application Development",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Greenville",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Greenville, TX",
-    "job_apply_link": "https://jobs.l3harris.com/job/Greenville-Associate,-Application-Development-TX-75402/1384102900/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b524757f76e24e90f536fd8c56217b72bdc5262472facc114d38b5d6c16ee5c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-f6330022-551c-4e0a-a098-747bdf19dd1a",
-    "job_title": "Fixed Income Trading Analyst - Early Careers",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10827/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd911662899a7d298dda370b7e382ea2f89f11b6e33e15a800edc8503cdf6854",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
-    "job_title": "Entry Level Optical Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Bedford",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, IN",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -47721,38 +47847,6 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-05T21:01:30.186Z"
-  },
-  {
-    "job_id": "sr-RedBull-744000124747449",
-    "job_title": "Merchandiser",
-    "employer_name": "Red Bull",
-    "job_city": "San Tan Valley",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Tan Valley, AZ",
-    "job_apply_link": "https://jobs.smartrecruiters.com/RedBull/744000124747449",
-    "job_posted_at_datetime_utc": "2026-05-05T20:59:25.818Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "ec19e92e1e65500b0579560711a90656dbe2696f19874596ff661a413fd28ae3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales",
-        "retail"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-05T20:59:25.818Z"
   },
   {
     "job_id": "greenhouse-oscar-7895869",
@@ -123694,6 +123788,46 @@
     "job_posted_at": "2026-05-05T11:18:30.550Z"
   },
   {
+    "job_id": "google-115504012131738310",
+    "job_title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115504012131738310",
+    "job_posted_at_datetime_utc": "2026-05-05T11:18:30.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ef1a5554e7dc11747725cae29b1a47809c99a975dcf39638fe3969716b6836e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:18:30.549Z"
+  },
+  {
     "job_id": "google-92701240483291846",
     "job_title": "Software Engineer, Security, Chrome Product Security",
     "employer_name": "Google",
@@ -123729,46 +123863,6 @@
         "data analysis",
         "reporting"
       ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:18:30.549Z"
-  },
-  {
-    "job_id": "google-115504012131738310",
-    "job_title": "Software Engineer, Gemini Enterprise Mobile, iOS",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115504012131738310",
-    "job_posted_at_datetime_utc": "2026-05-05T11:18:30.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ef1a5554e7dc11747725cae29b1a47809c99a975dcf39638fe3969716b6836e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -125269,55 +125363,6 @@
     "job_posted_at": "2026-05-05T11:17:48.742Z"
   },
   {
-    "job_id": "greenhouse-speechify-5975310004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - College Station, TX, USA",
-    "employer_name": "Speechify",
-    "job_city": "College Station",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "College Station, TX, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975310004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8304958bc37046e616cb956c3a02c9ab9660305de104e4b2063ef529151ce912",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5975191004",
     "job_title": "Software Engineer, Data Infrastructure & Acquisition - Detroit, MI, USA",
     "employer_name": "Speechify",
@@ -126311,6 +126356,55 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6a28ae965cf79bf03c32eac7b17a7225a45dc8593e64ce5b00e57ab684ef334c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975310004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - College Station, TX, USA",
+    "employer_name": "Speechify",
+    "job_city": "College Station",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "College Station, TX, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975310004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8304958bc37046e616cb956c3a02c9ab9660305de104e4b2063ef529151ce912",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -167359,52 +167453,6 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-dc42fdfd-f859-4845-b38e-1d7f1ddbdde8",
-    "job_title": "Software Development Engineer, Internet Monitoring",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara, CA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411819/software-development-engineer-internet-monitoring",
-    "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb28b604299f119d843ada365ab9549aad310a59eb6df60d278f6ba2d0111c5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "design patterns",
-        "java"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-f96ee403-3cec-4ea9-92e1-6cdb32bc5174",
     "job_title": "Software Development Engineer, Amazon Cognito",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -167529,6 +167577,52 @@
     "enrichment": {
       "required_skills": [
         "design patterns"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-dc42fdfd-f859-4845-b38e-1d7f1ddbdde8",
+    "job_title": "Software Development Engineer, Internet Monitoring",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411819/software-development-engineer-internet-monitoring",
+    "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb28b604299f119d843ada365ab9549aad310a59eb6df60d278f6ba2d0111c5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "design patterns",
+        "java"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -245169,49 +245263,6 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-8baf7245-4bc0-408d-86d1-eb8af44bd76e",
-    "job_title": "Software Development Engineer, Integrated Vehicle Testing",
-    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410522/software-development-engineer-integrated-vehicle-testing",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2a17708d1f8c17fd6a3d9780cca43233f4e4a49f8920561eb967ddfb100e1a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "design patterns"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-c3cc34f8-9b82-435b-b345-452eb952e8b3",
     "job_title": "Embedded Software Development Engineer, Ring Team",
     "employer_name": "Amazon.com Services LLC",
@@ -245281,6 +245332,49 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "design patterns"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-8baf7245-4bc0-408d-86d1-eb8af44bd76e",
+    "job_title": "Software Development Engineer, Integrated Vehicle Testing",
+    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410522/software-development-engineer-integrated-vehicle-testing",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2a17708d1f8c17fd6a3d9780cca43233f4e4a49f8920561eb967ddfb100e1a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [
         "faang",
         "fortune500"
@@ -245394,52 +245488,6 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
-    "job_title": "Applied Scientist, Customer Behavior Analytics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-3b1c6303-b2e5-4afa-b5f7-3e7711cedd07",
     "job_title": "Applied Scientist, AWS Marketplace & Partner Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -245474,6 +245522,52 @@
       "required_skills": [
         "c++",
         "computer science",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
+    "job_title": "Applied Scientist, Customer Behavior Analytics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
         "java",
         "machine learning",
         "python"
@@ -256619,6 +256713,36 @@
     "job_posted_at": "2026-05-02T13:31:02.030Z"
   },
   {
+    "job_id": "greenhouse-verkada-5112016007",
+    "job_title": "Product Support Specialist",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Mateo, CA United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5112016007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.802Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b458971783b3260e51d24f879dc5ca3154573a52c7bf2b607f6052dc759f03d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:01.802Z"
+  },
+  {
     "job_id": "greenhouse-verkada-5111788007",
     "job_title": "Tradeshow Associate",
     "employer_name": "Verkada",
@@ -256816,36 +256940,6 @@
       "employment": "entry_level",
       "domains": [
         "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:01.802Z"
-  },
-  {
-    "job_id": "greenhouse-verkada-5112016007",
-    "job_title": "Product Support Specialist",
-    "employer_name": "Verkada",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Mateo, CA United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5112016007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.802Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b458971783b3260e51d24f879dc5ca3154573a52c7bf2b607f6052dc759f03d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -257410,99 +257504,6 @@
     "job_posted_at": "2026-05-02T13:31:01.162Z"
   },
   {
-    "job_id": "greenhouse-toast-7851515",
-    "job_title": "Territory Account Executive, Retail - Morgantown WV",
-    "employer_name": "Toast",
-    "job_city": "Morgantown",
-    "job_state": "WV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Morgantown, WV",
-    "job_apply_link": "https://careers.toasttab.com/jobs?gh_jid=7851515",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.952Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1f396cd2eda3c6ec388852cd19b9709e4cdd84b7a8386d32402dd4a42ffa968",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales",
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:00.952Z"
-  },
-  {
-    "job_id": "greenhouse-toast-7852855",
-    "job_title": "Territory Account Executive, Retail - Ontario, CA",
-    "employer_name": "Toast",
-    "job_city": "Ontario",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ontario, CA",
-    "job_apply_link": "https://careers.toasttab.com/jobs?gh_jid=7852855",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.952Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a9d2e09d0dc3c8b9adf63cdc7705e12c1b6711f7bf7ef7bcb3299ac4aa65c32b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales",
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:00.952Z"
-  },
-  {
-    "job_id": "greenhouse-toast-7847518",
-    "job_title": "Territory Account Executive, Retail - San Bernardino, CA",
-    "employer_name": "Toast",
-    "job_city": "San Bernardino",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Bernardino, CA",
-    "job_apply_link": "https://careers.toasttab.com/jobs?gh_jid=7847518",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.952Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f40faef14a31d62e9771ca012a26e5cf6c88b5da678b3f67cf49fe4c0441c07e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales",
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:00.952Z"
-  },
-  {
     "job_id": "greenhouse-toast-7838915",
     "job_title": "Territory Account Executive, Retail - South Pittsburgh",
     "employer_name": "Toast",
@@ -257901,6 +257902,99 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "57423fd6e1d9f4f5e8e0c34a126a38beaec4be9309996da964ba54f939d08f78",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales",
+        "retail"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:00.952Z"
+  },
+  {
+    "job_id": "greenhouse-toast-7851515",
+    "job_title": "Territory Account Executive, Retail - Morgantown WV",
+    "employer_name": "Toast",
+    "job_city": "Morgantown",
+    "job_state": "WV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Morgantown, WV",
+    "job_apply_link": "https://careers.toasttab.com/jobs?gh_jid=7851515",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1f396cd2eda3c6ec388852cd19b9709e4cdd84b7a8386d32402dd4a42ffa968",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales",
+        "retail"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:00.952Z"
+  },
+  {
+    "job_id": "greenhouse-toast-7852855",
+    "job_title": "Territory Account Executive, Retail - Ontario, CA",
+    "employer_name": "Toast",
+    "job_city": "Ontario",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ontario, CA",
+    "job_apply_link": "https://careers.toasttab.com/jobs?gh_jid=7852855",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a9d2e09d0dc3c8b9adf63cdc7705e12c1b6711f7bf7ef7bcb3299ac4aa65c32b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales",
+        "retail"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:00.952Z"
+  },
+  {
+    "job_id": "greenhouse-toast-7847518",
+    "job_title": "Territory Account Executive, Retail - San Bernardino, CA",
+    "employer_name": "Toast",
+    "job_city": "San Bernardino",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Bernardino, CA",
+    "job_apply_link": "https://careers.toasttab.com/jobs?gh_jid=7847518",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f40faef14a31d62e9771ca012a26e5cf6c88b5da678b3f67cf49fe4c0441c07e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -258642,6 +258736,89 @@
     "job_posted_at": "2026-05-02T13:31:00.056Z"
   },
   {
+    "job_id": "greenhouse-spacex-8519758002",
+    "job_title": "Motion Graphics Producer",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8519758002?gh_jid=8519758002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a0059569b36f8d1ed5ddc30719d432de774d501333756be55f20114d4ca23e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -258766,23 +258943,23 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
-    "job_id": "greenhouse-spacex-8519758002",
-    "job_title": "Motion Graphics Producer",
+    "job_id": "greenhouse-spacex-8520151002",
+    "job_title": "Investigations Analyst",
     "employer_name": "SpaceX",
     "job_city": "Hawthorne",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8519758002?gh_jid=8519758002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8520151002?gh_jid=8520151002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8a0059569b36f8d1ed5ddc30719d432de774d501333756be55f20114d4ca23e3",
+    "fingerprint": "a6d3de67e2f8934f73b37cdd2cf3621405a6ec13490c60a443470a678d95fd98",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "marketing"
+        "general"
       ],
       "locations": [
         "us"
@@ -258793,60 +258970,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
     "job_id": "greenhouse-spacex-8506546002",
@@ -259077,66 +259201,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8520151002",
-    "job_title": "Investigations Analyst",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8520151002?gh_jid=8520151002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6d3de67e2f8934f73b37cdd2cf3621405a6ec13490c60a443470a678d95fd98",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8408634002",
-    "job_title": "Fulfillment Buyer (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Starbase",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Starbase, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8408634002?gh_jid=8408634002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "792407c0faf898a94d385a22ac5bcf3567a779b4d4110ef5e5259182fe066ed3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
   {
     "job_id": "greenhouse-spacex-8523874002",
@@ -259480,6 +259544,36 @@
     "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
   {
+    "job_id": "greenhouse-spacex-8408634002",
+    "job_title": "Fulfillment Buyer (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Starbase",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Starbase, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8408634002?gh_jid=8408634002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "792407c0faf898a94d385a22ac5bcf3567a779b4d4110ef5e5259182fe066ed3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:00.053Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8523892002",
     "job_title": "Communications Manager, Content Marketing (Starlink Growth)",
     "employer_name": "SpaceX",
@@ -259769,6 +259863,100 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-02T13:31:00.052Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974259004",
+    "job_title": "Software Engineer, Platform - Louisville, KY, USA",
+    "employer_name": "Speechify",
+    "job_city": "Louisville",
+    "job_state": "KY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Louisville, KY, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974259004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc44f4a7c807bbbe8753703ee074a35c47eb99eda8321347b508c31d0d12610a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.818Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5974252004",
+    "job_title": "Software Engineer, Platform - Nashville, TN, USA",
+    "employer_name": "Speechify",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Nashville, TN, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974252004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9357b0ffe402b7d8a76bf2f7535b317c9ff66bc0129d1cde5845ebc9a5ebe6f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "azure",
+        "docker",
+        "gcp",
+        "high availability",
+        "kubernetes",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.818Z"
   },
   {
     "job_id": "greenhouse-speechify-5976207004",
@@ -260192,235 +260380,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-02T13:30:59.818Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974259004",
-    "job_title": "Software Engineer, Platform - Louisville, KY, USA",
-    "employer_name": "Speechify",
-    "job_city": "Louisville",
-    "job_state": "KY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Louisville, KY, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974259004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc44f4a7c807bbbe8753703ee074a35c47eb99eda8321347b508c31d0d12610a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.818Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5974252004",
-    "job_title": "Software Engineer, Platform - Nashville, TN, USA",
-    "employer_name": "Speechify",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Nashville, TN, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5974252004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.818Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9357b0ffe402b7d8a76bf2f7535b317c9ff66bc0129d1cde5845ebc9a5ebe6f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "azure",
-        "docker",
-        "gcp",
-        "high availability",
-        "kubernetes",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.818Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981101004",
-    "job_title": "Software Engineer, iOS Core Product - Tampa, FL, USA",
-    "employer_name": "Speechify",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tampa, FL, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981101004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc2beedb72d4d341f589535a52dcb45be6b42d99c568ee68460dfd07c7d27ddf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981189004",
-    "job_title": "Software Engineer, iOS Core Product - Tucson, AZ, USA",
-    "employer_name": "Speechify",
-    "job_city": "Tucson",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tucson, AZ, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981189004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ec54b902411a142b84c29dd26328b25441a4cc9875f3ba9b62df92c9e5fe234",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981211004",
-    "job_title": "Software Engineer, iOS Core Product - West Lafayette, IN, USA",
-    "employer_name": "Speechify",
-    "job_city": "West Lafayette",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "West Lafayette, IN, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981211004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35b641b8efb111ed4bf66d50084038a2bc689deb108078aaa538ab5bd90daea3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.817Z"
   },
   {
     "job_id": "greenhouse-speechify-5974137004",
@@ -261396,19 +261355,19 @@
     "job_posted_at": "2026-05-02T13:30:59.817Z"
   },
   {
-    "job_id": "greenhouse-speechify-5981077004",
-    "job_title": "Software Engineer, iOS Core Product - Charlotte, NC, USA",
+    "job_id": "greenhouse-speechify-5981101004",
+    "job_title": "Software Engineer, iOS Core Product - Tampa, FL, USA",
     "employer_name": "Speechify",
-    "job_city": "Charlotte",
-    "job_state": "NC",
+    "job_city": "Tampa",
+    "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Charlotte, NC, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981077004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
+    "job_location": "Tampa, FL, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981101004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0d8272f33e8fefb08f0f78e84a14cd1566410810df91fd0ba5a9092088254717",
+    "fingerprint": "bc2beedb72d4d341f589535a52dcb45be6b42d99c568ee68460dfd07c7d27ddf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -261438,7 +261397,97 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:30:59.816Z"
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981189004",
+    "job_title": "Software Engineer, iOS Core Product - Tucson, AZ, USA",
+    "employer_name": "Speechify",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tucson, AZ, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981189004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ec54b902411a142b84c29dd26328b25441a4cc9875f3ba9b62df92c9e5fe234",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981211004",
+    "job_title": "Software Engineer, iOS Core Product - West Lafayette, IN, USA",
+    "employer_name": "Speechify",
+    "job_city": "West Lafayette",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "West Lafayette, IN, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981211004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.817Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "35b641b8efb111ed4bf66d50084038a2bc689deb108078aaa538ab5bd90daea3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.817Z"
   },
   {
     "job_id": "greenhouse-speechify-5981069004",
@@ -261711,6 +261760,96 @@
     "job_posted_at": "2026-05-02T13:30:59.816Z"
   },
   {
+    "job_id": "greenhouse-speechify-5981077004",
+    "job_title": "Software Engineer, iOS Core Product - Charlotte, NC, USA",
+    "employer_name": "Speechify",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, NC, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981077004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.816Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0d8272f33e8fefb08f0f78e84a14cd1566410810df91fd0ba5a9092088254717",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.816Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5981035004",
+    "job_title": "Software Engineer, iOS Core Product - Anaheim, CA, USA",
+    "employer_name": "Speechify",
+    "job_city": "Anaheim",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Anaheim, CA, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981035004",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.811Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4372496c7a05269b48986c858a51819dea559d6a14d92337deb76115949e9820",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "git",
+        "multithreading",
+        "solid principles",
+        "swift",
+        "swiftui"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:59.811Z"
+  },
+  {
     "job_id": "greenhouse-speechify-5981018004",
     "job_title": "Software Engineer, iOS Core Product - Bellevue, WA, USA",
     "employer_name": "Speechify",
@@ -261814,51 +261953,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a71d39e0e857151cbcf6f46bd6fb86285463f7e726e06bbc2dd5f205011da608",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "git",
-        "multithreading",
-        "solid principles",
-        "swift",
-        "swiftui"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:59.811Z"
-  },
-  {
-    "job_id": "greenhouse-speechify-5981035004",
-    "job_title": "Software Engineer, iOS Core Product - Anaheim, CA, USA",
-    "employer_name": "Speechify",
-    "job_city": "Anaheim",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Anaheim, CA, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5981035004",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:59.811Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4372496c7a05269b48986c858a51819dea559d6a14d92337deb76115949e9820",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -262527,36 +262621,6 @@
     "job_posted_at": "2026-05-02T13:30:58.724Z"
   },
   {
-    "job_id": "greenhouse-rubrik-7773842",
-    "job_title": "Account Executive, Cloud Product Specialist",
-    "employer_name": "Rubrik",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, CA",
-    "job_apply_link": "https://www.rubrik.com/company/careers/departments/job.7773842?gh_jid=7773842",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:58.383Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a340606cbb8964ae869f78aa4d9a58d6bad333975637c28817c5a42b28a0f2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:58.383Z"
-  },
-  {
     "job_id": "greenhouse-rubrik-7844075",
     "job_title": "Software Engineer - Ruby AI",
     "employer_name": "Rubrik",
@@ -262670,6 +262734,36 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:58.383Z"
+  },
+  {
+    "job_id": "greenhouse-rubrik-7773842",
+    "job_title": "Account Executive, Cloud Product Specialist",
+    "employer_name": "Rubrik",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, CA",
+    "job_apply_link": "https://www.rubrik.com/company/careers/departments/job.7773842?gh_jid=7773842",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:58.383Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a340606cbb8964ae869f78aa4d9a58d6bad333975637c28817c5a42b28a0f2a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -262964,6 +263058,66 @@
     "job_posted_at": "2026-05-02T13:30:58.016Z"
   },
   {
+    "job_id": "greenhouse-purestorage-7848635",
+    "job_title": "Territory Account Executive - Northeast",
+    "employer_name": "Pure Storage",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, Illinois; Philadelphia, Pennsylvania",
+    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7848635",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:57.811Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "703a74b8e6eb8a8b73ceead1e61ce6c302fecab26431f45355763974ef47670a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:57.811Z"
+  },
+  {
+    "job_id": "greenhouse-purestorage-7848672",
+    "job_title": "Territory Account Executive - San Diego, Arizona, New Mexico",
+    "employer_name": "Pure Storage",
+    "job_city": "Arizona; Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Remote, Arizona; Remote, New Mexico; San Diego, California",
+    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7848672",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:57.811Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc05dc84c7432542a58283ff4f3353bc311c1c28e7dea08315d7e7a46e14d395",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:57.811Z"
+  },
+  {
     "job_id": "greenhouse-purestorage-7851513",
     "job_title": "National Partner Manager, Insight Northeast and Central",
     "employer_name": "Pure Storage",
@@ -263078,66 +263232,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:30:57.811Z"
-  },
-  {
-    "job_id": "greenhouse-purestorage-7848635",
-    "job_title": "Territory Account Executive - Northeast",
-    "employer_name": "Pure Storage",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, Illinois; Philadelphia, Pennsylvania",
-    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7848635",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:57.811Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "703a74b8e6eb8a8b73ceead1e61ce6c302fecab26431f45355763974ef47670a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:57.811Z"
-  },
-  {
-    "job_id": "greenhouse-purestorage-7848672",
-    "job_title": "Territory Account Executive - San Diego, Arizona, New Mexico",
-    "employer_name": "Pure Storage",
-    "job_city": "Arizona; Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Remote, Arizona; Remote, New Mexico; San Diego, California",
-    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7848672",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:57.811Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc05dc84c7432542a58283ff4f3353bc311c1c28e7dea08315d7e7a46e14d395",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:30:57.811Z"
   },
   {
@@ -263601,96 +263695,6 @@
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
   {
-    "job_id": "greenhouse-oscar-7852522",
-    "job_title": "Manager, Treasury",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7852522?gh_jid=7852522",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e8d9297c4c92962b95b7165ac8ecdcf9e940183c5fbd6c3f205438f299c6f7f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:56.963Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7852526",
-    "job_title": "Manager, Treasury",
-    "employer_name": "Oscar Health",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, Massachusetts, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7852526?gh_jid=7852526",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "464527588a260e653b38ba2917901d54732040b40c7523e54c829f0c5afd69ea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:56.963Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7852518",
-    "job_title": "Manager, Treasury",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7852518?gh_jid=7852518",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c3730a9d108f9100a58a9ed10a7b79f7700fe2fada50b19be79e96e7188d0d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:56.963Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7852519",
     "job_title": "Manager, Treasury",
     "employer_name": "Oscar Health",
@@ -263751,6 +263755,36 @@
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
   {
+    "job_id": "greenhouse-oscar-7852522",
+    "job_title": "Manager, Treasury",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7852522?gh_jid=7852522",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e8d9297c4c92962b95b7165ac8ecdcf9e940183c5fbd6c3f205438f299c6f7f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:56.963Z"
+  },
+  {
     "job_id": "greenhouse-oscar-7852523",
     "job_title": "Manager, Treasury",
     "employer_name": "Oscar Health",
@@ -263764,6 +263798,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c4dafe1a9b91c3264a56165d1c59f21f51f6d5d293fb1330e28cc53858a3045c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:56.963Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7852518",
+    "job_title": "Manager, Treasury",
+    "employer_name": "Oscar Health",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7852518?gh_jid=7852518",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c3730a9d108f9100a58a9ed10a7b79f7700fe2fada50b19be79e96e7188d0d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:56.963Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7852526",
+    "job_title": "Manager, Treasury",
+    "employer_name": "Oscar Health",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, Massachusetts, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7852526?gh_jid=7852526",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "464527588a260e653b38ba2917901d54732040b40c7523e54c829f0c5afd69ea",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -266138,76 +266232,6 @@
     "job_posted_at": "2026-05-02T13:30:47.698Z"
   },
   {
-    "job_id": "lever-sambatv-b70e0fb2-4973-4931-b578-5a476f810f15",
-    "job_title": "Digital Marketing Analyst",
-    "employer_name": "Samba TV",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, California",
-    "job_apply_link": "https://jobs.lever.co/sambatv/b70e0fb2-4973-4931-b578-5a476f810f15/apply",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.510Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 60000,
-      "max": 80000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "66e445d30d12e54c8d3e01f043e04cd8ad6f1d7dedbee218ec67cc281388c656",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-02T13:30:47.510Z"
-  },
-  {
-    "job_id": "lever-sambatv-bbfcdb73-ee8e-428d-a477-2695f3ece466",
-    "job_title": "Executive Operations Associate",
-    "employer_name": "Samba TV",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, California",
-    "job_apply_link": "https://jobs.lever.co/sambatv/bbfcdb73-ee8e-428d-a477-2695f3ece466/apply",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.510Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 60000,
-      "max": 80000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "41e3a7e73dd98cc50c48a8bdffe337e132eb3adce7b8a87d26899e9f45d1df12",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-02T13:30:47.510Z"
-  },
-  {
     "job_id": "lever-sambatv-08a90941-055c-45da-9fde-fd51afdfa22c",
     "job_title": "HR Analyst",
     "employer_name": "Samba TV",
@@ -266327,6 +266351,76 @@
     "job_posted_at": "2026-05-02T13:30:47.510Z"
   },
   {
+    "job_id": "lever-sambatv-b70e0fb2-4973-4931-b578-5a476f810f15",
+    "job_title": "Digital Marketing Analyst",
+    "employer_name": "Samba TV",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, California",
+    "job_apply_link": "https://jobs.lever.co/sambatv/b70e0fb2-4973-4931-b578-5a476f810f15/apply",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.510Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 60000,
+      "max": 80000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "66e445d30d12e54c8d3e01f043e04cd8ad6f1d7dedbee218ec67cc281388c656",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-02T13:30:47.510Z"
+  },
+  {
+    "job_id": "lever-sambatv-bbfcdb73-ee8e-428d-a477-2695f3ece466",
+    "job_title": "Executive Operations Associate",
+    "employer_name": "Samba TV",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, California",
+    "job_apply_link": "https://jobs.lever.co/sambatv/bbfcdb73-ee8e-428d-a477-2695f3ece466/apply",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.510Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 60000,
+      "max": 80000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "41e3a7e73dd98cc50c48a8bdffe337e132eb3adce7b8a87d26899e9f45d1df12",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-02T13:30:47.510Z"
+  },
+  {
     "job_id": "lever-sambatv-5aa2cf5a-cafc-4fe2-9e66-924b49b9435e",
     "job_title": "Campaign Activation Analyst",
     "employer_name": "Samba TV",
@@ -266425,6 +266519,99 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:30:47.444Z"
+  },
+  {
+    "job_id": "greenhouse-fireblocks-4664533006",
+    "job_title": "Incident Response Engineer (Pacific time)",
+    "employer_name": "Fireblocks",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States",
+    "job_apply_link": "https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.389Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8e87efaade20bf0f880fbe71a806e43334b23d2a484cc3672b49ae74a57b403",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "argocd",
+        "aws",
+        "azure",
+        "bash",
+        "bitbucket",
+        "c++",
+        "computer science",
+        "datadog",
+        "docker",
+        "git",
+        "gitlab",
+        "google cloud",
+        "helm",
+        "incident response",
+        "javascript",
+        "kubernetes",
+        "linux",
+        "mysql",
+        "nginx",
+        "prometheus",
+        "python",
+        "shell",
+        "splunk",
+        "sre"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:47.389Z"
+  },
+  {
+    "job_id": "greenhouse-fireblocks-4658119006",
+    "job_title": "Sales Engineer, Banking",
+    "employer_name": "Fireblocks",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://www.fireblocks.com/careers/position/4658119006?gh_jid=4658119006",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.389Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "77718712e8925b67eabb297ebca49e3474b54ff99ca8b3df3b3713e7ba0db28f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:47.389Z"
   },
   {
     "job_id": "greenhouse-fireblocks-4656035006",
@@ -266556,99 +266743,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:30:47.389Z"
-  },
-  {
-    "job_id": "greenhouse-fireblocks-4664533006",
-    "job_title": "Incident Response Engineer (Pacific time)",
-    "employer_name": "Fireblocks",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, California, United States; Portland, Oregon, United States; San Francisco, California, United States; Seattle, Washington, United States",
-    "job_apply_link": "https://www.fireblocks.com/careers/position/4664533006?gh_jid=4664533006",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.389Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8e87efaade20bf0f880fbe71a806e43334b23d2a484cc3672b49ae74a57b403",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "argocd",
-        "aws",
-        "azure",
-        "bash",
-        "bitbucket",
-        "c++",
-        "computer science",
-        "datadog",
-        "docker",
-        "git",
-        "gitlab",
-        "google cloud",
-        "helm",
-        "incident response",
-        "javascript",
-        "kubernetes",
-        "linux",
-        "mysql",
-        "nginx",
-        "prometheus",
-        "python",
-        "shell",
-        "splunk",
-        "sre"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:47.389Z"
-  },
-  {
-    "job_id": "greenhouse-fireblocks-4658119006",
-    "job_title": "Sales Engineer, Banking",
-    "employer_name": "Fireblocks",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://www.fireblocks.com/careers/position/4658119006?gh_jid=4658119006",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:47.389Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "77718712e8925b67eabb297ebca49e3474b54ff99ca8b3df3b3713e7ba0db28f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:30:47.389Z"
   },
   {
@@ -266861,38 +266955,6 @@
     "job_posted_at": "2026-05-02T13:30:46.679Z"
   },
   {
-    "job_id": "greenhouse-doordashusa-7826951",
-    "job_title": "DashMart Team Member - Downers Grove",
-    "employer_name": "DoorDash",
-    "job_city": "Downers Grove",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Downers Grove, IL",
-    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7826951",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:46.678Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c0176fcd252a13c9acead481fde19ad585c5fef33b562e56057a6772c48e98e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "unicorn"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:46.678Z"
-  },
-  {
     "job_id": "greenhouse-doordashusa-7751558",
     "job_title": "Front-End Web Developer, B2B, Marketing Technology",
     "employer_name": "DoorDash",
@@ -267056,6 +267118,38 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:46.678Z"
+  },
+  {
+    "job_id": "greenhouse-doordashusa-7826951",
+    "job_title": "DashMart Team Member - Downers Grove",
+    "employer_name": "DoorDash",
+    "job_city": "Downers Grove",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Downers Grove, IL",
+    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7826951",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:46.678Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c0176fcd252a13c9acead481fde19ad585c5fef33b562e56057a6772c48e98e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "retail"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [
         "unicorn"
       ],
@@ -268462,96 +268556,6 @@
     "job_posted_at": "2026-05-02T13:30:44.261Z"
   },
   {
-    "job_id": "greenhouse-brex-8377510002",
-    "job_title": "Account Executive, E-Commerce",
-    "employer_name": "Brex",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "https://www.brex.com/careers/8377510002?gh_jid=8377510002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:44.260Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e328c3d67b1201e54ee607add84aa94bdbd9b12e95bbf79f509a004c00aa747",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:44.260Z"
-  },
-  {
-    "job_id": "greenhouse-brex-8379352002",
-    "job_title": "Account Executive, E-Commerce",
-    "employer_name": "Brex",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Salt Lake City, Utah, United States",
-    "job_apply_link": "https://www.brex.com/careers/8379352002?gh_jid=8379352002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:44.260Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25e4af326aa9e67c06217795c0f0cdf8c119b1824084100086d430befa46c450",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:44.260Z"
-  },
-  {
-    "job_id": "greenhouse-brex-8379350002",
-    "job_title": "Account Executive, E-Commerce",
-    "employer_name": "Brex",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, Washington, United States",
-    "job_apply_link": "https://www.brex.com/careers/8379350002?gh_jid=8379350002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:44.260Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "261580148493b1f743e297aaaf55e0204ee4279d1fb0df78b8b7dc970ed8dc3b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:44.260Z"
-  },
-  {
     "job_id": "greenhouse-brex-8379349002",
     "job_title": "Account Executive, E-Commerce",
     "employer_name": "Brex",
@@ -268694,6 +268698,96 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:44.260Z"
+  },
+  {
+    "job_id": "greenhouse-brex-8377510002",
+    "job_title": "Account Executive, E-Commerce",
+    "employer_name": "Brex",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://www.brex.com/careers/8377510002?gh_jid=8377510002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:44.260Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e328c3d67b1201e54ee607add84aa94bdbd9b12e95bbf79f509a004c00aa747",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:44.260Z"
+  },
+  {
+    "job_id": "greenhouse-brex-8379352002",
+    "job_title": "Account Executive, E-Commerce",
+    "employer_name": "Brex",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Salt Lake City, Utah, United States",
+    "job_apply_link": "https://www.brex.com/careers/8379352002?gh_jid=8379352002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:44.260Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25e4af326aa9e67c06217795c0f0cdf8c119b1824084100086d430befa46c450",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:44.260Z"
+  },
+  {
+    "job_id": "greenhouse-brex-8379350002",
+    "job_title": "Account Executive, E-Commerce",
+    "employer_name": "Brex",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, Washington, United States",
+    "job_apply_link": "https://www.brex.com/careers/8379350002?gh_jid=8379350002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:44.260Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "261580148493b1f743e297aaaf55e0204ee4279d1fb0df78b8b7dc970ed8dc3b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -268918,36 +269012,6 @@
     "job_posted_at": "2026-05-02T13:30:44.131Z"
   },
   {
-    "job_id": "greenhouse-block-5200316008",
-    "job_title": "Territory Account Executive, Passaic County",
-    "employer_name": "Block",
-    "job_city": "Edison",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Edison, NJ, United States of America",
-    "job_apply_link": "http://block.xyz/careers/jobs/5200316008?gh_jid=5200316008",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:43.937Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "380a97a874d986162cce4c65a2f16b062aafc03e70ccc0cfca7204ae959f46da",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:43.937Z"
-  },
-  {
     "job_id": "greenhouse-block-5191557008",
     "job_title": "Business Development Rep Associate, New York City",
     "employer_name": "Block",
@@ -269016,6 +269080,36 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-05-02T13:30:43.937Z"
+  },
+  {
+    "job_id": "greenhouse-block-5200316008",
+    "job_title": "Territory Account Executive, Passaic County",
+    "employer_name": "Block",
+    "job_city": "Edison",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Edison, NJ, United States of America",
+    "job_apply_link": "http://block.xyz/careers/jobs/5200316008?gh_jid=5200316008",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:43.937Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "380a97a874d986162cce4c65a2f16b062aafc03e70ccc0cfca7204ae959f46da",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:30:43.937Z"
   },
   {
@@ -269665,6 +269759,37 @@
     "job_posted_at": "2026-05-02T13:30:42.939Z"
   },
   {
+    "job_id": "greenhouse-anthropic-5041174008",
+    "job_title": "Recruiting Coordinator [contract]",
+    "employer_name": "Anthropic",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote-Friendly, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.938Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "93d666877b9b05ef386a9adee1a777942baf5d4e0c39a0685474653126a5d805",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:42.938Z"
+  },
+  {
     "job_id": "greenhouse-anthropic-5197337008",
     "job_title": "Research Engineer, RL Infrastructure (Knowledge Work)",
     "employer_name": "Anthropic",
@@ -269755,37 +269880,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:30:42.938Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-5041174008",
-    "job_title": "Recruiting Coordinator [contract]",
-    "employer_name": "Anthropic",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote-Friendly, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.938Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "93d666877b9b05ef386a9adee1a777942baf5d4e0c39a0685474653126a5d805",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:30:42.938Z"
   },
   {
@@ -270245,36 +270339,6 @@
     "job_posted_at": "2026-05-02T13:30:42.489Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5120927007",
-    "job_title": "Software Product Manager, Air Defense",
-    "employer_name": "Anduril",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Irvine, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5120927007?gh_jid=5120927007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.487Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b1d0dab700a31ce6ab6c39fe0a0045981ffa18a553095b43ee1cca35b783912f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:42.487Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5062357007",
     "job_title": "Software Engineer - Modeling & Simulation",
     "employer_name": "Anduril",
@@ -270319,6 +270383,36 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-05-02T13:30:42.487Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5120927007",
+    "job_title": "Software Product Manager, Air Defense",
+    "employer_name": "Anduril",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Irvine, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5120927007?gh_jid=5120927007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.487Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b1d0dab700a31ce6ab6c39fe0a0045981ffa18a553095b43ee1cca35b783912f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:30:42.487Z"
   },
   {
@@ -270553,80 +270647,6 @@
     "job_posted_at": "2026-05-02T13:30:42.483Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5120604007",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Morrisville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Morrisville, North Carolina, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5120604007?gh_jid=5120604007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.482Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "43f0e06b9f8f4a15f6430307043fa4969152bd879a1ecbfee431639b2268f4f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:42.482Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5101276007",
-    "job_title": "Manufacturing Engineering Technician",
-    "employer_name": "Anduril",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5101276007?gh_jid=5101276007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.482Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f4b329a5bf6424aeec0d37b681f6dba194e59baa20d67ec5a49edb1ddb1cb59f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "linux",
-        "python",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:42.482Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5111318007",
     "job_title": "Manufacturing Software Engineer, Intelligence Systems",
     "employer_name": "Anduril",
@@ -270703,6 +270723,80 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:42.482Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5120604007",
+    "job_title": "Manufacturing Engineer",
+    "employer_name": "Anduril",
+    "job_city": "Morrisville",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Morrisville, North Carolina, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5120604007?gh_jid=5120604007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.482Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "43f0e06b9f8f4a15f6430307043fa4969152bd879a1ecbfee431639b2268f4f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:42.482Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5101276007",
+    "job_title": "Manufacturing Engineering Technician",
+    "employer_name": "Anduril",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, Georgia, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5101276007?gh_jid=5101276007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.482Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4b329a5bf6424aeec0d37b681f6dba194e59baa20d67ec5a49edb1ddb1cb59f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "linux",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-02T13:30:42.482Z"
   },
   {
@@ -290917,6 +291011,115 @@
     "job_posted_at": "2026-05-01T14:35:39.768Z"
   },
   {
+    "job_id": "greenhouse-wizinc-4626148006",
+    "job_title": "AI Security Researcher",
+    "employer_name": "Wiz",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - USA",
+    "job_apply_link": "https://www.wiz.io/careers/job/4626148006/:title?gh_jid=4626148006",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b5109a3bd30c958325146b9651db9b01c236d33b581f0cbd7d67d78dc58ba1f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "data analysis",
+        "gcp",
+        "kubernetes",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
+    "job_posted_at": "2026-05-01T14:34:12.082Z"
+  },
+  {
+    "job_id": "greenhouse-wizinc-4671679006",
+    "job_title": "Commissions Accountant",
+    "employer_name": "Wiz",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - USA",
+    "job_apply_link": "https://www.wiz.io/careers/job/4671679006/:title?gh_jid=4671679006",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1afd58ffdfd80fa944facea5ec854f440304f6c04cb98c2857bc1f7705d1c3c9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:12.082Z"
+  },
+  {
+    "job_id": "greenhouse-wizinc-4628156006",
+    "job_title": "Corporate FP&A Associate",
+    "employer_name": "Wiz",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York City",
+    "job_apply_link": "https://www.wiz.io/careers/job/4628156006/:title?gh_jid=4628156006",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "832a0e148461a62f8f4431d55fd8ac1f37f062c4355e9bd423e0be5345778689",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:12.082Z"
+  },
+  {
     "job_id": "greenhouse-wizinc-4661409006",
     "job_title": "Events Operations Manager",
     "employer_name": "Wiz",
@@ -291359,115 +291562,6 @@
     "job_posted_at": "2026-05-01T14:34:12.082Z"
   },
   {
-    "job_id": "greenhouse-wizinc-4626148006",
-    "job_title": "AI Security Researcher",
-    "employer_name": "Wiz",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote - USA",
-    "job_apply_link": "https://www.wiz.io/careers/job/4626148006/:title?gh_jid=4626148006",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b5109a3bd30c958325146b9651db9b01c236d33b581f0cbd7d67d78dc58ba1f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "data analysis",
-        "gcp",
-        "kubernetes",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
-    "job_posted_at": "2026-05-01T14:34:12.082Z"
-  },
-  {
-    "job_id": "greenhouse-wizinc-4671679006",
-    "job_title": "Commissions Accountant",
-    "employer_name": "Wiz",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote - USA",
-    "job_apply_link": "https://www.wiz.io/careers/job/4671679006/:title?gh_jid=4671679006",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1afd58ffdfd80fa944facea5ec854f440304f6c04cb98c2857bc1f7705d1c3c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:12.082Z"
-  },
-  {
-    "job_id": "greenhouse-wizinc-4628156006",
-    "job_title": "Corporate FP&A Associate",
-    "employer_name": "Wiz",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York City",
-    "job_apply_link": "https://www.wiz.io/careers/job/4628156006/:title?gh_jid=4628156006",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:12.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "832a0e148461a62f8f4431d55fd8ac1f37f062c4355e9bd423e0be5345778689",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:12.082Z"
-  },
-  {
     "job_id": "greenhouse-wizinc-4674930006",
     "job_title": "Renewal Manager (East)",
     "employer_name": "Wiz",
@@ -291657,619 +291751,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T14:34:10.515Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7528519",
-    "job_title": "UX Designer, Streaming Experience",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7528519?gh_jid=7528519",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f200dbdd9b78161ef3c4b042ff7b9acbc834910801a0d409399e372ed4249b79",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7547742",
-    "job_title": "UX Designer, Tools",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7547742?gh_jid=7547742",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c950fbc06c77906658d704b25cc233ae0520f95adc193173e435fa7cb1b86fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7732113",
-    "job_title": "UX Researcher, Quantitative Analysis",
-    "employer_name": "Roku",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, Massachusetts",
-    "job_apply_link": "https://www.weareroku.com/jobs/7732113?gh_jid=7732113",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "254628a2e5a4461354c71d0ff628689caf2d1575443965f30b30c409b34cee3f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7729277",
-    "job_title": "UX Researcher, Quantitative Analysis",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7729277?gh_jid=7729277",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc0bbda04a0a5bb939b928623341c5095d8a4e101a218d498e47699fdf05303d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7732099",
-    "job_title": "UX Researcher, Quantitative Analysis",
-    "employer_name": "Roku",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas",
-    "job_apply_link": "https://www.weareroku.com/jobs/7732099?gh_jid=7732099",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b8be9c07e0c17e1e6b808ed4ae42df3103d6c70544089d0078f4e87521ded274",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7732225",
-    "job_title": "UX Researcher, Quantitative Analysis",
-    "employer_name": "Roku",
-    "job_city": "Santa Monica",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Monica, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7732225?gh_jid=7732225",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "529d56de2c601116622348d6d92d7971e228178426e90d6e1452265cb79866f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7732323",
-    "job_title": "UX Researcher, Quantitative Analysis",
-    "employer_name": "Roku",
-    "job_city": "Stamford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Stamford, Connecticut",
-    "job_apply_link": "https://www.weareroku.com/jobs/7732323?gh_jid=7732323",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86d4510a63b010da4f63144443280718838f4ef8eade77b6bf6f078d877edfab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7540296",
-    "job_title": "UX Researcher, Roku TV",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7540296?gh_jid=7540296",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c52f99c8df2f78845868d1194e91eea2df5d3028937eb7dc0ebde1d279dde5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7746109",
-    "job_title": "Ad Sales & Partnerships, Manager",
-    "employer_name": "Roku",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://www.weareroku.com/jobs/7746109?gh_jid=7746109",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7bf42393aba4c74bfcfe2051e2f29dec185c512cbf7370f8d493a1c3b07debb7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7676018",
-    "job_title": "Analyst, Revenue Analytics & Insights",
-    "employer_name": "Roku",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://www.weareroku.com/jobs/7676018?gh_jid=7676018",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6113738185a0672c3ba6e1deac6a82117f310a1a7503c6a087a158deeb462e7d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "crm",
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "data visualization",
-        "data warehouse",
-        "forecasting",
-        "python",
-        "regression",
-        "reporting",
-        "salesforce",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7750903",
-    "job_title": "Business Optimization Manager",
-    "employer_name": "Roku",
-    "job_city": "Santa Monica",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Monica, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7750903?gh_jid=7750903",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03e020145cc97d06f5d26c01561cc127e17c1b254a87bb25296327b92e4ef05d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7543320",
-    "job_title": "Client Strategy Manager",
-    "employer_name": "Roku",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://www.weareroku.com/jobs/7543320?gh_jid=7543320",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1809c39fe5278e3fca0391ba6d726b5f12d40f59d0fb5b3be55d7ebfa6ad65f9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7722027",
-    "job_title": "Finance Manager",
-    "employer_name": "Roku",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://www.weareroku.com/jobs/7722027?gh_jid=7722027",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3cd98959dfec95c86e9a10fbaf7d71bedb2cc14777c5484f6c0b783e3018dcbb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7695960",
-    "job_title": "Health & Safety Manager – Americas",
-    "employer_name": "Roku",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas",
-    "job_apply_link": "https://www.weareroku.com/jobs/7695960?gh_jid=7695960",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d84799f2737d41cc8bd3568b1a03f19cfd57b72fbb10a31ec15f4ebe9e85720b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7675631",
-    "job_title": "Logistics Procurement Manager",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7675631?gh_jid=7675631",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d84baeef7d27d44791546ccdf9cbe11e9ce0eb0d1d71fb5242fc5dee6ae4042",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7740140",
-    "job_title": "Partner Engagement Associate",
-    "employer_name": "Roku",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas",
-    "job_apply_link": "https://www.weareroku.com/jobs/7740140?gh_jid=7740140",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7da9426035061722133163fbd42d4006ec89e24bd33608a9f0b214d0c84023f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7842699",
-    "job_title": "Sales Development Representative",
-    "employer_name": "Roku",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://www.weareroku.com/jobs/7842699?gh_jid=7842699",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "220ce07f13f21a988f2aaa6d1e91b34883c3130bb7c0a52c3b8c543d6d3ed4b9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7843117",
-    "job_title": "Sales Development Representative",
-    "employer_name": "Roku",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas; Boston, Massachusetts; Chicago, Illinois; New York, New York; San Jose, California; Santa Monica, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7843117?gh_jid=7843117",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2999c372997b0dc40fe282a92980a8911fc5f22bf6dc1adc24404b04dfe7e7fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7634294",
-    "job_title": "Security Engineer",
-    "employer_name": "Roku",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas",
-    "job_apply_link": "https://www.weareroku.com/jobs/7634294?gh_jid=7634294",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d785186546bb200c398aeb172e25159394bbb5fff448615f9c38bd12e15c0bd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "change management",
-        "edr",
-        "encryption",
-        "incident response",
-        "information security",
-        "network security",
-        "nist",
-        "reporting",
-        "siem",
-        "soc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
   },
   {
     "job_id": "greenhouse-roku-7680250",
@@ -292586,6 +292067,246 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7528519",
+    "job_title": "UX Designer, Streaming Experience",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7528519?gh_jid=7528519",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f200dbdd9b78161ef3c4b042ff7b9acbc834910801a0d409399e372ed4249b79",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7547742",
+    "job_title": "UX Designer, Tools",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7547742?gh_jid=7547742",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c950fbc06c77906658d704b25cc233ae0520f95adc193173e435fa7cb1b86fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7732113",
+    "job_title": "UX Researcher, Quantitative Analysis",
+    "employer_name": "Roku",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, Massachusetts",
+    "job_apply_link": "https://www.weareroku.com/jobs/7732113?gh_jid=7732113",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "254628a2e5a4461354c71d0ff628689caf2d1575443965f30b30c409b34cee3f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7729277",
+    "job_title": "UX Researcher, Quantitative Analysis",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7729277?gh_jid=7729277",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc0bbda04a0a5bb939b928623341c5095d8a4e101a218d498e47699fdf05303d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7732099",
+    "job_title": "UX Researcher, Quantitative Analysis",
+    "employer_name": "Roku",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas",
+    "job_apply_link": "https://www.weareroku.com/jobs/7732099?gh_jid=7732099",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b8be9c07e0c17e1e6b808ed4ae42df3103d6c70544089d0078f4e87521ded274",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7732225",
+    "job_title": "UX Researcher, Quantitative Analysis",
+    "employer_name": "Roku",
+    "job_city": "Santa Monica",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Monica, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7732225?gh_jid=7732225",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "529d56de2c601116622348d6d92d7971e228178426e90d6e1452265cb79866f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7732323",
+    "job_title": "UX Researcher, Quantitative Analysis",
+    "employer_name": "Roku",
+    "job_city": "Stamford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Stamford, Connecticut",
+    "job_apply_link": "https://www.weareroku.com/jobs/7732323?gh_jid=7732323",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86d4510a63b010da4f63144443280718838f4ef8eade77b6bf6f078d877edfab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7540296",
+    "job_title": "UX Researcher, Roku TV",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7540296?gh_jid=7540296",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c52f99c8df2f78845868d1194e91eea2df5d3028937eb7dc0ebde1d279dde5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-01T14:34:08.645Z"
   },
   {
@@ -293037,6 +292758,379 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7746109",
+    "job_title": "Ad Sales & Partnerships, Manager",
+    "employer_name": "Roku",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://www.weareroku.com/jobs/7746109?gh_jid=7746109",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7bf42393aba4c74bfcfe2051e2f29dec185c512cbf7370f8d493a1c3b07debb7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7676018",
+    "job_title": "Analyst, Revenue Analytics & Insights",
+    "employer_name": "Roku",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://www.weareroku.com/jobs/7676018?gh_jid=7676018",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6113738185a0672c3ba6e1deac6a82117f310a1a7503c6a087a158deeb462e7d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "crm",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data visualization",
+        "data warehouse",
+        "forecasting",
+        "python",
+        "regression",
+        "reporting",
+        "salesforce",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7750903",
+    "job_title": "Business Optimization Manager",
+    "employer_name": "Roku",
+    "job_city": "Santa Monica",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Monica, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7750903?gh_jid=7750903",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03e020145cc97d06f5d26c01561cc127e17c1b254a87bb25296327b92e4ef05d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7543320",
+    "job_title": "Client Strategy Manager",
+    "employer_name": "Roku",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://www.weareroku.com/jobs/7543320?gh_jid=7543320",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1809c39fe5278e3fca0391ba6d726b5f12d40f59d0fb5b3be55d7ebfa6ad65f9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7722027",
+    "job_title": "Finance Manager",
+    "employer_name": "Roku",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://www.weareroku.com/jobs/7722027?gh_jid=7722027",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cd98959dfec95c86e9a10fbaf7d71bedb2cc14777c5484f6c0b783e3018dcbb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7695960",
+    "job_title": "Health & Safety Manager – Americas",
+    "employer_name": "Roku",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas",
+    "job_apply_link": "https://www.weareroku.com/jobs/7695960?gh_jid=7695960",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d84799f2737d41cc8bd3568b1a03f19cfd57b72fbb10a31ec15f4ebe9e85720b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7675631",
+    "job_title": "Logistics Procurement Manager",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7675631?gh_jid=7675631",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d84baeef7d27d44791546ccdf9cbe11e9ce0eb0d1d71fb5242fc5dee6ae4042",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7740140",
+    "job_title": "Partner Engagement Associate",
+    "employer_name": "Roku",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas",
+    "job_apply_link": "https://www.weareroku.com/jobs/7740140?gh_jid=7740140",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7da9426035061722133163fbd42d4006ec89e24bd33608a9f0b214d0c84023f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7842699",
+    "job_title": "Sales Development Representative",
+    "employer_name": "Roku",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://www.weareroku.com/jobs/7842699?gh_jid=7842699",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "220ce07f13f21a988f2aaa6d1e91b34883c3130bb7c0a52c3b8c543d6d3ed4b9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7843117",
+    "job_title": "Sales Development Representative",
+    "employer_name": "Roku",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas; Boston, Massachusetts; Chicago, Illinois; New York, New York; San Jose, California; Santa Monica, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7843117?gh_jid=7843117",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2999c372997b0dc40fe282a92980a8911fc5f22bf6dc1adc24404b04dfe7e7fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7634294",
+    "job_title": "Security Engineer",
+    "employer_name": "Roku",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas",
+    "job_apply_link": "https://www.weareroku.com/jobs/7634294?gh_jid=7634294",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d785186546bb200c398aeb172e25159394bbb5fff448615f9c38bd12e15c0bd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "change management",
+        "edr",
+        "encryption",
+        "incident response",
+        "information security",
+        "network security",
+        "nist",
+        "reporting",
+        "siem",
+        "soc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-01T14:34:08.645Z"
   },
   {
@@ -294483,447 +294577,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T13:47:44.173Z"
-  },
-  {
-    "job_id": "greenhouse-taketwo-7868566",
-    "job_title": "Data Governance Analyst",
-    "employer_name": "Take-Two Interactive",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/taketwo/jobs/7868566",
-    "job_posted_at_datetime_utc": "2026-05-01T13:45:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9aeaef67733aa680f89d6c0f57ec9756474b0a0ad5670aa35f6fba4f7dfd30ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data governance",
-        "data modeling",
-        "excel",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T13:45:18.000Z"
-  },
-  {
-    "job_id": "greenhouse-garnerhealth-5986351004",
-    "job_title": "Workplace Operations Coordinator - Temp Position",
-    "employer_name": "Garner Health",
-    "job_city": "New York City",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York City, New York",
-    "job_apply_link": "https://job-boards.greenhouse.io/garnerhealth/jobs/5986351004",
-    "job_posted_at_datetime_utc": "2026-05-01T13:45:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "72bdacbebd64284fae5bd7e4348966c1555477fcec3eb1731e6d5995d0590f75",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T13:45:13.000Z"
-  },
-  {
-    "job_id": "greenhouse-loop-5986356004",
-    "job_title": "Forward Deployed Engineer",
-    "employer_name": "Loop",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/loop/jobs/5986356004",
-    "job_posted_at_datetime_utc": "2026-05-01T13:44:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fd1ee3023b16938866e29382fccbe745d5c44ecb5861d9c9179b11b684fbfc60",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "embedding"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T13:44:54.000Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000124128699",
-    "job_title": "Industrial Maintenance Tech (1st Shift)",
-    "employer_name": "Bosch Group",
-    "job_city": "West Memphis",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "West Memphis, AR",
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000124128699",
-    "job_posted_at_datetime_utc": "2026-05-01T13:43:08.033Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "a12bd62c7c4d268676585a1f291687a28af692db847375265958481a5d4875ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-05-01T13:43:08.033Z"
-  },
-  {
-    "job_id": "ashby-creditgenie-06042f0d-b8d9-4a63-ad61-9afaf6aacb7d",
-    "job_title": "Data Analyst (L25-162569)",
-    "employer_name": "Credit Genie",
-    "job_city": "Plymouth Meeting",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Plymouth Meeting, PA",
-    "job_apply_link": "https://jobs.ashbyhq.com/creditgenie/06042f0d-b8d9-4a63-ad61-9afaf6aacb7d/application",
-    "job_posted_at_datetime_utc": "2026-05-01T13:41:51.357Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "c6c851ec4497dd755040975ef926681fb50e15951508ef20ba9c32f642168452",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "amazon web services",
-        "analytics",
-        "dashboards",
-        "data visualization",
-        "dynamodb",
-        "power bi",
-        "python",
-        "reporting",
-        "snowflake",
-        "sql",
-        "statistical analysis",
-        "swift",
-        "tableau"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T13:41:51.357Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7874148",
-    "job_title": "Account Executive, Ads Manager",
-    "employer_name": "Roku",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas",
-    "job_apply_link": "https://www.weareroku.com/jobs/7874148?gh_jid=7874148",
-    "job_posted_at_datetime_utc": "2026-05-01T13:41:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2bc5c6e3db77790bcaf67220bd99e452dbe6865bb79f9d10cdbae23b78e3f9a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T13:41:18.000Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7874146",
-    "job_title": "Account Executive, Ads Manager",
-    "employer_name": "Roku",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://www.weareroku.com/jobs/7874146?gh_jid=7874146",
-    "job_posted_at_datetime_utc": "2026-05-01T13:40:45.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e0d461b8c8128ee4c007cf9543fc0a025eea7116fc13f91f1e9235e04dbd47e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T13:40:45.000Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7874137",
-    "job_title": "Account Executive, Ads Manager",
-    "employer_name": "Roku",
-    "job_city": "Santa Monica",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Monica, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7874137?gh_jid=7874137",
-    "job_posted_at_datetime_utc": "2026-05-01T13:40:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec869615848bd54707da8e93dcfd2a0f1b89c4bdc4014132f473ea7f004135a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T13:40:18.000Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7842701",
-    "job_title": "Account Executive, Ads Manager",
-    "employer_name": "Roku",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, Illinois",
-    "job_apply_link": "https://www.weareroku.com/jobs/7842701?gh_jid=7842701",
-    "job_posted_at_datetime_utc": "2026-05-01T13:40:17.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2998589f8d929207130f49ba2a92fffa78a2c0c0bab683ec821d6a2480ec771a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T13:40:17.000Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2496428",
-    "job_title": "(USA) Tire and Battery Service Advisor",
-    "employer_name": "Walmart",
-    "job_city": "(USA) TX PEARLAND 04843 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) TX PEARLAND 04843 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-PEARLAND-04843-SAMS-CLUB/XMLNAME--USA--Tire-and-Battery-Service-Advisor_R-2496428",
-    "job_posted_at_datetime_utc": "2026-05-01T13:37:23.308Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5bb3d658591d2177dd0fb21d1be2d3c04cdda9b7537316d19094cfce1e9cb6fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T13:37:23.308Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2491936",
-    "job_title": "Manager, Specialty Compliance and Ethics - Controlled Substance Compliance",
-    "employer_name": "Walmart",
-    "job_city": "Bentonville",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bentonville, AR",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Specialty-Compliance-and-Ethics---Controlled-Substance-Compliance_R-2491936-1",
-    "job_posted_at_datetime_utc": "2026-05-01T13:37:23.308Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2f5e5c53ca762376580ab241752d35c235141b7bef6e90fd54cd4452e7f9eae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T13:37:23.308Z"
-  },
-  {
-    "job_id": "workday-motorola-solutions-R62495",
-    "job_title": "Security Operations Technician",
-    "employer_name": "Motorola Solutions",
-    "job_city": "Schaumburg",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Schaumburg, IL",
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Security-Operations-Technician_R62495",
-    "job_posted_at_datetime_utc": "2026-05-01T13:35:12.415Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87122147f4a39000f7686133f19d16215e437930a767d4e56858c6c60fdcdbcd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T13:35:12.415Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30268114",
-    "job_title": "Fire Sprinkler Service Technician",
-    "employer_name": "Johnson Controls",
-    "job_city": "Minnesota-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Plymouth-Minnesota-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Plymouth-Minnesota-United-States-of-America/Fire-Sprinkler-Service-Technician_WD30268114",
-    "job_posted_at_datetime_utc": "2026-05-01T13:34:54.851Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "701f0597e4988577a5970897baac8064c4387a1f9cc040f486285a0a146b039b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T13:34:54.851Z"
   }
 ]
