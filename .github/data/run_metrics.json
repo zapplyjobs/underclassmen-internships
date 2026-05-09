@@ -1,9 +1,8 @@
 {
-  "timestamp": "2026-05-09T20:00:22.269Z",
-  "all_jobs_version": "00b2c34336c0dc083148560bb9760da7a9a87750",
-  "total_fetched": 0,
-  "after_14day_filter": 0,
-  "after_tag_filter": 0,
-  "final_count": 0,
-  "error": "HTTP 429: Too Many Requests"
+  "timestamp": "2026-05-09T20:15:23.883Z",
+  "all_jobs_version": "1d6636f11618cf0d530c14625419ee1050053901",
+  "total_fetched": 63792,
+  "after_14day_filter": 22304,
+  "after_tag_filter": 12471,
+  "final_count": 12471
 }
