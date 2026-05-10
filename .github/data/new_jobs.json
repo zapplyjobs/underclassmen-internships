@@ -432893,35 +432893,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-03T17:45:41.357Z"
-  },
-  {
-    "job_id": "workday-lowe's-JR-02505064",
-    "job_title": "Full Time - Fulfillment Associate - Day",
-    "employer_name": "Lowe's",
-    "job_city": "Kill Devil Hills",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Kill Devil Hills, NC 3216",
-    "job_apply_link": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kill-Devil-Hills-NC-3216/Full-Time---Fulfillment-Associate---Day_JR-02505064",
-    "job_posted_at_datetime_utc": "2026-05-03T17:18:35.713Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c9a9647e2ca57ddf66fb28792f313a5c266470d840d43d45ca5dcaca46dd118",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "logistics"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-03T17:18:35.713Z"
   }
 ]
