@@ -433391,37 +433391,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-03T15:23:19.404Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2498240",
-    "job_title": "Personal Shopper - Sam's",
-    "employer_name": "Walmart",
-    "job_city": "(USA) TX KELLER 06781 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) TX KELLER 06781 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-KELLER-06781-SAMS-CLUB/Personal-Shopper---Sam-s_R-2498240",
-    "job_posted_at_datetime_utc": "2026-05-03T14:45:48.753Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33eb1a90093aed51d0df8a9cf66024c146eb62762a0371c9f68b5b3b40d92f03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-03T14:45:48.753Z"
   }
 ]
