@@ -156,6 +156,52 @@
     "job_posted_at": "2026-05-10T21:17:37.122Z"
   },
   {
+    "job_id": "ashby-handshake-a4437c23-6157-4836-bb94-fd084ba19284",
+    "job_title": "Vectorworks Designer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote (USA)",
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/a4437c23-6157-4836-bb94-fd084ba19284/application",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:31.238Z",
+    "job_employment_type": "contract",
+    "salary": null,
+    "fingerprint": "5b8b5dc0959b4dfaa7176173eda9b3a2ee163fa47e4ca1decbf03536ef875324",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "cad"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 5
+    },
+    "job_posted_at": "2026-05-10T21:17:31.238Z"
+  },
+  {
     "job_id": "ashby-handshake-b7f96e3a-1b05-4dc7-bdc6-e944ef20b11d",
     "job_title": "Improv Actor - AI Trainer",
     "employer_name": "Handshake",
@@ -216,52 +262,6 @@
     "job_employment_type": "contract",
     "salary": null,
     "fingerprint": "a7331204505f66501b0105cd99fdbf0f04d3acd0cf6235ffbcb3903e50e70f84",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "cad"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": true,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 5
-    },
-    "job_posted_at": "2026-05-10T21:17:31.238Z"
-  },
-  {
-    "job_id": "ashby-handshake-a4437c23-6157-4836-bb94-fd084ba19284",
-    "job_title": "Vectorworks Designer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote (USA)",
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/a4437c23-6157-4836-bb94-fd084ba19284/application",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:31.238Z",
-    "job_employment_type": "contract",
-    "salary": null,
-    "fingerprint": "5b8b5dc0959b4dfaa7176173eda9b3a2ee163fa47e4ca1decbf03536ef875324",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -417,6 +417,56 @@
     "job_posted_at": "2026-05-10T21:17:18.754Z"
   },
   {
+    "job_id": "greenhouse-wizinc-4648829006",
+    "job_title": "Technical Account Manager - Public Sector",
+    "employer_name": "Wiz",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - USA",
+    "job_apply_link": "https://www.wiz.io/careers/job/4648829006/:title?gh_jid=4648829006",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:17.500Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b15ff8e84584bb116bf2f4b9e9c31191042f70737f811faeaeb034af97dcb6d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "devops",
+        "docker",
+        "kubernetes",
+        "nist"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 15
+    },
+    "job_posted_at": "2026-05-10T21:17:17.500Z"
+  },
+  {
     "job_id": "greenhouse-wizinc-4665968006",
     "job_title": "Manager, Solution Engineering, Public Sector",
     "employer_name": "Wiz",
@@ -464,56 +514,6 @@
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": 16
-    },
-    "job_posted_at": "2026-05-10T21:17:17.500Z"
-  },
-  {
-    "job_id": "greenhouse-wizinc-4648829006",
-    "job_title": "Technical Account Manager - Public Sector",
-    "employer_name": "Wiz",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote - USA",
-    "job_apply_link": "https://www.wiz.io/careers/job/4648829006/:title?gh_jid=4648829006",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:17.500Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b15ff8e84584bb116bf2f4b9e9c31191042f70737f811faeaeb034af97dcb6d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "devops",
-        "docker",
-        "kubernetes",
-        "nist"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "is_remote": true,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 15
     },
     "job_posted_at": "2026-05-10T21:17:17.500Z"
   },
@@ -608,6 +608,36 @@
     "job_posted_at": "2026-05-10T21:17:13.999Z"
   },
   {
+    "job_id": "greenhouse-spacex-8473697002",
+    "job_title": "Supervisor, Production - Solar Cell Factory (Starlink) - Day Shift",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8473697002?gh_jid=8473697002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.998Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57a79f336bbc9ff151c497587f94586010beb8a33564d5d9c12bf8360be42a7a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.998Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8473671002",
     "job_title": "Supervisor, Facilities Operations - Solar Cell Factory (Starlink) - Day Shift",
     "employer_name": "SpaceX",
@@ -668,19 +698,19 @@
     "job_posted_at": "2026-05-10T21:17:13.998Z"
   },
   {
-    "job_id": "greenhouse-spacex-8473697002",
-    "job_title": "Supervisor, Production - Solar Cell Factory (Starlink) - Day Shift",
+    "job_id": "greenhouse-spacex-8421413002",
+    "job_title": "Precision Inspector (Rocket Valves) - 2nd Shift",
     "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8473697002?gh_jid=8473697002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.998Z",
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8421413002?gh_jid=8421413002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.992Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "57a79f336bbc9ff151c497587f94586010beb8a33564d5d9c12bf8360be42a7a",
+    "fingerprint": "be9946eaa6f164212cbaa044e675d67d79a510a6ddc60681b7893d4cbb361339",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -695,7 +725,56 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-10T21:17:13.998Z"
+    "job_posted_at": "2026-05-10T21:17:13.992Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8383450002",
+    "job_title": "Process Controls Engineer, Solar Cell Factory (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8383450002?gh_jid=8383450002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.992Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa3f4e2a3e9020dace05d57045e8864e11e03319b2afbec8d9d7a0a90ad24633",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "hmi",
+        "networking",
+        "plc",
+        "robotics",
+        "scada"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-10T21:17:13.992Z"
   },
   {
     "job_id": "greenhouse-spacex-8437968002",
@@ -816,194 +895,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-10T21:17:13.992Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8421413002",
-    "job_title": "Precision Inspector (Rocket Valves) - 2nd Shift",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8421413002?gh_jid=8421413002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.992Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be9946eaa6f164212cbaa044e675d67d79a510a6ddc60681b7893d4cbb361339",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-10T21:17:13.992Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8383450002",
-    "job_title": "Process Controls Engineer, Solar Cell Factory (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8383450002?gh_jid=8383450002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.992Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fa3f4e2a3e9020dace05d57045e8864e11e03319b2afbec8d9d7a0a90ad24633",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "hmi",
-        "networking",
-        "plc",
-        "robotics",
-        "scada"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-10T21:17:13.992Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8383510002",
-    "job_title": "Mechanical Engineer, Solar Cell Factory (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8383510002?gh_jid=8383510002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.991Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34deaa2206f2af0c9d328ccb00bc40dd2f7721784bcc87bc5d6cdba2653eb54c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "fea"
-      ],
-      "nice_to_have_skills": [
-        "gd&t",
-        "nx"
-      ],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-10T21:17:13.991Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8215953002",
-    "job_title": "NDE Inspector, Certified Welding Inspector (CWI)",
-    "employer_name": "SpaceX",
-    "job_city": "Starbase",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Starbase, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8215953002?gh_jid=8215953002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.991Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6661496d6e44bc6e73008622fb0eceb662f0fad6ae4960d35364e9ec7b2b5446",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-10T21:17:13.991Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8483539002",
-    "job_title": "NDE Inspector (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Westminster",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Westminster, MD",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8483539002?gh_jid=8483539002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.991Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9bedd2065044107dff30cee210a22205784a1e3a5ecf99131f56f807920f23a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-10T21:17:13.991Z"
   },
   {
     "job_id": "greenhouse-spacex-8492478002",
@@ -1156,65 +1047,19 @@
     "job_posted_at": "2026-05-10T21:17:13.991Z"
   },
   {
-    "job_id": "greenhouse-spacex-8348825002",
-    "job_title": "Global Sourcing Manager, Custom Silicon and Semiconductor (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8348825002?gh_jid=8348825002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc384108bd26343b5d2a448a0ba7168bc5a4fcbed61dca58cf6f831eea8df57c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "erp",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-10T21:17:13.990Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8418457002",
-    "job_title": "Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)",
+    "job_id": "greenhouse-spacex-8383510002",
+    "job_title": "Mechanical Engineer, Solar Cell Factory (Starlink)",
     "employer_name": "SpaceX",
     "job_city": "Bastrop",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8418457002?gh_jid=8418457002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8383510002?gh_jid=8383510002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.991Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "86e77407a914a782a1d7e5f725b1ca27146b76c85a3f16e549ba979eaaac7d4b",
+    "fingerprint": "34deaa2206f2af0c9d328ccb00bc40dd2f7721784bcc87bc5d6cdba2653eb54c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1231,13 +1076,13 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "hmi",
-        "networking",
-        "plc",
-        "robotics",
-        "scada"
+        "cad",
+        "fea"
       ],
-      "nice_to_have_skills": [],
+      "nice_to_have_skills": [
+        "gd&t",
+        "nx"
+      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -1248,7 +1093,67 @@
       "experience_level_from_desc": "entry_level",
       "question_count": 22
     },
-    "job_posted_at": "2026-05-10T21:17:13.990Z"
+    "job_posted_at": "2026-05-10T21:17:13.991Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8215953002",
+    "job_title": "NDE Inspector, Certified Welding Inspector (CWI)",
+    "employer_name": "SpaceX",
+    "job_city": "Starbase",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Starbase, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8215953002?gh_jid=8215953002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.991Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6661496d6e44bc6e73008622fb0eceb662f0fad6ae4960d35364e9ec7b2b5446",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.991Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8483539002",
+    "job_title": "NDE Inspector (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Westminster",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Westminster, MD",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8483539002?gh_jid=8483539002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.991Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9bedd2065044107dff30cee210a22205784a1e3a5ecf99131f56f807920f23a6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.991Z"
   },
   {
     "job_id": "greenhouse-spacex-8524791002",
@@ -1332,6 +1237,101 @@
         "cad",
         "six sigma",
         "solidworks"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-10T21:17:13.990Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8348825002",
+    "job_title": "Global Sourcing Manager, Custom Silicon and Semiconductor (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8348825002?gh_jid=8348825002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc384108bd26343b5d2a448a0ba7168bc5a4fcbed61dca58cf6f831eea8df57c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "erp",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-10T21:17:13.990Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8418457002",
+    "job_title": "Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8418457002?gh_jid=8418457002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86e77407a914a782a1d7e5f725b1ca27146b76c85a3f16e549ba979eaaac7d4b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "hmi",
+        "networking",
+        "plc",
+        "robotics",
+        "scada"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": false,
@@ -1747,6 +1747,114 @@
     "job_posted_at": "2026-05-10T21:17:12.020Z"
   },
   {
+    "job_id": "greenhouse-scaleai-4687591005",
+    "job_title": "Product Manager, Public Sector GenAI Test & Evaluation (T&E)",
+    "employer_name": "Scale AI",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
+    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4687591005",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:12.019Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76eb54f893c6d9dee4f3f8d5579f09831e5650254cb50ac0ea36e5753b539916",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "cisco",
+        "computer science",
+        "genai",
+        "linear",
+        "program management",
+        "project management",
+        "rag",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 13
+    },
+    "job_posted_at": "2026-05-10T21:17:12.019Z"
+  },
+  {
+    "job_id": "greenhouse-scaleai-4651559005",
+    "job_title": "Product Security Engineer - Public Sector",
+    "employer_name": "Scale AI",
+    "job_city": "St. Louis",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "St. Louis, MO; Washington, DC",
+    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4651559005",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:12.019Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5031de5593029e5e131b2026b432f7022ed359b3ca5e0786d6de13e43e968b7e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "cisco",
+        "dast",
+        "javascript",
+        "kubernetes",
+        "nodejs",
+        "python",
+        "sast",
+        "terraform",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15
+    },
+    "job_posted_at": "2026-05-10T21:17:12.019Z"
+  },
+  {
     "job_id": "greenhouse-scaleai-4687384005",
     "job_title": "Engagement Manager (Hawaii), Public Sector",
     "employer_name": "Scale AI",
@@ -2001,114 +2109,6 @@
         "react",
         "shell",
         "shell scripting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 15
-    },
-    "job_posted_at": "2026-05-10T21:17:12.019Z"
-  },
-  {
-    "job_id": "greenhouse-scaleai-4687591005",
-    "job_title": "Product Manager, Public Sector GenAI Test & Evaluation (T&E)",
-    "employer_name": "Scale AI",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
-    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4687591005",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:12.019Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76eb54f893c6d9dee4f3f8d5579f09831e5650254cb50ac0ea36e5753b539916",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "cisco",
-        "computer science",
-        "genai",
-        "linear",
-        "program management",
-        "project management",
-        "rag",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 13
-    },
-    "job_posted_at": "2026-05-10T21:17:12.019Z"
-  },
-  {
-    "job_id": "greenhouse-scaleai-4651559005",
-    "job_title": "Product Security Engineer - Public Sector",
-    "employer_name": "Scale AI",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "St. Louis, MO; Washington, DC",
-    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4651559005",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:12.019Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5031de5593029e5e131b2026b432f7022ed359b3ca5e0786d6de13e43e968b7e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "cisco",
-        "dast",
-        "javascript",
-        "kubernetes",
-        "nodejs",
-        "python",
-        "sast",
-        "terraform",
-        "typescript"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -4941,41 +4941,6 @@
     "job_posted_at": "2026-05-10T19:50:33.000Z"
   },
   {
-    "job_id": "lever-AIFund-3ae9d0ee-9eb2-44df-8fbe-5676384fcf90",
-    "job_title": "Visiting Engineer - ContextHub",
-    "employer_name": "AI Fund",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mountain View, CA",
-    "job_apply_link": "https://jobs.lever.co/AIFund/3ae9d0ee-9eb2-44df-8fbe-5676384fcf90/apply",
-    "job_posted_at_datetime_utc": "2026-05-10T18:46:56.761Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 10000,
-      "max": 15000,
-      "currency": "USD",
-      "interval": "per-month-salary"
-    },
-    "fingerprint": "497b79e10418d574cfb8743d567669e5dc2e593de83bb24dd6e676bed8a7f179",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-10T18:46:56.761Z"
-  },
-  {
     "job_id": "lever-AIFund-775a87cb-a29a-4ad8-9557-f0ff4499dacb",
     "job_title": "Software Engineer",
     "employer_name": "AI Fund",
@@ -5035,58 +5000,39 @@
     "job_posted_at": "2026-05-10T18:46:56.761Z"
   },
   {
-    "job_id": "lever-AIFund-4c56c509-af62-462d-bfac-75a78390c92f",
-    "job_title": "Accountant",
+    "job_id": "lever-AIFund-3ae9d0ee-9eb2-44df-8fbe-5676384fcf90",
+    "job_title": "Visiting Engineer - ContextHub",
     "employer_name": "AI Fund",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Mountain View, CA",
-    "job_apply_link": "https://jobs.lever.co/AIFund/4c56c509-af62-462d-bfac-75a78390c92f/apply",
-    "job_posted_at_datetime_utc": "2026-05-10T18:46:56.760Z",
+    "job_apply_link": "https://jobs.lever.co/AIFund/3ae9d0ee-9eb2-44df-8fbe-5676384fcf90/apply",
+    "job_posted_at_datetime_utc": "2026-05-10T18:46:56.761Z",
     "job_employment_type": "FULLTIME",
     "salary": {
-      "min": 100000,
-      "max": 120000,
+      "min": 10000,
+      "max": 15000,
       "currency": "USD",
-      "interval": "per-year-salary"
+      "interval": "per-month-salary"
     },
-    "fingerprint": "401e67354c6fe6e1bbeff6c7b4abfc291b685b05fa288ca12ef20a8ac6d22c6d",
+    "fingerprint": "497b79e10418d574cfb8743d567669e5dc2e593de83bb24dd6e676bed8a7f179",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "ai",
-        "finance"
+        "general"
       ],
       "locations": [
         "us"
       ],
-      "experience": "senior_level",
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "forecasting",
-        "google sheets",
-        "llm"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": null,
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-10T18:46:56.760Z"
+    "job_posted_at": "2026-05-10T18:46:56.761Z"
   },
   {
     "job_id": "lever-AIFund-f2509222-c8d8-4203-a15d-eb02ffa35fd0",
@@ -5731,6 +5677,60 @@
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": 2
+    },
+    "job_posted_at": "2026-05-10T18:46:56.760Z"
+  },
+  {
+    "job_id": "lever-AIFund-4c56c509-af62-462d-bfac-75a78390c92f",
+    "job_title": "Accountant",
+    "employer_name": "AI Fund",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mountain View, CA",
+    "job_apply_link": "https://jobs.lever.co/AIFund/4c56c509-af62-462d-bfac-75a78390c92f/apply",
+    "job_posted_at_datetime_utc": "2026-05-10T18:46:56.760Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 100000,
+      "max": 120000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "401e67354c6fe6e1bbeff6c7b4abfc291b685b05fa288ca12ef20a8ac6d22c6d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "forecasting",
+        "google sheets",
+        "llm"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null
     },
     "job_posted_at": "2026-05-10T18:46:56.760Z"
   },
@@ -23669,7 +23669,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863743",
     "job_posted_at_datetime_utc": "2026-05-08T23:44:53.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "37aab55dfb91980a4332eba6df6dded97e9a0c87e04c1c9f9e8d069d91d99ac5",
     "tags": {
@@ -57003,7 +57003,7 @@
     "job_location": "Fauquier County, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864979",
     "job_posted_at_datetime_utc": "2026-05-08T17:43:46.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "48044e21c81d6ede3ce227285bf8bb7bc79308be19fe1cbae15265491708de49",
     "tags": {
@@ -57014,7 +57014,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -58250,7 +58250,7 @@
     "job_location": "Cheyenne, Wyoming, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864696",
     "job_posted_at_datetime_utc": "2026-05-08T16:55:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "60b3fc9665560ba0d0e0097048da6de8e9bad5205dbd9ed6891c8dabfbce17e7",
     "tags": {
@@ -58261,7 +58261,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -59100,7 +59100,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556861676",
     "job_posted_at_datetime_utc": "2026-05-08T16:36:07.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "ae439b4978b61d34005bd00c9aae5c97cbedab7c94ad75264a61a1bdedcdefe8",
     "tags": {
@@ -66555,55 +66555,6 @@
     "job_posted_at": "2026-05-08T13:04:52.000Z"
   },
   {
-    "job_id": "google-74786708553376454",
-    "job_title": "Forward Deployed Engineer, Generative AI, Telecommunications, Google Cloud",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74786708553376454",
-    "job_posted_at_datetime_utc": "2026-05-08T13:02:28.729Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c89fc7e7c558796d7389be8e906713fb1eb2bd58dbb91d88b4330e485573b2c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "mcp"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T13:02:28.729Z"
-  },
-  {
     "job_id": "google-79130878994719430",
     "job_title": "Social Media Channel Manager, Gemini Marketing",
     "employer_name": "Google",
@@ -66669,6 +66620,55 @@
     "enrichment": {
       "required_skills": [
         "systemverilog"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T13:02:28.729Z"
+  },
+  {
+    "job_id": "google-74786708553376454",
+    "job_title": "Forward Deployed Engineer, Generative AI, Telecommunications, Google Cloud",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74786708553376454",
+    "job_posted_at_datetime_utc": "2026-05-08T13:02:28.729Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c89fc7e7c558796d7389be8e906713fb1eb2bd58dbb91d88b4330e485573b2c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "mcp"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -68843,7 +68843,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556861580",
     "job_posted_at_datetime_utc": "2026-05-08T10:37:08.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "ef14776e2f870e9d0b4b075ddd652969acb3a19e1a08f2b9bc3ddb3fafbe8a62",
     "tags": {
@@ -68854,7 +68854,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
@@ -91049,7 +91049,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862288",
     "job_posted_at_datetime_utc": "2026-05-08T04:23:31.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a846c86f8a42e7d8fd1a8f89c68278356bbada3cf54908a5d8842b86f154f255",
     "tags": {
@@ -92403,69 +92403,19 @@
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-c44f66c3-015a-4152-8e26-f7f6cfad6ce3",
-    "job_title": "Software Development Engineer, Traffic Engineering",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414986/software-development-engineer-traffic-engineering",
-    "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "761f247df6d6e3e247ef1023095a1e2cf89834ad8ca30d0f9428207167f20176",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "design patterns"
-      ],
-      "nice_to_have_skills": [
-        "computer science"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-40b1373c-3cd6-4d9e-9bf0-6f4ac33aabd4",
-    "job_title": "Software Development Engineer, Amazon Fuse",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
+    "job_id": "amazon-9fa5544b-e99b-4097-afbf-d076902778d4",
+    "job_title": "Software Development Engineer, Leo Autopilot",
+    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
+    "job_city": "Redmond",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414407/software-development-engineer-amazon-fuse",
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414450/software-development-engineer-leo-autopilot",
     "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ca3cbc6dd586f8220eb49bf0eb95f82543851750436b28f68c6620f94809ba26",
+    "fingerprint": "4ce7e62731665efd48cda859c732c20f465d1c1e12af8122e321166d70b571d5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -92558,7 +92508,7 @@
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-9fa5544b-e99b-4097-afbf-d076902778d4",
+    "job_id": "amazon-762dd29c-c67a-4e4f-a1c8-c3e8d5050773",
     "job_title": "Software Development Engineer, Leo Autopilot",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
     "job_city": "Redmond",
@@ -92566,7 +92516,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414450/software-development-engineer-leo-autopilot",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414451/software-development-engineer-leo-autopilot",
     "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -92608,19 +92558,69 @@
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-762dd29c-c67a-4e4f-a1c8-c3e8d5050773",
-    "job_title": "Software Development Engineer, Leo Autopilot",
-    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "job_id": "amazon-c44f66c3-015a-4152-8e26-f7f6cfad6ce3",
+    "job_title": "Software Development Engineer, Traffic Engineering",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414451/software-development-engineer-leo-autopilot",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414986/software-development-engineer-traffic-engineering",
     "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4ce7e62731665efd48cda859c732c20f465d1c1e12af8122e321166d70b571d5",
+    "fingerprint": "761f247df6d6e3e247ef1023095a1e2cf89834ad8ca30d0f9428207167f20176",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "design patterns"
+      ],
+      "nice_to_have_skills": [
+        "computer science"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-40b1373c-3cd6-4d9e-9bf0-6f4ac33aabd4",
+    "job_title": "Software Development Engineer, Amazon Fuse",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414407/software-development-engineer-amazon-fuse",
+    "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ca3cbc6dd586f8220eb49bf0eb95f82543851750436b28f68c6620f94809ba26",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -95211,7 +95211,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -98381,7 +98381,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -98875,7 +98875,7 @@
     "job_location": "Wenatchee, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863422",
     "job_posted_at_datetime_utc": "2026-05-07T18:46:19.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "b62b8771f7af85a86af013b3f14962026dd2a8a57a9c23b7ef256e895db6910f",
     "tags": {
@@ -98886,7 +98886,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -105875,7 +105875,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556861658",
     "job_posted_at_datetime_utc": "2026-05-07T12:54:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9566a726dd067ee5888a6adcaf6453828388c78e37bc673ad7854598b07070a7",
     "tags": {
@@ -106630,38 +106630,6 @@
     "job_posted_at": "2026-05-07T08:37:05.000Z"
   },
   {
-    "job_id": "google-96159256092254918",
-    "job_title": "Product Manager, Data Minimization, AI Privacy and Regulations",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96159256092254918",
-    "job_posted_at_datetime_utc": "2026-05-07T08:32:25.474Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fcc73748abab35e90644e1ef4f1b7fa212bde6bf40dca8e9c4a9a6d8b964427",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "job_posted_at": "2026-05-07T08:32:25.474Z"
-  },
-  {
     "job_id": "google-143702138877289158",
     "job_title": "Optical Validation Engineer, Google Cloud",
     "employer_name": "Google",
@@ -106707,6 +106675,38 @@
       "experience_level_from_desc": null,
       "question_count": null
     },
+    "job_posted_at": "2026-05-07T08:32:25.474Z"
+  },
+  {
+    "job_id": "google-96159256092254918",
+    "job_title": "Product Manager, Data Minimization, AI Privacy and Regulations",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96159256092254918",
+    "job_posted_at_datetime_utc": "2026-05-07T08:32:25.474Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fcc73748abab35e90644e1ef4f1b7fa212bde6bf40dca8e9c4a9a6d8b964427",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
     "job_posted_at": "2026-05-07T08:32:25.474Z"
   },
   {
@@ -160455,7 +160455,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863371",
     "job_posted_at_datetime_utc": "2026-05-06T20:35:21.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6cd2311190be8ada2f05cb74ca14392e01bd19df94671a5396de5c787c4835d8",
     "tags": {
@@ -170392,72 +170392,6 @@
     "job_posted_at": "2026-05-06T15:02:54.000Z"
   },
   {
-    "job_id": "google-133518685519127238",
-    "job_title": "Product Marketing Manager, AI for Science",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133518685519127238",
-    "job_posted_at_datetime_utc": "2026-05-06T15:02:09.879Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b4227ffa18dd6b25b5df8a37045ac52dd62a1f504d4e32f23d2e706171241aa5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "job_posted_at": "2026-05-06T15:02:09.879Z"
-  },
-  {
-    "job_id": "google-78299356146344646",
-    "job_title": "Product Marketing Manager, Climate AI",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78299356146344646",
-    "job_posted_at_datetime_utc": "2026-05-06T15:02:09.879Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57069db8895d2427e135949fe502e77e8f23cc6591c4e9963906e8fb395ce525",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "marketing",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "job_posted_at": "2026-05-06T15:02:09.879Z"
-  },
-  {
     "job_id": "google-142304333180871366",
     "job_title": "Marketing Manager, AI for Science",
     "employer_name": "Google",
@@ -170586,6 +170520,72 @@
       "experience_level_from_desc": null,
       "question_count": null
     },
+    "job_posted_at": "2026-05-06T15:02:09.879Z"
+  },
+  {
+    "job_id": "google-133518685519127238",
+    "job_title": "Product Marketing Manager, AI for Science",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133518685519127238",
+    "job_posted_at_datetime_utc": "2026-05-06T15:02:09.879Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b4227ffa18dd6b25b5df8a37045ac52dd62a1f504d4e32f23d2e706171241aa5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "marketing",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-06T15:02:09.879Z"
+  },
+  {
+    "job_id": "google-78299356146344646",
+    "job_title": "Product Marketing Manager, Climate AI",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78299356146344646",
+    "job_posted_at_datetime_utc": "2026-05-06T15:02:09.879Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57069db8895d2427e135949fe502e77e8f23cc6591c4e9963906e8fb395ce525",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "marketing",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
     "job_posted_at": "2026-05-06T15:02:09.879Z"
   },
   {
@@ -170801,7 +170801,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862255",
     "job_posted_at_datetime_utc": "2026-05-06T14:47:58.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4fb3338aba19df5eedbf80d109eea4c85d7804a1d52a6dae3544f4b5fc8f988",
     "tags": {
@@ -173546,6 +173546,154 @@
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
+    "job_id": "simplify-de616821-e549-4efc-a51b-888a2bd1ba9e",
+    "job_title": "Basel Measurement & Analytics - Analyst",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "Newark",
+    "job_state": "DE",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Newark, DE",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734420",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34ef06474578b13cceee390456b7e00554efb68590dcb867cee64c06ed695444",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-d2ac9137-c643-4f6c-81ed-992642034cc0",
+    "job_title": "Fastener Technician",
+    "employer_name": "Amentum",
+    "job_city": "Livonia",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Livonia, MI",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Fastener-Technician_R0153432",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "36f0c0d05e50dc8448ac52476a3c11d39e4625f3760a42413b7f17c795378ac6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-87ec1fd4-2c88-4310-a038-06095c2fa7e6",
+    "job_title": "Engineering Technician A",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Salt Lake City, UT",
+    "job_apply_link": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287700/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2586db8f2134bda980ddd1a5f2000d23fbe137fb0ed1c2dcc48b0c32d02af15",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-cbe08726-3625-4ff3-a4d4-c240fcaedeaa",
+    "job_title": "Engineering Technician A",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Salt Lake City, UT",
+    "job_apply_link": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287400/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2586db8f2134bda980ddd1a5f2000d23fbe137fb0ed1c2dcc48b0c32d02af15",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
     "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
     "job_title": "Data Visualization Associate",
     "employer_name": "JP Morgan Chase",
@@ -173881,154 +174029,6 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-de616821-e549-4efc-a51b-888a2bd1ba9e",
-    "job_title": "Basel Measurement & Analytics - Analyst",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "Newark",
-    "job_state": "DE",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Newark, DE",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734420",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34ef06474578b13cceee390456b7e00554efb68590dcb867cee64c06ed695444",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-d2ac9137-c643-4f6c-81ed-992642034cc0",
-    "job_title": "Fastener Technician",
-    "employer_name": "Amentum",
-    "job_city": "Livonia",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Livonia, MI",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Fastener-Technician_R0153432",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "36f0c0d05e50dc8448ac52476a3c11d39e4625f3760a42413b7f17c795378ac6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-87ec1fd4-2c88-4310-a038-06095c2fa7e6",
-    "job_title": "Engineering Technician A",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Salt Lake City, UT",
-    "job_apply_link": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287700/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2586db8f2134bda980ddd1a5f2000d23fbe137fb0ed1c2dcc48b0c32d02af15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-cbe08726-3625-4ff3-a4d4-c240fcaedeaa",
-    "job_title": "Engineering Technician A",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Salt Lake City, UT",
-    "job_apply_link": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287400/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2586db8f2134bda980ddd1a5f2000d23fbe137fb0ed1c2dcc48b0c32d02af15",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
     "job_id": "simplify-e7ea5167-214c-4040-8718-1dee8da3b3af",
     "job_title": "LOX Engineer",
     "employer_name": "Amentum",
@@ -174174,6 +174174,431 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-eda6153a-f4c0-4cd7-84ac-50eedad60c6b",
+    "job_title": "Associate Salesforce Product Manager",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719385",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0039150a8d6d7e027997ec6dca9b69cb54ca1de4738107b58f65e9b2e849f519",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-f5e989fc-d5b8-4490-8814-f85a01b0b021",
+    "job_title": "Java or C++ Database Developer",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Java-or-C---Database-Developer_R0155917",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c95b995fee34e098cc7b1938f118349205ffcf918645fca88027c299e59b28a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-a337f558-2610-40d1-81a0-6477117c3c49",
+    "job_title": "Computer Scientist/Mathematician",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Computer-Scientist-Mathematician_R0155913-1",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7bff46e6c732c0b349465cf6bb1ea4457dcfa2011eb2de3a740b758dfbe373c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-2adbce3f-bd55-4022-a6f2-73838a518d94",
+    "job_title": "Geophysical Analyst",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Geophysical-Analyst--Jr_R0155921",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "15b080c5c0e63bf11bc87787fa71a5c7e2b36f309e2cab099b9c2d66add6ac3e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-670252d5-68ec-4965-be7e-c0b88c83af8f",
+    "job_title": "All-Source Analyst",
+    "employer_name": "Peraton",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/162715/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c30a76562e5ac357ffce5cd9fb882d06d4267a8bada87c60b6912d935975ae4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-7adfc83a-dcb5-4ae7-a9a4-eea1060cf856",
+    "job_title": "Electronic Technician - Maintenance I",
+    "employer_name": "Amentum",
+    "job_city": "Fairbanks",
+    "job_state": "AK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fairbanks, AK",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AK-Fairbanks/Electronic-Technician--Maintenance-I_R0151750-1",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d312cb13e267b75fad747b729079f9044144686db7bc7584732dae8bbf9cf94",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-5d288056-16f3-47e5-9e66-e6578a0b3bd9",
+    "job_title": "Anaplan Model Builder - Associate",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723910",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87f2acc659cd0a5e953ad901d699f2a94569eea3a2a29a153144cf7f45ae86f0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-22995c8b-eaa0-44a6-aba6-fcb0ef65ed86",
+    "job_title": "Manufacturing Technician B",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Rochester",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Rochester, NY",
+    "job_apply_link": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-B-NY-14610-1839/1376067100/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec43306456f7f65cc939f1e716f60f0a77930ed26d967a01d5b150601bbb4c87",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-3b9eae4b-b3bf-439c-b05d-70c6ce13081a",
+    "job_title": "Product Associate",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729136",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "20dce2bbf0d672db973db47c2caa0f91089596e13ad3c307ad5a443e5078a3e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-282b6334-9a6e-4c79-805d-23dbde3925a0",
+    "job_title": "Quant Analytics Associate",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "Wilmington",
+    "job_state": "DE",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Wilmington, DE",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728053",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "247f64b0e1520ad1799fe3e46f18cca1dfc6839e99726f18ae41042a5e14b709",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-6770055a-7548-4e7b-bd26-7cda7d1b59b8",
+    "job_title": "Associate Software Engineer in Test",
+    "employer_name": "Veeva Systems",
+    "job_city": "Pleasanton",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Pleasanton, CA",
+    "job_apply_link": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f93504b57f36f29ce7f0a43c896fad0819b3eb1335711a6c27b1c1146d938b40",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
+    "job_title": "Marketing Analytics - Data Analyst - Adp",
+    "employer_name": "Veeva Systems",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "49f51869c2f18ce0b5d91a8ee8c2499c9363e4e81e22ac8f988d5f19883e17ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
     "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
@@ -174618,431 +175043,6 @@
       "employment": "entry_level",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-eda6153a-f4c0-4cd7-84ac-50eedad60c6b",
-    "job_title": "Associate Salesforce Product Manager",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719385",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0039150a8d6d7e027997ec6dca9b69cb54ca1de4738107b58f65e9b2e849f519",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-f5e989fc-d5b8-4490-8814-f85a01b0b021",
-    "job_title": "Java or C++ Database Developer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Java-or-C---Database-Developer_R0155917",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c95b995fee34e098cc7b1938f118349205ffcf918645fca88027c299e59b28a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-a337f558-2610-40d1-81a0-6477117c3c49",
-    "job_title": "Computer Scientist/Mathematician",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Computer-Scientist-Mathematician_R0155913-1",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7bff46e6c732c0b349465cf6bb1ea4457dcfa2011eb2de3a740b758dfbe373c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "masters",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-2adbce3f-bd55-4022-a6f2-73838a518d94",
-    "job_title": "Geophysical Analyst",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Geophysical-Analyst--Jr_R0155921",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "15b080c5c0e63bf11bc87787fa71a5c7e2b36f309e2cab099b9c2d66add6ac3e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-670252d5-68ec-4965-be7e-c0b88c83af8f",
-    "job_title": "All-Source Analyst",
-    "employer_name": "Peraton",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reston, VA",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/162715/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c30a76562e5ac357ffce5cd9fb882d06d4267a8bada87c60b6912d935975ae4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-7adfc83a-dcb5-4ae7-a9a4-eea1060cf856",
-    "job_title": "Electronic Technician - Maintenance I",
-    "employer_name": "Amentum",
-    "job_city": "Fairbanks",
-    "job_state": "AK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fairbanks, AK",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AK-Fairbanks/Electronic-Technician--Maintenance-I_R0151750-1",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d312cb13e267b75fad747b729079f9044144686db7bc7584732dae8bbf9cf94",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-5d288056-16f3-47e5-9e66-e6578a0b3bd9",
-    "job_title": "Anaplan Model Builder - Associate",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723910",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87f2acc659cd0a5e953ad901d699f2a94569eea3a2a29a153144cf7f45ae86f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-22995c8b-eaa0-44a6-aba6-fcb0ef65ed86",
-    "job_title": "Manufacturing Technician B",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Rochester",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Rochester, NY",
-    "job_apply_link": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-B-NY-14610-1839/1376067100/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec43306456f7f65cc939f1e716f60f0a77930ed26d967a01d5b150601bbb4c87",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-3b9eae4b-b3bf-439c-b05d-70c6ce13081a",
-    "job_title": "Product Associate",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729136",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20dce2bbf0d672db973db47c2caa0f91089596e13ad3c307ad5a443e5078a3e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-282b6334-9a6e-4c79-805d-23dbde3925a0",
-    "job_title": "Quant Analytics Associate",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "Wilmington",
-    "job_state": "DE",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Wilmington, DE",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728053",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "247f64b0e1520ad1799fe3e46f18cca1dfc6839e99726f18ae41042a5e14b709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-6770055a-7548-4e7b-bd26-7cda7d1b59b8",
-    "job_title": "Associate Software Engineer in Test",
-    "employer_name": "Veeva Systems",
-    "job_city": "Pleasanton",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Pleasanton, CA",
-    "job_apply_link": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f93504b57f36f29ce7f0a43c896fad0819b3eb1335711a6c27b1c1146d938b40",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
-    "job_title": "Marketing Analytics - Data Analyst - Adp",
-    "employer_name": "Veeva Systems",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "49f51869c2f18ce0b5d91a8ee8c2499c9363e4e81e22ac8f988d5f19883e17ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us"
@@ -175525,6 +175525,49 @@
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
+    "job_id": "simplify-be56e076-3f0f-4008-84c3-66566e20b1de",
+    "job_title": "Software Engineering, Associate",
+    "employer_name": "Peraton",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.569Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7626e0cc6576450bd90ead37a7c55975568a9ebc84928b5d57891eef99405abc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.569Z"
+  },
+  {
     "job_id": "simplify-4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
     "job_title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
     "employer_name": "Veeva Systems",
@@ -175721,49 +175764,6 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.569Z"
-  },
-  {
-    "job_id": "simplify-be56e076-3f0f-4008-84c3-66566e20b1de",
-    "job_title": "Software Engineering, Associate",
-    "employer_name": "Peraton",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara, CA",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.569Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7626e0cc6576450bd90ead37a7c55975568a9ebc84928b5d57891eef99405abc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -225766,7 +225766,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863607",
     "job_posted_at_datetime_utc": "2026-05-05T21:09:09.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6cd2311190be8ada2f05cb74ca14392e01bd19df94671a5396de5c787c4835d8",
     "tags": {
@@ -225867,7 +225867,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556849704",
     "job_posted_at_datetime_utc": "2026-05-05T21:07:22.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "952d18966a22de839ff7a176bf9ea16c7797f1443407f308b37bd0a8d4f15c54",
     "tags": {
@@ -235472,7 +235472,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -235483,7 +235483,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
@@ -244299,7 +244299,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862964",
     "job_posted_at_datetime_utc": "2026-05-05T16:10:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f7ab4217fb073a422a71451cb71142d64b6f8e9e8bacb0636f8abf04d1375e50",
     "tags": {
@@ -257768,7 +257768,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -275706,60 +275706,6 @@
     "job_posted_at": "2026-05-05T11:17:48.742Z"
   },
   {
-    "job_id": "greenhouse-speechify-5975323004",
-    "job_title": "Software Engineer, Data Infrastructure & Acquisition - St. Petersburg, FL, USA",
-    "employer_name": "Speechify",
-    "job_city": "St. Petersburg",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "St. Petersburg, FL, USA",
-    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975323004",
-    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4c426077c9a223a2733240568dd86b3d603634cd6eea782c3e48ec084d40f7c0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "android",
-        "bash",
-        "computer science",
-        "docker",
-        "gcp",
-        "ios",
-        "linux",
-        "python",
-        "terraform",
-        "vercel"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 11
-    },
-    "job_posted_at": "2026-05-05T11:17:48.741Z"
-  },
-  {
     "job_id": "greenhouse-speechify-5976287004",
     "job_title": "Software Engineer, Data Infrastructure & Acquisition - Atlanta, GA, USA",
     "employer_name": "Speechify",
@@ -276853,6 +276799,60 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a63aaeed55bb1dc1bbb3c5d492c0c4716013e17f70e73a219438a3f3186cb9f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
+    "job_posted_at": "2026-05-05T11:17:48.741Z"
+  },
+  {
+    "job_id": "greenhouse-speechify-5975323004",
+    "job_title": "Software Engineer, Data Infrastructure & Acquisition - St. Petersburg, FL, USA",
+    "employer_name": "Speechify",
+    "job_city": "St. Petersburg",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "St. Petersburg, FL, USA",
+    "job_apply_link": "https://job-boards.greenhouse.io/speechify/jobs/5975323004",
+    "job_posted_at_datetime_utc": "2026-05-05T11:17:48.741Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4c426077c9a223a2733240568dd86b3d603634cd6eea782c3e48ec084d40f7c0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -361395,7 +361395,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863003",
     "job_posted_at_datetime_utc": "2026-05-04T22:38:23.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "07ec15b868df28a6f20958d0771746f19876e6dfa803c0d5f5775a9a8273e261",
     "tags": {
@@ -371386,7 +371386,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -371397,7 +371397,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
