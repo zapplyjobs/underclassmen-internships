@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-10T16:30:32.271Z",
-  "all_jobs_version": "c4e44dc2b325ebf98b27e55baa5c41fa65537a5b",
+  "timestamp": "2026-05-10T16:45:23.063Z",
+  "all_jobs_version": "d7d6cbdfb16ba7285190d462803495c211121133",
   "total_fetched": 63646,
-  "after_14day_filter": 22362,
-  "after_tag_filter": 12497,
-  "final_count": 12497
+  "after_14day_filter": 22355,
+  "after_tag_filter": 12494,
+  "final_count": 12494
 }
