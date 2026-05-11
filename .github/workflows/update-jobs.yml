@@ -135,7 +135,7 @@ jobs:
               git reset --hard HEAD
             }
 
-            git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/data/run_metrics.json .github/logs/ || true
+            git add README.md .github/data/last_count.json || true
 
             JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
 
