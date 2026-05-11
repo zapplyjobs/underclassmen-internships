@@ -401,7 +401,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🟢 **Google** | Power Engineer, Platforms Engineering | United States | 38m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136939206063596230) |
+| 🟢 **Google** | Power Engineer, Platforms Engineering | United States | 41m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136939206063596230) |
 | 🏢 **Casca** | Quality Engineer | San Francisco | 6h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/casca/260da0f5-bfe3-406f-a77a-df82f7ae07b9/application) |
 | 🏢 **Alarm.com** | Quality Engineer I | Tysons, Virginia | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8316291002) |
 | 🏢 **Alarm.com** | Quality Engineer I | Tysons, Virginia | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8394361002) |
@@ -512,7 +512,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Samsara** | Sales Engineer I, SE Desk - Northeast | US | 39m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741) |
+| 🏢 **Samsara** | Sales Engineer I, SE Desk - Northeast | US | 41m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741) |
 | 🏢 **Tatari** | Account Executive - Brands | Los Angeles, Cali... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8120341002) |
 | 🏢 **Tatari** | Account Executive - Brands | New York, New Yor... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8120343002) |
 | 🏢 **Tatari** | Account Executive - Brands | San Francisco, Ca... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8120342002) |
@@ -752,18 +752,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🍎 **Apple** | Graphics Post silicon Test & Methodology Engineer | Austin | 17m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662428/graphics-post-silicon-test-methodology-engineer) |
-| 🍎 **Apple** | CPU Design Verification Engineer | Cambridge | 17m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662455/cpu-design-verification-engineer) |
-| 🍎 **Apple** | CPU Design Verification Engineer | Cambridge | 17m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662456/cpu-design-verification-engineer) |
-| 🟢 **Google** | Practice Customer Engineer, Networking, Google Cloud | United States | 24m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80881705233064646) |
-| 🏢 **Guidepoint** | Client Service Associate | New York, New Yor... | 32m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8499236002) |
-| 🟢 **Google** | Incentives Controller | United States | 38m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123076563460596422) |
-| 🚀 **SpaceX** | Mechanical Design Engineer, Consumer Hardware (Starlink) | Bastrop, TX | 40m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542709002?gh_jid=8542709002) |
-| 🏢 **Oklo** | Materials Engineer | Santa Clara, CA o... | 55m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5972118004) |
-| 🏢 **Babel Street** | Knowledge Graph Engineer | Reston, VA, Unite... | 55m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/babelstreet/jobs/7857609) |
-| 🏢 **IXL Learning** | District Partnership Specialist, New York City and Northern New Jersey | New York, NY | 58m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8541795002) |
-| 🏢 **IXL Learning** | District Partnership Specialist, Philadelphia | Philadelphia, PA | 59m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8541792002) |
-| 🏢 **IXL Learning** | District Partnership Specialist, California (Central Coast) | California | 59m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8541749002) |
+| 🍎 **Apple** | Graphics Post silicon Test & Methodology Engineer | Austin | 19m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662428/graphics-post-silicon-test-methodology-engineer) |
+| 🍎 **Apple** | CPU Design Verification Engineer | Cambridge | 19m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662455/cpu-design-verification-engineer) |
+| 🍎 **Apple** | CPU Design Verification Engineer | Cambridge | 20m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662456/cpu-design-verification-engineer) |
+| 🟢 **Google** | Practice Customer Engineer, Networking, Google Cloud | United States | 26m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80881705233064646) |
+| 🏢 **Guidepoint** | Client Service Associate | New York, New Yor... | 34m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8499236002) |
+| 🟢 **Google** | Incentives Controller | United States | 41m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123076563460596422) |
+| 🚀 **SpaceX** | Mechanical Design Engineer, Consumer Hardware (Starlink) | Bastrop, TX | 42m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542709002?gh_jid=8542709002) |
+| 🏢 **Oklo** | Materials Engineer | Santa Clara, CA o... | 57m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5972118004) |
+| 🏢 **Babel Street** | Knowledge Graph Engineer | Reston, VA, Unite... | 57m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/babelstreet/jobs/7857609) |
+| 🏢 **IXL Learning** | District Partnership Specialist, New York City and Northern New Jersey | New York, NY | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8541795002) |
+| 🏢 **IXL Learning** | District Partnership Specialist, Philadelphia | Philadelphia, PA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8541792002) |
+| 🏢 **IXL Learning** | District Partnership Specialist, California (Central Coast) | California | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8541749002) |
 | 🦊 **GitLab** | G&A Engineer, Netsuite/Claude | Remote, North Ame... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8493970002) |
 | 🏢 **Olsson** | Marketing Coordinator | Dallas, TX; Linco... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5215621008) |
 | 🏢 **Anduril** | Production Supervisor, Missiles | Ashville, Ohio, U... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5132696007?gh_jid=5132696007) |
