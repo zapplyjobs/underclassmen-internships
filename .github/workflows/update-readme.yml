@@ -7,7 +7,7 @@ name: Update README Only
 # - Regenerate README without fetching new jobs
 
 on:
-  workflow_dispatch:  # Manual trigger only — push trigger removed (job-fetcher/ paths no longer change via current submodule-based workflow)
+  workflow_dispatch:  # Manual trigger only
 
 jobs:
   update-readme:
@@ -31,9 +31,16 @@ jobs:
         node-version: '22'
 
     - name: Install dependencies
-      run: npm install axios
+      run: |
+        npm install axios
+        cd .github/scripts/shared && npm install
 
     - name: Update README from existing data
+      env:
+        R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+        R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+        R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
       run: node .github/scripts/job-fetcher/update-readme-only.js
 
     - name: Stash npm changes
@@ -67,14 +74,7 @@ jobs:
         echo "## README Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          echo "**README.md regenerated from existing job data**" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### What happened:" >> $GITHUB_STEP_SUMMARY
-          echo "- Read existing job data from new_jobs.json" >> $GITHUB_STEP_SUMMARY
-          echo "- Regenerated README.md with current jobs" >> $GITHUB_STEP_SUMMARY
-          echo "- Committed and pushed to repository" >> $GITHUB_STEP_SUMMARY
+          echo "**README.md regenerated**" >> $GITHUB_STEP_SUMMARY
         else
           echo "**No changes to README**" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "The README.md is already up to date with the existing job data." >> $GITHUB_STEP_SUMMARY
         fi

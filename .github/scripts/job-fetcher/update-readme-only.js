@@ -3,13 +3,11 @@
 /**
  * Update README from existing job data (without fetching new jobs)
  *
- * This script regenerates the README.md from existing job data files.
- * Use this when you want to:
- * - Update banners/images/links in the README template
- * - Test readme-generator.js changes
- * - Regenerate README without running the full job fetcher
+ * Data sources (in order):
+ *   1. Local .github/data/current_jobs.json (from a previous run)
+ *   2. R2 via createAggregatorConsumer (when local data is missing)
  *
- * Usage: node .github/scripts/job-fetcher/update-readme-only.js
+ * Repo filter config: { locations: ['us'], employment: 'entry_level' }
  */
 
 const fs = require('fs');
@@ -17,33 +15,34 @@ const path = require('path');
 const { logger } = require('../shared');
 const { updateReadme } = require('./readme-generator');
 const { companies, ALL_COMPANIES } = require('./utils');
+const { createAggregatorConsumer } = require('../shared/lib/aggregator-consumer');
+
+// Repo-specific filter config (must match index.js)
+const REPO_FILTERS = { locations: ['us'], employment: 'entry_level' };
 
 async function main() {
     try {
-        logger.start('README regeneration', { mode: 'existing data only' });
+        logger.start('README regeneration', { mode: 'existing data or R2' });
 
-        // Paths to data files
         const currentJobsPath = path.join(__dirname, '../../data/current_jobs.json');
-        const postedJobsPath = path.join(__dirname, '../../data/posted_jobs.json');
+        let allJobs;
 
-        // Check if current_jobs.json exists
-        if (!fs.existsSync(currentJobsPath)) {
-            logger.error('current_jobs.json not found', {
-                expected: currentJobsPath,
-                hint: 'Run full job fetcher first'
+        if (fs.existsSync(currentJobsPath)) {
+            logger.info('Reading existing job data from local file');
+            allJobs = JSON.parse(fs.readFileSync(currentJobsPath, 'utf8'));
+        } else {
+            logger.info('No local data found — fetching from R2');
+            const consumer = createAggregatorConsumer({
+                filters: REPO_FILTERS,
+                verbose: true
             });
-            logger.info('Creating empty data file as placeholder');
-            fs.mkdirSync(path.dirname(currentJobsPath), { recursive: true });
-            fs.writeFileSync(currentJobsPath, '[]', 'utf8');
+            const result = await consumer.fetchJobsWithDiagnostics();
+            allJobs = result.jobs;
+            logger.info('R2 fetch complete', { count: allJobs.length });
         }
-
-        // Read existing job data (current_jobs.json contains all active jobs within 14 days)
-        logger.info('Reading existing job data');
-        const allJobs = JSON.parse(fs.readFileSync(currentJobsPath, 'utf8'));
 
         logger.info('Jobs loaded', { count: allJobs.length });
 
-        // Calculate stats
         const stats = {
             totalByCompany: {},
             byLevel: {},
@@ -56,7 +55,6 @@ async function main() {
             stats.totalByCompany[company] = (stats.totalByCompany[company] || 0) + 1;
         });
 
-        // Update README (without internship data - simplified version)
         logger.info('Generating README.md');
         await updateReadme(allJobs, [], null, stats);
 
@@ -74,5 +72,4 @@ async function main() {
     }
 }
 
-// Run the script
 main();
