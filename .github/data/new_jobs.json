@@ -16384,6 +16384,43 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "bash",
+        "c++",
+        "ci/cd",
+        "computer science",
+        "devops",
+        "embedded systems",
+        "git",
+        "i2c",
+        "linux",
+        "machine learning",
+        "message queue",
+        "networking",
+        "python",
+        "scalability",
+        "scrum",
+        "shell",
+        "shell scripting",
+        "spi",
+        "ssh",
+        "tcp/ip",
+        "uart",
+        "unit testing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 20
+    },
     "job_posted_at": "2026-05-11T01:19:41.864Z"
   },
   {
@@ -16414,6 +16451,40 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "bash",
+        "c++",
+        "ci/cd",
+        "computer science",
+        "devops",
+        "embedded systems",
+        "git",
+        "i2c",
+        "linux",
+        "message queue",
+        "networking",
+        "python",
+        "scalability",
+        "scrum",
+        "shell",
+        "spi",
+        "ssh",
+        "tcp/ip",
+        "uart"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 21
+    },
     "job_posted_at": "2026-05-11T01:19:41.864Z"
   },
   {
@@ -16474,6 +16545,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "computer science",
+        "kubernetes",
+        "observability",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:41.777Z"
   },
   {
@@ -16504,6 +16594,41 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "PostgreSQL",
+        "agentic",
+        "airflow",
+        "api",
+        "api design",
+        "data modeling",
+        "go",
+        "java",
+        "kafka",
+        "python",
+        "rest",
+        "rust",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [
+        "design patterns",
+        "domain driven design",
+        "embeddings",
+        "llm",
+        "rag",
+        "solid principles"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:41.777Z"
   },
   {
@@ -16565,6 +16690,35 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "dbt",
+        "dimensional modeling",
+        "reporting",
+        "snowflake",
+        "sql"
+      ],
+      "nice_to_have_skills": [
+        "data quality",
+        "gdpr",
+        "iso 27001",
+        "metabase",
+        "python",
+        "soc",
+        "soc 2"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:41.777Z"
   },
   {
@@ -16596,6 +16750,28 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "distributed systems",
+        "fine-tuning",
+        "llm",
+        "python",
+        "rust",
+        "scalability"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:41.777Z"
   },
   {
@@ -16628,6 +16804,33 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "concurrency",
+        "distributed systems",
+        "golang",
+        "haskell",
+        "infrastructure as code",
+        "kubernetes",
+        "networking",
+        "python",
+        "rust",
+        "scalability",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:41.777Z"
   },
   {
@@ -17061,6 +17264,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "change management",
+        "embedded systems",
+        "embedding",
+        "networking",
+        "python",
+        "risk management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:41.570Z"
   },
   {
@@ -17181,6 +17405,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "regression"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9
+    },
     "job_posted_at": "2026-05-11T01:19:41.398Z"
   },
   {
@@ -17211,6 +17450,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "routing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9
+    },
     "job_posted_at": "2026-05-11T01:19:41.398Z"
   },
   {
@@ -17241,6 +17495,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cadence",
+        "python",
+        "routing",
+        "synopsys"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9
+    },
     "job_posted_at": "2026-05-11T01:19:41.398Z"
   },
   {
@@ -17271,6 +17543,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "allegro",
+        "cadence"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9
+    },
     "job_posted_at": "2026-05-11T01:19:41.398Z"
   },
   {
@@ -17332,6 +17620,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "ips",
+        "python",
+        "pytorch",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9
+    },
     "job_posted_at": "2026-05-11T01:19:41.397Z"
   },
   {
@@ -17718,6 +18025,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "distributed systems",
+        "java",
+        "python",
+        "ruby"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:19:41.184Z"
   },
   {
@@ -17750,6 +18077,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "django",
+        "express",
+        "rails",
+        "sql"
+      ],
+      "nice_to_have_skills": [
+        "api",
+        "distributed systems"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 19
+    },
     "job_posted_at": "2026-05-11T01:19:41.184Z"
   },
   {
@@ -17782,6 +18130,28 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "computer science",
+        "data analysis",
+        "design patterns",
+        "react",
+        "ruby",
+        "sql",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:19:41.184Z"
   },
   {
@@ -17814,6 +18184,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "solidity"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:19:41.184Z"
   },
   {
@@ -17979,6 +18365,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "observability",
+        "program management",
+        "sdk",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:41.184Z"
   },
   {
@@ -18012,6 +18417,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "computer science",
+        "program management",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:19:41.184Z"
   },
   {
@@ -18398,6 +18821,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "go",
+        "java",
+        "javascript",
+        "nextjs",
+        "python",
+        "react",
+        "typescript",
+        "web3"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:41.183Z"
   },
   {
@@ -18430,6 +18876,31 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "api design",
+        "arm",
+        "data modeling",
+        "distributed systems",
+        "go",
+        "java",
+        "javascript",
+        "react",
+        "ruby",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:41.183Z"
   },
   {
@@ -18464,6 +18935,32 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "distributed systems",
+        "embedding",
+        "embeddings",
+        "fine-tuning",
+        "llm",
+        "machine learning",
+        "observability",
+        "python",
+        "rag",
+        "ruby"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:41.183Z"
   },
   {
@@ -18691,6 +19188,34 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "api",
+        "ci/cd",
+        "computer science",
+        "embedded systems",
+        "firmware",
+        "github",
+        "github actions",
+        "gitlab",
+        "gitlab ci",
+        "go",
+        "java",
+        "jenkins",
+        "kotlin"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:19:41.182Z"
   },
   {
@@ -18755,6 +19280,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:19:41.182Z"
   },
   {
@@ -18815,6 +19355,41 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "ci/cd",
+        "computer science",
+        "dast",
+        "data architecture",
+        "gcp",
+        "git",
+        "go",
+        "incident response",
+        "java",
+        "javascript",
+        "owasp",
+        "python",
+        "ruby",
+        "sast",
+        "threat modeling",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:41.020Z"
   },
   {
@@ -18971,6 +19546,36 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "aws",
+        "azure",
+        "cloudformation",
+        "dns",
+        "firewalls",
+        "gcp",
+        "iam",
+        "infrastructure as code",
+        "llm",
+        "networking",
+        "pulumi",
+        "routing",
+        "statistics",
+        "tcp/ip",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:41.019Z"
   },
   {
@@ -19001,6 +19606,32 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "aws",
+        "azure",
+        "gcp",
+        "hyper-v",
+        "infrastructure as code",
+        "linux",
+        "site reliability engineering",
+        "sre",
+        "terraform",
+        "vmware",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:41.015Z"
   },
   {
@@ -19151,6 +19782,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "excel",
+        "fiber",
+        "network security",
+        "networking",
+        "rf",
+        "routing",
+        "soldering",
+        "tcp/ip",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.809Z"
   },
   {
@@ -19213,6 +19868,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "erp",
+        "failure mode",
+        "gd&t",
+        "kaizen",
+        "lean manufacturing",
+        "six sigma"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.809Z"
   },
   {
@@ -19243,6 +19918,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "flux"
+      ],
+      "nice_to_have_skills": [
+        "aws"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.809Z"
   },
   {
@@ -19333,6 +20025,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "root cause analysis",
+        "sql",
+        "statistical process control"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.809Z"
   },
   {
@@ -19514,6 +20224,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "flux"
+      ],
+      "nice_to_have_skills": [
+        "aws"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.809Z"
   },
   {
@@ -19604,6 +20331,39 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "angular",
+        "api",
+        "ci/cd",
+        "computer science",
+        "continuous delivery",
+        "continuous integration",
+        "css",
+        "data science",
+        "docker",
+        "html",
+        "javascript",
+        "kubernetes",
+        "machine learning",
+        "observability",
+        "react",
+        "rest",
+        "typescript",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.804Z"
   },
   {
@@ -19634,6 +20394,39 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "angular",
+        "api",
+        "ci/cd",
+        "computer science",
+        "continuous delivery",
+        "continuous integration",
+        "css",
+        "data science",
+        "docker",
+        "html",
+        "javascript",
+        "kubernetes",
+        "machine learning",
+        "observability",
+        "react",
+        "rest",
+        "typescript",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.804Z"
   },
   {
@@ -19664,6 +20457,39 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "angular",
+        "api",
+        "ci/cd",
+        "computer science",
+        "continuous delivery",
+        "continuous integration",
+        "css",
+        "data science",
+        "docker",
+        "html",
+        "javascript",
+        "kubernetes",
+        "machine learning",
+        "observability",
+        "react",
+        "rest",
+        "typescript",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.804Z"
   },
   {
@@ -19784,6 +20610,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.804Z"
   },
   {
@@ -19814,6 +20653,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.804Z"
   },
   {
@@ -19905,6 +20757,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.804Z"
   },
   {
@@ -19935,6 +20802,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "as9100",
+        "erp"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.804Z"
   },
   {
@@ -20087,6 +20970,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "erp",
+        "failure mode",
+        "gd&t",
+        "kaizen",
+        "lean",
+        "lean manufacturing",
+        "six sigma"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.803Z"
   },
   {
@@ -20117,6 +21021,39 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "python"
+      ],
+      "nice_to_have_skills": [
+        "ansys",
+        "comsol",
+        "continuous integration",
+        "fastapi",
+        "flask",
+        "javascript",
+        "linux",
+        "machine learning",
+        "nx",
+        "postgresql",
+        "react",
+        "sql",
+        "sql server",
+        "three.js"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.803Z"
   },
   {
@@ -20147,6 +21084,37 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "linux",
+        "networking",
+        "windows"
+      ],
+      "nice_to_have_skills": [
+        "devops",
+        "dhcp",
+        "dns",
+        "fault tolerance",
+        "firewalls",
+        "high availability",
+        "infrastructure as code",
+        "routing",
+        "sql",
+        "statistics",
+        "switching",
+        "windows server"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20177,6 +21145,37 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "linux",
+        "networking",
+        "windows"
+      ],
+      "nice_to_have_skills": [
+        "devops",
+        "dhcp",
+        "dns",
+        "fault tolerance",
+        "firewalls",
+        "high availability",
+        "infrastructure as code",
+        "routing",
+        "sql",
+        "statistics",
+        "switching",
+        "windows server"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20237,6 +21236,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "root cause analysis",
+        "sql",
+        "statistical process control"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20267,6 +21284,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "python",
+        "reporting",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20297,6 +21332,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "failure mode",
+        "ids",
+        "lean manufacturing",
+        "pfmea",
+        "root cause analysis",
+        "statistical process control"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20327,6 +21382,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "semiconductors"
+      ],
+      "nice_to_have_skills": [
+        "agile",
+        "autocad",
+        "c++",
+        "cad",
+        "labview",
+        "matlab",
+        "robotics",
+        "solidworks"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20357,6 +21436,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "bash",
+        "grafana",
+        "networking",
+        "powershell",
+        "prometheus",
+        "python",
+        "terraform",
+        "vendor management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20387,6 +21489,42 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "devops"
+      ],
+      "nice_to_have_skills": [
+        "ci/cd",
+        "crm",
+        "docker",
+        "erp",
+        "fault tolerance",
+        "firewalls",
+        "grafana",
+        "high availability",
+        "incident response",
+        "infrastructure as code",
+        "kubernetes",
+        "networking",
+        "observability",
+        "prometheus",
+        "routing",
+        "servicenow",
+        "soc",
+        "splunk",
+        "statistics",
+        "switching"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20597,6 +21735,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20627,6 +21778,28 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "fiber",
+        "i2c",
+        "labview",
+        "linux",
+        "python",
+        "spi",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
@@ -20717,6 +21890,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "ray"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.801Z"
   },
   {
@@ -20777,6 +21966,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "microsoft office"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.801Z"
   },
   {
@@ -20807,6 +22012,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cadence"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 22
+    },
     "job_posted_at": "2026-05-11T01:19:40.801Z"
   },
   {
@@ -20837,6 +22057,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "project management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.801Z"
   },
   {
@@ -21377,6 +22613,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "root cause analysis",
+        "sql",
+        "statistical process control"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.800Z"
   },
   {
@@ -21677,6 +22931,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "excel",
+        "hmi",
+        "microsoft office",
+        "multimeter",
+        "oscilloscope",
+        "plc",
+        "soldering",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.800Z"
   },
   {
@@ -21707,6 +22984,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "excel",
+        "microsoft office",
+        "multimeter",
+        "oscilloscope",
+        "soldering",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:40.800Z"
   },
   {
@@ -22136,6 +23434,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.661Z"
   },
   {
@@ -22166,6 +23488,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.661Z"
   },
   {
@@ -22196,6 +23542,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.661Z"
   },
   {
@@ -22226,6 +23596,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.661Z"
   },
   {
@@ -22256,6 +23650,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.661Z"
   },
   {
@@ -22286,6 +23704,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22316,6 +23758,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22346,6 +23812,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22376,6 +23866,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22406,6 +23920,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22436,6 +23974,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22466,6 +24028,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22496,6 +24082,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22526,6 +24136,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22556,6 +24190,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22586,6 +24244,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22616,6 +24298,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22646,6 +24352,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22676,6 +24406,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22706,6 +24460,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22736,6 +24514,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22766,6 +24568,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22796,6 +24622,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22826,6 +24676,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22856,6 +24730,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22886,6 +24784,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -22916,6 +24838,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "bash",
+        "computer science",
+        "docker",
+        "gcp",
+        "ios",
+        "linux",
+        "python",
+        "terraform",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:39.660Z"
   },
   {
@@ -23068,6 +25014,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "android studio",
+        "arm",
+        "c++",
+        "computer science",
+        "embedded systems",
+        "firmware",
+        "java",
+        "kotlin"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:39.395Z"
   },
   {
@@ -23219,6 +25188,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 27
+    },
     "job_posted_at": "2026-05-11T01:19:39.379Z"
   },
   {
@@ -23490,6 +25475,41 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "Kubernetes",
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "business intelligence",
+        "cadence",
+        "computer science",
+        "data analysis",
+        "data modeling",
+        "data warehouse",
+        "distributed systems",
+        "gcp",
+        "graphql",
+        "python",
+        "rust",
+        "scalability",
+        "snowflake",
+        "spark",
+        "sql",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:38.959Z"
   },
   {
@@ -23520,6 +25540,41 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "Kubernetes",
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "business intelligence",
+        "cadence",
+        "computer science",
+        "data analysis",
+        "data modeling",
+        "data warehouse",
+        "distributed systems",
+        "gcp",
+        "graphql",
+        "python",
+        "rust",
+        "scalability",
+        "snowflake",
+        "spark",
+        "sql",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:38.959Z"
   },
   {
@@ -23550,6 +25605,35 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "ci/cd",
+        "computer science",
+        "data architecture",
+        "data warehouse",
+        "gcp",
+        "k6",
+        "python",
+        "rust",
+        "snowflake",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:19:38.959Z"
   },
   {
@@ -23610,6 +25694,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "project management",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:38.786Z"
   },
   {
@@ -23730,6 +25830,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "linear"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:38.785Z"
   },
   {
@@ -23881,6 +25997,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing"
+      ],
+      "nice_to_have_skills": [
+        "data quality",
+        "observability",
+        "rag",
+        "salesforce"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:19:38.785Z"
   },
   {
@@ -24066,6 +26202,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "bash",
+        "cisco",
+        "google workspace",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:38.443Z"
   },
   {
@@ -24097,6 +26252,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "genai",
+        "generative ai",
+        "llm",
+        "python",
+        "scalability",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:38.443Z"
   },
   {
@@ -24220,6 +26395,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "computer science",
+        "salesforce",
+        "zendesk"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 26
+    },
     "job_posted_at": "2026-05-11T01:19:38.230Z"
   },
   {
@@ -24532,6 +26726,39 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agile",
+        "api",
+        "aws",
+        "azure",
+        "computer science",
+        "confluence",
+        "data integration",
+        "data visualization",
+        "gcp",
+        "github",
+        "javascript",
+        "jira",
+        "llm",
+        "prompt engineering",
+        "python",
+        "scalability",
+        "sql",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 25
+    },
     "job_posted_at": "2026-05-11T01:19:38.229Z"
   },
   {
@@ -24719,6 +26946,33 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "embeddings",
+        "genai",
+        "generative ai",
+        "langchain",
+        "llamaindex",
+        "mcp",
+        "observability",
+        "openai",
+        "prompt engineering",
+        "python",
+        "rag",
+        "sdk"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 26
+    },
     "job_posted_at": "2026-05-11T01:19:38.228Z"
   },
   {
@@ -24962,6 +27216,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "cisco",
+        "computer science",
+        "reinforcement learning"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:19:38.046Z"
   },
   {
@@ -24992,6 +27265,34 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "analytics",
+        "cisco",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "dbt",
+        "javascript",
+        "looker",
+        "metabase",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:38.046Z"
   },
   {
@@ -25143,6 +27444,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "cisco",
+        "deep learning",
+        "genai",
+        "generative ai",
+        "machine learning"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 13
+    },
     "job_posted_at": "2026-05-11T01:19:38.046Z"
   },
   {
@@ -25173,6 +27495,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "cisco",
+        "edr",
+        "gcp",
+        "go",
+        "incident response",
+        "python",
+        "siem"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 13
+    },
     "job_posted_at": "2026-05-11T01:19:38.046Z"
   },
   {
@@ -25203,6 +27548,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++"
+      ],
+      "nice_to_have_skills": [
+        "excel",
+        "generative ai"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 13
+    },
     "job_posted_at": "2026-05-11T01:19:37.963Z"
   },
   {
@@ -25324,6 +27687,42 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "aws",
+        "azure",
+        "c++",
+        "ci/cd",
+        "computer science",
+        "docker",
+        "fine-tuning",
+        "gcp",
+        "go",
+        "information security",
+        "iso 27001",
+        "javascript",
+        "kubernetes",
+        "microservices",
+        "penetration testing",
+        "python",
+        "reporting",
+        "scala",
+        "threat modeling",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:37.593Z"
   },
   {
@@ -25594,6 +27993,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "c#",
+        "ci/cd",
+        "root cause analysis",
+        "sql",
+        "sql server"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:37.518Z"
   },
   {
@@ -25624,6 +28043,45 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "active directory",
+        "ansible",
+        "api",
+        "continuous delivery",
+        "continuous integration",
+        "dhcp",
+        "dns",
+        "docker",
+        "git",
+        "infrastructure as code",
+        "kubernetes",
+        "linux",
+        "mssql",
+        "mysql",
+        "perforce",
+        "powershell",
+        "pulumi",
+        "puppet",
+        "python",
+        "rhel",
+        "terraform",
+        "ubuntu",
+        "vmware",
+        "windows",
+        "windows server"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:37.518Z"
   },
   {
@@ -25687,6 +28145,36 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "cloudflare",
+        "docker",
+        "gcp",
+        "github",
+        "go",
+        "hugging face",
+        "kubernetes",
+        "lambda",
+        "python",
+        "pytorch",
+        "rust",
+        "slack",
+        "transformers",
+        "typescript",
+        "vercel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:37.514Z"
   },
   {
@@ -25719,6 +28207,28 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "distributed systems",
+        "incident response",
+        "infrastructure as code",
+        "linux",
+        "networking",
+        "observability",
+        "slack",
+        "sre"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:19:37.514Z"
   },
   {
@@ -26140,6 +28650,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "high availability",
+        "networking",
+        "root cause analysis",
+        "scalability"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": true,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:19:36.974Z"
   },
   {
@@ -26452,6 +28980,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data science",
+        "data visualization",
+        "machine learning",
+        "python",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 23
+    },
     "job_posted_at": "2026-05-11T01:19:36.906Z"
   },
   {
@@ -26664,6 +29213,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "as9100",
+        "lean",
+        "lean manufacturing",
+        "pcb design",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 9
+    },
     "job_posted_at": "2026-05-11T01:19:36.616Z"
   },
   {
@@ -26724,6 +29292,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "cadence",
+        "nx",
+        "project management",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:36.616Z"
   },
   {
@@ -26785,6 +29373,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "as9100",
+        "lean",
+        "lean manufacturing",
+        "pcb design",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:36.616Z"
   },
   {
@@ -26907,6 +29514,31 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "excel",
+        "jmp",
+        "minitab",
+        "pfmea",
+        "program management",
+        "python",
+        "r",
+        "spc",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:36.256Z"
   },
   {
@@ -26937,6 +29569,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "jama",
+        "matlab",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:36.256Z"
   },
   {
@@ -26997,6 +29646,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "fault tree",
+        "fault tree analysis",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:36.255Z"
   },
   {
@@ -27057,6 +29724,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "firmware",
+        "program management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:36.255Z"
   },
   {
@@ -27117,6 +29801,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "distributed systems",
+        "kubernetes",
+        "scalability",
+        "site reliability engineering",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:19:36.255Z"
   },
   {
@@ -27336,6 +30039,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "anthropic",
+        "crm",
+        "generative ai",
+        "marketo",
+        "openai",
+        "reporting",
+        "salesforce"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:19:36.036Z"
   },
   {
@@ -27368,6 +30094,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "anthropic",
+        "crm",
+        "generative ai",
+        "marketo",
+        "openai",
+        "reporting",
+        "salesforce"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:19:36.036Z"
   },
   {
@@ -27519,6 +30268,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "linux",
+        "soldering",
+        "solidworks"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:36.036Z"
   },
   {
@@ -27640,6 +30407,25 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "django",
+        "graphql",
+        "next.js",
+        "react",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 4
+    },
     "job_posted_at": "2026-05-11T01:19:35.964Z"
   },
   {
@@ -27671,6 +30457,30 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "api",
+        "cybersecurity",
+        "iam",
+        "javascript",
+        "jira",
+        "python",
+        "root cause analysis",
+        "siem",
+        "zendesk"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 4
+    },
     "job_posted_at": "2026-05-11T01:19:35.964Z"
   },
   {
@@ -27732,6 +30542,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "pcb design",
+        "ssd",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:35.789Z"
   },
   {
@@ -27762,6 +30589,41 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "aws",
+        "distributed systems",
+        "embeddings",
+        "llm",
+        "prompt engineering",
+        "python",
+        "rag",
+        "restful",
+        "system design",
+        "vector database"
+      ],
+      "nice_to_have_skills": [
+        "ci/cd",
+        "datadog",
+        "docker",
+        "kubernetes",
+        "observability",
+        "opensearch",
+        "prometheus",
+        "servicenow",
+        "snowflake"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:35.789Z"
   },
   {
@@ -27792,6 +30654,41 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "aws",
+        "distributed systems",
+        "embeddings",
+        "llm",
+        "prompt engineering",
+        "python",
+        "rag",
+        "restful",
+        "system design",
+        "vector database"
+      ],
+      "nice_to_have_skills": [
+        "ci/cd",
+        "datadog",
+        "docker",
+        "kubernetes",
+        "observability",
+        "opensearch",
+        "prometheus",
+        "servicenow",
+        "snowflake"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:35.789Z"
   },
   {
@@ -27822,6 +30719,41 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "bash",
+        "change management",
+        "datadog",
+        "high availability",
+        "iam",
+        "information security",
+        "infrastructure as code",
+        "nist",
+        "observability",
+        "pki",
+        "powershell",
+        "prometheus",
+        "python",
+        "reporting",
+        "root cause analysis",
+        "scalability",
+        "splunk",
+        "terraform",
+        "vault",
+        "zero trust"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:35.788Z"
   },
   {
@@ -27853,6 +30785,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "networking",
+        "tcp/ip",
+        "vmware"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:35.788Z"
   },
   {
@@ -27884,6 +30833,31 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "pfmea",
+        "project management"
+      ],
+      "nice_to_have_skills": [
+        "agile",
+        "erp",
+        "lean six sigma",
+        "netsuite",
+        "six sigma"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 13
+    },
     "job_posted_at": "2026-05-11T01:19:35.788Z"
   },
   {
@@ -27914,6 +30888,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "gcp",
+        "iso 27001",
+        "nist",
+        "risk management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:35.788Z"
   },
   {
@@ -494794,7 +497788,7 @@
   },
   {
     "job_id": "workday-takeda-R0179558",
-    "job_title": "EMT ��� (AEMT or EMT-I)",
+    "job_title": "EMT – (AEMT or EMT-I)",
     "employer_name": "Takeda",
     "job_city": "OK - Oklahoma City",
     "job_state": "",
@@ -519991,133 +522985,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-04T02:34:08.388Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2496333",
-    "job_title": "(USA) Technician, Refrigeration/HVAC",
-    "employer_name": "Walmart",
-    "job_city": "(USA) SC SUMMERVILLE 00628 WM SUPERCENTER",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) SC SUMMERVILLE 00628 WM SUPERCENTER",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-SC-SUMMERVILLE-00628-WM-SUPERCENTER/XMLNAME--USA--Technician--Refrigeration-HVAC_R-2496333",
-    "job_posted_at_datetime_utc": "2026-05-04T01:53:40.770Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b1b0802ea173c52b123861594e2c0281c1adc2b07c507b7b9ea0b52f6b19fe9d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T01:53:40.770Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2498619",
-    "job_title": "(USA) Carwash/Gas Attendant",
-    "employer_name": "Walmart",
-    "job_city": "(USA) VA RICHMOND 06343 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) VA RICHMOND 06343 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-RICHMOND-06343-SAMS-CLUB/XMLNAME--USA--Carwash-Gas-Attendant_R-2498619",
-    "job_posted_at_datetime_utc": "2026-05-04T01:53:40.770Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec02c7c9de85393675175f1e22a6b60a7abccc0f12ce0873400a098f2257924c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "logistics"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T01:53:40.770Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2495813",
-    "job_title": "(USA) Technician, Refrigeration/HVAC",
-    "employer_name": "Walmart",
-    "job_city": "(USA) OH CINCINNATI 01521 WM SUPERCENTER",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) OH CINCINNATI 01521 WM SUPERCENTER",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-CINCINNATI-01521-WM-SUPERCENTER/XMLNAME--USA--Technician--Refrigeration-HVAC_R-2495813",
-    "job_posted_at_datetime_utc": "2026-05-04T01:53:40.770Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "192de39ae02151da1681b2b3b4c1ee6e40abf1f131b488845daa1ba347cfae4d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T01:53:40.770Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2498615",
-    "job_title": "(USA) Freight Flow Associate",
-    "employer_name": "Walmart",
-    "job_city": "(USA) VA RICHMOND 06343 SAM'S CLUB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) VA RICHMOND 06343 SAM'S CLUB",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-RICHMOND-06343-SAMS-CLUB/XMLNAME--USA--Freight-Flow-Associate_R-2498615",
-    "job_posted_at_datetime_utc": "2026-05-04T01:53:40.770Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3e7a2783eb8d18315c0af8b16a98915dfe82f689ca69a65d1d4c0fff6f085d81",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "logistics"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T01:53:40.770Z"
   }
 ]
