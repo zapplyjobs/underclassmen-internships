@@ -15,7 +15,7 @@ const path = require('path');
 const { logger } = require('../shared');
 const { updateReadme } = require('./readme-generator');
 const { companies, ALL_COMPANIES } = require('./utils');
-const { createAggregatorConsumer } = require('../shared/lib/aggregator-consumer');
+const { createAggregatorConsumer } = require('../consumer/lib/aggregator-consumer');
 
 // Repo-specific filter config (must match index.js)
 const REPO_FILTERS = { locations: ['us'], employment: 'entry_level' };
