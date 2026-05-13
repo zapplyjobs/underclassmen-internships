@@ -33,7 +33,7 @@ jobs:
     - name: Install dependencies
       run: |
         npm install axios
-        cd .github/scripts/shared && npm install
+        cd .github/scripts/shared && npm install && cd $GITHUB_WORKSPACE/.github/scripts/consumer && npm install
 
     - name: Update README from existing data
       env:
