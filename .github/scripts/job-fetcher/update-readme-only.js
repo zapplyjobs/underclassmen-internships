@@ -12,7 +12,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { logger } = require('../shared');
+const { logger } = require('../consumer');
 const { updateReadme } = require('./readme-generator');
 const { companies, ALL_COMPANIES } = require('./utils');
 const { createAggregatorConsumer } = require('../consumer/lib/aggregator-consumer');
