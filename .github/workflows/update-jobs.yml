@@ -64,7 +64,7 @@ jobs:
       env:
         DISCORD_TEAM_TOKEN: ${{ secrets.DISCORD_TEAM_TOKEN }}
         DISCORD_ALERT_CHANNEL_ID: "1477002891234512916"
-        REPO_NAME: New-Grad-Jobs-2026
+        REPO_NAME: ${{ github.event.repository.name }}
       run: |
         mkdir -p .github/data
         export CURR_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
