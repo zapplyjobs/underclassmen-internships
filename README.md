@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17316-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17312-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -475,8 +475,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🔷 **Intel** | Supply Chain Engineer | Oregon Hillsboro ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Engineer_JR0283876) |
 | 🏢 **Micron** | HVM Area Manufacturing Engineer - PVD and CVD | Boise, ID - Main ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HVM-Area-Manufacturing-Engineer---PVD-and-CVD_JR97967) |
 | 🔷 **Intel** | Mechanical Engineer | Costa Rica, San Jose | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Mechanical-Engineer_JR0283977) |
-| 🏢 **Western Digital** | Wafer Manufacturing Process Engineer | Fremont, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000126413175) |
-| ☁️ **Salesforce** | Manager, Systems Engineering | Herndon | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Herndon/Manager--Systems-Engineering_JR341315) |
+| 🏢 **Western Digital** | Wafer Manufacturing Process Engineer | Fremont, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000126413175) |
+| ☁️ **Salesforce** | Manager, Systems Engineering | Herndon | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Herndon/Manager--Systems-Engineering_JR341315) |
 | 🏢 **Schweitzer Engineering Laboratories** | Embedded Systems Engineer | Moscow, ID | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/FPGA-Design-Engineer_2025-18317) |
 | 🏢 **Amentum** | Entry Level Electrical/RF Engineer | Dahlgren, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrical-RF-Engineer_R0161386) |
 | 🏢 **Motorola Solutions** | Systems Engineer | Elgin, IL, More... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Systems-Engineer_R60796-1) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17316 current opportunities from 636 companies**
+**🎯 17312 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
