@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17413-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17389-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-637-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -244,8 +244,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mistral AI** | Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto | Palo Alto | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328/apply) |
 | 🏢 **Match Group** | Data Scientist | Los Angeles, Cali... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/matchgroup/aff4cec0-abaf-44bc-adfc-e99e740f5c3a/apply) |
 | 🟢 **Waymo** | Machine Learning Engineer, ML Resources | Mountain View, CA... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7424806) |
-| 🏢 **Motorola Solutions** | Data Scientist | Schaumburg, IL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Scientist_R64936) |
-| 🏢 **Motorola Solutions** | Jr. Data Engineer | Salt Lake City, UT | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Jr-Data-Engineer_R63972) |
+| 🏢 **Motorola Solutions** | Data Scientist | Schaumburg, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Scientist_R64936) |
+| 🏢 **Motorola Solutions** | Jr. Data Engineer | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Jr-Data-Engineer_R63972) |
 | 🧠 **Anthropic** | Product Management, Human Data Platform | San Francisco, CA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5195866008) |
 | 🏢 **Caterpillar** | Business Analyst Technical Specialist | Morton, Illinois | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Morton-Illinois/Business-Analyst-Technical-Specialist_R0000368855) |
 | 🏢 **Thermo Fisher Scientific** | Data Science Manager | Wilmington North ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-North-Carolina-USA/Data-Science-Manager_R-01350875) |
@@ -489,9 +489,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Disney** | Mechanical Engineer – Utilities Projects | Lake Buena Vista,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Mechanical-Engineer---Utilities-Projects_10143609) |
 | 🏢 **Relativity Space** | Propulsion Manufacturing Engineer I, Combustion Devices | Long Beach, Calif... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8548777002?gh_jid=8548777002) |
 | 🍎 **Apple** | Software Quality Engineer | Sunnyvale | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663097/software-quality-engineer) |
-| 🏢 **Astera Labs** | Product Quality Engineer (NCG) | San Jose, Califor... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4695147005) |
-| 🟦 **Microsoft** | Software Quality Engineering IC1 | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556863597) |
-| 🏢 **Johnson Controls** | HVAC Truck Based Service Controls Engineer | Florida | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Tampa-Florida-United-States-of-America/HVAC-Truck-Based-Service-Controls-Engineer_WD30268879-1) |
+| 🏢 **Astera Labs** | Product Quality Engineer (NCG) | San Jose, Califor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4695147005) |
+| 🟦 **Microsoft** | Software Quality Engineering IC1 | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556863597) |
+| 🏢 **Johnson Controls** | HVAC Truck Based Service Controls Engineer | Florida | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Tampa-Florida-United-States-of-America/HVAC-Truck-Based-Service-Controls-Engineer_WD30268879-1) |
 | 🏢 **Moog** | Mechanical Engineer | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Mechanical-Engineer_R-26-17663) |
 | 🏢 **Western Digital** | Technologist, RFIC Design Engineer | San Jose, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000126398519) |
 | 🏢 **Pure Storage** | Pre-Sales Systems Engineer, SLED-NJ | Newark, New Jersey | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7776197) |
@@ -739,10 +739,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | Plasma Center Nurse - RN | MI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---MI---Detroit/Plasma-Center-Nurse---RN_R0180257-1) |
 | 🏢 **Oscar Health** | Nurse Practitioner - Virtual Health Assessment | Remote (Texas) | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7843225?gh_jid=7843225) |
 | 🏢 **Cigna** | Part Time Nurse Practitioner- Kissimmee, FL | City of Kissimmee | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---City-of-Kissimmee---100-North-Alaska-Ave---Kissimmee-FL/Part-Time-Nurse-Practitioner--Kissimmee--FL_26005876) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA | Virginia | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
+| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA | Virginia | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
 | 🏢 **Merck & Co.** | Specialist, Global Employee Health- Registered Nurse (Wilson, NC) | North Carolina | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Global-Employee-Health--Registered-Nurse--Wilson--NC-_R397315) |
 | 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
-| 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Crestone CO | Colorado | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Colorado-Springs/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings---Delta--CO_31113914) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -909,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17413 current opportunities from 637 companies**
+**🎯 17389 current opportunities from 637 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
