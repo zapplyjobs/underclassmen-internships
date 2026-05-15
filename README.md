@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17306-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17302-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -328,7 +328,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🍎 **Apple** | Software Security Engineer, Enterprise Technology Services | Austin | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661977/software-security-engineer-enterprise-technology-services) |
 | 🟢 **Google** | Security Engineer | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
 | 🟢 **Google** | Security Engineer, National Security | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122934761894093510) |
-| 🏢 **Glean** | Cloud Security Engineer | US | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694835005) |
+| 🏢 **Glean** | Cloud Security Engineer | US | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694835005) |
 | 🏢 **Glean** | Application Security Engineer | US | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4694831005) |
 | 🚀 **SpaceX** | Information Security Analyst | Hawthorne, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8517412002?gh_jid=8517412002) |
 | 🏢 **Benchling** | Enterprise Security Engineer | Remote, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/6f9e4f51-0980-4fe0-b9c2-aff05839e164/application) |
@@ -351,7 +351,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | Cybersecurity - Information System Security Manager (ISSM) | Herndon, VA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026499917-1) |
 | 🏢 **Modal** | Infrastructure Security Engineer | New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/modal/8de60620-09bf-4905-910f-a290814a29ee/application) |
 | 🏢 **Persona** | Product Security Engineer | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/persona/bff2649a-6931-4aa6-a223-022230122671/application) |
-| 🚀 **SpaceX** | Security Analyst (Detection and Incident Response) | Hawthorne, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8525400002?gh_jid=8525400002) |
+| 🚀 **SpaceX** | Security Analyst (Detection and Incident Response) | Hawthorne, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8525400002?gh_jid=8525400002) |
 | 🏢 **Intuitive** | Information Security Project Manager | Sunnyvale, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000125946829) |
 | 🏢 **Boeing** | Experienced Product Security Engineer | Seattle, WA + 2 more | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Experienced-Product-Security-Engineer_JR2026509921-1) |
 | 🏢 **Boeing** | Experienced Product Security Engineer (Virtual) | Remote | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Experienced-Product-Security-Engineer--Virtual-_JR2026509762-1) |
@@ -471,9 +471,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Anti-Tamper Systems Engineer | Arlington, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/FMS-Anti-Tamper-Systems-Engineer_R0238874) |
 | 🏢 **Sierra Nevada Corporation** | Military Fellowship Program: Mechanical Engineer | Miamisburg, OH - ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Miamisburg-OH---OH_OD7/Military-Fellowship-Program--Mechanical-Engineer_R0029924) |
 | 🏢 **Sierra Nevada Corporation** | Military Fellowship Program: Mechanical Engineer | Plano, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Plano-TX/Military-Fellowship-Program--Mechanical-Engineer_R0029925) |
-| 🏢 **Relativity Space** | Global Supply Manager, Avionics | Long Beach, Calif... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8512908002?gh_jid=8512908002) |
-| 🔷 **Intel** | Supply Chain Engineer | Oregon Hillsboro ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Engineer_JR0283876) |
-| 🏢 **Micron** | HVM Area Manufacturing Engineer - PVD and CVD | Boise, ID - Main ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HVM-Area-Manufacturing-Engineer---PVD-and-CVD_JR97967) |
+| 🏢 **Relativity Space** | Global Supply Manager, Avionics | Long Beach, Calif... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8512908002?gh_jid=8512908002) |
+| 🔷 **Intel** | Supply Chain Engineer | Oregon Hillsboro ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Engineer_JR0283876) |
+| 🏢 **Micron** | HVM Area Manufacturing Engineer - PVD and CVD | Boise, ID - Main ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HVM-Area-Manufacturing-Engineer---PVD-and-CVD_JR97967) |
 | 🔷 **Intel** | Mechanical Engineer | Costa Rica, San Jose | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Mechanical-Engineer_JR0283977) |
 | 🏢 **Western Digital** | Wafer Manufacturing Process Engineer | Fremont, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000126413175) |
 | ☁️ **Salesforce** | Manager, Systems Engineering | Herndon | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Herndon/Manager--Systems-Engineering_JR341315) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17306 current opportunities from 636 companies**
+**🎯 17302 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
