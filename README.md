@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17746-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17741-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-637-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -251,7 +251,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Thermo Fisher Scientific** | Data Science Manager | Wilmington North ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-North-Carolina-USA/Data-Science-Manager_R-01350875) |
 | 🔷 **Intel** | Data Scientist | US, Arizona, Phoenix | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787) |
 | 🧠 **Anthropic** | People Research Scientist | San Francisco, CA... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5113785008) |
-| 🏢 **Datadog** | Associate Marketing Data Analyst - Marketing Analytics | New York, New Yor... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084) |
+| 🏢 **Datadog** | Associate Marketing Data Analyst - Marketing Analytics | New York, New Yor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084) |
 | 🏢 **Lowe's** | Data Analytics Consultant - Store Ops AI & Innovation | Mooresville, NC (... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Data-Analytics-Consultant---Store-Ops---AI-Innovation_JR-02518511) |
 | 🏢 **Capital One** | Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning) | McLean, VA + 3 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I--AI-Foundations--LLM-Customization--Finetuning--Reinforcement-Learning-_R242196) |
 | 🏢 **RTX** | F135 LSC Data Engineer (Onsite) | Miamisburg, OH | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OH-MIAMISBURG-THE-PIKE-CUST--9595-N-Springboro-Pike--OH-MIAMISBURG-THE-PIKE-BLDG-6-External-Site/F135-LSC-Data-Engineer--Onsite-_01843641) |
@@ -309,10 +309,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🦊 **GitLab** | Software Security Engineer | Remote, Canada; R... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8516916002) |
 | 🏢 **Leidos** | Vulnerability Management Engineer | 6314 Remote/Telew... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Vulnerability-Management-Engineer_R-00183253) |
 | 🏢 **Johnson Controls** | Cybersecurity Technical Program Manager | Massachusetts | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Cybersecurity-Technical-Program-Manager_WD30268644-1) |
-| 🏢 **Tanium** | Security Engineer | Emeryville, CA (H... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tanium/jobs/7922506) |
-| 🏢 **Tanium** | Security Engineer | Bellevue, WA (Hyb... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tanium/jobs/7922504) |
-| 🏢 **State Street** | Information Security Officer | Quincy Massachuse... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Information-Security-Officer_R-790211) |
-| 🏢 **Tanium** | Security Engineer | Addison, TX (Hybrid) | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tanium/jobs/7922497) |
+| 🏢 **Tanium** | Security Engineer | Emeryville, CA (H... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tanium/jobs/7922506) |
+| 🏢 **Tanium** | Security Engineer | Bellevue, WA (Hyb... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tanium/jobs/7922504) |
+| 🏢 **State Street** | Information Security Officer | Quincy Massachuse... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Information-Security-Officer_R-790211) |
+| 🏢 **Tanium** | Security Engineer | Addison, TX (Hybrid) | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tanium/jobs/7922497) |
 | 🏢 **Leidos** | Cybersecurity Analyst | Dahlgren, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Dahlgren-VA/Cybersecurity-Analyst_R-00183238-1) |
 | 🏢 **CACI** | Information Systems Security Engineer (level 3) | Fort Meade, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Fort-Meade/Information-Systems-Security-Engineer--level-3-_325912) |
 | 🏢 **Motorola Solutions** | Presales Business Manager - Cybersecurity | Allen, TX (TX139)... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Presales-Business-Manager---Cybersecurity_R64778) |
@@ -334,9 +334,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Benchling** | Enterprise Security Engineer | Remote, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/benchling/6f9e4f51-0980-4fe0-b9c2-aff05839e164/application) |
 | 🏢 **xAI** | Security Engineer - Azure Government | Palo Alto, CA; Wa... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5050657007) |
 | 🏢 **Anduril** | Product Security Engineer, Programs | Seattle, Washingt... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5042721007?gh_jid=5042721007) |
-| 🤖 **OpenAI** | Security Engineer, Host Assurance | San Francisco | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa/application) |
-| 🤖 **OpenAI** | Researcher, Frontier Cybersecurity Risks | San Francisco | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/97a7eeae-9625-4d00-874f-e50131f98369/application) |
-| 🤖 **OpenAI** | Enterprise Security Engineer | San Francisco | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329/application) |
+| 🤖 **OpenAI** | Security Engineer, Host Assurance | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/3de4718b-8f4c-4b63-8637-02077a0113aa/application) |
+| 🤖 **OpenAI** | Researcher, Frontier Cybersecurity Risks | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/97a7eeae-9625-4d00-874f-e50131f98369/application) |
+| 🤖 **OpenAI** | Enterprise Security Engineer | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/4fb47557-86d2-47c3-9c6a-909aeb561329/application) |
 | 🏢 **Abnormal Security** | Security Analyst | USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://abnormal.ai/careers/jobs/7611937003?gh_jid=7611937003) |
 | 🏢 **Pylon** | Security Engineer, Foundation | Palo Alto | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/pylon/ea426cd0-ec1d-4c99-8e46-b3537254d3e1/application) |
 | 👁️ **Palantir** | Information Security Engineer - Insider Risk | New York, NY | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166/apply) |
@@ -355,8 +355,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Information Security Project Manager | Sunnyvale, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000125946829) |
 | 🏢 **Boeing** | Experienced Product Security Engineer | Seattle, WA + 2 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Experienced-Product-Security-Engineer_JR2026509921-1) |
 | 🏢 **Boeing** | Experienced Product Security Engineer (Virtual) | Remote | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Experienced-Product-Security-Engineer--Virtual-_JR2026509762-1) |
-| 🏢 **Replit** | Product Security Engineer (PSIRT - Product Security Incident Response Team) | Foster City, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/replit/1634b879-80c7-4064-be0a-8a4aecc81923/application) |
-| 🏢 **Jane Street** | Cybersecurity Engineer | New York, New Yor... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8515327002) |
+| 🏢 **Replit** | Product Security Engineer (PSIRT - Product Security Incident Response Team) | Foster City, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/replit/1634b879-80c7-4064-be0a-8a4aecc81923/application) |
+| 🏢 **Jane Street** | Cybersecurity Engineer | New York, New Yor... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8515327002) |
 | 🏢 **BitGo** | SOC Analyst | San Francisco, Ca... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bitgo/jobs/8531833002) |
 | 🏢 **BitGo** | SOC Analyst | Palo Alto, Califo... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bitgo/jobs/8531792002) |
 | 🏢 **ClickHouse** | Incident Response Security Engineer | United States (re... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/5848200004) |
@@ -909,7 +909,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17746 current opportunities from 637 companies**
+**🎯 17741 current opportunities from 637 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
