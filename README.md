@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17257-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17256-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -591,7 +591,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Algolia** | Commercial Account Executive | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/algolia/jobs/5833600004) |
 | 🏢 **Algolia** | Customer Success Engineer (East) | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/algolia/jobs/5834932004) |
 | 🏢 **Cisco** | Federal Civilian SASE Account Executive | Herndon Virginia ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Herndon-Virginia-US/Federal-Civilian-SASE-Account-Executive_2012383) |
-| 🏢 **Johnson Controls** | Service Sales Representative | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-New-York-United-States-of-America/Service-Sales-Representative_WD30267904) |
+| 🏢 **Johnson Controls** | Service Sales Representative | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-New-York-United-States-of-America/Service-Sales-Representative_WD30267904) |
 | 🏢 **Autodesk** | Manager, Customer Success | Portland, OR, USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Manager--Customer-Success_26WD98233-2) |
 | 🎨 **Figma** | Inside Sales Representative - Early Career (2026) | San Francisco, CA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004) |
 | ❄️ **Snowflake** | Account Executive, Commercial | Atlanta, GA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/70fa522f-acbd-467e-aa1d-ddcf078bb256/application) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17257 current opportunities from 636 companies**
+**🎯 17256 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
