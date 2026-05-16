@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17279-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17277-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -602,7 +602,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Glean** | Sales Development Representative (Spanish) | Nashville, TN | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4677145005) |
 | 🏢 **Carrier Global** | Commercial Rentals Account Manager - Houston TX | CAT27: CRS-Housto... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT27-CRS-Houston-100-Southbelt-Industrial-Drive-Houston-TX-77047-USA/Commercial-Rentals-Account-Manager---Houston-TX_30205973-1) |
 | 🏢 **Carrier Global** | Commercial Sales Account Manager Dallas TX | CAT16: CCS-Dallas... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Commercial-Sales-Account-Manager-Dallas-TX_30204765-1) |
-| 🟢 **Google** | Field Sales Representative, Startups Activation, Google Cloud | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87410450659975878) |
+| 🟢 **Google** | Field Sales Representative, Startups Activation, Google Cloud | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87410450659975878) |
 | 🚪 **DoorDash** | Enterprise Account Executive - CPG Ads | San Francisco, CA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7859689) |
 | 🏢 **Roku** | Account Manager - Political, Advocacy & Government | Washington, DC | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7863302?gh_jid=7863302) |
 | 🏢 **Roku** | Account Manager - Political, Advocacy & Government | New York, New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7862322?gh_jid=7862322) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17279 current opportunities from 636 companies**
+**🎯 17277 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
