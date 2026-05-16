@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17141-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17140-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -100,7 +100,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cursor** | Product Manager | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/66e67c2e-c828-4ddb-a2c0-7d3cb672f19d/application) |
 | 🏢 **FloQast** | Web Developer | Los Angeles, Cali... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/floqast/63c0c15c-7e2c-45bd-a3ec-fde5b4f1eb3b/apply) |
 | 🏢 **KBR** | Jr Software Engineer | Chantilly, Virginia | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Software-Engineer_R2123719) |
-| 🏢 **Anduril** | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, Calif... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007) |
+| 🏢 **Anduril** | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007) |
 | 🏢 **General Motors** | Software Engineer - Chassis Controls | Warren, Michigan,... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Chassis-Controls_JR-202522564) |
 | 🏢 **LG Electronics** | Associate Product Manager, Refrigerator (REF) | Englewood Cliffs, NJ | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5205667008) |
 | 🏢 **Anduril** | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5125172007?gh_jid=5125172007) |
@@ -317,7 +317,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Information Systems Security Engineer (level 3) | Fort Meade, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Fort-Meade/Information-Systems-Security-Engineer--level-3-_325912) |
 | 🏢 **Motorola Solutions** | Presales Business Manager - Cybersecurity | Allen, TX (TX139)... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Presales-Business-Manager---Cybersecurity_R64778) |
 | 🏢 **Northrop Grumman** | Industrial Security Analyst 2/3 | Florida | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Industrial-Security-Analyst-2-3_R10232544) |
-| 🏢 **Fidelity Investments** | Cybersecurity Analyst - Data Protection | Westlake, TX + 1 ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Cybersecurity-Analyst---Data-Protection_2123813) |
+| 🏢 **Fidelity Investments** | Cybersecurity Analyst - Data Protection | Westlake, TX + 1 ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Cybersecurity-Analyst---Data-Protection_2123813) |
 | 🏢 **State Street** | Cyber Security Operations Center (SOC) Analyst | Quincy, Massachus... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center--SOC--Analyst_R-784157-1) |
 | 🏢 **Northrop Grumman** | Sentinel - Systems Security Engineer 2/3 - 14554-1 | Utah | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Security-Engineer-2-3---14554-1_R10229441) |
 | 🏢 **Zayo** | IAM Cybersecurity Engineer | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/United-States/IAM-Cybersecurity-Engineer_R0016426) |
@@ -426,7 +426,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Astera Labs** | System Validation Engineer (NCG 2026) | San Jose, Califor... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4610812005) |
 | 🔒 **Palo Alto Networks** | Channel Systems Engineer Manager | 4 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---OR/Channel-Systems-Engineer_JR-015115) |
 | 🏢 **Boeing** | Associate Test Engineer | Smithfield, PA + ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Associate-Test-Engineer_JR2026503074-1) |
-| 🏢 **Boeing** | Industrial Engineer (Entry level) | Everett, WA + 4 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Industrial-Engineer--Entry-level-_JR2026508577-1) |
+| 🏢 **Boeing** | Industrial Engineer (Entry level) | Everett, WA + 4 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Industrial-Engineer--Entry-level-_JR2026508577-1) |
 | 🏢 **SEL** | Associate Quality Engineer | Lewiston | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Quality-Engineer_2025-18499-1) |
 | 🏢 **SEL** | Electrical Test Engineer | Lewiston | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Electrical-Test-Engineer_2026-20597) |
 | 🏢 **SEL** | Electrical Test Engineering Technician | Lewiston | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Electrical-Test-Engineering-Technician_2026-20609) |
@@ -548,7 +548,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Contentful** | Customer Success Manager - Enterprise | New York, NY, USA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/contentful/jobs/7782952) |
 | 🟫 **Block** | Account Manager | Phoenix, AZ, Unit... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](http://block.xyz/careers/jobs/5199076008?gh_jid=5199076008) |
 | 🏢 **Eulerity** | Customer Success Manager | New York, New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4681674006) |
-| 🏢 **Workday Inc** | Large Enterprise Account Executive - Healthcare | USA, MA, Boston | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-MA-Boston/Large-Enterprise-Account-Executive---Healthcare_JR-0105923) |
+| 🏢 **Workday Inc** | Large Enterprise Account Executive - Healthcare | USA, MA, Boston | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-MA-Boston/Large-Enterprise-Account-Executive---Healthcare_JR-0105923) |
 | 🏢 **SEL** | Sales Engineer - Power Systems | Idaho Boise + 1 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Sales-Engineer---Power-Systems_2026-20040) |
 | 🏢 **SEL** | Sales Engineer - Power Systems | Beaverton | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Oregon---Beaverton/Sales-Engineer---Power-Systems_2026-20385) |
 | 🏢 **SEL** | Sales Engineer - Power Systems | Beaverton | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Oregon---Beaverton/Sales-Engineer---Power-Systems_2026-20384) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17141 current opportunities from 636 companies**
+**🎯 17140 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
