@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17203-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17200-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -138,9 +138,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **The Federal Reserve System** | Software Engineer | Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Co-op--Software-Engineering_R-0000031108) |
 | 🏢 **Veeva Systems** | Associate Product Manager - Vault CRM Suite | Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961/apply) |
 | 🏢 **Formlabs** | Application Engineer | Somerville, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7652183/apply/?gh_jid=7652183) |
-| 🏢 **Morningstar** | Associate Product Manager, Climate & Nature Solutions | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Associate-Product-Manager--Climate---Nature-Solutions_REQ-056167) |
-| 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer--Credit-Tech_AP-23077420-1) |
-| 🏢 **Morningstar** | Software Engineer | Chicago | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Data-Product-Manager_REQ-051949) |
+| 🏢 **Morningstar** | Associate Product Manager, Climate & Nature Solutions | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Associate-Product-Manager--Climate---Nature-Solutions_REQ-056167) |
+| 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer--Credit-Tech_AP-23077420-1) |
+| 🏢 **Morningstar** | Software Engineer | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Data-Product-Manager_REQ-051949) |
 | 🏢 **Cambridge Mobile Telematics** | Software Engineer - Data Engineering | Cambridge, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=7901487) |
 | 🏢 **Nidec** | Application Engineer 1 | St. Louis, MO | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---ACIM-MO/Application-Engineer-I_R0014576) |
 | 🏢 **Regal Rexnord** | Application Engineer - Data Center Cooling Systems | Vandalia, OH | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineer--Data-Center-Cooling-Systems_R26_01331) |
@@ -205,8 +205,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🎵 **Spotify** | Data Scientist - Growth Analytics (Performance Marketing) | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199/apply) |
 | 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
 | 🟢 **Google** | Data Center Analytics Engineer | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99640909053731526) |
-| 🏢 **Morningstar** | Business Intelligence Manager | Chicago | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Principal-Data-Engineer_REQ-052106) |
-| 🏢 **Whatnot** | Data Scientist, Finance | Los Angeles, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/c0a67628-5f36-44df-9760-c8b61d99fab6/application) |
+| 🏢 **Morningstar** | Business Intelligence Manager | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Principal-Data-Engineer_REQ-052106) |
+| 🏢 **Whatnot** | Data Scientist, Finance | Los Angeles, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/c0a67628-5f36-44df-9760-c8b61d99fab6/application) |
 | 🏢 **Morningstar** | Product AI Engineer | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/AI-Engineer_REQ-055251) |
 | 🏢 **Voyager Technologies** | Machine Learning Engineer | El Segundo, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009) |
 | 🏢 **TWG Global** | Associate AI Data Scientist | Santa Monica, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.workable.com/twgai/j/469F929A47/apply) |
@@ -299,7 +299,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **T-Mobile** | Analyst, Cybersecurity | New York New York... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Analyst--Cybersecurity_REQ350864-1) |
 | 🏢 **Southwest Airlines** | Mgr Cybersecurity | Dallas, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Mgr-Cybersecurity_R-2026-67374) |
 | 🏢 **Rubrik** | Enterprise Security Engineer - FedRAMP | Palo Alto, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.7867240?gh_jid=7867240) |
-| 🏢 **Morningstar** | Manager of Information Security | Chicago | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Manager-of-Information-Security_REQ-056037-1) |
+| 🏢 **Morningstar** | Manager of Information Security | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Manager-of-Information-Security_REQ-056037-1) |
 | 🏢 **Ping Identity** | Product Security Engineer - Federal | Remote | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8458046002) |
 | 🏢 **Ping Identity** | Product Security Engineer - Federal | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8419761002) |
 | 🏢 **Orca Security** | Sales Engineer - AppSec/Cloud Security (Central, US) | Austin, Texas, Un... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://orca.security/about/careers/5970924004?gh_jid=5970924004) |
@@ -577,7 +577,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🔷 **Intel** | Market Development Manager | Arizona Phoenix +... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Market-Development-Manager_JR0284008) |
 | 🏢 **Comcast** | Enterprise Account Manager, Comcast Business | Plymouth, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---Plymouth-35-Resnik-Rd/Account-Manager-1--Enterprise-Direct-Sales_R433072) |
 | 🏢 **Comcast** | Enterprise Account Executive, Comcast Business | South Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---South-Boston-426-E-1st-St/Account-Executive-3--Enterprise-Direct-Sales_R434104) |
-| 🏢 **Morningstar** | Global Sales Executive | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Global-Sales-Executive_AP-23892827) |
+| 🏢 **Morningstar** | Global Sales Executive | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Global-Sales-Executive_AP-23892827) |
 | 🏢 **Arrow Electronics** | Inside Sales Associate | Casablanca, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Inside-Sales-Associate_R243382) |
 | ☁️ **Salesforce** | Customer Success Manager - Data360 - Missionforce - TS/SCI Clearance | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/District-of-Columbia---Washington/Customer-Success-Manager---Data360--TS-SCI--Clearance_JR340656) |
 | 🏢 **Ping Identity** | Associate Sales Development Rep | Austin, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8151419002) |
@@ -704,8 +704,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NCR Voyix** | Field Service Technician- Albany, NY | ALBANY, NY, USA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ALBANY-NY-USA/Field-Service-Technician_JR2604208-3) |
 | 🏢 **Formlabs** | Solutions Engineer | Somerville, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7870702/apply/?gh_jid=7870702) |
 | 🏢 **AbbVie** | Manufacturing Technician I | Waco, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013128306) |
-| 🏢 **Magna** | Technician - Electronics Maint | Alto, Michigan, US | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Alto-Michigan-US/Technician---Electronics-Maint_R00243108) |
-| 🏢 **KBR** | APS-3: Specialist, Logistics Administration | Charleston South ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Charleston-South-Carolina/APS-3--Specialist--Logistics-Administration_R2123627) |
+| 🏢 **Magna** | Technician - Electronics Maint | Alto, Michigan, US | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Alto-Michigan-US/Technician---Electronics-Maint_R00243108) |
+| 🏢 **KBR** | APS-3: Specialist, Logistics Administration | Charleston South ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Charleston-South-Carolina/APS-3--Specialist--Logistics-Administration_R2123627) |
 | 🏢 **ALSO** | Dyno Technician | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/Ridealso/8e9d8dca-faae-4c1e-9f5a-8214898aeb45/application) |
 | 🏢 **Waters Corporation** | Manufacturing Technician | New Castle, DE | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://uscareers-waters.icims.com/jobs/25712/job?mobile=true&needsRedirect=false) |
 | 🏢 **NinjaTrader** | Trading Operations Associate | Chicago, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/ninjatrader/jobs/4671395006) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17203 current opportunities from 636 companies**
+**🎯 17200 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
