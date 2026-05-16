@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17074-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17073-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -353,8 +353,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Persona** | Product Security Engineer | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/persona/bff2649a-6931-4aa6-a223-022230122671/application) |
 | 🚀 **SpaceX** | Security Analyst (Detection and Incident Response) | Hawthorne, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8525400002?gh_jid=8525400002) |
 | 🏢 **Intuitive** | Information Security Project Manager | Sunnyvale, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000125946829) |
-| 🏢 **Boeing** | Experienced Product Security Engineer | Seattle, WA + 2 more | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Experienced-Product-Security-Engineer_JR2026509921-1) |
-| 🏢 **Boeing** | Experienced Product Security Engineer (Virtual) | Remote | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Experienced-Product-Security-Engineer--Virtual-_JR2026509762-1) |
+| 🏢 **Boeing** | Experienced Product Security Engineer | Seattle, WA + 2 more | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Experienced-Product-Security-Engineer_JR2026509921-1) |
+| 🏢 **Boeing** | Experienced Product Security Engineer (Virtual) | Remote | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Experienced-Product-Security-Engineer--Virtual-_JR2026509762-1) |
 | 🏢 **Replit** | Product Security Engineer (PSIRT - Product Security Incident Response Team) | Foster City, CA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/replit/1634b879-80c7-4064-be0a-8a4aecc81923/application) |
 | 🏢 **Jane Street** | Cybersecurity Engineer | New York, New Yor... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8515327002) |
 | 🏢 **BitGo** | SOC Analyst | San Francisco, Ca... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bitgo/jobs/8531833002) |
@@ -741,7 +741,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cigna** | Part Time Nurse Practitioner- Kissimmee, FL | City of Kissimmee | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Clinic---City-of-Kissimmee---100-North-Alaska-Ave---Kissimmee-FL/Part-Time-Nurse-Practitioner--Kissimmee--FL_26005876) |
 | 🏢 **Abbott** | Registered Nurse - Patient Educator (PRN) Immediate Openings - Bristol, VA; Charlottesville, VA | Virginia | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Roanoke/Registered-Nurse---Patient-Educator--PRN--Immediate-Openings_31147623) |
 | 🏢 **Merck & Co.** | Specialist, Global Employee Health- Registered Nurse (Wilson, NC) | North Carolina | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---North-Carolina---Wilson/Specialist--Global-Employee-Health--Registered-Nurse--Wilson--NC-_R397315) |
-| 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
+| 🏢 **Ro** | Virtual Nurse Practitioner (1099 Contractor) | New York, NY or R... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/ro/4effc32e-b652-495c-817a-64bb19b72d6f/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17074 current opportunities from 635 companies**
+**🎯 17073 current opportunities from 635 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
