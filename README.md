@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17120-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17115-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,8 +69,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **xAI** | Backend Engineer - API | Palo Alto, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5119111007) |
-| 🏢 **T. Rowe Price** | Product Analyst | Owings Mills, MD | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Product-Analyst_81563-1) |
-| 🤖 **OpenAI** | Android Engineer, ChatGPT (Seattle) | Seattle | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732/application) |
+| 🏢 **T. Rowe Price** | Product Analyst | Owings Mills, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Product-Analyst_81563-1) |
+| 🤖 **OpenAI** | Android Engineer, ChatGPT (Seattle) | Seattle | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732/application) |
 | 🏢 **NBCUniversal** | News Software Engineer- WordPress | New York, NEW YORK | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000126559629) |
 | 🎨 **Adobe** | Software Development Engineer 5, Enterprise GenAI | San Jose | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-5--Enterprise-GenAI_R168731) |
 | 🏢 **Disney** | Operational Technology Network Engineer, Technical Infrastructure | Glendale, CA, USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Operational-Technology-Network-Engineer--Technical-Infrastructure_10151059) |
@@ -181,8 +181,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Ford Island, HI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ford-Island-HI/Data-Engineer_R0240138) |
 | 🎵 **Spotify** | Data Scientist - Subscriptions | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/1bd333fe-a039-4aa7-9a84-941296bbe86b/apply) |
-| 🍎 **Apple** | Multimodal LLMs Research Engineer | Sunnyvale | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663137/multimodal-llms-research-engineer) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0240103) |
+| 🍎 **Apple** | Multimodal LLMs Research Engineer | Sunnyvale | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663137/multimodal-llms-research-engineer) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0240103) |
 | 🏢 **Intuitive** | Machine Learning Robotics Engineer | Sunnyvale, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126558575) |
 | 🏢 **The Hartford** | Junior Developer / Data Engineer – AI Platforms | Chicago, IL + 4 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Junior-Developer---Data-Engineer---AI-Platforms_R2625192) |
 | 🏢 **Booz Allen Hamilton** | Human Capital Data Analyst | Chantilly, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223) |
@@ -403,8 +403,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Jabil** | SMT Process Engineer IV | Richardson, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Richardson-TX/SMT-Process-Engineer-IV_J2449300) |
 | 🏢 **Shield AI** | Power Electronics - Thermal Engineer I (R4842) | Dallas, Texas | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a/apply) |
-| 🏢 **Anduril** | Calibration and Quality Systems Engineer | Morrisville, Nort... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5137605007?gh_jid=5137605007) |
-| 🏢 **Blue Origin** | Technician - Avionics   All Levels All Shifts | Space Coast, FL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Avionics---All-Levels-All-Shifts_R64473) |
+| 🏢 **Anduril** | Calibration and Quality Systems Engineer | Morrisville, Nort... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5137605007?gh_jid=5137605007) |
+| 🏢 **Blue Origin** | Technician - Avionics   All Levels All Shifts | Space Coast, FL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Avionics---All-Levels-All-Shifts_R64473) |
 | 🏢 **Formlabs** | Electrical Engineer | Somerville, MA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7926665/apply/?gh_jid=7926665) |
 | 🏢 **Motorola Solutions** | Supply Chain Manufacturing Quality Engineer | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Supply-Chain-Manufacturing-Quality-Engineer_R64984) |
 | 🏢 **Motorola Solutions** | Manufacturing Test Systems Engineer | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Manufacturing-Test-Systems-Engineer_R64983) |
@@ -516,7 +516,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🟫 **Block** | Territory Account Executive, St. Louis | Saint Louis, MO, ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](http://block.xyz/careers/jobs/5206658008?gh_jid=5206658008) |
 | 🏢 **Samba TV** | Account Executive | New York City, Ne... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/f35dcb02-28d9-4018-892c-436dad07a44c/apply) |
 | 🏢 **Samba TV** | Account Executive | New York City, Ne... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/ffe9ab39-e6aa-4bc1-aea4-541f9ea1af4b/apply) |
-| 🏢 **Elastic** | Enterprise Account Executive - Expand - Texas | Texas, United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7863806&gh_jid=7863806) |
+| 🏢 **Elastic** | Enterprise Account Executive - Expand - Texas | Texas, United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7863806&gh_jid=7863806) |
 | 🏢 **Philips** | Sales, Sales Executive - Digital Pathology (Northeast) | 5 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales--Sales-Executive---Digital-Pathology--Northeast-_581201-1) |
 | 🏢 **Lowe's** | Full Time - Sales Associate - Flooring - Opening | Charlottesville, ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Charlottesville-VA-0517/Full-Time---Sales-Associate---Flooring---Opening_JR-02526657) |
 | 🏢 **Expedia Group** | Account Manager | Florida | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/USA---Florida---Orlando/Account-Manager_R-104846-2) |
@@ -625,11 +625,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🟩 **Roblox** | Recruiter, Early Career Talent | San Mateo, CA, Un... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.roblox.com/jobs/7818989?gh_jid=7818989) |
 | 🏢 **CACI** | Operations Analyst | Chantilly, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Operations-Analyst_326062) |
-| 🏢 **EliseAI** | Solutions Engineer, Implementation & Delivery   Housing | New York City | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/d400f45b-bc78-41c2-96ab-9c6c9eaecf06/application) |
-| 🏢 **Motorola Solutions** | Supply Chain Manufacturing Warehouse Manager | Salt Lake City, UT | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Supply-Chain-Manufacturing-Warehouse-Manager_R64982) |
-| 🏢 **Johnson Controls** | Customer Operations Associate | Georgia | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/Customer-Operations-Associate_WD30268878) |
-| 🏢 **Blue Origin** | Technician - Assembly & Integration   All Shifts All Levels | Greater Seattle Area | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Technician---Assembly---Integration---All-Shifts-All-Levels_R64475) |
-| 🏢 **Blue Origin** | Technician - Structures   All Shifts All Levels | Space Coast, FL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Structures---All-Shifts-All-Levels_R64474) |
+| 🏢 **EliseAI** | Solutions Engineer, Implementation & Delivery   Housing | New York City | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/d400f45b-bc78-41c2-96ab-9c6c9eaecf06/application) |
+| 🏢 **Motorola Solutions** | Supply Chain Manufacturing Warehouse Manager | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Supply-Chain-Manufacturing-Warehouse-Manager_R64982) |
+| 🏢 **Johnson Controls** | Customer Operations Associate | Georgia | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/Customer-Operations-Associate_WD30268878) |
+| 🏢 **Blue Origin** | Technician - Assembly & Integration   All Shifts All Levels | Greater Seattle Area | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Technician---Assembly---Integration---All-Shifts-All-Levels_R64475) |
+| 🏢 **Blue Origin** | Technician - Structures   All Shifts All Levels | Space Coast, FL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Structures---All-Shifts-All-Levels_R64474) |
 | 🏢 **T-Mobile** | Facilities Specialist | Richmond, Virginia | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Richmond-Virginia/Facilities-Specialist_REQ353790-1) |
 | 🏢 **Motorola Solutions** | Supply Chain Manufacturing Scheduler | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Supply-Chain-Manufacturing-Scheduler_R64986) |
 | 🏢 **Motorola Solutions** | Supply Chain Manufacturing Supply Planner | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Supply-Chain-Manufacturing-Supply-Planner_R64985) |
@@ -779,26 +779,26 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Olsson** | Licensed Transportation Engineer - Roadway | St. Louis, MO | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5220807008) |
 | 🏢 **NBCUniversal** | Contracts Specialist | New York, NEW YORK | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000126561490) |
 | 🏢 **Oscar Health** | Manager, Strategy & Operations | New York, New Yor... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7915120?gh_jid=7915120) |
-| 🏢 **Veolia Environnement SA** | Superintendent T&D | Wilmington, DE | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126561899) |
-| 🏢 **Roku** | Sales Planner | Santa Monica, Cal... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7921132?gh_jid=7921132) |
-| 🍎 **Apple** | Engineering Program Manager - Human Factors Research | Sunnyvale | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200653152/engineering-program-manager-human-factors-research) |
-| 🏢 **Generac** | Field Project Engineer-Data Centers | Houston, TX + 7 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14171) |
-| 🏢 **Generac** | Field Project Engineer-Data Centers | Houston, TX + 6 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14173-1) |
-| 🏢 **Generac** | Field Project Engineer-Data Centers | Houston, TX + 6 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14172) |
-| 🏢 **FIS** | Fraud Prevention Analyst I | Jax, FL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Fraud-Prevention-Analyst-I_JR0304738) |
-| 🏢 **Disney** | WABC - General Assignment Reporter | New York, NY, USA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/WABC---General-Assignment-Reporter_10136664) |
-| 🏢 **Baker Hughes** | Machinery Diagnostics Field Engineer | NC OTHER NORTH CA... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NC-OTHER-NORTH-CAROLINA/Machinery-Diagnostics-Field-Engineer_R162675) |
-| 🏢 **Baker Hughes** | Machinery Diagnostics Field Engineer | VA OTHER VIRGINIA... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-VA-OTHER-VIRGINIA/Machinery-Diagnostics-Field-Engineer_R162484) |
-| 🏢 **Boeing** | Flight Operations Mechanic | Saint Charles, MO | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Flight-Operations-Mechanic_JR2026510484-1) |
-| 🏢 **Booz Allen Hamilton** | Training Manager | Arlington, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Training-Manager_R0240129) |
-| 🏢 **Booz Allen Hamilton** | Technical Linguist | Charlottesville, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Technical-Linguist_R0238321) |
-| 🏢 **Comcast** | Xfinity Retail Sales Consultant | Bradenton, 5231 U... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---Bradenton-5231-University-Prkw---Retail-XFR1512/Xfinity-Retail-Sales-Consultant_R437552) |
-| 🏢 **Cisco** | Finance Manager - Webex COGS | San Jose, Califor... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Finance-Manager---Webex-COGS_2014981) |
-| 🏢 **Allegion** | Quote Associate | Fontana, CA + 1 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Fontana-CA/Quote-Associate_JR36057) |
-| 🏢 **Allegion** | Customer Experience Specialist 1-Olathe, KS | Remote, Kansas | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Kansas/Customer-Experience-Specialist-1-Olathe--KS_JR36167) |
-| 🚀 **SpaceX** | Mechanical Design Engineer, Production (Starlink) | Redmond, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8362950002?gh_jid=8362950002) |
-| 🏢 **Olsson** | Project Traffic Engineer | Des Moines, IA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5206630008) |
-| 🏢 **Audax Group** | Junior Accountant | Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4691286005) |
+| 🏢 **Veolia Environnement SA** | Superintendent T&D | Wilmington, DE | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126561899) |
+| 🏢 **Roku** | Sales Planner | Santa Monica, Cal... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7921132?gh_jid=7921132) |
+| 🍎 **Apple** | Engineering Program Manager - Human Factors Research | Sunnyvale | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200653152/engineering-program-manager-human-factors-research) |
+| 🏢 **Generac** | Field Project Engineer-Data Centers | Houston, TX + 7 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14171) |
+| 🏢 **Generac** | Field Project Engineer-Data Centers | Houston, TX + 6 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14173-1) |
+| 🏢 **Generac** | Field Project Engineer-Data Centers | Houston, TX + 6 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Houston-TX---USA/Field-Project-Engineer-Data-Centers_JR14172) |
+| 🏢 **FIS** | Fraud Prevention Analyst I | Jax, FL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Fraud-Prevention-Analyst-I_JR0304738) |
+| 🏢 **Disney** | WABC - General Assignment Reporter | New York, NY, USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/WABC---General-Assignment-Reporter_10136664) |
+| 🏢 **Baker Hughes** | Machinery Diagnostics Field Engineer | NC OTHER NORTH CA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NC-OTHER-NORTH-CAROLINA/Machinery-Diagnostics-Field-Engineer_R162675) |
+| 🏢 **Baker Hughes** | Machinery Diagnostics Field Engineer | VA OTHER VIRGINIA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-VA-OTHER-VIRGINIA/Machinery-Diagnostics-Field-Engineer_R162484) |
+| 🏢 **Boeing** | Flight Operations Mechanic | Saint Charles, MO | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Flight-Operations-Mechanic_JR2026510484-1) |
+| 🏢 **Booz Allen Hamilton** | Training Manager | Arlington, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Training-Manager_R0240129) |
+| 🏢 **Booz Allen Hamilton** | Technical Linguist | Charlottesville, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Technical-Linguist_R0238321) |
+| 🏢 **Comcast** | Xfinity Retail Sales Consultant | Bradenton, 5231 U... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---Bradenton-5231-University-Prkw---Retail-XFR1512/Xfinity-Retail-Sales-Consultant_R437552) |
+| 🏢 **Cisco** | Finance Manager - Webex COGS | San Jose, Califor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Finance-Manager---Webex-COGS_2014981) |
+| 🏢 **Allegion** | Quote Associate | Fontana, CA + 1 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Fontana-CA/Quote-Associate_JR36057) |
+| 🏢 **Allegion** | Customer Experience Specialist 1-Olathe, KS | Remote, Kansas | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Kansas/Customer-Experience-Specialist-1-Olathe--KS_JR36167) |
+| 🚀 **SpaceX** | Mechanical Design Engineer, Production (Starlink) | Redmond, WA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8362950002?gh_jid=8362950002) |
+| 🏢 **Olsson** | Project Traffic Engineer | Des Moines, IA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5206630008) |
+| 🏢 **Audax Group** | Junior Accountant | Boston, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4691286005) |
 | 🟦 **Microsoft** | Executive Compensation Program Manager | Redmond, Washingt... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556861677) |
 | 🏢 **NBCUniversal** | Associate Producer, Investigative Unit | New York, NEW YORK | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000126559239) |
 | 🏢 **Philips** | Sales Support, Clinical Consultant - OB Solutions (East Zone) | 12 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-York-New-York-United-States/Sales-Support--Clinical-Consultant---OB-Solutions--East-Zone-_583324-1) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17120 current opportunities from 635 companies**
+**🎯 17115 current opportunities from 635 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
