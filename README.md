@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17275-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17271-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -460,7 +460,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Olsson** | Licensed Mechanical Engineer - Data Center | Fort Worth, TX; K... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5188263008) |
 | 🏢 **Neuralink** | Electrical Engineer, Implant Embedded Systems | Austin, Texas, Un... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7702524003?gh_jid=7702524003) |
 | 🏢 **Zoox** | Part-Time Student Worker – Firmware Engineer (FW Thermal/Body) | Foster City, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38/apply) |
-| 🍎 **Apple** | Hardware  System Design Electrical Engineer - iPhone Devboard | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663256/hardware-system-design-electrical-engineer-iphone-devboard) |
+| 🍎 **Apple** | Hardware  System Design Electrical Engineer - iPhone Devboard | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663256/hardware-system-design-electrical-engineer-iphone-devboard) |
 | 🏢 **Neuralink** | Network and Systems Engineer | Fremont, Californ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7720290003?gh_jid=7720290003) |
 | 🏢 **Olsson** | Project Structural Engineer - Building Design | Dallas, TX; Fayet... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5205775008) |
 | 🏢 **HPE (University)** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816-2) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17275 current opportunities from 636 companies**
+**🎯 17271 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
