@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17167-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17147-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -119,8 +119,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cursor** | Product Manager, Cloud Agents | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/21110d73-77cb-465b-9977-65afb3e82cec/application) |
 | 🏢 **Cursor** | Product Manager, Agent Harness | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/69abc2ba-2823-40c3-9b86-94ab63859649/application) |
 | 🍎 **Apple** | Backend Software Engineer, Creativity Apps | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663197/backend-software-engineer-creativity-apps) |
-| 🏢 **General Motors** | Full Stack Developer | Warren, Michigan,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PROGRAMMER-FULL-STACK_JR-202603193) |
-| 🏢 **Applied Intuition** | Robotic Software Engineer (Drone Stack) | Washington, Distr... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4677114005?gh_jid=4677114005) |
+| 🏢 **General Motors** | Full Stack Developer | Warren, Michigan,... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/PROGRAMMER-FULL-STACK_JR-202603193) |
+| 🏢 **Applied Intuition** | Robotic Software Engineer (Drone Stack) | Washington, Distr... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4677114005?gh_jid=4677114005) |
 | 🏢 **Leidos** | SME UX Designer | Arlington, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/SME-UX-Designer_R-00182927) |
 | 🏢 **Leidos** | SME UX Designer | Alexandria, VA + ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-UX-Designer_R-00182921) |
 | 🟢 **Google** | UX Designer, Privacy AI Frameworks | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131290557417693894) |
@@ -564,7 +564,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Endoluminal Sales Representative | Memphis, TN | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126536209) |
 | 🏢 **ElevenLabs** | Account Manager - North America - Strategic Segment | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/7563e051-8de0-48ac-bcf2-70eaf22e3f8b/application) |
 | 🏢 **ElevenLabs** | Account Manager - North America - Corporate Segment | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/4e544a96-ed24-42c0-ba70-7f0bab6ffbb2/application) |
-| 🏢 **The Trade Desk** | GM, Business Development (CPG) | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5137708007) |
+| 🏢 **The Trade Desk** | GM, Business Development (CPG) | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5137708007) |
 | 🏢 **AbbVie** | Business Development Manager (Facial Aesthetics) | Bentonville, AR | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013131286) |
 | 🏢 **Exact Sciences** | Screening Sales Representative - Kansas City, KS | Kansas City, KS | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---KS---Kansas-City/Screening-Sales-Representative---Kansas-City--KS_R26-13241) |
 | 🏢 **Medtronic** | Associate Sales Representative, Pain Interventions - Omaha, NE | 2 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Omaha-Nebraska-United-States-of-America/Associate-Sales-Representative--Pain-Interventions---Omaha--NE_R66738-1) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17167 current opportunities from 636 companies**
+**🎯 17147 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
