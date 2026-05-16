@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17282-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17279-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -229,7 +229,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Goldman Sachs** | Asset & Wealth Management - AI Engineer - Associate | Salt Lake City, UT | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://higher.gs.com/roles/163086) |
 | 🎨 **Figma** | Data Scientist, Core Data -  PhD (2026) | New York, NY • Un... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) |
 | 🏢 **PNC Financial Services** | Data Scientist | Houston, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist---Corporate---Institutional-Banking_R216795-1) |
-| 🏢 **HPE (University)** | HPE Labs -  Research Engineer (Post-doc) | Santa Barbara, Ca... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Santa-Barbara-California-United-States-of-America/HPE-Labs----Research-Engineer--Post-doc-_1206348) |
+| 🏢 **HPE (University)** | HPE Labs -  Research Engineer (Post-doc) | Santa Barbara, Ca... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Santa-Barbara-California-United-States-of-America/HPE-Labs----Research-Engineer--Post-doc-_1206348) |
 | 🏢 **LLNL** | Research Scientist - Computer Vision and Machine Learning | Livermore, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013125116) |
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, RL post-training, AWS | Seattle, WA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10420019/applied-scientist-rl-post-training-aws) |
 | 🏢 **Amazon.com Services LLC** | Language Data Scientist, Alexa International | Bellevue, WA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419959/language-data-scientist-alexa-international) |
@@ -463,8 +463,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🍎 **Apple** | Hardware  System Design Electrical Engineer - iPhone Devboard | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663256/hardware-system-design-electrical-engineer-iphone-devboard) |
 | 🏢 **Neuralink** | Network and Systems Engineer | Fremont, Californ... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7720290003?gh_jid=7720290003) |
 | 🏢 **Olsson** | Project Structural Engineer - Building Design | Dallas, TX; Fayet... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5205775008) |
-| 🏢 **HPE (University)** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816-2) |
-| 🏢 **HPE** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816) |
+| 🏢 **HPE (University)** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816-2) |
+| 🏢 **HPE** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816) |
 | 🏢 **Aurora Innovation** | Vehicle Platform Systems Engineer | Dallas, Texas | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://aurora.tech/jobs/8508606002?gh_jid=8508606002) |
 | 🏢 **Northrop Grumman** | 2026 Associate Structural Engineer/ Structural Engineer - Night Shift | Mississippi | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Structural-Engineer--Structural-Engineer---Night-Shift_R10230450) |
 | 🍎 **Apple** | Modem Software Power Engineer, Wireless Technologies & Ecosystems | Sunnyvale | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662972/modem-software-power-engineer-wireless-technologies-ecosystems) |
@@ -606,9 +606,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🚪 **DoorDash** | Enterprise Account Executive - CPG Ads | San Francisco, CA... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7859689) |
 | 🏢 **Roku** | Account Manager - Political, Advocacy & Government | Washington, DC | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7863302?gh_jid=7863302) |
 | 🏢 **Roku** | Account Manager - Political, Advocacy & Government | New York, New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7862322?gh_jid=7862322) |
-| 🏢 **HPE (University)** | Enterprise Account Manager - Industry Verticals | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-California-United-States-of-America/Enterprise-Account-Manager---Industry-Verticals_1201709-3) |
-| 🏢 **HPE (University)** | Specialist Sales Executive – Data Protection | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Maryland-United-States-of-America/Enterprise-Account-Executive_1198959-3) |
-| 🏢 **HPE** | Specialist Sales Executive – Data Protection | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Maryland-United-States-of-America/Enterprise-Account-Executive_1198959-1) |
+| 🏢 **HPE (University)** | Enterprise Account Manager - Industry Verticals | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-California-United-States-of-America/Enterprise-Account-Manager---Industry-Verticals_1201709-3) |
+| 🏢 **HPE (University)** | Specialist Sales Executive – Data Protection | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Maryland-United-States-of-America/Enterprise-Account-Executive_1198959-3) |
+| 🏢 **HPE** | Specialist Sales Executive – Data Protection | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Maryland-United-States-of-America/Enterprise-Account-Executive_1198959-1) |
 | 🟫 **Block** | Inside Sales Account Executive | Bay Area, CA, Uni... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](http://block.xyz/careers/jobs/5205790008?gh_jid=5205790008) |
 | 🏢 **Cisco** | Security Account Executive - Commercial Select (Orange County, CA) | Irvine California... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Irvine-California-US/Security-Account-Executive---Commercial-Select--Orange-County--CA-_2013550) |
 | 🏢 **PagerDuty** | Commercial Account Executive | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pagerduty/jobs/5974052004) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17282 current opportunities from 636 companies**
+**🎯 17279 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
