@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17182-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17181-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -203,7 +203,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **EVERSANA** | Business Analyst | Mason, OH | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000126531179) |
 | 🏢 **KBR** | Radar Research Engineer | Chantilly, Virginia | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Radar-Research-Engineer_R2123641) |
 | 🎵 **Spotify** | Data Scientist - Growth Analytics (Performance Marketing) | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199/apply) |
-| 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
+| 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
 | 🟢 **Google** | Data Center Analytics Engineer | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99640909053731526) |
 | 🏢 **Morningstar** | Business Intelligence Manager | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Principal-Data-Engineer_REQ-052106) |
 | 🏢 **Whatnot** | Data Scientist, Finance | Los Angeles, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/c0a67628-5f36-44df-9760-c8b61d99fab6/application) |
@@ -273,8 +273,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | AI/ML Data Scientist | McLean, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/AI-ML-Data-Scientist_R-00175039) |
 | 🏢 **ABB** | Discovery Program - Sales Analytics / Data Science | Brookfield, WI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/XMLNAME-2026-Discovery-Program---Sales-Analytics---Data-Science_JR00034114-1) |
 | 🏢 **WPP Media** | Associate Manager, Media Data Engineering - US | New York, United ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5146139008) |
-| 🏢 **CACI** | Data Analyst | National Harbor, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-National-Harbor/Data-Analyst_326005) |
-| 🏢 **CACI** | Business Analyst | National Harbor, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-National-Harbor/Business-Analyst_326008) |
+| 🏢 **CACI** | Data Analyst | National Harbor, MD | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-National-Harbor/Data-Analyst_326005) |
+| 🏢 **CACI** | Business Analyst | National Harbor, MD | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-National-Harbor/Business-Analyst_326008) |
 | 🏢 **Caterpillar** | Business Intelligence Analyst | Peoria Illinois +... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Business-Intelligence-Analyst_R0000352428-1) |
 | 🏢 **Mastercard** | Data Scientist | San Francisco, Ca... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Data-Scientist_R-275200-1) |
 | 🏢 **Visa** | Associate Data Scientist | Foster City, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Data-Scientist_REF081332W) |
@@ -342,7 +342,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 👁️ **Palantir** | Information Security Engineer - Insider Risk | New York, NY | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166/apply) |
 | 👁️ **Palantir** | Information Security Engineer - Insider Risk | Seattle, WA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/6bddf672-5920-46f3-8127-2a15a377cb99/apply) |
 | 👁️ **Palantir** | Information Security Engineer - Insider Risk | Washington, D.C. | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/b0e1823a-fbe7-4c9d-a4d3-a1e738db2589/apply) |
-| 🏢 **Leidos** | SME Cyber Security Engineer | Alexandria, VA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Cyber-Security-Engineer_R-00177784-1) |
+| 🏢 **Leidos** | SME Cyber Security Engineer | Alexandria, VA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Cyber-Security-Engineer_R-00177784-1) |
 | 🏢 **Workday Inc** | Cybersecurity Engineer - US Federal | USA.VA.Reston | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Cybersecurity-Engineer---US-Federal_JR-0107022) |
 | 👻 **Snap** | Manager, Security Engineering, Enterprise Infrastructure | Los Angeles Calif... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Manager--Security-Engineering--Enterprise-Infrastructure_R0045102-1) |
 | 🏢 **KLA** | Cybersecurity Analyst - Insider Risk | Ann Arbor, MI | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Cybersecurity-Analyst---Insider-Risk_2636441-2) |
@@ -444,8 +444,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Model-Based Systems Engineer (MBSE) – Ground Systems | Charlottesville, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Model-Based-Systems-Engineer--MBSE----Ground-Systems_326132) |
 | 🏢 **Veolia Environnement SA** | Associate Mechanical Engineer – (Data Center) | Fredericksburg, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126524529) |
 | 🏢 **Anduril** | Process Engineer | Hudson, New Hamps... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5124983007?gh_jid=5124983007) |
-| 🏢 **Leidos** | Aviation Software Test Engineer | Huntsville, AL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aviation-Software-Test-Engineer_R-00183273) |
-| 🏢 **Leidos** | Manufacturing Test Engineer | Huntsville, AL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Test-Engineer_R-00183271-1) |
+| 🏢 **Leidos** | Aviation Software Test Engineer | Huntsville, AL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Aviation-Software-Test-Engineer_R-00183273) |
+| 🏢 **Leidos** | Manufacturing Test Engineer | Huntsville, AL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Test-Engineer_R-00183271-1) |
 | 🔒 **Palo Alto Networks** | Principle Manufacturing Engineer |  | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principle-Manufacturing-Engineer_JR-017121-1) |
 | 🟢 **Google** | Silicon Validation Engineer, HBM, Google Cloud | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/88589167927141062) |
 | 🏢 **Vertiv** | Manufacturing Engineering Technician | Ashland, KY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262349) |
@@ -574,9 +574,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Carrier Global** | Commercial Service Sales Account Manager | 2 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN14-CCS-Fairfield-100-Delawanna-Avenue-Clifton-NJ-07014-USA/Commercial-Service-Sales-Account-Manager_30203258) |
 | 🏢 **Twilio** | Strategic Account Executive 3 - ISV | US | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7917820) |
 | 🏢 **Elastic** | Enterprise Account Executive - North Central | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7727949&gh_jid=7727949) |
-| 🔷 **Intel** | Market Development Manager | Arizona Phoenix +... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Market-Development-Manager_JR0284008) |
-| 🏢 **Comcast** | Enterprise Account Manager, Comcast Business | Plymouth, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---Plymouth-35-Resnik-Rd/Account-Manager-1--Enterprise-Direct-Sales_R433072) |
-| 🏢 **Comcast** | Enterprise Account Executive, Comcast Business | South Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---South-Boston-426-E-1st-St/Account-Executive-3--Enterprise-Direct-Sales_R434104) |
+| 🔷 **Intel** | Market Development Manager | Arizona Phoenix +... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Market-Development-Manager_JR0284008) |
+| 🏢 **Comcast** | Enterprise Account Manager, Comcast Business | Plymouth, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---Plymouth-35-Resnik-Rd/Account-Manager-1--Enterprise-Direct-Sales_R433072) |
+| 🏢 **Comcast** | Enterprise Account Executive, Comcast Business | South Boston, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---South-Boston-426-E-1st-St/Account-Executive-3--Enterprise-Direct-Sales_R434104) |
 | 🏢 **Morningstar** | Global Sales Executive | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Global-Sales-Executive_AP-23892827) |
 | 🏢 **Arrow Electronics** | Inside Sales Associate | Casablanca, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Inside-Sales-Associate_R243382) |
 | ☁️ **Salesforce** | Customer Success Manager - Data360 - Missionforce - TS/SCI Clearance | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/District-of-Columbia---Washington/Customer-Success-Manager---Data360--TS-SCI--Clearance_JR340656) |
@@ -694,8 +694,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | Quality Control Technician – Level 3 | Utah | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Quality-Control-Technician---Level-3_R10232931-1) |
 | 🏢 **Jabil** | Diagnostic Technician 1 | Florence, KY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2449579) |
 | 🏢 **Autodesk** | Forma Implementation Consultant - NAMER Adoption | Texas + 5 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Texas-USA---Remote/Forma-Implementation-Consultant---NAMER-Adoption_26WD98283) |
-| 🏢 **RTX** | 2nd Shift_ Mechanical Manufacturing Technician I_ Onsite | West Des Moines, IA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-WEST-DES-MOINES-811--811-4th-St--4TH/XMLNAME-2nd-Shift--Mechanical-Manufacturing-Technician-I--Onsite_01845439) |
-| 🏢 **NCR Voyix** | Field Service Technician - Wilmington, NC | NORTH CAROLINA VI... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/NORTH-CAROLINA-VIRTUAL-USA/Field-Service-Technician---Wilmington--NC_JR2604119) |
+| 🏢 **RTX** | 2nd Shift_ Mechanical Manufacturing Technician I_ Onsite | West Des Moines, IA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-WEST-DES-MOINES-811--811-4th-St--4TH/XMLNAME-2nd-Shift--Mechanical-Manufacturing-Technician-I--Onsite_01845439) |
+| 🏢 **NCR Voyix** | Field Service Technician - Wilmington, NC | NORTH CAROLINA VI... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/NORTH-CAROLINA-VIRTUAL-USA/Field-Service-Technician---Wilmington--NC_JR2604119) |
 | 🏢 **Johnson Controls** | HVAC Controls Technician | Tennessee | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Memphis-Tennessee-United-States-of-America/HVAC-Controls-Technician_WD30269393) |
 | 🏢 **Caterpillar** | Process Technician - 1st Shift | Menominee, Michigan | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Menominee-Michigan/Process-Technician---1st-Shift_R0000369916) |
 | 🏢 **Fidelity Investments** | Facilities & Operations HVAC Building Engineer - VRF and Split System Experience | Boston, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Facilities---Operations-HVAC-Building-Engineer---VRF-and-Split-System-Experience_2126631) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17182 current opportunities from 636 companies**
+**🎯 17181 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
