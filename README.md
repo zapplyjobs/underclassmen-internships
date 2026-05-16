@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17197-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17192-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-636-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -137,7 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Software Engineer | Austin, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer_326114) |
 | 🏢 **The Federal Reserve System** | Software Engineer | Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Co-op--Software-Engineering_R-0000031108) |
 | 🏢 **Veeva Systems** | Associate Product Manager - Vault CRM Suite | Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961/apply) |
-| 🏢 **Formlabs** | Application Engineer | Somerville, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7652183/apply/?gh_jid=7652183) |
+| 🏢 **Formlabs** | Application Engineer | Somerville, MA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7652183/apply/?gh_jid=7652183) |
 | 🏢 **Morningstar** | Associate Product Manager, Climate & Nature Solutions | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Associate-Product-Manager--Climate---Nature-Solutions_REQ-056167) |
 | 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer--Credit-Tech_AP-23077420-1) |
 | 🏢 **Morningstar** | Software Engineer | Chicago | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Data-Product-Manager_REQ-051949) |
@@ -700,10 +700,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Caterpillar** | Process Technician - 1st Shift | Menominee, Michigan | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Menominee-Michigan/Process-Technician---1st-Shift_R0000369916) |
 | 🏢 **Fidelity Investments** | Facilities & Operations HVAC Building Engineer - VRF and Split System Experience | Boston, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Facilities---Operations-HVAC-Building-Engineer---VRF-and-Split-System-Experience_2126631) |
 | 🏢 **Cresta** | Application Support Engineer | United States (Re... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5220511008) |
-| 🏢 **Northrop Grumman** | Non Destructive Test Technician - Tech 3/4 - Shearography and Thermography | California | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Non-Destructive-Test-Technician---Tech-3-4---Shearography-and-Thermography_R10231927) |
-| 🏢 **NCR Voyix** | Field Service Technician- Albany, NY | ALBANY, NY, USA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ALBANY-NY-USA/Field-Service-Technician_JR2604208-3) |
-| 🏢 **Formlabs** | Solutions Engineer | Somerville, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7870702/apply/?gh_jid=7870702) |
-| 🏢 **AbbVie** | Manufacturing Technician I | Waco, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013128306) |
+| 🏢 **Northrop Grumman** | Non Destructive Test Technician - Tech 3/4 - Shearography and Thermography | California | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Non-Destructive-Test-Technician---Tech-3-4---Shearography-and-Thermography_R10231927) |
+| 🏢 **NCR Voyix** | Field Service Technician- Albany, NY | ALBANY, NY, USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ALBANY-NY-USA/Field-Service-Technician_JR2604208-3) |
+| 🏢 **Formlabs** | Solutions Engineer | Somerville, MA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7870702/apply/?gh_jid=7870702) |
+| 🏢 **AbbVie** | Manufacturing Technician I | Waco, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013128306) |
 | 🏢 **Magna** | Technician - Electronics Maint | Alto, Michigan, US | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Alto-Michigan-US/Technician---Electronics-Maint_R00243108) |
 | 🏢 **KBR** | APS-3: Specialist, Logistics Administration | Charleston South ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Charleston-South-Carolina/APS-3--Specialist--Logistics-Administration_R2123627) |
 | 🏢 **ALSO** | Dyno Technician | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/Ridealso/8e9d8dca-faae-4c1e-9f5a-8214898aeb45/application) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17197 current opportunities from 636 companies**
+**🎯 17192 current opportunities from 636 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
