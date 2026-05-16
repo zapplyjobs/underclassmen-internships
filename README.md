@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17029-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17006-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -235,8 +235,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Language Data Scientist, Alexa International | Bellevue, WA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419959/language-data-scientist-alexa-international) |
 | 🏢 **Applied Materials** | 2026 Data Engineer New College Grad- Bachelor's/Master's (Austin, TX) | Austin,TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Data-Engineer-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2619452-1) |
 | 🍎 **Apple** | Machine Learning Data Engineer | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662925/machine-learning-data-engineer) |
-| ☁️ **Salesforce** | Adversarial AI & Research Engineer | California San Fr... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Security-Senior-Penetration-Tester_JR328222) |
-| 🏢 **Deloitte** | Associate GenAI Engineer | Mt. Juliet, TN | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Associate-GenAI-Engineer/340568) |
+| ☁️ **Salesforce** | Adversarial AI & Research Engineer | California San Fr... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Security-Senior-Penetration-Tester_JR328222) |
+| 🏢 **Deloitte** | Associate GenAI Engineer | Mt. Juliet, TN | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Associate-GenAI-Engineer/340568) |
 | 🏢 **LexisNexis Risk Solutions** | Data Engineer 1 | Alpharetta, GA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Engineer-I_R113132) |
 | 🏢 **Eversource Energy** | IT Associate Data Analyst | Norwood, MA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/IT-Associate-Data-Analyst_R-030512) |
 | 💳 **Stripe** | Data Science Manager, Growth | Seattle, WA OR Ne... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7440963) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17029 current opportunities from 635 companies**
+**🎯 17006 current opportunities from 635 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
