@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16933-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16932-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -344,9 +344,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 👁️ **Palantir** | Information Security Engineer - Insider Risk | Washington, D.C. | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/b0e1823a-fbe7-4c9d-a4d3-a1e738db2589/apply) |
 | 🏢 **Leidos** | SME Cyber Security Engineer | Alexandria, VA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Cyber-Security-Engineer_R-00177784-1) |
 | 🏢 **Workday Inc** | Cybersecurity Engineer - US Federal | USA.VA.Reston | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Cybersecurity-Engineer---US-Federal_JR-0107022) |
-| 👻 **Snap** | Manager, Security Engineering, Enterprise Infrastructure | Los Angeles Calif... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Manager--Security-Engineering--Enterprise-Infrastructure_R0045102-1) |
-| 🏢 **KLA** | Cybersecurity Analyst - Insider Risk | Ann Arbor, MI | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Cybersecurity-Analyst---Insider-Risk_2636441-2) |
-| 🏢 **Cisco** | Compliance Information Security Analyst | RTP North Carolin... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Compliance-Information-Security-Analyst_2003465) |
+| 👻 **Snap** | Manager, Security Engineering, Enterprise Infrastructure | Los Angeles Calif... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Manager--Security-Engineering--Enterprise-Infrastructure_R0045102-1) |
+| 🏢 **KLA** | Cybersecurity Analyst - Insider Risk | Ann Arbor, MI | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Cybersecurity-Analyst---Insider-Risk_2636441-2) |
+| 🏢 **Cisco** | Compliance Information Security Analyst | RTP North Carolin... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Compliance-Information-Security-Analyst_2003465) |
 | 🏢 **Guidehouse** | Cybersecurity Compliance & Readiness Manager | VA, McLean | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Cybersecurity-Compliance---Readiness-Manager_38960) |
 | 🏢 **Boeing** | Cybersecurity - Information System Security Manager (ISSM) | Herndon, VA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Cybersecurity---Information-System-Security-Manager--ISSM-_JR2026499917-1) |
 | 🏢 **Modal** | Infrastructure Security Engineer | New York | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/modal/8de60620-09bf-4905-910f-a290814a29ee/application) |
@@ -361,7 +361,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **BitGo** | SOC Analyst | Palo Alto, Califo... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bitgo/jobs/8531792002) |
 | 🏢 **ClickHouse** | Incident Response Security Engineer | United States (re... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/5848200004) |
 | 🏢 **KBR** | Cybersecurity RMF Analyst | 2 Locations | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/North-Charleston-South-Carolina/Cybersecurity-RMF-Analyst_R2121877) |
-| 🏢 **KLA** | Cybersecurity Engineer - Endpoint Detection | Ann Arbor, MI | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Cybersecurity-Engineer---Endpoint-Detection_2635605-1) |
+| 🏢 **KLA** | Cybersecurity Engineer - Endpoint Detection | Ann Arbor, MI | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Cybersecurity-Engineer---Endpoint-Detection_2635605-1) |
 | 🏢 **Caterpillar** | Cybersecurity Manager | East Peoria Illin... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Cybersecurity-Manager_R0000368392) |
 | 🏢 **Alarm.com** | Security Engineer | Tysons, Virginia | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/7514206002) |
 | 🏢 **Ramp** | Security Engineer, Privacy | New York, NY ( | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36/application) |
@@ -590,7 +590,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **BeyondTrust** | Sales Development Representative | Hybrid Atlanta, G... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7769490) |
 | 🏢 **Algolia** | Commercial Account Executive | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/algolia/jobs/5833600004) |
 | 🏢 **Algolia** | Customer Success Engineer (East) | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/algolia/jobs/5834932004) |
-| 🏢 **Cisco** | Federal Civilian SASE Account Executive | Herndon Virginia ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Herndon-Virginia-US/Federal-Civilian-SASE-Account-Executive_2012383) |
+| 🏢 **Cisco** | Federal Civilian SASE Account Executive | Herndon Virginia ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Herndon-Virginia-US/Federal-Civilian-SASE-Account-Executive_2012383) |
 | 🏢 **Johnson Controls** | Service Sales Representative | New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-New-York-United-States-of-America/Service-Sales-Representative_WD30267904) |
 | 🏢 **Autodesk** | Manager, Customer Success | Portland, OR, USA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Manager--Customer-Success_26WD98233-2) |
 | 🎨 **Figma** | Inside Sales Representative - Early Career (2026) | San Francisco, CA... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16933 current opportunities from 635 companies**
+**🎯 16932 current opportunities from 635 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
