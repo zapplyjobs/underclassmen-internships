@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16931-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16930-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -579,7 +579,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Comcast** | Enterprise Account Executive, Comcast Business | South Boston, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MA---South-Boston-426-E-1st-St/Account-Executive-3--Enterprise-Direct-Sales_R434104) |
 | 🏢 **Morningstar** | Global Sales Executive | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Global-Sales-Executive_AP-23892827) |
 | 🏢 **Arrow Electronics** | Inside Sales Associate | Casablanca, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Inside-Sales-Associate_R243382) |
-| ☁️ **Salesforce** | Customer Success Manager - Data360 - Missionforce - TS/SCI Clearance | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/District-of-Columbia---Washington/Customer-Success-Manager---Data360--TS-SCI--Clearance_JR340656) |
+| ☁️ **Salesforce** | Customer Success Manager - Data360 - Missionforce - TS/SCI Clearance | 3 Locations | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/District-of-Columbia---Washington/Customer-Success-Manager---Data360--TS-SCI--Clearance_JR340656) |
 | 🏢 **Ping Identity** | Associate Sales Development Rep | Austin, TX | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8151419002) |
 | 🏢 **Ping Identity** | Enterprise Account Executive | Remote | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8382350002) |
 | 🏢 **Ping Identity** | Partner Sales Engineer | Remote | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8391580002) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16931 current opportunities from 635 companies**
+**🎯 16930 current opportunities from 635 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
