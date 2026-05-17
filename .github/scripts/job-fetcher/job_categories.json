@@ -148,8 +148,8 @@
       "supply chain engineer"
     ]
   },
-  "business_sales": {
-    "title": "Business & Sales",
+  "business_operations": {
+    "title": "Business & Operations",
     "emoji": "📊",
     "keywords": [
       "account executive",
@@ -166,13 +166,7 @@
       "market development",
       "customer success",
       "revenue operations",
-      "sales associate"
-    ]
-  },
-  "operations_support": {
-    "title": "Operations & Support",
-    "emoji": "🏢",
-    "keywords": [
+      "sales associate",
       "operations specialist",
       "operations associate",
       "operations coordinator",
@@ -202,9 +196,9 @@
       "salesforce administrator"
     ]
   },
-  "healthcare_nursing": {
-    "title": "Healthcare & Nursing",
-    "emoji": "🏥",
+  "other": {
+    "title": "Other Jobs",
+    "emoji": "📂",
     "keywords": [
       "registered nurse",
       "travel nurse",
@@ -231,10 +225,5 @@
       "rn ms",
       "tele rn"
     ]
-  },
-  "other": {
-    "title": "Other Jobs",
-    "emoji": "📂",
-    "keywords": []
   }
 }
