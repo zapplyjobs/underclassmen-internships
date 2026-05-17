@@ -500,7 +500,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Combat Systems Test Engineer | Arlington, VA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Combat-Systems-Test-Engineer_R-00183156) |
 | **KBR** | Fiber Test Engineer | Lexington, Massac... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/Fiber-Test-Engineer_R2123637) |
 | **CoreWeave** | Systems Engineer, People Systems | Livingston, NJ / ... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4673956006&board=coreweave&gh_jid=4673956006) |
-| **Micron** | CMP Process Engineer | Boise, ID - ID1 | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/CMP-Process-Engineer_JR101724) |
+| **Micron** | CMP Process Engineer | Boise, ID - ID1 | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/CMP-Process-Engineer_JR101724) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
