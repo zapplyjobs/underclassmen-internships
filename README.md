@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16928-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16927-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -133,10 +133,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **USAA** | Development Product Owner I – Life Company (Actuary DPO) | San Antonio + 6 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Development-Product-Owner-I---Life-Company--Actuary-DPO-_R0117744) |
 | 🏢 **Medtronic** | Global Product Manager - CST (Onsite) | 2 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Global-Product-Manager---CST--Onsite-_R66723-1) |
 | 🏢 **Northrop Grumman** | DevOps Engineer - Level 2 | Colorado | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/DevOps-Engineer---Level-2_R10232932) |
-| 🏢 **CACI** | Azure Systems Administrator | Aberdeen Proving ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Azure-Systems-Administrator_326095) |
-| 🏢 **CACI** | Software Engineer | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer_326114) |
-| 🏢 **The Federal Reserve System** | Software Engineer | Boston, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Co-op--Software-Engineering_R-0000031108) |
-| 🏢 **Veeva Systems** | Associate Product Manager - Vault CRM Suite | Boston, MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961/apply) |
+| 🏢 **CACI** | Azure Systems Administrator | Aberdeen Proving ... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Azure-Systems-Administrator_326095) |
+| 🏢 **CACI** | Software Engineer | Austin, TX | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer_326114) |
+| 🏢 **The Federal Reserve System** | Software Engineer | Boston, MA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Co-op--Software-Engineering_R-0000031108) |
+| 🏢 **Veeva Systems** | Associate Product Manager - Vault CRM Suite | Boston, MA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/9a6eaa9b-0d86-4fd7-a687-17e70add8961/apply) |
 | 🏢 **Formlabs** | Application Engineer | Somerville, MA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7652183/apply/?gh_jid=7652183) |
 | 🏢 **Morningstar** | Associate Product Manager, Climate & Nature Solutions | New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-York/Associate-Product-Manager--Climate---Nature-Solutions_REQ-056167) |
 | 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Associate-Software-Engineer--Credit-Tech_AP-23077420-1) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16928 current opportunities from 635 companies**
+**🎯 16927 current opportunities from 635 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
