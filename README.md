@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16947-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16946-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-635-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -593,7 +593,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cisco** | Federal Civilian SASE Account Executive | Herndon Virginia ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Herndon-Virginia-US/Federal-Civilian-SASE-Account-Executive_2012383) |
 | 🏢 **Johnson Controls** | Service Sales Representative | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-New-York-United-States-of-America/Service-Sales-Representative_WD30267904) |
 | 🏢 **Autodesk** | Manager, Customer Success | Portland, OR, USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Manager--Customer-Success_26WD98233-2) |
-| 🎨 **Figma** | Inside Sales Representative - Early Career (2026) | San Francisco, CA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004) |
+| 🎨 **Figma** | Inside Sales Representative - Early Career (2026) | San Francisco, CA... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004) |
 | ❄️ **Snowflake** | Account Executive, Commercial | Atlanta, GA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/70fa522f-acbd-467e-aa1d-ddcf078bb256/application) |
 | 🏢 **Cisco** | Account Executive - Splunk | Indiana, USA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Remote---Indiana-USA/Account-Executive---Splunk_2012257) |
 | 🏢 **The Trade Desk** | Business Development GM (Holdco) | New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5107992007) |
@@ -908,7 +908,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16947 current opportunities from 635 companies**
+**🎯 16946 current opportunities from 635 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
