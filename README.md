@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-12787-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-12786-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-490-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -148,8 +148,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Software Engineer 1 | Phoenix, AZ | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/137126) |
 | **Vertiv** | ERS-Application Engineer - Westerville | New Albany, OH | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265269) |
 | **JP Morgan Chase** | Martech Product Manager | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713064) |
-| **Cisco** | Network Engineer - Acacia (hybrid) | Maynard Massachus... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Network-Engineer---Acacia--hybrid-_2002393-1) |
-| **Cisco** | Software Engineer, Information Experi... | RTP, North Caroli... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--Information-Experience_2013025) |
+| **Cisco** | Network Engineer - Acacia (hybrid) | Maynard Massachus... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Network-Engineer---Acacia--hybrid-_2002393-1) |
+| **Cisco** | Software Engineer, Information Experi... | RTP, North Caroli... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--Information-Experience_2013025) |
 | **GDIT** | Network Engineer – Remote from Louisiana | USA LA Home | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/Network-Engineer---Remote-from-Louisiana_RQ220100-1) |
 | **GDIT** | Network Engineer | USA NY Rensselaer | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Rensselaer/Network-Engineer_RQ220034-1) |
 | **Vertiv** | Placement Student - Software Engineering | United States | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270783) |
@@ -375,7 +375,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | Photonics Lab Technician | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31831) |
 | **Applied Materials** | NPI Quality Engineer - E3 | Austin,TX | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPI-Quality-Engineer---E3_R2619837) |
 | **General Motors** | GA Process Engineer | Wentzville, Misso... | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Wentzville-Missouri-United-States-of-America/GA-Process-Engineer_JR-202610762) |
-| **NXP** | HW Validation Engineer | Austin | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/HW-Validation-Engineer_R-10063521) |
+| **NXP** | HW Validation Engineer | Austin | 10h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/HW-Validation-Engineer_R-10063521) |
 | **Amazon.com Services LLC** | Systems Development Engineer, Control... | Boston, MA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10421945/systems-development-engineer-controls-engineering) |
 | **SEL** | Hardware Engineer (Process Improvement) | Pullman | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Process-Improvement-Manager_2026-19563) |
 | **SEL** | Hardware Engineer | Pullman | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineer_2026-20899-1) |
@@ -514,10 +514,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **T-Mobile** | Major Account Executive, SMB Sales-St... | St. Louis, Missouri | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/St-Louis-Missouri/Major-Account-Executive--SMB-Sales-St-Louis_REQ355288-2) |
 | **T-Mobile** | Account Executive, SMB Team Sales | Tampa, Florida | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Tampa-Florida/Account-Executive--SMB-Team-Sales_REQ354941) |
 | **T-Mobile** | Account Executive, SMB Sales - Livoni... | Livonia, Michigan | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Livonia-Michigan/Account-Executive--SMB-Sales---Livonia--MI_REQ355439-1) |
-| **CockroachLabs** | Strategy & Operations Analyst, GTM Op... | New York, NY | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.cockroachlabs.com/careers/job/?gh_jid=7926263) |
+| **CockroachLabs** | Strategy & Operations Analyst, GTM Op... | New York, NY | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.cockroachlabs.com/careers/job/?gh_jid=7926263) |
 | **Vertex Pharmaceuticals** | Territory Account Manager Roles (Cali... | United States Fie... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Territory-Account-Manager-Roles--California------Join-Vertex-s-Sales-Talent-Community_REQ-29073) |
 | **Vertex Pharmaceuticals** | Territory Account Manager - Michigan ... | United States Fie... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Territory-Account-Manager---Michigan---Join-our-Talent-Community-_REQ-29062) |
-| **Vertex Pharmaceuticals** | Territory Account Manager Roles (Cent... | United States Fie... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Territory-Account-Manager-Roles--Central---South-Florida------Join-Vertex-s-Sales-Talent-Community_REQ-29072) |
+| **Vertex Pharmaceuticals** | Territory Account Manager Roles (Cent... | United States Fie... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Territory-Account-Manager-Roles--Central---South-Florida------Join-Vertex-s-Sales-Talent-Community_REQ-29072) |
 | **GDIT** | AV- VTC Technician with TS/SCI w/ POLY | USA HI Camp Smith | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/AV--VTC-Technician-with-TS-SCI-w--POLY_RQ220250-1) |
 | **GDIT** | Operations and Logistics Coordinator | USA VA Falls Church | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Operations-and-Logistics-Coordinator_RQ219893-1) |
 | **GDIT** | Operations Analyst Technician | USA NC Fort Bragg | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Operations-Analyst-Technician_RQ220174-1) |
@@ -739,7 +739,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 12787 current opportunities from 490 companies**
+**🎯 12786 current opportunities from 490 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
