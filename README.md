@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-14327-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-525-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-14325-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-524-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -251,20 +251,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoom** | AI Engineer | Seattle | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1) |
 | **Zoom** | AI Engineer - Agent Automation | Seattle, WA + 1 more | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer---Agent-Automation_R17809-1) |
 | **Zoom** | Research Scientist - AI Incubation | Seattle, WA + 1 more | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist---AI-Incubation_R18458-1) |
-| **CVS Health** | Manager, Pharmacy Workflow Data Analy... | Woonsocket, RI | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager--Pharmacy-Workflow-Data-Analytics_R0893654) |
-| **CVS Health** | Data Engineer | Irving, TX | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0912406) |
+| **CVS Health** | Manager, Pharmacy Workflow Data Analy... | Woonsocket, RI | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager--Pharmacy-Workflow-Data-Analytics_R0893654) |
+| **CVS Health** | Data Engineer | Irving, TX | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0912406) |
 | **Freddie Mac** | Single Family Data Analyst | McLean, VA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Analyst_JR15836) |
 | **Vertex Pharmaceuticals** | Pathology Research Scientist | Boston, MA | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Pathology-Research-Scientist_REQ-28965) |
 | **Vertex Pharmaceuticals** | Research Scientist, Pain Pharmacology | San Diego, CA | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Research-Scientist--Pain-Pharmacology_REQ-28910) |
 | **Vertex Pharmaceuticals** | Protein Sciences Research Scientist | Seattle, WA | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Seattle-WA/Protein-Sciences-Research-Scientist_REQ-28792) |
 | **LLNL** | Explosives Research Engineering Assoc... | Livermore, CA | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013183776) |
-| **Daimler Truck** | Applied AI Engineer - Manufacturing S... | Cleveland, NC US | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Software-Engineer---AI---Industrial-Applications_DT-17749) |
-| **SharkNinja** | Data Engineer | United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680941006) |
+| **Daimler Truck** | Applied AI Engineer - Manufacturing S... | Cleveland, NC US | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Software-Engineer---AI---Industrial-Applications_DT-17749) |
+| **SharkNinja** | Data Engineer | United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680941006) |
 | **Yahoo** | Data Engineer - AI Semantic Analytics | United States of ... | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Data-Engineer---Consumer-Data-AI---ML_JR0026544) |
 | **Boston Dynamics** | Research Scientist, RL for Dexterous ... | Waltham | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--RL-for-Dexterous-Manipulation--Atlas_R2756) |
 | **Boston Dynamics** | Research Engineer, Atlas Physics Simu... | Waltham | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Engineer--Atlas-Physics-Simulation-for-RL_R2741) |
 | **Boston Dynamics** | Machine Learning Engineer, Large Scal... | Waltham | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581) |
-| **EVERSANA** | Business Analyst | Mason, OH | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000126899879) |
+| **EVERSANA** | Business Analyst | Mason, OH | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000126899879) |
 | **Amazon.com Services LLC** | Data Engineer, Compensation, CPSA | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10422752/data-engineer-compensation-cpsa) |
 | **Amazon.com Services LLC** | Data Engineer, Ads Central FP&A | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10422576/data-engineer-ads-central-fp-a) |
 | **Amazon Development Center U.S., Inc.** | Applied Scientist, Materials and Proc... | Pasadena, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10422710/applied-scientist-materials-and-process-development-aws-center-for-quantum-computing) |
@@ -445,19 +445,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson Controls** | HVAC Controls Systems Engineer | Virginia | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Rockville-Virginia-United-States-of-America/HVAC-Controls-Systems-Engineer_WD30269889) |
 | **Johnson Controls** | HVAC Systems Engineer | Texas | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Antonio-Texas-United-States-of-America/HVAC-Controls-Systems-Engineer-III_WD30265827) |
 | **Johnson Controls** | NextGen Hardware Engineer | Massachusetts | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/NextGen-Hardware-Engineer_WD30268809) |
-| **Intuitive** | Manager, Mechanical Engineering | Sunnyvale | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127073629) |
+| **Intuitive** | Manager, Mechanical Engineering | Sunnyvale | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127073629) |
 | **Olsson** | Assistant Electrical Engineer - Build... | Dallas, TX; Fayet... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5224310008) |
 | **State Street** | Process Engineer, Assistant Vice Pres... | Quincy, Massachus... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Process-Engineer--Assistant-Vice-President_R-790194-1) |
 | **Apple** | Wireless Bluetooth Quality Engineer, ... | Cupertino | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200663462/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems) |
 | **Illumina** | Manufacturing Process Engineer 1 | Madison | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Wisconsin---Madison/Manufacturing-Process-Engineer-1_42822-JOB-1) |
 | **Apple** | Wireless Systems Engineer | Cupertino | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200663708/wireless-systems-engineer) |
-| **NXP** | HW Validation Engineer | Austin | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/HW-Validation-Engineer_R-10063521) |
+| **NXP** | HW Validation Engineer | Austin | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/HW-Validation-Engineer_R-10063521) |
 | **Veolia Environnement SA** | Associate Mechanical Engineer – (Data... | Fredericksburg, VA | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127058419) |
 | **SpaceX** | Development Test Engineer, Structures... | Starbase, TX | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8551872002?gh_jid=8551872002) |
-| **Kikoff** | IT Systems Engineer | San Francisco | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kikoff/jobs/4251158009) |
+| **Kikoff** | IT Systems Engineer | San Francisco | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kikoff/jobs/4251158009) |
 | **Amentum** | Mechanical Engineer | Kennedy Space, FL | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/Mechanical-Engineer_R0161428) |
 | **SpaceX** | IT Systems Engineer, Mission Systems | Cape Canaveral, FL | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8552919002?gh_jid=8552919002) |
-| **Formlabs** | Chemical Process Engineer | Millbury, OH | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/7939319/apply/?gh_jid=7939319) |
+| **Formlabs** | Chemical Process Engineer | Millbury, OH | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/7939319/apply/?gh_jid=7939319) |
 | **CFS Energy** | Mechanical Engineer | Devens, MA | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/96ffcafa-2bb9-43df-ae68-7db1396d207b/apply) |
 | **Boston Dynamics** | Manager, Hardware Test Engineering | Waltham, MA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Hardware-Test-Engineering-Manager---Electrical_R2149) |
 | **Boston Dynamics** | Robotics Engineer- Stretch Perception | Waltham, MA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Engineer--Stretch-Perception_R2537) |
@@ -745,7 +745,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 14327 current opportunities from 525 companies**
+**🎯 14325 current opportunities from 524 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
