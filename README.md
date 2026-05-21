@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17930-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17892-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-651-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -370,7 +370,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Embedded Security Engineer (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002) |
 | **T-Mobile** | Analyst, Cybersecurity | New York New York... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Analyst--Cybersecurity_REQ350864-1) |
 | **Southwest Airlines** | Mgr Cybersecurity | Dallas, TX | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Mgr-Cybersecurity_R-2026-67374) |
-| **Lambda** | Security Engineering Intern - Summer ... | San Francisco | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
+| **Lambda** | Security Engineering Intern - Summer ... | San Francisco | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | **Exact Sciences** | Cybersecurity Intern - Co-op Fall 2026 | Madison, WI | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Cybersecurity-Intern---Co-op-Fall-2026_R26-12511) |
 | **Generac** | IT Intern - Cybersecurity | Waukesha, WI - USA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/IT-Intern---Cybersecurity_JR12978) |
 
@@ -761,7 +761,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17930 current opportunities from 651 companies**
+**🎯 17892 current opportunities from 651 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
