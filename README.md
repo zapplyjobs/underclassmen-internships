@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18171-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-649-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18142-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-648-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -150,12 +150,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | AI Software Engineer | Washington, DC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Infrastructure-Software-Development-Engineer_R0238288) |
 | **Booz Allen Hamilton** | AI Software Engineer | Washington, DC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI---ML-Software-Development-Engineer_R0238284-1) |
 | **Boeing** | Associate Real Time Software Engineer... | Hazelwood, MO + 2... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Real-Time-Software-Engineer-Vehicle-Management-Systems_JR2026493942-1) |
-| **Boeing** | Associate DevOps Developer | Seal Beach, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-DevOps-Developer_JR2026503724) |
+| **Boeing** | Associate DevOps Developer | Seal Beach, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-DevOps-Developer_JR2026503724) |
 | **Blue Origin** | Software Engineer II | Greater Seattle A... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer-II_R64479-1) |
 | **Blue Origin** | Software Engineer, Level 3 — Space Re... | Los Angeles, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Software-Engineer--Level-3---Space-Resources-Program_R64601) |
 | **Blue Origin** | Software Engineer III - TeraWave | Greater Seattle A... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-Software-Engineer---TeraWave_R64098) |
-| **CACI** | Software Engineer (Agentic AI) | King of Prussia, ... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineer--Agentic-AI-_326830) |
-| **CACI** | Junior Software Engineer | Chantilly, VA, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Junior-Software-Engineer_326714) |
+| **CACI** | Software Engineer (Agentic AI) | King of Prussia, ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineer--Agentic-AI-_326830) |
+| **CACI** | Junior Software Engineer | Chantilly, VA, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Junior-Software-Engineer_326714) |
 | **CACI** | Junior Network Engineer | Colorado Springs,... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Colorado-Springs-CO-US/Junior-Network-Engineer_324712) |
 | **CAE** | DNI Software Engineering Co-op | Tampa | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/DNI-Software-Engineering-Co-op_121708-1) |
 | **Capital One** | Product Manager - Mainstreet Customer... | New York, NY + 1 ... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Manager---Mainstreet-Customer-Management_R243034-1) |
@@ -220,7 +220,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | AI/ML Engineer | Aurora CO US + 1 ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Aurora-CO-US/AI-ML-Engineer_325181) |
 | **CACI** | Machine Learning Engineer (Clearance ... | Chantilly, VA, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Machine-Learning-Engineer--Clearance-Sponsorship-_325560) |
 | **CAE** | Data Engineer | Tampa + 1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Data-Engineer_121684-1) |
-| **Capital One** | Manager, Data Science - Model Risk Of... | McLean, VA + 1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Science---Model-Risk-Office_R242995-1) |
+| **Capital One** | Manager, Data Science - Model Risk Of... | McLean, VA + 1 more | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Science---Model-Risk-Office_R242995-1) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Data-Analyst_29115) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | New York | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2024-Blackstone-Technology-and-Innovations---Data-Engineer-Analyst_29118) |
 | **Boston Dynamics** | Research Scientist, RL for Dexterous ... | Waltham | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--RL-for-Dexterous-Manipulation--Atlas_R2756) |
@@ -313,17 +313,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boeing** | Associate or Experienced Cloud and So... | Daytona Beach, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Associate-or-Experienced-Cloud-and-Software-Security-Engineer_JR2026503506-1) |
 | **Boeing** | Associate or Experienced Cloud and So... | Berkeley, MO | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-or-Experienced-Cloud-and-Software-Security-Engineer_JR2026499057) |
 | **Boeing** | Associate Product Security Engineer | Berkeley, MO | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Product-Security-Engineer_JR2026509139) |
-| **CACI** | Networking Security Engineer II | Columbia, MD, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Columbia-MD-US/Networking-Security-Engineer-II_326776) |
+| **CACI** | Networking Security Engineer II | Columbia, MD, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Columbia-MD-US/Networking-Security-Engineer-II_326776) |
 | **CAE** | Security Analyst | Arlington, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Security-Analyst_122013) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Cybersecurity-Operations-Analyst_29111) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
-| **Sierra Nevada Corporation** | Military Fellowship Program: Cybersec... | Sparks, NV + 1 more | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Military-Fellowship-Program--Cybersecurity-Analyst_R0029967) |
-| **GDIT** | Cyber Security Analyst Sr | USA CA Beale AFB | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Beale-AFB/Cyber-Security-Analyst-Sr_RQ220498) |
-| **GDIT** | Cyber Security Solutions Sales Engine... | USA VA Falls Church | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cyber-Security-Solutions-Sales-Engineer---Federal--Splunk--Appgate--Okta--Palo-Alto-_RQ219476-1) |
+| **Sierra Nevada Corporation** | Military Fellowship Program: Cybersec... | Sparks, NV + 1 more | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Military-Fellowship-Program--Cybersecurity-Analyst_R0029967) |
+| **GDIT** | Cyber Security Analyst Sr | USA CA Beale AFB | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Beale-AFB/Cyber-Security-Analyst-Sr_RQ220498) |
+| **GDIT** | Cyber Security Solutions Sales Engine... | USA VA Falls Church | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cyber-Security-Solutions-Sales-Engineer---Federal--Splunk--Appgate--Okta--Palo-Alto-_RQ219476-1) |
 | **nCino** | Manager - Business Information Securi... | Wilmington, NC | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/Wilmington-NC/Manager---Business-Information-Security-Office_R6235) |
 | **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Southwest Airlines** | Mgr Cybersecurity - Privileged Access... | Dallas, TX | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Mgr-Cybersecurity---Privileged-Access-Management--PAM-_R-2026-67987) |
-| **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
+| **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
 | **Intel** | Information Security Engineer | California Folsom... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer_JR0284155) |
 | **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
 | **Snap** | Security Engineer, Level 5 | Los Angeles, Cali... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Security-Engineer--Level-5_H126SWES6-1) |
@@ -369,7 +369,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Web Services, Inc.** | Systems Development Engineer II, US A... | Herndon, VA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10420669/systems-development-engineer-ii-us-amazon-dedicated-cloud-security-engineering) |
 | **SpaceX** | Product Security Engineer (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8543671002?gh_jid=8543671002) |
 | **SpaceX** | Embedded Security Engineer (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002) |
-| **T-Mobile** | Analyst, Cybersecurity | New York New York... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Analyst--Cybersecurity_REQ350864-1) |
 | **Lambda** | Security Engineering Intern - Summer ... | San Francisco | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | **Exact Sciences** | Cybersecurity Intern - Co-op Fall 2026 | Madison, WI | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Cybersecurity-Intern---Co-op-Fall-2026_R26-12511) |
 | **Generac** | IT Intern - Cybersecurity | Waukesha, WI - USA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/IT-Intern---Cybersecurity_JR12978) |
@@ -455,7 +454,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Materials** | Process Engineer IV | Santa Clara,CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2618378) |
 | **Applied Materials** | Mechanical Engineer | Santa Clara,CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer_R2619934) |
 | **ASML** | Department Manager - Supplier Quality... | Wilton, CT, USA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Department-Manager---Supplier-Quality-Engineering_J-00341155) |
-| **Amentum** | 1st Shift Associate Quality Engineer | Kennedy Space, FL | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/XMLNAME-1st-Shift-Associate-Quality-Engineer_R0161913) |
+| **Amentum** | 1st Shift Associate Quality Engineer | Kennedy Space, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/XMLNAME-1st-Shift-Associate-Quality-Engineer_R0161913) |
 | **Amentum** | Operations Mechanical Engineer - Main... | Kennedy Space, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/Operations-Mechanical-Engineer---Main-Propulsion-Systems-Engines_R0161468-1) |
 | **Amentum** | Systems Engineer - Security | Columbia, MD | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Columbia/Systems-Engineer---Security_R0161835) |
 | **Analog Devices** | Technician 4, Test Engineering - Prod... | US, MA, Wilmington | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Technician-4--Test-Engineering---Product-Development_R262456) |
@@ -761,7 +760,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18171 current opportunities from 649 companies**
+**🎯 18142 current opportunities from 648 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
