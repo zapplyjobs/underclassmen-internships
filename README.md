@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18142-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18117-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-648-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -320,9 +320,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Military Fellowship Program: Cybersec... | Sparks, NV + 1 more | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Military-Fellowship-Program--Cybersecurity-Analyst_R0029967) |
 | **GDIT** | Cyber Security Analyst Sr | USA CA Beale AFB | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Beale-AFB/Cyber-Security-Analyst-Sr_RQ220498) |
 | **GDIT** | Cyber Security Solutions Sales Engine... | USA VA Falls Church | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cyber-Security-Solutions-Sales-Engineer---Federal--Splunk--Appgate--Okta--Palo-Alto-_RQ219476-1) |
-| **nCino** | Manager - Business Information Securi... | Wilmington, NC | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/Wilmington-NC/Manager---Business-Information-Security-Office_R6235) |
+| **nCino** | Manager - Business Information Securi... | Wilmington, NC | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/Wilmington-NC/Manager---Business-Information-Security-Office_R6235) |
 | **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
-| **Southwest Airlines** | Mgr Cybersecurity - Privileged Access... | Dallas, TX | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Mgr-Cybersecurity---Privileged-Access-Management--PAM-_R-2026-67987) |
+| **Southwest Airlines** | Mgr Cybersecurity - Privileged Access... | Dallas, TX | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Mgr-Cybersecurity---Privileged-Access-Management--PAM-_R-2026-67987) |
 | **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
 | **Intel** | Information Security Engineer | California Folsom... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer_JR0284155) |
 | **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
@@ -760,7 +760,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18142 current opportunities from 648 companies**
+**🎯 18117 current opportunities from 648 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
