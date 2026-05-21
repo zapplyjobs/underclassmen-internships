@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17831-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17813-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-650-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -146,14 +146,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Disney** | Software Engineer II | Glendale, CA, USA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10150841) |
 | **CVS Health** | Manager - Software Development Engine... | AZ Scottsdale + 1... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Manager---Software-Development-Engineering--AI-ML-_R0888022) |
 | **Caterpillar** | Reliability Engineer - Spare Parts | Lafayette, Indiana | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Lafayette-Indiana/Reliability-Engineer---Spare-Parts_R0000357841-1) |
-| **Comcast** | Engineer 3, Network Engineering | 3 Locations | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Engineer-3--Network-Engineering_R437729-1) |
+| **Comcast** | Engineer 3, Network Engineering | 3 Locations | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Engineer-3--Network-Engineering_R437729-1) |
 | **Cisco** | Software Development Engineer II (Ful... | RTP, North Caroli... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Engineer-II--Full-Time----United-States_2014387) |
 | **Cisco** | Software Engineer- (Hardware Diagnost... | Milpitas, Califor... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer---Hardware-Diagnostics-_2007387) |
 | **Cisco** | Software Engineer | RTP, North Caroli... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer_2007041) |
 | **CACI** | Full Stack Software Engineer | Santa Maria, CA, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Santa-Maria-CA-US/Full-Stack-Software-Engineer_326752) |
 | **CACI** | Junior Network Engineer | Colorado Springs,... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Colorado-Springs-CO-US/Junior-Network-Engineer_324712) |
 | **CACI** | Software Engineer (Multiple Levels) | Fort Meade MD US ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Fort-Meade-MD-US/Software-Engineer--Multiple-Levels-_325683) |
-| **Baker Hughes** | Software Engineer (C#, WPF) | Ka, IN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Senior-Software-Engineer--C---WPF-_R164068) |
+| **Baker Hughes** | Software Engineer (C#, WPF) | Ka, IN | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Senior-Software-Engineer--C---WPF-_R164068) |
 | **Baker Hughes** | Application Engineer General | Houston, TX | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-17015-ALDINE-WESTFIELD/Application-Engineer-General_R164243) |
 | **Booz Allen Hamilton** | Network Engineer | Quantico, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Quantico-VA/Network-Engineer_R0240602) |
 | **Booz Allen Hamilton** | AI Software Engineer | Washington, DC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Infrastructure-Software-Development-Engineer_R0238288) |
@@ -226,7 +226,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Dynamics** | Teleoperations Research Engineer, Atlas | Waltham | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182) |
 | **Adobe** | Machine Learning Engineer | San Jose | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R167868) |
 | **Applied Materials** | Manager, Business Intelligence Analys... | Austin,TX | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager--Business-Intelligence-Analyst--M4-_R2620369) |
-| **Amentum** | Mission Support & Data Analytics Coor... | Crane, IN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-IN-Crane/Mission-Support---Data-Analytics-Coordinator_R0161907) |
+| **Amentum** | Mission Support & Data Analytics Coor... | Crane, IN | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-IN-Crane/Mission-Support---Data-Analytics-Coordinator_R0161907) |
 | **Amentum** | Data Scientist - Expert | Omaha, NE | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Data-Scientist---Expert_R0161869) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | **Pennsylvania State University** | Research Engineering Interns Intern | State College, PA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000071407-1) |
@@ -435,7 +435,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Curtiss-Wright** | Systems and Controls Engineer | Idaho Falls, ID | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-ID-Idaho-Falls-Nuclear/Systems-and-Controls-Engineer_JR12053-1) |
 | **Caterpillar** | Control Systems Engineer | Peoria, Illinois | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Control-Systems-Engineer_R0000371053) |
 | **Caterpillar** | Manufacturing Engineer | East Peoria, Illi... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Manufacturing-Engineer_R0000370285) |
-| **Cardinal Health** | IT Business Process Engineer, SCE | Dublin, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/IT-Business-Process-Engineer--SCE_20180946) |
+| **Cardinal Health** | IT Business Process Engineer, SCE | Dublin, OH | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/IT-Business-Process-Engineer--SCE_20180946) |
 | **CACI** | Part-Time SW Embedded Engineer | Florham Park, NJ, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Florham-Park-NJ-US/Part-Time-SW-Embedded-Engineer_326804) |
 | **CACI** | Systems Engineer (RF Hardware) | Colorado Springs,... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Colorado-Springs-CO-US/Systems-Engineer--RF-Hardware-_326819) |
 | **CACI** | Systems Engineer | Fort Belvoir, VA, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Fort-Belvoir-VA-US/Systems-Engineer_325169) |
@@ -445,9 +445,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boeing** | Mechanical & Structural Engineering M... | North Charleston, SC | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mechanical---Structural-Engineering-Managers--K-Level-_JR2026508866-1) |
 | **Boeing** | Quality Engineer | Everett, WA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Quality-Engineer_JR2026511122-1) |
 | **Boeing** | Experienced Manufacturing Engineer (F... | Mesa, AZ | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Experienced-Manufacturing-Engineer--Fabrication-_JR2026510785-1) |
-| **Blue Origin** | Avionics Test Engineer II – Lunar Cor... | Greater Seattle Area | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Test-Engineer-II---Lunar-Core-Components_R62722-1) |
-| **Blue Origin** | MK2 Avionics Hardware Design Engineer... | Greater Seattle A... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/MK2-Avionics-Hardware-Design-Engineer-III---Lunar-Permanence_R64726) |
-| **Blue Origin** | Engineer - Mechanical III - Lunar Per... | Greater Seattle A... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Engineer---Mechanical-III---Lunar-Permanence--Avionics---Optical-Mechanical-Packaging_R62710) |
+| **Blue Origin** | Avionics Test Engineer II – Lunar Cor... | Greater Seattle Area | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Test-Engineer-II---Lunar-Core-Components_R62722-1) |
+| **Blue Origin** | MK2 Avionics Hardware Design Engineer... | Greater Seattle A... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/MK2-Avionics-Hardware-Design-Engineer-III---Lunar-Permanence_R64726) |
+| **Blue Origin** | Engineer - Mechanical III - Lunar Per... | Greater Seattle A... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Engineer---Mechanical-III---Lunar-Permanence--Avionics---Optical-Mechanical-Packaging_R62710) |
 | **Boston Dynamics** | Manager, Hardware Test Engineering | Waltham, MA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Hardware-Test-Engineering-Manager---Electrical_R2149) |
 | **Boston Dynamics** | Robotics Engineer- Stretch Perception | Waltham, MA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Engineer--Stretch-Perception_R2537) |
 | **Boston Dynamics** | Perception Systems Engineer | Waltham | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Principal-Systems-Engineer_R2063) |
@@ -761,7 +761,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17831 current opportunities from 650 companies**
+**🎯 17813 current opportunities from 650 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
