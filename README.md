@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18530-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18500-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-638-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -313,12 +313,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Application Security Engineer | Fort Meade, MD + ... | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Application-Security-Engineer_R0240464) |
 | **CrowdStrike** | Program Manager, Product Security (Re... | 6 Locations | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Program-Manager--Product-Security--Remote--CAN-_R28718) |
 | **CACI** | Cyber Security Engineer - NSS Tools | St. Louis, MO, US | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/St-Louis-MO-US/Cyber-Security-Engineer---NSS-Tools_325567) |
-| **Snap** | Security Engineer, Level 5, Detection... | Los Angeles Calif... | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Security-Engineer--Level-5--Detection---Response_R0045495-1) |
+| **Snap** | Security Engineer, Level 5, Detection... | Los Angeles Calif... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Security-Engineer--Level-5--Detection---Response_R0045495-1) |
 | **Sierra Nevada Corporation** | Military Fellowship Program: Cybersec... | Sparks, NV + 1 more | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Military-Fellowship-Program--Cybersecurity-Analyst_R0029967) |
 | **Guidehouse** | Cybersecurity Consultant | VA McLean + 1 more | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Cybersecurity-Consultant_39371) |
 | **Guidehouse** | Security Engineer | Remote | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Security-Engineer_39532) |
-| **GDIT** | Cybersecurity Systems Engineer/Inform... | DC Washington + 1... | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Cybersecurity-Systems-Engineer-Information-Systems-Security-Engineer--ISSE----TS-SCI-with-Polygraph_RQ219372-1) |
-| **GDIT** | Cyber Security Analyst Sr | USA CA Beale AFB | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Beale-AFB/Cyber-Security-Analyst-Sr_RQ220498) |
+| **GDIT** | Cybersecurity Systems Engineer/Inform... | DC Washington + 1... | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Cybersecurity-Systems-Engineer-Information-Systems-Security-Engineer--ISSE----TS-SCI-with-Polygraph_RQ219372-1) |
+| **GDIT** | Cyber Security Analyst Sr | USA CA Beale AFB | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Beale-AFB/Cyber-Security-Analyst-Sr_RQ220498) |
 | **ICF** | Manager, Cyber Security | Reston, VA | 15h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Manager--Cyber-Security_R2601837) |
 | **CAE** | Security Analyst | Arlington, TX | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Security-Analyst_122013) |
 | **Southwest Airlines** | Mgr Cybersecurity - Privileged Access... | Dallas, TX | 16h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Mgr-Cybersecurity---Privileged-Access-Management--PAM-_R-2026-67987) |
@@ -331,7 +331,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Accenture Federal Services** | Cybersecurity Tools Administrator | Arlington, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4680761006?gh_jid=4680761006) |
 | **ICF** | Associate Cyber Security Analyst (Rem... | Reston, VA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Associate-Cyber-Security-Analyst--Remote-_R2601636) |
 | **LLNL** | Information Security Specialist | Livermore, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013208039) |
-| **HPE** | Program Manager-Product Security Gove... | All, Montana, Uni... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Montana-United-States-of-America/Security-Engineer-Support-Specialist_1205662) |
+| **HPE** | Program Manager-Product Security Gove... | All, Montana, Uni... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Montana-United-States-of-America/Security-Engineer-Support-Specialist_1205662) |
 | **HPE (University)** | Program Manager-Product Security Gove... | All, Montana, Uni... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Montana-United-States-of-America/Security-Engineer-Support-Specialist_1205662-2) |
 | **Appian** | Security Engineer | McLean, Virginia | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/7941782) |
 | **Leidos** | Cybersecurity Specialist | Beavercreek, OH | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Cybersecurity-Specialist_R-00183482) |
@@ -360,7 +360,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LaunchDarkly** | Product Security Engineer | US West | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/launchdarkly/jobs/7736270003) |
 | **Vultr** | Manager, Vulnerability Management | United States | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/6828fb5a-500c-45c8-87af-485524ecef37/application) |
 | **Groundswell** | SAP Cybersecurity Specialist | Washington DC | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://groundswell.wd12.myworkdayjobs.com/groundswell/job/Client-Site--Washington-DC/SAP-Cybersecurity-Specialist_JR101007) |
-| **Tenable** | Regional Channel Sales Engineer- Cybe... | Chicago | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenableinc/jobs/5221951008) |
+| **Tenable** | Regional Channel Sales Engineer- Cybe... | Chicago | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenableinc/jobs/5221951008) |
 | **Daimler Truck** | Cyber Security & Connectivity Enginee... | Portland, OR US | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Cyber-Security---Connectivity-Engineer-II_DT-17760-2) |
 | **Morgan Stanley** | Assoc, P3, Cybersecurity Ops III : Jo... | Sandy, Utah, Unit... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Sandy-Utah-United-States-of-America/Assoc--P3--Cybersecurity-Ops-III---Job-Level---Associate_PT-JR036721-1) |
 | **Amazon Web Services, Inc.** | Systems Development Engineer II, US A... | Herndon, VA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10420669/systems-development-engineer-ii-us-amazon-dedicated-cloud-security-engineering) |
@@ -763,7 +763,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18530 current opportunities from 638 companies**
+**🎯 18500 current opportunities from 638 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
