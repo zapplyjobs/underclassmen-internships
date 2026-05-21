@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18647-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18634-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-649-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -156,14 +156,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Allstate** | Digital Product Manager (Multiple Lev... | Remote | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Digital-Product-Manager--Multiple-Levels-Available-_R30696-1) |
 | **Adobe** | Software Development Engineer 3— Acro... | San Jose + 1 more | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-3--Acrobat-Web_R168301) |
 | **Adobe** | Software Development and Test Engineer | San Jose | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-and-Test-Engineer_R168923-1) |
-| **Aptiv** | Product Analyst, Edge (Linux & Embedded) | Walnut Creek CA W... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-Analyst--Linux-Systems-Adminstration_J000691840-1) |
+| **Aptiv** | Product Analyst, Edge (Linux & Embedded) | Walnut Creek CA W... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-Analyst--Linux-Systems-Adminstration_J000691840-1) |
 | **Blue Origin** | Software Engineer II | Greater Seattle A... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer-II_R64479-1) |
 | **Blue Origin** | Software Engineer, Level 3 — Space Re... | Los Angeles, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Software-Engineer--Level-3---Space-Resources-Program_R64601) |
 | **Blue Origin** | Software Engineer III - TeraWave | Greater Seattle A... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-Software-Engineer---TeraWave_R64098) |
 | **Amentum** | Entry Level Software Engineer | Dahlgren, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160036) |
 | **Amentum** | Junior Software Developer | Dahlgren, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0160138) |
 | **Amentum** | Software Engineer | Hanover, MD | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer_R0161774) |
-| **Avnet** | Field Application Engineer | Orlando, Florida,... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Orlando-Florida-United-States-Of-America/Field-Application-Engineer_JR-020961) |
+| **Avnet** | Field Application Engineer | Orlando, Florida,... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Orlando-Florida-United-States-Of-America/Field-Application-Engineer_JR-020961) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | New York | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2024-Blackstone-Technology-and-Innovations---Product-Manager-Analyst_29129) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Product-Manager-Analyst_29130) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | New York | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2024-Blackstone-Technology-and-Innovations---Software-Developer-Analyst_29127) |
@@ -324,10 +324,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Networking Security Engineer II | Columbia, MD, US | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Columbia-MD-US/Networking-Security-Engineer-II_326776) |
 | **CAE** | Security Analyst | Arlington, TX | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Security-Analyst_122013) |
 | **Intel** | Network Security Engineer | US, Arizona, Phoenix | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Network-Security-Engineer_JR0283763-1) |
-| **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
-| **Motorola Solutions** | Cybersecurity Engineer (FedRAMP) | Illinois Remote W... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Engineer--FedRAMP-_R62687) |
+| **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
+| **Motorola Solutions** | Cybersecurity Engineer (FedRAMP) | Illinois Remote W... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Engineer--FedRAMP-_R62687) |
 | **nCino** | Manager - Business Information Securi... | Wilmington, NC | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/Wilmington-NC/Manager---Business-Information-Security-Office_R6235) |
-| **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
+| **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
 | **Intel** | Information Security Engineer | California Folsom... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer_JR0284155) |
 | **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
@@ -763,7 +763,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18647 current opportunities from 649 companies**
+**🎯 18634 current opportunities from 649 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
