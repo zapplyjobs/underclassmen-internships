@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18466-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-643-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18453-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-641-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -324,10 +324,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Networking Security Engineer II | Columbia, MD, US | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Columbia-MD-US/Networking-Security-Engineer-II_326776) |
 | **CAE** | Security Analyst | Arlington, TX | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Security-Analyst_122013) |
 | **Intel** | Network Security Engineer | US, Arizona, Phoenix | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Network-Security-Engineer_JR0283763-1) |
-| **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
-| **Motorola Solutions** | Cybersecurity Engineer (FedRAMP) | Illinois Remote W... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Engineer--FedRAMP-_R62687) |
+| **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
+| **Motorola Solutions** | Cybersecurity Engineer (FedRAMP) | Illinois Remote W... | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Engineer--FedRAMP-_R62687) |
 | **nCino** | Manager - Business Information Securi... | Wilmington, NC | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/Wilmington-NC/Manager---Business-Information-Security-Office_R6235) |
-| **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
+| **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
 | **Intel** | Information Security Engineer | California Folsom... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer_JR0284155) |
 | **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
@@ -761,7 +761,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18466 current opportunities from 643 companies**
+**🎯 18453 current opportunities from 641 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
