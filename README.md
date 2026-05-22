@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17993-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17992-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-639-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -314,7 +314,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boeing** | Associate Product Security Engineer | Berkeley, MO | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Product-Security-Engineer_JR2026509139) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Cybersecurity-Operations-Analyst_29111) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
-| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
+| **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
 | **Guidehouse** | Cybersecurity Consultant | VA McLean + 1 more | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Cybersecurity-Consultant_39371) |
 | **Guidehouse** | Security Engineer | Remote | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Security-Engineer_39532) |
 | **Booz Allen Hamilton** | Cybersecurity Mission Specialist and ... | Eglin AFB, FL | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Eglin-AFB-FL/Cybersecurity-Mission-Specialist-and-Information-System-Security-Manager_R0240109-1) |
@@ -471,7 +471,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Design Verification Engineer (Silicon... | Sunnyvale, CA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559068002?gh_jid=8559068002) |
 | **SpaceX** | Design Verification Engineer (Silicon... | Austin, TX | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559067002?gh_jid=8559067002) |
 | **SpaceX** | Design Verification Engineer (Silicon... | Redmond, WA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559066002?gh_jid=8559066002) |
-| **Relativity Space** | Propulsion Engineer I, Hardware Devel... | Long Beach, Calif... | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |
+| **Relativity Space** | Propulsion Engineer I, Hardware Devel... | Long Beach, Calif... | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8560326002?gh_jid=8560326002) |
 | **ALTEN Technology** | Environmental Validation Engineer | Troy, Michigan, U... | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5144285007) |
 | **Philips** | Software Test Engineer | Cambridge (US), M... | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Development-Test-Engineer_573555-1) |
 | **Philips** | Quality Engineer I | Plymouth, Minneso... | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Quality-Engineer-I_578778-1) |
@@ -759,7 +759,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17993 current opportunities from 639 companies**
+**🎯 17992 current opportunities from 639 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
