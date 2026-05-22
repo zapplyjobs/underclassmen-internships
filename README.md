@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17321-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-633-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17283-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-631-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -756,7 +756,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17321 current opportunities from 633 companies**
+**🎯 17283 current opportunities from 631 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
