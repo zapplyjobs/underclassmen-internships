@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17868-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-638-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17823-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-637-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -324,8 +324,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Networking Security Engineer II | Columbia, MD, US | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Columbia-MD-US/Networking-Security-Engineer-II_326776) |
 | **CAE** | Security Analyst | Arlington, TX | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Security-Analyst_122013) |
 | **Intel** | Network Security Engineer | US, Arizona, Phoenix | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Network-Security-Engineer_JR0283763-1) |
-| **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
-| **Motorola Solutions** | Cybersecurity Engineer (FedRAMP) | Illinois Remote W... | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Engineer--FedRAMP-_R62687) |
+| **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
+| **Motorola Solutions** | Cybersecurity Engineer (FedRAMP) | Illinois Remote W... | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Engineer--FedRAMP-_R62687) |
 | **nCino** | Manager - Business Information Securi... | Wilmington, NC | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncino.wd5.myworkdayjobs.com/ncinoCareers/job/Wilmington-NC/Manager---Business-Information-Security-Office_R6235) |
 | **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
@@ -759,7 +759,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17868 current opportunities from 638 companies**
+**🎯 17823 current opportunities from 637 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
