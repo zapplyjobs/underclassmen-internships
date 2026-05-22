@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17017-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17004-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-629-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -338,7 +338,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Cybersecurity Systems Engineer/Inform... | DC Washington + 1... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Cybersecurity-Systems-Engineer-Information-Systems-Security-Engineer--ISSE----TS-SCI-with-Polygraph_RQ219372-1) |
 | **CrowdStrike** | Program Manager, Product Security (Re... | 6 Locations | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Program-Manager--Product-Security--Remote--CAN-_R28718) |
 | **Adobe** | Product Security Engineer | New York + 2 more | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Product-Security-Engineer_R168782) |
-| **Accenture Federal Services** | Cybersecurity Tools Administrator | Arlington, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4680761006?gh_jid=4680761006) |
+| **Accenture Federal Services** | Cybersecurity Tools Administrator | Arlington, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4680761006?gh_jid=4680761006) |
 | **Red Hat** | Product Security Engineer | US, DC + 3 more | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-DC/Product-Security-Engineer_R-057260-1) |
 | **CACI** | Cyber Security Engineer - NSS Tools | St. Louis, MO, US | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/St-Louis-MO-US/Cyber-Security-Engineer---NSS-Tools_325567) |
 | **Intel** | Firewall Network Security Engineer | US, Arizona, Phoenix | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Firewall-Network-Security-Engineer_JR0284032-1) |
@@ -756,7 +756,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17017 current opportunities from 629 companies**
+**🎯 17004 current opportunities from 629 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
