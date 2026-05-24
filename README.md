@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20325-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20329-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-672-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,9 +68,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Systems Engineer III, Site Reliabilit... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77781249946460870) |
-| **Google** | Engineering Lab Manager, Platforms In... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99464680103125702) |
-| **Google** | Product Manager, Google Search, Sport... | United States | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96574838201557702) |
+| **Google** | Group Product Manager, 0-1 AI Product... | United States | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107478161364525766) |
+| **Google** | System Hardware Reliability Engineer | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128861315325141702) |
+| **Google** | UX Designer Consumer Payments Markets | United States | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/87623229782270662) |
+| **Intel** | Load Balancer Network Engineer | California Santa ... | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Load-Balancer-Network-Engineer_JR0284296) |
+| **Comcast** | Comcast Platform Software Engineer Co-op | Philadelphia, PA | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Platform-Software-Engineer-Co-op_R435979) |
 | **Trace3** | DevOps | United States | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
 | **X Development** | PhD / Masters Residency Intern - Mach... | Mountain View, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://x.company/careers/8515901002?gh_jid=8515901002) |
 | **BillionToOne** | Product Management Intern - Software ... | Menlo Park, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4687612005) |
@@ -87,6 +89,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DiDi Global** | Software Engineer Intern - Simulation | San Jose, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/didi/jobs/7906174) |
 | **Honeywell** | Application Engineer Intern - Operato... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148650) |
 | **Harris Computer** | Software Developer Intern | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Software-Developer---Intern_R0043779-1) |
+| **Crane Co.** | Software Engineer Intern | Burbank, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Software-Engineering-Intern_JR100860) |
 | **JP Morgan Chase** | Emerging Talent Software Engineer – C... | Chicago, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700938) |
 | **John Deere** | Part-Time Student - Software Engineer... | Ames, IA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://johndeere.eightfold.ai/careers/job/137478709942) |
 | **Apex Fintech Solutions** | Software Engineering Intern - Margins | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern---Margins_JR104263) |
@@ -139,7 +142,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ambarella** | Software Engineer Intern | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) |
 | **Apex Fintech Solutions** | Software Engineer Intern - Accounts | Austin, TX | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Accounts-_JR103944) |
 | **LMI** | Software Engineer Intern - Usps - Sum... | Washington, DC | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-lmi.icims.com/jobs/13493/job?mobile=true&needsRedirect=false) |
-| **Crane Co.** | Software Engineer Intern | Burbank, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Software-Engineering-Intern_JR100860) |
+| **ASSA ABLOY** | Associate Product Manager | Phoenix, AZ | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://assaabloy.jobs2web.com/job/Phoenix-Associate-Product-Manager-AZ-85044/1392040233/?ats=successfactors) |
 | **General Dynamics Mission Systems** | Entry Level Software Engineer | Scottsdale, AZ | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-gdms.icims.com/jobs/72530/job?mobile=true&needsRedirect=false) |
 | **Boston Scientific** | Software Development - 1 - Engineering | Waltham, MA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostonscientific.eightfold.ai/careers/job/563602808591541) |
 | **Bank of America** | Treasury Product Manager 1 | Chicago, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Treasury-Product-Manager-I_26016621) |
@@ -165,9 +168,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Uncountable** | Product Manager – New Grad | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application) |
 | **Varian** | Software Engineer - DevOps/.NET/Azure | Knoxville, TN | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) |
 | **Trane Technologies** | Application Engineer | Charlotte, NC | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.tranetechnologies.com/global/en/job/92601494) |
-| **Nidec** | Application Engineer 1 | St. Louis, MO | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---ACIM-MO/Application-Engineer-I_R0014576) |
-| **The Federal Reserve System** | Product Owner | Cleveland, OH | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Product-Owner_R-0000031608) |
-| **Schweitzer Engineering Laboratories** | Associate Software Engineer | Moscow, ID | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-20434) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -179,9 +179,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Research Scientist, Stitch | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82795557692547782) |
-| **Google** | Photonic Engineer, Machine Learning S... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118370928571622086) |
-| **Google** | Data Center Analytics Engineer | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99640909053731526) |
+| **Google** | Research Engineer, Frontier Safety Lo... | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/85955084885598918) |
+| **Google** | Research Scientist/Engineer, Autonomo... | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/88672979918955206) |
+| **Google** | RTL Design Engineer, Machine Learning... | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122119136867164870) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | **Skydio** | Autonomy Engineer Intern - Deep Learn... | San Mateo, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25/application) |
 | **Meta** | Research Scientist Intern - Robotic C... | Burlingame, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/24308030212183826) |
@@ -277,8 +277,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Data Scientist | Fayetteville, NC | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Scientist_R0239248) |
 | **Vanguard** | Machine Learning Engineer, Specialist | Malvern, PA + 3 more | 16h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Machine-Learning-Engineer--Specialist_178069-1) |
 | **Vanguard** | Data Analyst, Specialist | Malvern, PA + 1 more | 16h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_177294-1) |
-| **Adobe** | Machine Learning Engineer | San Jose | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R168882) |
-| **Adobe** | Machine Learning Engineer 5 | San Jose | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102) |
+| **Adobe** | Machine Learning Engineer | San Jose | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R168882) |
+| **Adobe** | Machine Learning Engineer 5 | San Jose | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -290,9 +290,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Security Engineer | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
-| **Google** | Security Engineer, Cloud Threat and A... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107262608767099590) |
-| **Google** | Security Engineer III, Security Response | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81786096496583366) |
+| **Google** | Security Engineer, Cloud Threat and A... | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107262608767099590) |
+| **Google** | Security Engineer III, Security Response | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81786096496583366) |
+| **Google** | Security Engineer, National Security | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122934761894093510) |
 | **Honeywell** | Information Systems Intern - IT - Cyb... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
 | **GDIT** | Cyber Security Analyst | USA VA Manassas | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Manassas/Cyber-Security-Analyst_RQ220610-1) |
 | **Booz Allen Hamilton** | Cybersecurity & Risk Management Frame... | Honolulu, HI | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Cybersecurity---Risk-Management-Framework-Specialist_R0236287-1) |
@@ -314,6 +314,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GM Financial** | Associate Cybersecurity Analyst - Inc... | Arlington, TX, Un... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260062) |
 | **State Street** | Security Analyst | Boston, Massachus... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Security-Analyst_R-790974) |
 | **OpenAI** | Forward Deployed Security Engineer | Washington, DC | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41/application) |
+| **TD Bank** | Information Security Specialist (US) ... | Technology | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mt-Laurel---Technology-Center---17000-Horizon-Way-Mount-Laurel-New-Jersey/Information-Security-Specialist--US----Global-Examination---Ongoing-Supervision_R_1490756) |
 | **Fiserv** | Cybersecurity & Technology Risk Officer | Berkeley Heights ... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Cybersecurity---Technology-Risk-Officer_R-10366441-1) |
 | **GDIT** | Cyber Security Solutions Sales Engine... | USA VA Falls Church | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cyber-Security-Solutions-Sales-Engineer---Federal--Splunk--Appgate--Okta--Palo-Alto-_RQ219476-1) |
 | **CACI** | Cyber Security | Norfolk, VA, US | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Norfolk-VA-US/Cyber-Security_326868) |
@@ -324,7 +325,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | SOC Analyst | Alexandria, VA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SOC-Analyst_R-00183836) |
 | **ICF** | Cyber Security Specialist | Reston, VA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Cyber-Security-Specialist_R2601867) |
 | **Daimler Truck** | Cyber Security & Connectivity Enginee... | Portland, OR US | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Cyber-Security---Connectivity-Engineer-II_DT-17760-2) |
-| **TD Bank** | Information Security Specialist (US) ... | Technology | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mt-Laurel---Technology-Center---17000-Horizon-Way-Mount-Laurel-New-Jersey/Information-Security-Specialist--US----Global-Examination---Ongoing-Supervision_R_1490756) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst - To... | 2 Locations | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Classified-Cybersecurity-Analyst---Top-Secret_R10230593) |
 | **RTX** | Cyber Security Engineer (Onsite) | Largo, FL | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Cyber-Security-Engineer--Onsite-_01846879) |
 | **HPE (University)** | Program Manager-Product Security Gove... | All, Montana, Uni... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Montana-United-States-of-America/Security-Engineer-Support-Specialist_1205662-2) |
@@ -333,10 +333,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GM Financial** | Associate Cybersecurity Analyst | Arlington, TX, Un... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260150) |
 | **Replit** | Security Engineer - Vuln Management (... | Foster City, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb/application) |
 | **Rocket Lab** | Cybersecurity Engineer II | Long Beach, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7742153003) |
+| **Intel** | Network Security Engineer | US, Arizona, Phoenix | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Network-Security-Engineer_JR0283763-1) |
 | **CAE** | Security Analyst | Arlington, TX | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Security-Analyst_122013) |
 | **Motorola Solutions** | Cybersecurity Analyst (FedRAMP) | Illinois Remote W... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Analyst--FedRAMP-_R62686) |
 | **Motorola Solutions** | Cybersecurity Engineer (FedRAMP) | Illinois Remote W... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Cybersecurity-Engineer--FedRAMP-_R62687) |
-| **Intel** | Network Security Engineer | US, Arizona, Phoenix | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Network-Security-Engineer_JR0283763-1) |
 | **GDIT** | Cyber Security Analyst Sr | USA CA Beale AFB | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-Beale-AFB/Cyber-Security-Analyst-Sr_RQ220498) |
 | **Guidehouse** | Cybersecurity Consultant | VA McLean + 1 more | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Cybersecurity-Consultant_39371) |
 | **Guidehouse** | Security Engineer | Remote | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Security-Engineer_39532) |
@@ -383,15 +383,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | ASIC Design Verification Engineer, Pl... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142748636273353414) |
-| **Google** | Product Safety Test Engineer, Platforms | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119519945066193606) |
-| **Google** | Mechanical Engineer | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116138189822796486) |
-| **Pennsylvania State University** | Embedded Systems and Hardware Co-Op | Horsham, PA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2) |
+| **Google** | Manufacturing Engineer,  Global Manuf... | United States | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131071666556936902) |
+| **Google** | Firmware Engineer, Modem NAS Protocol... | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82833982617461446) |
+| **Google** | Firmware Engineer III, Wireless Data ... | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92022675378971334) |
 | **Crane Co.** | Hardware Engineering Intern | Burbank, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Hardware-Engineering-Intern_JR100859) |
 | **Bio-Techne** | Hardware Engineering Intern | San Jose, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533) |
 | **Onto Innovation** | Optical Systems Engineer Intern | Milpitas, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Optical-Systems-Engineer-Internship_R-5704) |
 | **KION Group** | RSD Intern - Test Engineering | Grand Rapids, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1) |
 | **KION Group** | RSD Intern - Test Engineering | Grand Rapids, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332) |
+| **Pennsylvania State University** | Embedded Systems and Hardware Co-Op | Horsham, PA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2) |
 | **Honeywell** | Systems Engineering – Summer 2026 Int... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113500) |
 | **Ambarella** | ASIC Design Engineer Intern | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) |
 | **Amentum** | Entry Level Electrical/RF Engineer | Dahlgren, VA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrical-RF-Engineer_R0161386) |
@@ -460,16 +460,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rocket Lab** | Supplier Quality Engineer Trainee | Long Beach, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7747112003) |
 | **Intuitive** | User Interaction Test Engineer | Sunnyvale, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000127949615) |
 | **Lynk** | Ground Station Systems Engineer - Mis... | Chantilly, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/1af67704-9c8d-47a4-a48c-7a50dabef6e1/application) |
-| **Veolia Environnement SA** | Process Engineer | Haworth, NJ | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127927389) |
-| **NXP** | Metrology Process Engineer | Austin | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Ed-Bluestein-Office/Metrology-Process-Engineer_R-10063561) |
-| **NXP** | Cleans Process Engineer | Chandler | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Cleans-Process-Engineer_R-10063513) |
-| **NXP** | Photolithography Process Engineer | Chandler | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Photolithography-Process-Engineer_R-10063616) |
 | **Micron Technology** | ATE Process Engineer | Boise, ID - Main ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/ATE-Process-Engineer_JR102747-1) |
 | **Micron Technology** | Semiconductor Process Engineer | Boise, ID - Main ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Semiconductor-Process-Engineer_JR102748) |
 | **Micron Technology** | Process Engineer | Manassas, VA -  F... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Manassas-VA----Fab-6/Process-Engineer_JR102788) |
 | **Micron** | ATE Process Engineer | Boise, ID - Main ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/ATE-Process-Engineer_JR102747-1) |
 | **Micron** | Semiconductor Process Engineer | Boise, ID - Main ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Semiconductor-Process-Engineer_JR102748) |
 | **Micron** | Process Engineer | Manassas, VA -  F... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Process-Engineer_JR102788) |
+| **Veolia Environnement SA** | Process Engineer | Haworth, NJ | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127927389) |
+| **NXP** | Metrology Process Engineer | Austin | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Ed-Bluestein-Office/Metrology-Process-Engineer_R-10063561) |
+| **NXP** | Cleans Process Engineer | Chandler | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Cleans-Process-Engineer_R-10063513) |
+| **NXP** | Photolithography Process Engineer | Chandler | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Photolithography-Process-Engineer_R-10063616) |
 | **Johnson & Johnson** | Manufacturing Engineer (Multiple Open... | Anasco, Puerto Ri... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Anasco-Puerto-Rico-United-States-of-America/Manufacturing-Engineer_R-061680) |
 | **Johnson & Johnson** | Quality Engineer, DePuy Synthes | Palm Beach Garden... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Palm-Beach-Gardens-Florida-United-States-of-America/Quality-Engineer--DePuy-Synthes_R-073204-1) |
 | **Carrier Global** | Process Quality Engineer | CAG01: CTD-Athens... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Process-Quality-Engineer_30206653) |
@@ -494,12 +494,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Product Solutions Engineer, Google St... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92696860690391750) |
-| **Google** | Technical Solutions Engineer | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106255779312345798) |
-| **Google** | Product Solutions Engineer, Authentic... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98066248415224518) |
-| **CVS Health** | Pharmacy Technician | Hilliard, OH | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Hilliard/Pharmacy-Technician_R0926200) |
-| **CVS Health** | Pharmacy Technician | Fayetteville, NC | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Fayetteville/Pharmacy-Technician_R0925982) |
-| **CVS Health** | Pharmacy Technician | Whitsett, NC | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Whitsett/Pharmacy-Technician_R0925994) |
+| **Google** | Field Sales Representative I, Startup... | United States | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81242534025536198) |
+| **Google** | Web Solutions Engineer, Global Affairs | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138548777270026950) |
+| **Google** | Product Solutions Engineer, Google St... | United States | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92696860690391750) |
+| **CVS Health** | Pharmacy Technician | Aurora, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Aurora/Pharmacy-Technician_R0926203) |
+| **CVS Health** | Pharmacy Technician | Olympia Fields, IL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Olympia-Fields/Pharmacy-Technician_R0925487) |
+| **CVS Health** | Pharmacy Technician | Kailua, HI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/HI---Kailua/Pharmacy-Technician_R0925679) |
 | **Stevens Capital Management** | Technical Recruiter | Radnor, PA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/738790) |
 | **Airbus** | Operations Analyst Intern - Operation... | Wichita, KS | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Operations-Analyst_JR10411961) |
 | **Robert Bosch Venture Capital** | Supply Chain Data & Analytics Intern ... | Plymouth, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126390414) |
@@ -536,10 +536,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Teledyne** | Electronics Technician | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Cumbernauld/Electronics-Technician_REQ28794) |
 | **Vertiv** | ERS-NETA Electrical Testing Technicia... | Pleasanton, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265276) |
 | **Peraton** | Technician 1 - Electronic | Topeka, KS | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-peraton.icims.com/jobs/163311/job?mobile=true&needsRedirect=false) |
-| **Carrier Global** | Automated Logic- BAS/BMS Associate Fi... | CAV20: ALC - Virg... | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAV20-ALC---Virginia-4948-Dominion-Boulevard-Glen-Allen-VA-23060-USA/Automated-Logic--BAS-BMS-Associate-Field-Technician_30206621) |
-| **Lowe's** | Full Time - Sales Associate - Buildin... | Riverview, FL 1911 | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Riverview-FL-1911/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02536114) |
-| **Lowe's** | Full Time - Sales Associate - Outside... | Brunswick, ME 2536 | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Brunswick-ME-2536/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02536110) |
-| **Lowe's** | Full Time - Sales Associate - Buildin... | Riverview, FL 1911 | 41m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Riverview-FL-1911/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02536094) |
+| **Candid Health** | Recruiter (GTM) | San Francisco (CA... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/879a6a94-b522-4e6f-96d5-21badf82d69e/application) |
+| **Carrier Global** | Automated Logic- BAS/BMS Associate Fi... | CAV20: ALC - Virg... | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAV20-ALC---Virginia-4948-Dominion-Boulevard-Glen-Allen-VA-23060-USA/Automated-Logic--BAS-BMS-Associate-Field-Technician_30206621) |
+| **Lowe's** | Full Time - Sales Associate - Buildin... | Riverview, FL 1911 | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Riverview-FL-1911/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02536114) |
+| **Lowe's** | Full Time - Sales Associate - Outside... | Brunswick, ME 2536 | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Brunswick-ME-2536/Full-Time---Sales-Associate---Outside-Lawn---Garden---Closing_JR-02536110) |
+| **Lowe's** | Full Time - Sales Associate - Buildin... | Riverview, FL 1911 | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Riverview-FL-1911/Full-Time---Sales-Associate---Building-Materials---Closing_JR-02536094) |
 | **Merck & Co.** | Oncology Sales Representative – Syrac... | New York Syracuse... | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-York---Syracuse/Oncology-Sales-Representative---Syracuse--NY_R398650-1) |
 | **Brown & Brown Insurance** | Commercial Lines Account Coordinator | Portland, OR, USA | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Portland-OR-USA/Commercial-Lines-Account-Coordinator_R26_0000001655) |
 | **Brown & Brown Insurance** | Commercial Lines Account Manager | Bend, OR + 1 more | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Bend-OR-USA/Commercial-Lines-Account-Manager_R26_0000001019-1) |
@@ -568,11 +569,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Coca-Cola** | Laboratory Technician | Portland, OR | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---OR---Portland/Laboratory-Technician_R-141324) |
 | **Amentum** | Recruiter | Denver, CO | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Denver/Recruiter_R0162003) |
 | **Oracle** | M&D Operations Analyst Intern - OVIP | United States | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334371) |
-| **Eurofins** | Evening/Night Shift Sanitization Tech... | Bothell, WA | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128002079) |
-| **Takeda** | Plasma Center Technician | TN | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Cordova/Plasma-Center-Technician_R0180785) |
-| **Takeda** | Lab Technician - 2nd Shift | GA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0180767) |
-| **Takeda** | Plasma Center Technician | TX | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Plasma-Center-Technician_R0180784-1) |
-| **Adobe** | Transformational Solutions Consultant... | San Jose + 5 more | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Transformational-Solutions-Consultant--Strategic-Partnerships_R169060) |
+| **Eurofins** | Evening/Night Shift Sanitization Tech... | Bothell, WA | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128002079) |
+| **Takeda** | Plasma Center Technician | TN | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TN---Cordova/Plasma-Center-Technician_R0180785) |
+| **Takeda** | Lab Technician - 2nd Shift | GA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---GA---Social-Circle---Baxter-Pkwy/Lab-Technician---2nd-Shift_R0180767) |
+| **Takeda** | Plasma Center Technician | TX | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/USA---TX---Harker-Heights/Plasma-Center-Technician_R0180784-1) |
+| **Adobe** | Transformational Solutions Consultant... | San Jose + 5 more | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Transformational-Solutions-Consultant--Strategic-Partnerships_R169060) |
 | **Trimble** | Account Executive | US, OH + 1 more | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-OH/Account-Executive_R56362) |
 | **Trimble** | Business Development Representative | Remote, FL | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-FL/Business-Development-Representative_R55738) |
 | **SpaceX** | Critical Lift Technician (Starship) | Starbase, TX | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8553652002?gh_jid=8553652002) |
@@ -593,7 +594,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Synnex** | Business Development Representative -... | Miramar, Florida,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Miramar-Florida-United-States/Business-Development-Representative---CCA_R51520) |
 | **TD Synnex** | Trilingual Technical Support Technici... | San Jose, Costa Rica | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Jose-Costa-Rica/Trilingual-Technical-Support-Technician---French--Canadian-_R51586) |
 | **Leidos** | Logistics Coordinator | Reston, VA + 1 more | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Logistics-Coordinator_R-00183181-1) |
-| **Leidos** | Electronics Technician | Long Beach, MS | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Electronics-Technician_R-00183866) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -605,13 +605,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | TPU RTL Design Engineer | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110441678061347526) |
-| **Google** | Forward Deployed Engineer, Core, DevAI | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80134681571271366) |
-| **Google** | Web Solution Engineer, GCS Engineerin... | United States | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137392030908064454) |
+| **Google** | Strategy and Operations Manager, YouT... | United States | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143619200911319750) |
+| **Google** | Brand Activation and Engagement Marke... | United States | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103086993243546310) |
+| **Google** | Product Marketing Manager, Climate AI | United States | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78299356146344646) |
+| **TD Bank** | Banking Associate (Rockefeller Center) | New York, New York | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Banking-Associate--Rockefeller-Center-_R_1483124-1) |
+| **TD Bank** | FCRM Model Risk Governance Strategy | New York New York... | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/FCRM-Model-Risk-Governance-Strategy_R_1489822) |
+| **Intel** | Identity Security - PKI Engineer | California Santa ... | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284294) |
+| **Comcast** | Comcast Campus Events Co-op | Philadelphia, PA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Campus-Events-Co-op_R436282) |
 | **Comcast** | Comcast Business Analytics Co-op | Philadelphia, PA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-Analytics-Co-op_R435981) |
-| **CVS Health** | Store Associate | San Diego, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---San-Diego/Store-Associate_R0896729) |
-| **CVS Health** | Store Associate | Staten Island, NY | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Staten-Island/Store-Associate_R0925256) |
-| **CVS Health** | Store Associate | Lihue, HI | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/HI---Lihue/Store-Associate_R0925817) |
+| **CVS Health** | Store Associate | Sandy Springs, GA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Sandy-Springs/Store-Associate_R0925921) |
+| **CVS Health** | Store Associate | Jupiter, FL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Jupiter/Store-Associate_R0925811) |
+| **CVS Health** | Store Associate | Fort Myers, FL | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Fort-Myers/Store-Associate_R0925454) |
 | **Trace3** | Cloud / Transformation | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596213) |
 | **Trace3** | Data & Analytics | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596230) |
 | **Trace3** | Security | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596226) |
@@ -619,16 +623,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stevens Capital Management** | Contract Technical Sourcing Specialist | Radnor, PA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/1467419) |
 | **Stevens Capital Management** | Developer Internship | Radnor, PA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721888) |
 | **PDT Partners** | Applied ML Scientist | New York, NY | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/pdtpartners/jobs/1473516) |
-| **Pennsylvania State University** | Undergraduate Researcher Intern | State College, PA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Researcher_REQ_0000066749-1) |
-| **KION Group** | Mobile Robots Intern - Mechatronics V... | Grand Rapids, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334) |
 | **KION Group** | Mobile Robots Intern - Mechatronics V... | Grand Rapids, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334-1) |
 | **Pennsylvania State University** | IT Applications Specialist Intern | State College, PA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1) |
 | **Pennsylvania State University** | Electronic Systems and Hardware Co-Op | Horsham, PA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1) |
+| **Pennsylvania State University** | R&D Engineer Intern | State College, PA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1) |
 | **X Development** | PhD Residency Intern | Mountain View, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://x.company/careers/8511401002?gh_jid=8511401002) |
 | **X Development** | PhD Residency Intern - Operations Res... | Mountain View, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://x.company/careers/8511395002?gh_jid=8511395002) |
 | **W.R. Berkley** | Engineering Intern | Mt Laurel Townshi... | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-berkley.icims.com/jobs/13894/job?mobile=true&needsRedirect=false) |
 | **Fortinet** | AI Intern | Sunnyvale, CA | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741) |
 | **KION Group** | Product & Program Management Intern | Grand Rapids, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Product---Program-Management-Intern_JR-0089752-1) |
+| **KION Group** | Product & Program Management Intern | Grand Rapids, MI | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Product---Program-Management-Intern_JR-0089752) |
 | **EquipmentShare** | Uptime Management Center Intern | Columbia, MO | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.equipmentshare.com/careers/openings/?gh_jid=7857769) |
 | **ASSA ABLOY** | Pricing and Market Analytics Intern | Lake Forest, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://assaabloy.jobs2web.com/job/Lake-Forest-Pricing-and-Market-Analytics-Intern-CA-92610/1388105433/?ats=successfactors) |
 | **Viavi Solutions** | Wireless Network Lab Intern | Chandler, AZ | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) |
@@ -701,10 +705,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Varda Space** | Automation & Test Intern | El Segundo, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) |
 | **Uncountable** | Full-Stack Intern | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) |
 | **Cirrus Logic** | Co-op - Design Verification Engineer | Austin, TX | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) |
-| **Centific** | Research Intern - Applied Reinforceme... | United States | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning_JR106882) |
-| **Centific** | Research Intern - Applied Reinforceme... | Palo Alto, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning-_JR106885) |
-| **Kioxia** | Customer Qualification Engineer Intern | Santa Clara, CA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Kioxia/744000113747607) |
-| **Berkshire Hathaway Energy** | Intern – Corp IT - Grid Operations Ap... | Davenport, IA | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003904) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -760,7 +760,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 20325 current opportunities from 672 companies**
+**🎯 20329 current opportunities from 672 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
