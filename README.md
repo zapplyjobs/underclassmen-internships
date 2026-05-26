@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16439-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16419-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-659-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -95,7 +95,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson Controls** | Controls Systems Application Engineer | Texas | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/Controls-Systems-Application-Engineer_WD30270537) |
 | **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917-2) |
 | **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206916-2) |
-| **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1207422-2) |
+| **HPE (University)** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1207422-2) |
 | **HPE** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206917) |
 | **HPE** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1206916) |
 | **HPE** | Electrical Hardware Engineer – HPC/AI... | Spring, Texas, Un... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1207422) |
@@ -305,11 +305,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Information Systems Security Engineer | King of Prussia P... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Information-Systems-Security-Engineer_325952) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Cybersecurity-Operations-Analyst_29111) |
 | **Adobe** | Product Security Engineer | San Jose | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Security-Engineer_R165070-1) |
-| **D.E. Shaw** | Client Platforms Security Engineer | Chicago | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
+| **D.E. Shaw** | Client Platforms Security Engineer | Chicago | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7957926) |
 | **Accenture Federal Services** | Enterprise AI Security Engineer (ISSE) | Arlington, VA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4683272006?gh_jid=4683272006) |
-| **Google** | Security Engineer | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
-| **Google** | Security Engineer, Cloud Threat and A... | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107262608767099590) |
-| **Google** | Security Engineer III, Security Response | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81786096496583366) |
+| **Google** | Security Engineer | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104649942579978950) |
+| **Google** | Security Engineer, Cloud Threat and A... | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107262608767099590) |
+| **Google** | Security Engineer III, Security Response | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81786096496583366) |
 | **Leidos** | Information Systems Security Engineer... | Chantilly, VA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Information-Systems-Security-Engineer-Exopert_R-00183994) |
 | **GDIT** | Cyber Security Analyst | USA VA Manassas | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Manassas/Cyber-Security-Analyst_RQ220610-1) |
 | **Leidos** | Cybersecurity Platform Intern | 6314 Remote/Telew... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00183796) |
@@ -453,17 +453,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Varda Space** | Thermal Hardware Engineer - Passive &... | El Segundo, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7676393003) |
 | **AbbVie** | Validation Engineer III | Branchburg, NJ | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013301726) |
 | **Eight Sleep** | HW Test Engineer | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/04a37ce9-ff55-4b51-b3d2-f145734eb188/application) |
-| **Torc Robotics** | Systems Engineer I - Test Automation | Remote, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8554813002) |
+| **Torc Robotics** | Systems Engineer I - Test Automation | Remote, US | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8554813002) |
 | **Archer** | Airborne Electronic Hardware Systems ... | San Jose, Califor... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/archer56/jobs/7740894003) |
 | **Olsson** | Associate Mechanical Engineer - Feder... | Remote; Arkansas | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5230871008) |
 | **NBCUniversal** | Associate Engineer, Business Analytic... | Universal City, C... | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000128540210) |
 | **Intuitive** | Supplier Quality Engineer | Peachtree Corners... | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000128534129) |
 | **Intuitive** | Supplier Quality Engineer | Peachtree Corners... | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000128533394) |
 | **CFS Energy** | Materials Test Engineer | Somerville, MA | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/4082d1b5-a004-400a-ab05-54975983b5e1/apply) |
-| **Convergent Research** | Bioelectronics Engineer, Wetware & Bi... | Pasadena, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/d8f1da4b-3c9e-4aa4-80c2-893dd4b00497/apply) |
-| **Google** | Manufacturing Test Engineer | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136078698628424390) |
-| **Google** | Power Engineer, Platforms Engineering | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136939206063596230) |
-| **Google** | Modem Power Firmware Engineer, Pixel | United States | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/93560687061541574) |
+| **Convergent Research** | Bioelectronics Engineer, Wetware & Bi... | Pasadena, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/d8f1da4b-3c9e-4aa4-80c2-893dd4b00497/apply) |
+| **Google** | Manufacturing Test Engineer | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136078698628424390) |
+| **Google** | Power Engineer, Platforms Engineering | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136939206063596230) |
+| **Google** | Modem Power Firmware Engineer, Pixel | United States | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/93560687061541574) |
 | **SpaceX** | Aerodynamics Engineer (Starship) | Starbase, TX | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8558715002?gh_jid=8558715002) |
 | **Fortive** | Manufacturing Engineer | Everett, WA, Unit... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9066) |
 | **GlobalFoundries** | Systems Engineer - Networking | Texas Richardson ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineer---Networking_JR-2601903) |
@@ -746,7 +746,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16439 current opportunities from 659 companies**
+**🎯 16419 current opportunities from 659 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
