@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17031-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17030-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-648-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -358,7 +358,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Accenture Federal Services** | Cybersecurity Tools Administrator | Arlington, VA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4680761006?gh_jid=4680761006) |
 | **ICF** | Associate Cyber Security Analyst (Rem... | Reston, VA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Associate-Cyber-Security-Analyst--Remote-_R2601636) |
 | **LLNL** | Information Security Specialist | Livermore, CA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013208039) |
-| **Appian** | Security Engineer | McLean, Virginia | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/7941782) |
 | **State Street** | Cyber Security Operations Center Anal... | Quincy, Massachus... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--July---Dec-2026-_R-784552-1) |
 | **Lambda** | Security Engineering Intern - Summer ... | San Francisco | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | **Exact Sciences** | Cybersecurity Intern - Co-op Fall 2026 | Madison, WI | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Cybersecurity-Intern---Co-op-Fall-2026_R26-12511) |
@@ -570,11 +569,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | Professional Lines Account Manager | USA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Commercial-Lines-Account-Manager_R25_0000003533) |
 | **Baker Hughes** | Emerging Talent: Aspire - Supply Chai... | Mh, IN | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-Pune-Cummins-India-Office-Campus-8th-floor-Survey-No-21-Balewadi/Emerging-Talent--Aspire---Supply-Chain--Indian-Nationals-Only--2026-opportunities_R164087) |
 | **T-Mobile** | Account Executive, Business Sales - Y... | Youngstown, Ohio | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Youngstown-Ohio/Account-Executive--Business-Sales---Youngstown--OH_REQ351348) |
-| **Block** | Strategic Account Manager | Tampa, FL, United... | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
-| **Block** | Strategic Account Manager | Washington, DC, U... | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
+| **Block** | Strategic Account Manager | Tampa, FL, United... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
+| **Block** | Strategic Account Manager | Washington, DC, U... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
 | **Alo Yoga** | Sales Associate (Part-Time) - The Vil... | Corte Madera, Cal... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005630004?gh_jid=6005630004) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Th... | Corte Madera, Cal... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005629004?gh_jid=6005629004) |
-| **Box** | Customer Success Manager II | Chicago, Illinois | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
+| **Box** | Customer Success Manager II | Chicago, Illinois | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager - Fort... | United States Fie... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager---Forth-Smith---Fayetteville-Arkansas_REQ-28587) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager, Overl... | Field Based | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager_REQ-28564) |
 | **Vertex Pharmaceuticals** | Kidney Territory Account Manager (San... | United States Fie... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Kidney-Territory-Account-Manager--San-Francisco--CA---East-_REQ-27979) |
@@ -751,7 +750,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17031 current opportunities from 648 companies**
+**🎯 17030 current opportunities from 648 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
