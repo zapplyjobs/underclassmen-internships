@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17027-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17019-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-648-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -311,7 +311,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amentum** | Naval System Security Engineer | Mount Laurel, NJ | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NJ-Mount-Laurel/Naval-System-Security-Engineer_R0161362) |
 | **Groundswell** | SAP Cybersecurity Specialist | Washington DC | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://groundswell.wd12.myworkdayjobs.com/groundswell/job/Client-Site--Washington-DC/SAP-Cybersecurity-Specialist_JR101007) |
 | **Robinhood** | Security Engineer, AI Vulnerability M... | Menlo Park, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) |
-| **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
+| **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | **RTX** | Embedded Product Cybersecurity Engine... | Cedar Rapids, IA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Embedded-Product-Cybersecurity-Engineer-II--Onsite---Cedar-Rapids--IA-_01846476) |
 | **Morgan Stanley** | z/OS UNIX System Services (USS) Secur... | Alpharetta, Georg... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/z-OS-UNIX-System-Services--USS--Security-Engineer_PT-JR036991) |
 | **Northrop Grumman** | Classified Cybersecurity Analyst - To... | 2 Locations | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Classified-Cybersecurity-Analyst---Top-Secret_R10230593) |
@@ -569,11 +569,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | Professional Lines Account Manager | USA | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Commercial-Lines-Account-Manager_R25_0000003533) |
 | **Baker Hughes** | Emerging Talent: Aspire - Supply Chai... | Mh, IN | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-Pune-Cummins-India-Office-Campus-8th-floor-Survey-No-21-Balewadi/Emerging-Talent--Aspire---Supply-Chain--Indian-Nationals-Only--2026-opportunities_R164087) |
 | **T-Mobile** | Account Executive, Business Sales - Y... | Youngstown, Ohio | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Youngstown-Ohio/Account-Executive--Business-Sales---Youngstown--OH_REQ351348) |
-| **Block** | Strategic Account Manager | Tampa, FL, United... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
-| **Block** | Strategic Account Manager | Washington, DC, U... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
+| **Block** | Strategic Account Manager | Tampa, FL, United... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
+| **Block** | Strategic Account Manager | Washington, DC, U... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
 | **Alo Yoga** | Sales Associate (Part-Time) - The Vil... | Corte Madera, Cal... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005630004?gh_jid=6005630004) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Th... | Corte Madera, Cal... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005629004?gh_jid=6005629004) |
-| **Box** | Customer Success Manager II | Chicago, Illinois | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
+| **Box** | Customer Success Manager II | Chicago, Illinois | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager - Fort... | United States Fie... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager---Forth-Smith---Fayetteville-Arkansas_REQ-28587) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager, Overl... | Field Based | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager_REQ-28564) |
 | **Vertex Pharmaceuticals** | Kidney Territory Account Manager (San... | United States Fie... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Kidney-Territory-Account-Manager--San-Francisco--CA---East-_REQ-27979) |
@@ -750,7 +750,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17027 current opportunities from 648 companies**
+**🎯 17019 current opportunities from 648 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
