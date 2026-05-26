@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16563-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16515-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-642-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -356,7 +356,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Southwest Airlines** | Mgr Cybersecurity - Privileged Access... | Dallas, TX | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Mgr-Cybersecurity---Privileged-Access-Management--PAM-_R-2026-67987) |
 | **Lowe's** | Engineer, Information Security | Lowe's Charlotte ... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Engineer--Information-Security_JR-02493427) |
 | **Accenture Federal Services** | Cybersecurity Tools Administrator | Arlington, VA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4680761006?gh_jid=4680761006) |
-| **ICF** | Associate Cyber Security Analyst (Rem... | Reston, VA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Associate-Cyber-Security-Analyst--Remote-_R2601636) |
 | **State Street** | Cyber Security Operations Center Anal... | Quincy, Massachus... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--July---Dec-2026-_R-784552-1) |
 | **Lambda** | Security Engineering Intern - Summer ... | San Francisco | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | **Exact Sciences** | Cybersecurity Intern - Co-op Fall 2026 | Madison, WI | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Cybersecurity-Intern---Co-op-Fall-2026_R26-12511) |
@@ -571,14 +570,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Strategic Account Manager | Tampa, FL, United... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
 | **Block** | Strategic Account Manager | Washington, DC, U... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
 | **Alo Yoga** | Sales Associate (Part-Time) - The Vil... | Corte Madera, Cal... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005630004?gh_jid=6005630004) |
-| **Alo Yoga** | Operations Associate (Part-Time) - Th... | Corte Madera, Cal... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005629004?gh_jid=6005629004) |
+| **Alo Yoga** | Operations Associate (Part-Time) - Th... | Corte Madera, Cal... | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005629004?gh_jid=6005629004) |
 | **Box** | Customer Success Manager II | Chicago, Illinois | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager - Fort... | United States Fie... | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager---Forth-Smith---Fayetteville-Arkansas_REQ-28587) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager, Overl... | Field Based | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager_REQ-28564) |
 | **Vertex Pharmaceuticals** | Kidney Territory Account Manager (San... | United States Fie... | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Kidney-Territory-Account-Manager--San-Francisco--CA---East-_REQ-27979) |
 | **Alo Yoga** | Sales Associate (Full-Time) - Vail Vi... | Vail, CO | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005612004?gh_jid=6005612004) |
 | **Huntsman** | Lab Technician | Louisiana | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Louisiana---Geismar/Lab-Technician_J-019860) |
-| **MaintainX** | Customer Success Enablement Manager | Raleigh, North Ca... | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/maintainx/jobs/5146049007) |
+| **MaintainX** | Customer Success Enablement Manager | Raleigh, North Ca... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/maintainx/jobs/5146049007) |
 | **JFrog** | Sales Development Operations Manager | Sunnyvale | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://join.jfrog.com/job/?job=7955258&gh_jid=7955258) |
 | **NCR Voyix** | Field Service Technician I - Louisvil... | KENTUCKY VIRTUAL,... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/KENTUCKY-VIRTUAL-USA/Field-Service-Technician-I---Charlotte--NC_JR2604103) |
 | **NCR Voyix** | Field service technician I- Gorham, NH | NEW HAMPSHIRE VIR... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/NEW-HAMPSHIRE-VIRTUAL-USA/Customer-Engineer-I--Gorham--NH_R0156214) |
@@ -749,7 +748,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16563 current opportunities from 642 companies**
+**🎯 16515 current opportunities from 642 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
