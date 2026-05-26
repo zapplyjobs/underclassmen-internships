@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16410-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-639-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16363-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-638-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -570,14 +570,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Strategic Account Manager | Tampa, FL, United... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
 | **Block** | Strategic Account Manager | Washington, DC, U... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
 | **Alo Yoga** | Sales Associate (Part-Time) - The Vil... | Corte Madera, Cal... | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005630004?gh_jid=6005630004) |
-| **Alo Yoga** | Operations Associate (Part-Time) - Th... | Corte Madera, Cal... | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005629004?gh_jid=6005629004) |
+| **Alo Yoga** | Operations Associate (Part-Time) - Th... | Corte Madera, Cal... | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005629004?gh_jid=6005629004) |
 | **Box** | Customer Success Manager II | Chicago, Illinois | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager - Fort... | United States Fie... | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager---Forth-Smith---Fayetteville-Arkansas_REQ-28587) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager, Overl... | Field Based | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager_REQ-28564) |
 | **Vertex Pharmaceuticals** | Kidney Territory Account Manager (San... | United States Fie... | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Kidney-Territory-Account-Manager--San-Francisco--CA---East-_REQ-27979) |
 | **Alo Yoga** | Sales Associate (Full-Time) - Vail Vi... | Vail, CO | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005612004?gh_jid=6005612004) |
 | **Huntsman** | Lab Technician | Louisiana | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Louisiana---Geismar/Lab-Technician_J-019860) |
-| **MaintainX** | Customer Success Enablement Manager | Raleigh, North Ca... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/maintainx/jobs/5146049007) |
+| **MaintainX** | Customer Success Enablement Manager | Raleigh, North Ca... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/maintainx/jobs/5146049007) |
 | **JFrog** | Sales Development Operations Manager | Sunnyvale | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://join.jfrog.com/job/?job=7955258&gh_jid=7955258) |
 | **NCR Voyix** | Field Service Technician I - Louisvil... | KENTUCKY VIRTUAL,... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/KENTUCKY-VIRTUAL-USA/Field-Service-Technician-I---Charlotte--NC_JR2604103) |
 | **NCR Voyix** | Field service technician I- Gorham, NH | NEW HAMPSHIRE VIR... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ncr.wd1.myworkdayjobs.com/ext_us/job/NEW-HAMPSHIRE-VIRTUAL-USA/Customer-Engineer-I--Gorham--NH_R0156214) |
@@ -748,7 +748,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16410 current opportunities from 639 companies**
+**🎯 16363 current opportunities from 638 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
