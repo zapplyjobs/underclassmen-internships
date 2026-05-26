@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16736-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-645-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-16707-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-644-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -569,11 +569,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brown & Brown Insurance** | Professional Lines Account Manager | USA | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/Commercial-Lines-Account-Manager_R25_0000003533) |
 | **Baker Hughes** | Emerging Talent: Aspire - Supply Chai... | Mh, IN | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-Pune-Cummins-India-Office-Campus-8th-floor-Survey-No-21-Balewadi/Emerging-Talent--Aspire---Supply-Chain--Indian-Nationals-Only--2026-opportunities_R164087) |
 | **T-Mobile** | Account Executive, Business Sales - Y... | Youngstown, Ohio | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Youngstown-Ohio/Account-Executive--Business-Sales---Youngstown--OH_REQ351348) |
-| **Block** | Strategic Account Manager | Tampa, FL, United... | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
-| **Block** | Strategic Account Manager | Washington, DC, U... | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
+| **Block** | Strategic Account Manager | Tampa, FL, United... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228601008?gh_jid=5228601008) |
+| **Block** | Strategic Account Manager | Washington, DC, U... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5228607008?gh_jid=5228607008) |
 | **Alo Yoga** | Sales Associate (Part-Time) - The Vil... | Corte Madera, Cal... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005630004?gh_jid=6005630004) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Th... | Corte Madera, Cal... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6005629004?gh_jid=6005629004) |
-| **Box** | Customer Success Manager II | Chicago, Illinois | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
+| **Box** | Customer Success Manager II | Chicago, Illinois | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/7950020) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager - Fort... | United States Fie... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager---Forth-Smith---Fayetteville-Arkansas_REQ-28587) |
 | **Vertex Pharmaceuticals** | Pain Territory Account Manager, Overl... | Field Based | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Pain-Territory-Account-Manager_REQ-28564) |
 | **Vertex Pharmaceuticals** | Kidney Territory Account Manager (San... | United States Fie... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/United-States---Field-Based/Kidney-Territory-Account-Manager--San-Francisco--CA---East-_REQ-27979) |
@@ -750,7 +750,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 16736 current opportunities from 645 companies**
+**🎯 16707 current opportunities from 644 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
