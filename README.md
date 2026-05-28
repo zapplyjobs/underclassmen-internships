@@ -709,6 +709,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
 
+For Canada-specific student and recent-grad searches, [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) is a free daily-updated board for Canadian new-grad, junior, internship, co-op, and entry-level roles across tech, engineering, business, finance, sciences, arts/humanities, and other fields.
+
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
