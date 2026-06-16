@@ -224,7 +224,8 @@ jobs:
         git clone --depth 1 --quiet "https://x-access-token:${GH_PAT}@github.com/${REPO}.git" "$TMP"
         cd "$TMP"
         git checkout --orphan data
-        git rm -rf . >/dev/null 2>&1 || true
+        git rm -r --cached . >/dev/null 2>&1 || true
+        find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
         mkdir -p .github/data
         cp "$GITHUB_WORKSPACE/.github/data/current_jobs.json" .github/data/current_jobs.json
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
