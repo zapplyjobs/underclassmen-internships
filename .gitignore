@@ -49,3 +49,9 @@ coverage/
 *credential*
 *.key
 *.pem
+
+# Closed-pipe: transient data (written at runtime, not committed)
+.github/data/current_jobs.json
+.github/data/new_jobs.json
+.github/data/run_metrics.json
+.github/data/run_metrics.json
