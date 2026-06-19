@@ -2,7 +2,7 @@
 
 **Created:** 2026-01-23
 **Status:** Active
-**Repositories:** New-Grad-Jobs-2026, Internships-2026, Remote-Jobs-2026
+**Repositories:** New-Grad-Jobs-2027, Internships-2027, Remote-Jobs-2026
 
 ## Overview
 
@@ -439,11 +439,11 @@ console.log(`Success rate: ${
 
 The metrics system is deployed to:
 
-1. **New-Grad-Jobs-2026**
+1. **New-Grad-Jobs-2027**
    - Channels: 9 (4 industry + 5 location)
    - Environment variable-based channel mapping
 
-2. **Internships-2026**
+2. **Internships-2027**
    - Channels: 27 (11 industry + 15 location + 1 category)
    - Separate channel IDs with `_INT_` suffix
 

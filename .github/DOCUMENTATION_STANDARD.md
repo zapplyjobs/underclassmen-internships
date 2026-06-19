@@ -1,4 +1,4 @@
-# Documentation Standard - New-Grad-Jobs-2026
+# Documentation Standard - New-Grad-Jobs-2027
 
 **Created:** 2026-02-10
 **Purpose:** Single source of truth for documentation structure
