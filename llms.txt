@@ -17,11 +17,11 @@
 - All files at `.github/data/` directory
 
 ## Related repos
-- Internships: github.com/zapplyjobs/Internships-2026
-- Software Engineering: github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026
-- Data Science: github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026
-- Hardware Engineering: github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026
-- Healthcare: github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2026
+- Internships: github.com/zapplyjobs/Internships-2027
+- Software Engineering: github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027
+- Data Science: github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027
+- Hardware Engineering: github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027
+- Healthcare: github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2027
 
 ## Who maintains this
 Zapply Jobs (zapplyjobs) — automated pipeline with human curation
