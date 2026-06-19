@@ -23,7 +23,7 @@ module.exports = {
   jobCountBadgeLabel: 'New Grad Jobs',
 
   // Description paragraphs
-  descriptionLine1: '🚀 Entry-level jobs across tech, finance, healthcare, and more for new graduates, updated in real time.',
+  descriptionLine1: '🚀 New grad, intern/co-op, and adjacent early-career roles across tech, finance, healthcare, and more, updated in real time.',
   descriptionLine2: '',
 
   // Note box
