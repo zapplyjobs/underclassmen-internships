@@ -15,10 +15,10 @@ module.exports = {
 
   // Image configuration
   repoPrefix: 'ngj',
-  headingImageAlt: 'New Grad Jobs 2026',
+  headingImageAlt: 'New Grad Jobs 2027',
 
   // Branding text
-  title: 'New Grad Jobs 2026',
+  title: 'New Grad Jobs 2027',
   tagline: '',
   jobCountBadgeLabel: 'New Grad Jobs',
 
@@ -31,7 +31,7 @@ module.exports = {
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
-  jobsSectionHeader: 'Fresh New Grad Jobs 2026',
+  jobsSectionHeader: 'Fresh New Grad Jobs 2027',
 
   // Feature flags
   features: {
