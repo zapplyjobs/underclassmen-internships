@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Banner -->
-<img src="images/ngj-heading.png" alt="New Grad Jobs 2027">
+<!-- Cover -->
+<img src="images/covers/cover.png" alt="New Grad Jobs 2027">
 
 # New Grad Jobs 2027
 
