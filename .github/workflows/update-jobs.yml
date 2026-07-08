@@ -8,19 +8,23 @@ on:
       - '.github/scripts/job-fetcher/**'
       - '.github/scripts/write-current-jobs.js'
 
-# Prevent concurrent runs to avoid git conflicts
-concurrency:
-  group: job-updates-${{ github.repository }}
-  cancel-in-progress: false
+    - name: Filter by employment level (INF-EXPAND-1 Phase 1)
+      run: |
+        node -e "
+        const fs = require('fs');
+        const path = '.github/data/current_jobs.json';
+        if (!fs.existsSync(path)) { process.exit(0); }
+        const jobs = JSON.parse(fs.readFileSync(path, 'utf8'));
+        if (!Array.isArray(jobs)) { process.exit(0); }
+        const before = jobs.length;
+        const filtered = jobs.filter(j => {
+          const emp = j.tags?.employment;
+          return emp === 'entry_level' || emp === 'mid_level' || emp === 'internship';
+        });
+        fs.writeFileSync(path, JSON.stringify(filtered));
+        console.log('Employment filter: ' + before + ' -> ' + filtered.length);
+        "
 
-jobs:
-  update-jobs:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    permissions:
-      contents: write
-
-    steps:
     - name: Checkout repository
       uses: actions/checkout@v5
       with:
