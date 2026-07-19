@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26567-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26570-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18746-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-809-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -66,6 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Software Engineer, Starlink UX (Starl... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8637755002?gh_jid=8637755002) |
+| **SpaceX** | Software Engineer, Design Engineering... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8637713002?gh_jid=8637713002) |
+| **SpaceX** | Software Engineer, Mobile Apps (Starl... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8637756002?gh_jid=8637756002) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
 | **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
@@ -73,12 +76,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Technical Program Manager III, Softwa... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136164109522477766) |
 | **Google** | AI Application Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120572047871877830) |
 | **Apple** | Car Experience Software Engineer - UI... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672818/car-experience-software-engineer-ui-wireless-technologies-ecosystems) |
-| **SpaceX** | Full Stack Software Engineer (Applica... | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8639573002?gh_jid=8639573002) |
 | **Persona** | Software Engineer, Security | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona/06ce6de8-8541-4dfd-9c09-3e467d5f91bb/application) |
 | **Apptronik** | Product Manager, Perception and Navig... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/6119221004?gh_jid=6119221004) |
 | **Bot Auto** | Software Engineer, Simulation Systems | Houston, TX or Sa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/botauto/jobs/5363495008) |
 | **Oracle** | Software Development Manager | Nashville, TN, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340279) |
-| **SpaceX** | Build Reliability Engineer (Falcon/St... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8639275002?gh_jid=8639275002) |
 | **Apple** | Software Engineer - Distributed Syste... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672977/software-engineer-distributed-systems-compute-platform) |
 | **Discord** | QA/DevOps Engineer | San Francisco Bay... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8637648002) |
 | **Apple** | Camera Embedded Software Engineer | San Diego | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672895/camera-embedded-software-engineer) |
@@ -102,7 +103,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leland** | Site Reliability & Engineering Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/65051650-cb59-419e-969b-58028aec69bf/application) |
 | **Microsoft** | Software Engineer | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556928325) |
 | **Freedom Technology Solutions Group** | Full Stack Developer 729 | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189784007) |
-| **SpaceX** | Software Engineer, Platform / Infrast... | Palo Alto, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8632322002?gh_jid=8632322002) |
 | **Illumio** | Product Manager |  | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/illumio/88c25e67-477f-4ea2-8458-cc6c01606c90/application) |
 | **Trace3** | Software Engineer SME | Colorado Springs, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8072144) |
 | **Upstart** | Software Engineer, Mobile | United States  R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.upstart.com/jobs?gh_jid=7901946) |
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26567 current opportunities from 809 companies**
+**🎯 26570 current opportunities from 809 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
