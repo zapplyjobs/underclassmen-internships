@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26017-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18216-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-810-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26558-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18737-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-811-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Eve** | Recruiting Coordinator, Tech Operations | San Mateo, CA (Hy... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eve/jobs/4323681009) |
 | **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620901040351430965) |
 | **ByteDance** | Facilities Management Project Intern ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620891141449795893) |
 | **ByteDance** | Project Management Project Intern (Re... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620892797440379189) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Materials** | Supplier Account Manager (B5) | Santa Clara,CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Supplier-Account-Manager--B5-_R2624244) |
 | **Navan** | IT Support Engineer | Delhi, IN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://navan.com/careers/openings?gh_jid=8063649) |
 | **Navan** | Travel Operations Coordinator | Gurugram, IN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://navan.com/careers/openings?gh_jid=8049947) |
-| **Crusoe** | Cloud Support Engineer | Sunnyvale, CA - US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/c16a72bc-d418-4fc0-96dc-9f57f828fe62/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Red Bull** | Student Marketeer - Buffalo State Uni... | Buffalo, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138509719) |
+| **Red Bull** | Student Marketeer - Canisius University | Buffalo, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138509709) |
 | **ByteDance** | Student Researcher (Multimodal Intera... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623547506849679621) |
 | **ByteDance** | Student Researcher (LLM - Seed) - 202... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623539152655632693) |
 | **ByteDance** | Student Researcher (Speech Foundation... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623550540616108293) |
@@ -719,8 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lyft** | Marketing Manager, Priority Verticals | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8639202002?gh_jid=8639202002) |
 | **Anduril** | Aviation Maintenance Engineer | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5178802007?gh_jid=5178802007) |
 | **AppLovin** | Media Buyer, Emerging Channels - Grow... | Los Angeles/Santa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4698111006?gh_jid=4698111006) |
-| **Veolia Environnement SA** | Incinerator operator | Port Arthur, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138409199) |
-| **AppLovin** | Media Buyer, Emerging Channels - Grow... | Palo Alto, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4698108006?gh_jid=4698108006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26017 current opportunities from 810 companies**
+**🎯 26558 current opportunities from 811 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
