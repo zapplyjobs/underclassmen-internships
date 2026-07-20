@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26167-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18417-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26156-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18407-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-812-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -72,6 +72,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Chip CAD DevOps Engineer, Google Cloud | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/76209989948973766) |
 | **Google** | Platforms Test Engineer, Platforms In... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116587408069141190) |
 | **Google** | Cloud Infrastructure Engineer, HPC, T... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/109032118213845702) |
+| **Amazon Development Center U.S., Inc.** | Software Development Engineer II, AFF... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478502/software-development-engineer-ii-affs-identity) |
 | **Citizens Financial Group** | Software Engineer II | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48178) |
 | **Dell Technologies** | Automation & AI Platform Engineer (Ne... | Limerick, Co. Lim... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/R288425) |
 | **Applied Intuition** | Software Engineer - Perception (Fallb... | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/a959b5ac-b9d9-444e-8ea9-ef560d1554a9/application) |
@@ -130,9 +131,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Op... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477975/software-development-engineer-aws-opensearch) |
 | **Amazon Data Services, Inc.** | Software Development Engineer, Transi... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477977/software-development-engineer-transit-gateway) |
 | **Amazon.com Services LLC** | Software Development Engineer, Amazon... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477884/software-development-engineer-amazon-photos) |
-| **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Op... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477702/software-development-engineer-aws-opensearch) |
-| **Amazon.com Services LLC** | Software Development Engineer, AWS La... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477463/software-development-engineer-aws-lambda) |
 | **Audible, Inc.** | Software Development Engineer, Creato... | Culver City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477426/software-development-engineer-creator-marketplace) |
+| **Amazon.com Services LLC** | Software Development Engineer, AWS La... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477463/software-development-engineer-aws-lambda) |
 | **Audible, Inc.** | Software Development Engineer, Creato... | Culver City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477916/software-development-engineer-creator-marketplace) |
 | **Amazon.com Services LLC** | Software Development Engineer, Securi... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477126/software-development-engineer-security-software-development-operations-ssdo) |
 | **GM Financial** | Product Manager II | Irving, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260461) |
@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Lucid Motors** | Service Technician, Millbrae (2nd shift) | Millbrae, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5189865007) |
 | **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620901040351430965) |
 | **ByteDance** | Facilities Management Project Intern ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620891141449795893) |
 | **ByteDance** | Project Management Project Intern (Re... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620892797440379189) |
@@ -536,7 +537,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fortive** | Planning Enterprise Sales Executive | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9808) |
 | **Fortive** | Junior Account Manager: | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10205) |
 | **Oracle** | Oracle NetSuite - Account Executive -... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340286) |
-| **Lucid Motors** | Service Technician, Costa Mesa 2nd shift | Costa Mesa, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5189867007) |
 | **Zipline** | UAS Maintenance Technician | Houston, Texas, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7808686003) |
 | **BillionToOne** | Account Executive | Oklahoma City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4716459005) |
 | **Layup Parts** | Composites Technician - 3rd Shift | Huntington Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/378c10d4-cb8d-4bcf-b167-3336eb9e5ce5/apply) |
@@ -621,6 +621,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **DoorDash** | Manager, Sales Strategy & Operations,... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8073126) |
+| **Applied Intuition** | Technical Program Manager - Defense | Washington, D.C. | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/e1113490-4217-41c5-b223-4afb78673c54/application) |
 | **AbbVie** | Copy of Customer Solutions Specialist... | Juneau, AK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014169746) |
 | **AbbVie** | Customer Solutions Specialist - Seatt... | Spokane, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014169716) |
 | **Eurofins** | Laboratory Sample Management | West Point, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138630059) |
@@ -719,8 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fivetran** | Commercial Counsel | Philadelphia (dbt) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fivetran.com/careers/job?gh_jid=7808646003) |
 | **CoreWeave** | Operations Enablement Analyst, Data C... | Livingston, NJ / ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4698084006&board=coreweave&gh_jid=4698084006) |
 | **Neuralink** | Quality Assurance Specialist | Austin, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7808639003?gh_jid=7808639003) |
-| **Veolia Environnement SA** | Operations Supervisor | New Philadelphia, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138414105) |
-| **Anduril** | Executive Business Partner | Seattle, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5160760007?gh_jid=5160760007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26167 current opportunities from 812 companies**
+**🎯 26156 current opportunities from 812 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
