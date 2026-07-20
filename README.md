@@ -19,7 +19,7 @@
 
 ![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26386-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18551-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-811-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-812-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -621,6 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Collibra** | Engineer, Security Operations & Engin... | Remote, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8060288) |
 | **Sierra** | SEO Manager | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/b81e10f9-96cc-4e97-861b-8dc0fc5a6ddd/application) |
 | **Sierra** | Performance Marketing Manager, Intern... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/cd2656a7-cabe-40ac-8cab-6d7668b3ed6b/application) |
 | **Sierra** | Performance Marketing Manager | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/ba29531a-f8d2-458e-b0cd-e4176e7f0799/application) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NBCUniversal** | Producer/Editor, Nightly News: Kids E... | New York, NEW YORK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138412554) |
 | **OpenAI** | HR Generalist, Consumer Devices | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/000cf0f2-090d-40c6-b9f8-1699db9a4c68/application) |
 | **Bellese** | QA Engineer II | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/bellese/104a1619-f855-414c-b885-0fe98e3949ca/apply) |
-| **Esri** | Project Manager II | Redlands, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5190315007?gh_jid=5190315007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26386 current opportunities from 811 companies**
+**🎯 26386 current opportunities from 812 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
