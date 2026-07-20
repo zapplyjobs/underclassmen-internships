@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26117-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18400-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26110-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18395-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-813-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -288,6 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **ServiceNow** | Enterprise Account Exec, Cybersecurit... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138648484) |
 | **ByteDance** | Security Engineering Project Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
 | **Google** | Security Engineer, GKE | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103434534581609158) |
 | **Google** | Security Engineer, Enterprise Detecti... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142714037728092870) |
@@ -342,7 +343,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anthropic** | Software Security Engineering Manager... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5324758008) |
 | **ServiceNow** | Enterprise Account Exec (Enterprise T... | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000137708069) |
 | **ServiceNow** | Enterprise Account Exec (Enterprise T... | San Francisco , C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000137707779) |
-| **ServiceNow** | Sr Enterprise Account Exec, Cybersecu... | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000137705657) |
 | **NVIDIA** | Information Security Systems Engineer | US, VA, Herndon | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-VA-Herndon/Information-Security-Systems-Engineer_JR2020340) |
 | **Snap** | Embedded Systems Security Engineer | San Diego, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/San-Diego-California/Security-Engineer_R0046087-1) |
 | **HPE (University)** | Pre-Sales Engineer, Cybersecurity | All, Washington, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Washington-United-States-of-America/Pre-Sales-Engineer--Cybersecurity_1208609-2) |
@@ -511,7 +511,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Bosch Group** | Account Manager - Directed Buy Tier C... | Farmington Hills, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138645729) |
-| **Lucid Motors** | Service Technician - Plainview, NY | Plainview, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5189964007) |
+| **Lucid Motors** | Service Technician - 2nd Shift - Plai... | Plainview, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5189964007) |
 | **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620901040351430965) |
 | **ByteDance** | Facilities Management Project Intern ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620891141449795893) |
 | **ByteDance** | Project Management Project Intern (Re... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620892797440379189) |
@@ -621,17 +621,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Red Bull** | Merchandiser (Part Time) | Wichita, KS | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138653244) |
+| **Bosch Group** | Associate Marketing Specialist - Comm... | Farmington Hills, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138652829) |
+| **Red Bull** | Warehouse Loader (Part Time) | Terre Haute, IN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138647301) |
+| **AbbVie** | Account Specialist, Urology - Miami/F... | Miami, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014171846) |
 | **Red Bull** | Student Marketeer - Franklin & Marsha... | Lancaster, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138646394) |
-| **Red Bull** | Student Marketeer - University of Pen... | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138647610) |
 | **BryceTech** | Program Manager | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000138648779) |
-| **Red Bull** | Student Marketeer - University of Pen... | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138647820) |
 | **WPP Media** | Director, Commerce Strategy | New York, United ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5279227008) |
 | **Fullscript** | Warehouse Associate (Phoenix, AZ) | Phoenix, AZ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/fullscript/7c5f5607-0573-4e6f-9916-7ba0575c6b57/apply) |
 | **Veolia Environnement SA** | On-Site Specialist I | Commerce, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138643390) |
 | **Intuitive** | da Vinci Digital Sales Manager, West | Los Angeles, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138640880) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Dallas, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014170414) |
 | **AbbVie** | Director, Medical Science Liaison Pla... | Miami, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014170656) |
-| **AbbVie** | Director, Medical Science Liaison Pla... | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014170301) |
 | **Anduril** | Inventory Specialist | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5120398007?gh_jid=5120398007) |
 | **Lucid Motors** | Service Concierge, Millbrae (2nd shift) | Millbrae, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5190171007) |
 | **Smiths Group** | Bend Trainee | 93 Lexington Driv... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138640609) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Relativity Space** | Robotics Kinematics Engineer II | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8639531002?gh_jid=8639531002) |
 | **Zipline** | Quality Manager, Maintenance Operations | Austin, Texas, US... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7808627003) |
 | **Crusoe** | Workplace Site Coordinator | Warrenton, MO - US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/f1c78c3c-afdb-4b6a-8734-9f5c581979e8/application) |
-| **Crusoe** | Workplace Site Coordinator | Childress, TX - US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/257bb9a6-ae9c-446a-9ec5-ee9f62c305e1/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26117 current opportunities from 813 companies**
+**🎯 26110 current opportunities from 813 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
