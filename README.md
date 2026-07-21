@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26479-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18590-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-811-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26481-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18593-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-812-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -621,6 +621,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Epic Games** | Director, Product Management (Social ... | Cary,North Caroli... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/5993562004?gh_jid=5993562004) |
+| **Abnormal Security** | Customer Analytics Manager | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7809956003?gh_jid=7809956003) |
+| **Shield AI** | Director, SOX Compliance (R5388) | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/f685f639-8801-4da5-915c-13a5930326b9/apply) |
 | **OpenAI** | AI Deployment Engineer, Global Affairs | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/8859d8fa-48d8-4e1a-a53f-39e7a58e4522/application) |
 | **OpenAI** | AI Deployment Engineer, Agent Enablement | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36/application) |
 | **Replit** | Head of Marketing Operations | Foster City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/9394684e-814c-4a3c-b5ed-19612e4331bc/application) |
@@ -718,9 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | Spaceport Integration Manager | Cape Canaveral, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641926002?gh_jid=8641926002) |
 | **hhaexchange** | Payer Product Marketing Director | New York City Met... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hhaexchange/dfa10fc1-2e98-4286-97c5-6806c6c1147f/apply) |
 | **Cerebras Systems** | Director, IP | Headquarters/Sunn... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/156913ad-fcce-4551-b422-b5df5a9310fe/application) |
-| **Radiant Industries** | State Engagement Director | Washington, D.C. | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/35711f3f-74e2-4053-a545-6ad6de1796da/application) |
-| **AMD** | Digital Marketing Specialist | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87846/login) |
-| **Nuro** | Autonomous Vehicle Operator, South Sa... | SF | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7943771) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26479 current opportunities from 811 companies**
+**🎯 26481 current opportunities from 812 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
