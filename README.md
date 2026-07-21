@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26211-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18467-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26210-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18464-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-812-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -131,8 +131,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479425/software-development-engineer-aws-identity) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479416/software-development-engineer-aws-identity) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Op... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479464/software-development-engineer-aws-opensearch) |
-| **Amazon.com Services LLC** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479419/software-development-engineer-aws-identity) |
-| **Amazon.com Services LLC** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479415/software-development-engineer-aws-identity) |
+| **Amazon.com Services LLC** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479424/software-development-engineer-aws-identity) |
+| **Amazon.com Services LLC** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479417/software-development-engineer-aws-identity) |
 | **Amazon.com Services LLC** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479418/software-development-engineer-aws-identity) |
 | **Amazon Data Services, Inc.** | Software Development Engineer, Networ... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479116/software-development-engineer-network-product-development) |
 | **Amazon Web Services, Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479142/software-development-engineer-ii-aws-data-platform) |
@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Toast** | Territory Account Executive, SMB - To... | Toms River, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8076637) |
 | **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620901040351430965) |
 | **ByteDance** | Facilities Management Project Intern ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620891141449795893) |
 | **ByteDance** | Project Management Project Intern (Re... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620892797440379189) |
@@ -530,6 +531,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Business Development Manager - Vice P... | Des Moines, IA, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210718491) |
 | **JPMorgan Chase** | Customer Success Director – Strategic... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210771064) |
 | **JPMorgan Chase** | Customer Success Director – Cloud Ser... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210771077) |
+| **onsemi** | Equipment Maintenance Technician- WET... | Hopewell Junction... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506094) |
 | **Oracle** | Account Executive - Mid Market | Nashville, TN, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340196) |
 | **Oracle** | Oracle NetSuite - Account Executive -... | Nashville, TN, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340234) |
 | **JP Morgan Chase** | Business Development Manager - Vice P... | Des Moines, IA, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718491) |
@@ -598,8 +600,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **INFICON** | Manufacturing Technician | East Syracuse, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000138672700) |
 | **Toast** | Territory Account Executive, SMB - Be... | Bethesda, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8071780) |
 | **Braze** | Account Executive, Scale | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8070251?gh_jid=8070251) |
-| **Braze** | Account Executive, Scale | Austin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8070244?gh_jid=8070244) |
 | **Braze** | Account Executive, Scale | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8070238?gh_jid=8070238) |
+| **Braze** | Account Executive, Scale | Austin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8070244?gh_jid=8070244) |
 | **Box** | Commercial Account Executive | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/8073100) |
 | **Crest Industries** | Production Support Technician - Day S... | Pineville, Louisiana | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/a63c50db-c7c3-470d-a094-5d986a175d0d/apply) |
 | **Lila Sciences** | Contractor, Technical Recruiter | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4313985009) |
@@ -608,8 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ZoomInfo** | Account Manager I (SMB) | Vancouver, Washin... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zoominfo.com/careers?gh_jid=8639064002) |
 | **Zscaler** | Account Executive - Majors - Texas | Texas, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5187970007) |
 | **Microsoft** | Data Center Technician (Night Shift) | Chicago, Illinois... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556929288) |
-| **Bosch Group** | Account Manager - Directed Buy Tier C... | Farmington Hills, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138645729) |
-| **Microsoft** | Prin Customer Success Account Manager | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556927180) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -681,10 +681,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cummins** | Industrial Electrician IV - Controls | Fletcher, NC, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433662) |
 | **Cummins** | Maintenance Specialist III | Morristown, TN, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433895) |
 | **Honeywell** | Director HR Advisory | Charlotte, NC, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/152945) |
-| **Honeywell** | Snr Treasury Analyst (Trade Finance) | Dublin, Co. Dubli... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153864) |
 | **JPMorgan Chase** | Part Time Associate Banker Fort Worth... | Fort Worth, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210708065) |
 | **JPMorgan Chase** | Part Time Associate Banker South Dall... | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210708096) |
 | **JPMorgan Chase** | Part Time Associate Banker Foothills ... | Upland, CA, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210713990) |
+| **onsemi** | Manufacturing Defect Engineer | Hopewell Junction... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506054) |
 | **Sherwin-Williams** | Store Customer Service Specialist - P... | Morgan Hill, CA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2612785) |
 | **Sherwin-Williams** | Store Associate - Part Time (Bilingua... | Henderson, NV, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2612816) |
 | **Sherwin-Williams** | Store Customer Service / Delivery Dri... | Chickasha, OK, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2614566) |
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26211 current opportunities from 812 companies**
+**🎯 26210 current opportunities from 812 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
