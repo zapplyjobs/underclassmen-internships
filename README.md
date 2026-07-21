@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26982-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-19005-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-810-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26474-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18583-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-811-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -204,6 +204,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Data Scientist, Region Flexibility | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479389/data-scientist-region-flexibility) |
 | **Amazon.com Services LLC** | Data Scientist, Security Issue Manage... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478998/data-scientist-security-issue-management) |
 | **JPMorgan Chase** | Vice President, Data Scientist – Cred... | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210769351) |
+| **Oracle** | NA Sales Representative, Data Platfor... | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340417) |
 | **Oracle** | NA Sales Representative, Data Platfor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340322) |
 | **Oracle** | NA Sales Representative, Data Platfor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340361) |
 | **Texas Instruments** | AI/ML Engineer | Richardson, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016573) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | Business Analyst - Junior Level | VA, Springfield, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Springfield/Business-Analyst---Junior-Level_R180114) |
 | **Parsons** | Business Analyst - Mid Level | VA, Springfield, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Springfield/Business-Analyst---Mid-Level_R180112) |
 | **AbbVie** | SAP FI-OTC Integration Business Analyst | Waukegan, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014116385) |
-| **Leland** | Data Science Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/ce339c97-5d8d-44c5-9fd3-93ad205f541d/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Crusoe** | Program Manager, Workforce Housing | Dallas, TX - US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/17bf436f-59bf-4965-935c-bb16ffd9c5cd/application) |
+| **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | TEXAS  FLAGLER M... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/c544effc-fcbf-40c5-80fd-6300171bb7b8/application) |
+| **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | ILLINOIS  FLAGLE... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/a3c23b37-2658-46e2-9fd0-f18434783969/application) |
+| **Dialpad** | Manager, Accounts Payable and Expenses | San Ramon, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8641643002) |
+| **Flagler Health** | Onsite - Licensed Practical Nurse (LP... | Tampa  Flagler M... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/flaglerhealth/e7e9c346-5549-4fb9-bafc-9b8d74342a8a/application) |
+| **Block** | Federal Affairs Director | Washington, DC, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5318292008?gh_jid=5318292008) |
 | **Dialpad** | Partner Marketing Coordinator | Austin, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8639486002) |
 | **Shield AI** | Customer Support Systems Platform Man... | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/796a9abb-ebf1-4f69-a655-2cb91ae7ac16/apply) |
 | **Waymo** | Planning Manager (Validation) | Remote, CA, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7435595) |
@@ -715,12 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rocket Lab** | GNC Engineer II | Littleton, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7810232003) |
 | **Zipline** | Austin Field Ops Supervisor | Austin, Texas, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7810211003) |
 | **AMD** | Director, GSI Partner Development Man... | CA, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88516/login) |
-| **Accenture Federal Services** | Mid-Level ServiceNow Developer | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4697592006?gh_jid=4697592006) |
-| **Plaid** | Partner Development Manager - Enterpr... | Remote United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/c3894a41-7873-4f67-bf94-5e258e7c033a/application) |
-| **Appian** | Technical Delivery Manager (Top Secre... | McLean, Virginia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8075522) |
-| **Appian** | Technical Delivery Manager (State & L... | Atlanta, Georgia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8075572) |
-| **Appian** | Technical Delivery Manager (State & L... | Raleigh, North Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8075559) |
-| **Perforce** | Content Marketing Manager | Minneapolis, MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/perforce/68f59868-4035-484b-9f7a-85a5810d9442/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26982 current opportunities from 810 companies**
+**🎯 26474 current opportunities from 811 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -789,6 +789,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 20, 2026
+**Last Updated**: July 21, 2026
 
 </div>
