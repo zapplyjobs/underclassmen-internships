@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26685-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18744-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26687-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18745-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-808-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Bosch Group** | AI Research Scientist - GenAI | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138985411) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vanguard** | Data Analyst, Specialist | Malvern, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_178020) |
 | **Vanguard** | Fabric Data Engineer — Workplace Engi... | Wayne, PA + 3 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Fabric-Data-Engineer---Workplace-Engineering_178723) |
 | **HARMAN International** | Digital Business Analyst (Global Sale... | California, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Digital-Business-Analyst--Global-Sales---Service-_R-52181-2026) |
-| **AIG** | Structured Settlements Business Analyst | Jersey City, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/NJ-Jersey-City/Structured-Settlements-Business-Analyst_JR2602452-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Anduril** | Dimensional/Visual Inspector | McHenry, Mississi... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5188183007?gh_jid=5188183007) |
 | **TikTok** | Non-Technical Sourcer - HR & Manageme... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7664710082069235973) |
 | **ByteDance** | Student Researcher (LLM - Seed) - 202... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623539152655632693) |
 | **ByteDance** | Student Researcher (AI Foundation Mod... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7639884334834862341) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Bull** | Manager, Immigration & HR Compliance | Santa Monica, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138958045) |
 | **EVERSANA** | VP, Client Services | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000138958470) |
 | **NICE** | Integration Engineer | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.eu.greenhouse.io/nice/jobs/4932615101?gh_jid=4932615101) |
-| **AMD** | Product Development Engineer, Datacen... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88588/login) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26685 current opportunities from 808 companies**
+**🎯 26687 current opportunities from 808 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
