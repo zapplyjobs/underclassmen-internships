@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26388-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18587-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-25752-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-17987-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-808-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -486,7 +486,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Cummins** | Mechanical Engineering Drafting Assoc... | Columbus, IN, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430791) |
 | **Dell Technologies** | Mechanical Engineers-Data Center IT R... | Round Rock, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295765) |
-| **Sherwin-Williams** | Process Engineer II | Cleveland, OH, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618061) |
 | **Intuitive** | Manager Mechanical Engineering Instru... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138203650) |
 | **Captivation** | Systems Engineer 2 - AI/ML/Jira/Confl... | Annapolis Junctio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5362106008) |
 | **ALTEN Technology** | Supplier Quality Engineer | Oceanside, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5189129007) |
@@ -499,6 +498,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Superblock Electrical Engineer | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014132176) |
 | **Redwood Materials** | Associate Controls Engineer | Ridgeville, South... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6116835004?gh_jid=6116835004) |
 | **DRW** | Trading Systems Engineer - Operations... | Chicago, NYC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8066969) |
+| **AeroVironment** | Manager, Industrial Engineering & Lea... | Simi Valley, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Continuous-Improvement-Manager_7703) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -662,19 +662,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BillionToOne** | Revenue Manager | Menlo Park, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/billiontoone/jobs/4717344005) |
 | **VAST** | Policy & Government Relations Analyst | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4698774006?gh_jid=4698774006) |
 | **Amazon.com Services LLC** | Software Dev Engineer II, Alexa Shopping | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480970/software-dev-engineer-ii-alexa-shopping) |
+| **Atlantic Health System** | Nurse Practitioner, Women’s Health - ... | Clark, NJ, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30919) |
 | **Emerson Electric** | Assembler | Ash Flat, AR, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008285) |
 | **Emerson Electric** | Assembler | Ash Flat, AR, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008286) |
 | **Honeywell** | Material Handler - Level 4 | Northford, CT, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153460) |
+| **JPMorgan Chase** | Technology Support III | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210743638) |
 | **JPMorgan Chase** | Associate Relationship Banker - Eliza... | Elizabeth, NJ, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210769052) |
 | **JPMorgan Chase** | Private Client Banker- Newport Center... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210771596) |
-| **JPMorgan Chase** | US Equity Research - Small & Mid Cap ... | NY, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210772651) |
 | **Oracle** | Supplier Sourcing Program Manager 3 | Nashville, TN, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340632) |
 | **Sherwin-Williams** | Store Associate | Southport, NC, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617495) |
-| **Sherwin-Williams** | Bilingual Multi-Location Customer Ser... | Decatur, IL, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618397) |
-| **Sherwin-Williams** | Bilingual Multi-Location Customer Ser... | Terre Haute, IN, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618401) |
+| **JP Morgan Chase** | Technology Support III | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743638) |
 | **JP Morgan Chase** | Associate Relationship Banker - Eliza... | Elizabeth, NJ, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769052) |
 | **JP Morgan Chase** | Private Client Banker- Newport Center... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771596) |
-| **JP Morgan Chase** | US Equity Research - Small & Mid Cap ... | NY, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772651) |
 | **Microsoft** | Director, Platform Growth & Ecosystem... | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556928734) |
 | **LangChain** | Product and Solutions Marketing Manager | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/langchain/050d5945-8647-4ca3-bbe9-38c45d63a3ba/application) |
 | **Anthropic** | Business Systems Analyst | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5366149008) |
@@ -721,6 +720,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Esri** | Financial Analyst II | Redlands, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5192853007?gh_jid=5192853007) |
 | **Cohere** | Head of Sales Enablement | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/53c7d470-711d-4b8f-8781-84ee925f184d/application) |
 | **Handshake** | Manager, R&D Strategy & Operations | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/83323129-9513-4577-a2b6-b5efd296a330/application) |
+| **Snowflake** | Solution Engineer | Denver, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/50d4f7da-1ae2-4ffb-b9ac-176bbc7a22cc/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26388 current opportunities from 808 companies**
+**🎯 25752 current opportunities from 808 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
