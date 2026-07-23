@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20776-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-14426-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-803-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20780-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-14433-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-804-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Sierra** | Product Manager, Agent Development (S... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22/application) |
 | **NBCUniversal** | Full Stack Developer, NBC News | New York, NEW YORK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139334054) |
 | **Accenture Federal Services** | Cloud DevOps Engineer | Arlington, VA; Ch... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698889006?gh_jid=4698889006) |
 | **AbbVie** | Marketing Automation Platform Engineer | Mettawa, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014249816) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **xAI** | ML Infrastructure Engineer | Palo Alto, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5193037007) |
 | **Whatnot** | Product Designer, Payments | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/0d03cfd0-e46a-4143-a2a3-9fef81d9c8e8) |
 | **Whatnot** | Product Designer, Trust & Risk | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/878129db-339a-46db-8b99-6b6f05ed75f1) |
-| **Amazon.com Services LLC** | Software Development Engineer | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481902/software-development-engineer) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -382,9 +382,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northwood Space** | Product Security Manager | Torrance, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/f3109b15-86d2-4cd9-b252-0a5276455ef1/application) |
 | **Anduril** | Product Security Engineer, Programs | Quincy, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5183808007?gh_jid=5183808007) |
 | **Lucid Software** | Security Analyst | Raleigh, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/6112976004) |
-| **SpaceX** | Product Security Engineer (Starlink) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8624835002?gh_jid=8624835002) |
-| **SpaceX** | Embedded Security Engineer (Starlink) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8624836002?gh_jid=8624836002) |
-| **Harvey** | Detection & Response Security Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/a69d1923-89dc-499c-ad87-5597ea1b9b10/application) |
 | **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
 
@@ -398,6 +395,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Pure Storage** | PCIe Hardware Engineer, Systems | Santa Clara, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7985259) |
+| **Anduril** | External Process Engineer, Electronics | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194896007?gh_jid=5194896007) |
 | **DoorDash** | Flight Test Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8082005) |
 | **BryceTech** | Software Test Engineer IV | Aberdeen Proving ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000139334747) |
 | **SpaceX** | Development Test Engineer, Battery (S... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002) |
@@ -419,6 +418,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sila Nanotechnologies** | Mechanical Engineer, Equipment Engine... | Alameda, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/silananotechnologies/jobs/8080802) |
 | **Amazon Data Services, Inc.** | Electrical Engineer, Data Center, Col... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482351/electrical-engineer-data-center-colocation-regional-engineering-amer) |
 | **Amazon Data Services, Inc.** | Product Lifecycle Mechanical Engineer... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482252/product-lifecycle-mechanical-engineer-data-center-mechanical-products-services) |
+| **Amazon Development Center U.S., Inc.** | FPGA Verification Engineer, Bespoke S... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482749/fpga-verification-engineer-bespoke-solutions) |
 | **Honeywell** | Quality Engineering Technician | Northford, CT, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151679) |
 | **WSP** | Early Career Substation Electrical En... | Overland Park, KS... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91728) |
 | **Hunt Oil Company** | HSRC Process Engineer II | Heidelberg, MS, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1020) |
@@ -433,7 +433,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anduril** | Facilities Strategy, Air Dominance & ... | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5193043007?gh_jid=5193043007) |
 | **Archer** | Sr Product Quality Engineer | San Jose, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/archer56/jobs/7804848003) |
 | **Bosch Group** | Manufacturing Engineering/Operations ... | Pineville, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139141329) |
-| **Anduril** | Electrical System Test Engineer | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5156719007?gh_jid=5156719007) |
 | **Block** | Legal Systems Engineer | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5195926008?gh_jid=5195926008) |
 | **Block** | Legal Systems Engineer | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5195925008?gh_jid=5195925008) |
 | **Apple** | FPGA Design Engineer - Instrument Eng... | San Diego | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673523/fpga-design-engineer-instrument-engineering) |
@@ -496,8 +495,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Electrical Systems Engineer | Delaware, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20260592) |
 | **Smiths Group** | Mechanical Engineering Co-Op | Morton Grove, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138415594) |
 | **INFICON** | Manufacturing Engineering Technician | Longmont, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000138412679) |
-| **Formlabs** | R&D Reliability/Test Engineer | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8072864/apply/?gh_jid=8072864) |
-| **Formlabs** | R&D Reliability/Test Engineer | Somerville, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8072860/apply/?gh_jid=8072860) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -509,6 +506,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **AbbVie** | Recruiter, Talent Acquisition | Florham Park, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014252816) |
+| **Algolia** | Business Development Representative, ... | Atlanta, Georgia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/algolia/jobs/6123591004) |
+| **Cresta** | Solutions Engineer, AI Agent | United States (Re... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5369032008) |
 | **CFS Energy** | Procurement Coordinator | Devens, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/08663451-1234-489f-81af-a554e07542e8/apply) |
 | **Alarm.com** | Support Operations Associate I | Bloomington, Minn... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8562289002) |
 | **Toast** | Territory Account Executive , SMB - B... | Fairfield, CT | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8082111) |
@@ -586,7 +586,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Customer Success Account Mgmt | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556939430) |
 | **VAST** | Environmental Health & Safety Technician | Mojave, Californi... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4698143006?gh_jid=4698143006) |
 | **Leland** | B2B Account Executive | Leland | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/de962a58-b0aa-4ff5-a486-d1134ab7c9f2/application) |
-| **AbbVie** | Strategic Account Manager, SkinMedica | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014237816) |
 | **Alarm.com** | Sales Engineer - Northeast | Massachusetts, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8646370002) |
 | **OpenEye** | Sales Engineer | Massachusetts, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8646207002) |
 | **Block** | Mid-Market Account Executive | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5368067008?gh_jid=5368067008) |
@@ -607,8 +606,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Asana** | Strategic Enterprise Account Executive | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asana.com/jobs/apply/8054355?gh_jid=8054355) |
 | **VAST** | Operations Specialist | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4698881006?gh_jid=4698881006) |
 | **Harvey** | SMB Account Executive | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/fcfdeffe-5890-49b0-a98f-8689a930c151/application) |
-| **HackerRank** | Customer Account Manager - Strategic ... | Remote in San Fra... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/hackerrank/jobs/8078029) |
-| **Plaid** | Account Manager - Enterprise - Territ... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/5190527d-06e6-4dfa-bff4-e059482f66d1/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -620,6 +617,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Airbnb** | Learning Tools Manager | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8073189?gh_jid=8073189) |
+| **AbbVie** | Specialty Representative, Dermatology... | Saint Paul, MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014252686) |
+| **Eurofins** | Entry Level PCR Data Review | Lancaster, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139344109) |
+| **Anduril** | Supplier Development Engineer, Electr... | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194848007?gh_jid=5194848007) |
+| **Anduril** | Structural Analysis Engineer | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5024775007?gh_jid=5024775007) |
+| **Eurofins** | Courier - Eurofins Drinking Water and... | Madison, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139343269) |
+| **LinkedIn** | Account Director, Key Accounts, Finan... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000139342475) |
+| **Veolia Environnement SA** | Field Service Representative - Chemic... | Spencer, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139342050) |
+| **Abnormal Security** | Professional Services Consultant | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7812281003?gh_jid=7812281003) |
+| **SpaceX** | Physical Security Hardware Specialist | Vandenberg, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8643901002?gh_jid=8643901002) |
+| **Veolia Environnement SA** | Maintenance Manager | Norwalk, CT | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139342389) |
 | **Veolia Environnement SA** | On Site Specialist I | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139341858) |
 | **AMD** | Virtual Software Modeling Engineer | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/81017/login) |
 | **AMD** | Virtual Software Modeling Engineer | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87024/login) |
@@ -634,7 +642,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Growth Product Marketing Manager | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/10c7fcdc-1f07-41e3-8e37-4d930898a648/application) |
 | **Western Digital** | Employee Communications Specialist | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000139338850) |
 | **Scale AI** | Engagement Manager, Public Sector (Co... | Columbia, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4717999005) |
-| **Veolia Environnement SA** | Field Operations Supervisor | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139339209) |
 | **IXL Learning** | Human Resources Generalist | Raleigh, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8642775002) |
 | **Intuitive** | Mechanical Design Engineer | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139338719) |
 | **ClickUp** | Regional Director, Commercial Sales | Boston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/clickup/c618fe19-50a3-439c-84c0-f2f023c5d97d/application) |
@@ -644,10 +651,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Included Health** | Urgent Care Nurse Practitioner | Colorado | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/2853afaf-669f-427c-aee5-adc793298411/apply) |
 | **Roblox** | Talent Sourcing Partner (Short Term) | San Mateo, CA, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.roblox.com/jobs/8036991?gh_jid=8036991) |
 | **Olsson** | Field Manager- Construction Materials... | Fayetteville, AR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5368950008) |
-| **AbbVie** | Specialty Representative, Gastroenter... | Lancaster, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014250597) |
 | **ElevenLabs** | Marketing Operations | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/1c1f4cc9-08f7-4fbb-867f-7e87e7fa19d9/application) |
 | **Bosch Group** | Technical Functions/Maintenance Inter... | Florence, KY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139336989) |
-| **Veolia Environnement SA** | Wastewater Operations Supervisor | Plainsboro Townsh... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139335855) |
 | **HighLevel** | Community Programs Coordinator | Dallas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/gohighlevel/d54a6381-d2f0-4bcf-9e0a-6e70a7bfeba3/apply) |
 | **ServiceNow** | Director, Sales - Energy | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000139336402) |
 | **Olsson** | Project Manager I - Construction Mate... | Fayetteville, AR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5368938008) |
@@ -663,11 +668,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NBCUniversal** | DreamWorks Feature - Costume Designer... | Glendale, CALIFORNIA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139332707) |
 | **Freedom Technology Solutions Group** | COTS Integration Specialist 734 | Annapolis Junctio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5194726007) |
 | **NBCUniversal** | DreamWorks Feature - Costume Designer... | Glendale, CALIFORNIA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139334439) |
-| **SpaceX** | Manager, Materials Management (Starship) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8643976002?gh_jid=8643976002) |
 | **AMD** | SerDes Applications Engineer | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/86917/login) |
 | **Lucid Motors** | Technical Illustrator | Fremont, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5192582007) |
 | **EVERSANA** | Privacy Counsel | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139332955) |
-| **Anduril** | Director, Product Sourcing Engineerin... | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194720007?gh_jid=5194720007) |
 | **GitLab** | Revenue Strategist Manager, Renewals | Remote, United St... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8645879002) |
 | **Smiths Group** | Shipper | 93 Lexington Driv... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000139329430) |
 | **ByteDance** | Student Researcher (Vision Foundation... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623543230203939077) |
@@ -681,9 +684,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Base Power** | Electronics Design Engineer | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/617e05a6-a617-4223-9e50-1fc12a12c95d/application) |
 | **Apple** | Optical Simulation Engineer | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200667530/optical-simulation-engineer) |
 | **Toast** | Tax Operations Manager | US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8027168) |
-| **Eurofins** | Analytical Chemistry Data Reviewer | Rensselaer, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139328929) |
 | **Apple** | Reporting and Program Manager — Labor... | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673740/reporting-and-program-manager-labor-and-human-rights) |
-| **Eurofins** | Courier-Part-Time | Marion, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139328329) |
 | **Headway** | FP&A Manager | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/headway/97e3c65b-b486-42c6-b965-29c4d97681dd/application) |
 | **Plaid** | Commercial Counsel | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/eb3935c3-3d4c-42f7-9159-c2aa6528ea5e/application) |
 | **Fireworks AI** | Head of Developer Relations | Remote, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/fireworksai/jobs/4329641009) |
@@ -697,7 +698,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Candid Health** | Strategic Finance Manager | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/db3a17e0-9606-4bf0-9cac-3610c93ce2ff/application) |
 | **Okta** | Executive Briefing Program Manager | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8080748?gh_jid=8080748) |
 | **Wellmark, Inc.** | Communications Specialist - Health Im... | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000139322719) |
-| **Anduril** | Global Security Training and Educatio... | Washington, Distr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194223007?gh_jid=5194223007) |
 | **OpenAI** | Manager, Occupancy Planning Operations | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/33a1465c-5a61-469d-98a9-772a850553ad/application) |
 | **ServiceNow** | Executive Assistant | Santa Clara, CALI... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000139319420) |
 | **Amplitude** | Engineering Manager, Experimentation ... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/amplitude/jobs/8647263002) |
@@ -717,9 +717,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Okta** | Company Planning and Programs Specialist | Bellevue, Washing... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8065722?gh_jid=8065722) |
 | **Audax Group** | Associate Portfolio Valuation & Analy... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4717892005) |
 | **DoorDash** | Associate Manager, Product Operations | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8079346) |
-| **Microsoft** | Critical Environment Technical Trainer | San Jose, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556923401) |
-| **ONE Finance** | Art Director, Paid Social | United States (Re... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/oneapp/01f4656c-3f13-4f82-acc7-3e277f0887c0/application) |
-| **US Conec** | Environmental Health and Safety Manager | Hickory, North Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/usconec/jobs/4329434009) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -780,7 +777,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 20776 current opportunities from 803 companies**
+**🎯 20780 current opportunities from 804 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
