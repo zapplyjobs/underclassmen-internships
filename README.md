@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26676-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18749-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-812-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-26674-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-18747-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-811-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -144,11 +144,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer, Neuron... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481056/software-development-engineer-neuron-foundation-tools) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Da... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481518/software-development-engineer-aws-database-services) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, RDS SQ... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481970/software-development-engineer-rds-sql-server) |
-| **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer - Embed... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481042/software-development-engineer-embedded-flight-computer-software) |
 | **Amazon Data Services, Inc.** | Software Development Engineer II, Dat... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480967/software-development-engineer-ii-data-center-design-engineering-bim-ai-technologies) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Manager, LLM Inf... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481437/software-development-manager-llm-inference-model-enablement-neuron-sdk) |
 | **Annapurna Labs (U.S.) Inc.** | EFA Network Software Engineer I, Anna... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer, Platfor... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481521/systems-development-engineer-platform-engineering-emerging-technology) |
+| **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer - Embed... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481042/software-development-engineer-embedded-flight-computer-software) |
 | **Emerson Electric** | Application Engineer I | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006819) |
 | **GM Financial** | Physical Security Systems Administrator | Fort Worth, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260585) |
 | **Honeywell** | Advanced Software Engineer | Acton, MA, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153700) |
@@ -621,6 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **OpenAI** | Extended Workforce Program Manager | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/194a69ed-d7a2-4af8-9bec-67a4b7b58451/application) |
 | **Smiths Group** | Machine Shop Supervisor | Pasadena, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000139189172) |
 | **Wellmark, Inc.** | Strategic Sales Channel Analyst | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000139178251) |
 | **Relativity Space** | Technical Trainer, Structures | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8646582002?gh_jid=8646582002) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anduril** | Product Sourcing Engineer | Fort Collins, Col... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5192035007?gh_jid=5192035007) |
 | **Brex** | Event Marketing Manager | Salt Lake City, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8645963002?gh_jid=8645963002) |
 | **Brex** | Event Marketing Manager | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8645962002?gh_jid=8645962002) |
-| **Brex** | Event Marketing Manager | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8645961002?gh_jid=8645961002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26676 current opportunities from 812 companies**
+**🎯 26674 current opportunities from 811 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
