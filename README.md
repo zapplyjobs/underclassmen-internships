@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20307-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-14070-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-801-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20472-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-14163-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-802-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -109,6 +109,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Intuition** | Product Manager - DefenseOS | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/7a6cae81-64fe-432f-8af8-7449d916f0db/application) |
 | **AbbVie** | Manager, Cloud Engineering - AA, Remote | Los Angeles, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014248881) |
 | **WHOOP** | Software Engineering Manager (AI Qual... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/0f7aaef3-a22e-4051-8dc5-a334ad52536f/apply) |
+| **Anduril** | Software Engineer, Sensor Fusion | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007) |
+| **Anduril** | Software Engineer, C++ | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194563007?gh_jid=5194563007) |
+| **Anduril** | Software Engineer, Air & Missile Defense | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194551007?gh_jid=5194551007) |
 | **Blueprint Technologies** | Software Engineer – Cloud Capacity & ... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/bpcs/jobs/8081622) |
 | **Vultr** | Platform Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/5fbc4ef6-f1f1-4f49-bb34-52e2d46c7ead/application) |
 | **SpaceX** | Software Engineer, Site Reliability E... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002) |
@@ -163,9 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Esri** | Software Developer II - Indoor GIS AI... | Redlands, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5192404007?gh_jid=5192404007) |
 | **Imprint** | Product Manager, Consumer | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/imprint/18bffa72-b87a-400c-840d-80d5b0bfccac/application) |
 | **Benchling** | Product Manager, Scientific Developme... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/benchling/3b50ebb7-4e9e-4ede-aaf7-d5ce91ca7eb3/application) |
-| **VAST** | Design Reliability Engineer | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4699081006?gh_jid=4699081006) |
-| **Axon** | Network Engineer, Axon 911 | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7730601003) |
-| **xAI** | Software Engineer - Evals | Palo Alto, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -405,10 +405,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Database Systems Engineer | Austin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673967/database-systems-engineer) |
 | **Apple** | Linux Systems Engineer | Austin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673991/linux-systems-engineer) |
 | **Rocket Lab** | Additive Manufacturing Engineer I/II | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7814229003) |
+| **Anduril** | Head of Finance, Air Dominance and St... | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194027007?gh_jid=5194027007) |
 | **AMD** | Platform / System Debug Validation En... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88618/login) |
 | **Bosch Group** | Customer Quality Engineer_Steering | Plymouth, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139360559) |
 | **General Matter** | Manufacturing Engineer – Tooling & Fi... | Los Angeles, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/generalmatter/jobs/5367263008) |
 | **Lila Sciences** | Sr Controls Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4311159009) |
+| **Anduril** | External Process Engineer, Electronics | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194896007?gh_jid=5194896007) |
 | **DoorDash** | Flight Test Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8082005) |
 | **BryceTech** | Software Test Engineer IV | Aberdeen Proving ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000139334747) |
 | **SpaceX** | Development Test Engineer, Battery (S... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002) |
@@ -419,6 +421,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | SW Test Engineer | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139329659) |
 | **Intuitive** | SIM Test Engineer | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139328433) |
 | **Intuitive** | SIM Test Engineer | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139327316) |
+| **Anduril** | RF Manufacturing Engineer | Fort Collins, Col... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5189532007?gh_jid=5189532007) |
 | **AMD** | SerDes Validation Engineer | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88758/login) |
 | **Scout Motors** | Engineer, Body Systems Engineering Te... | Charlotte, North ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5192327007) |
 | **Scout Motors** | Engineer, Body Systems Engineering Te... | Charlotte, North ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5192252007) |
@@ -491,9 +494,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Contoro Robotics** | Robotics Engineer Intern - Test & Val... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5/application) |
 | **Lightmatter** | Electro-Optic Link Hardware Engineer | Mountain View, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/lightmatter/jobs/5364236008?gh_jid=5364236008) |
 | **Smiths Group** | Controls Engineer | Arden, North Caro... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138657930) |
-| **Field AI** | Embedded Systems Engineer, Humanoid R... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/ae6ff0ce-0078-4836-aab1-7e44b1be1893/apply) |
-| **Field AI** | Manufacturing Engineer, Robotics Hard... | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/61d53082-301f-4a1a-9439-180d10d4ebc0/apply) |
-| **onsemi** | Process Engineer | Mountain Top, PA,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505625) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -683,6 +683,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Render** | Startup Marketing | Remote: United St... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/render/503569c8-f629-44fa-9d69-72e2c6c532f1/application) |
 | **Agility Robotics** | Vice President, Controller | Fremont, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.agilityrobotics.com/about/job-post?gh_jid=6123652004) |
 | **Veolia Environnement SA** | Service Manager - Water Treatment | Arlington, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139373249) |
+| **Anduril** | Technical Program Manager, Mathematic... | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195248007?gh_jid=5195248007) |
 | **Epic Games** | AI Programmer | Cary,North Caroli... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6119870004?gh_jid=6119870004) |
 | **AbbVie** | Associate Brand Manager II | North Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014259246) |
 | **Instacart** | Customer Experience Specialist: Retail | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8082393) |
@@ -715,7 +716,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Supervisor, Insurance Analyst | North Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014257793) |
 | **VAST** | Manufacturing Coordinator | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4699576006?gh_jid=4699576006) |
 | **Zip** | GRC Analyst | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/8b0aa1a7-f1b2-474d-84fb-dde4ef4369b9/application) |
-| **Veolia Environnement SA** | Approvals Chemist | Arkadelphia, AR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139363279) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -776,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 20307 current opportunities from 801 companies**
+**🎯 20472 current opportunities from 802 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
