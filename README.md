@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19228-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13360-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19223-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13357-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-801-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -389,6 +389,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Anduril** | Firmware Engineer | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195477007?gh_jid=5195477007) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97988079037358790) |
 | **Google** | Platforms and Devices Silicon Enginee... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113832041593610950) |
@@ -407,7 +408,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Customer Quality Engineer_Steering | Plymouth, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139360559) |
 | **General Matter** | Manufacturing Engineer – Tooling & Fi... | Los Angeles, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/generalmatter/jobs/5367263008) |
 | **Lila Sciences** | Sr Controls Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4311159009) |
-| **Anduril** | External Process Engineer, Electronics | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194896007?gh_jid=5194896007) |
 | **DoorDash** | Flight Test Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8082005) |
 | **BryceTech** | Software Test Engineer IV | Aberdeen Proving ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000139334747) |
 | **SpaceX** | Development Test Engineer, Battery (S... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002) |
@@ -500,6 +500,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **LG Electronics** | Sr Automotive Displays Account Manager | Illinois | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5369273008) |
 | **Dandy** | Commercial Account Executive | Lehi UT | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/3a7a5323-f79a-4db2-8ed0-4712c291e758/application) |
 | **Veolia Environnement SA** | Environmental Technician | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139595979) |
 | **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620901040351430965) |
@@ -599,7 +600,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **UiPath** | Customer Success Manager - Public Sector | Maryland | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uipath/6527b988-7b6b-4233-8b72-5d76735124db/application) |
 | **TikTok** | TikTok Shop - FBT Logistics Solution ... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7665039510518319413) |
 | **Atlantic Health System** | Patient Care Technician I - Per Diem,... | NJ, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30414) |
-| **Berkshire Hathaway Energy** | Operations Coordinator | Des Moines, IA, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005472) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -611,6 +611,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **LG Electronics** | Sr Product Development Engineer | Alpharetta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5369321008) |
 | **Bosch Group** | Metrologist | Albion, IN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139596714) |
 | **AbbVie** | Specialty Representative, Migraine - ... | Cullman, AL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014266116) |
 | **Lila Sciences** | Computational Scientist I/II, Soft Ma... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4327124009) |
@@ -710,7 +711,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Harvey** | Technology Enablement Analyst | Dallas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/dca79fa6-502e-4ded-96b9-a39fd1707e03/application) |
 | **Eve** | Legal Services Consultant | US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eve/jobs/4330279009) |
 | **CapTech Consulting** | Contract Scaled Scrum Master | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000139370094) |
-| **SharkNinja** | VP - Product Quality Excellence | Needham, MA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4697317006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -771,7 +771,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19228 current opportunities from 801 companies**
+**🎯 19223 current opportunities from 801 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
