@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19060-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19064-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13197-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-804-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -142,8 +142,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Fauna | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482841/software-development-engineer-fauna) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Transi... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482848/software-development-engineer-transit-gateway) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Agenti... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482153/software-development-engineer-agentic-workspaces) |
-| **Amazon.com Services LLC** | Software Development Engineer, EC2 Co... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482688/software-development-engineer-ii-aws-throttling) |
+| **Amazon.com Services LLC** | Software Development Engineer, EC2 Co... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning) |
 | **Emerson Electric** | Product Manager - Electric Motion | Florham Park, NJ,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008385) |
 | **GM Financial** | Software Development Engineer II | Arlington, TX, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260605) |
 | **GM Financial** | Software Development Engineer II - Ge... | Arlington, TX, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260610) |
@@ -263,8 +263,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Virtu Financial** | Internship - Quantitative Trading | Austin, TX; Chica... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | **Snowflake** | Engineering Manager, Data Engineering... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01/application) |
 | **TikTok** | Applied Research Scientist - Trust an... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7662454444147509557) |
-| **SpaceX** | Business Analyst (Customer Success) | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002) |
 | **SpaceX** | Business Analyst (Customer Success) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002) |
+| **SpaceX** | Business Analyst (Customer Success) | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002) |
 | **WHOOP** | Data Scientist, Product | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/3a8a3fab-cab2-4206-997d-2e2b619bae37/apply) |
 | **OpenAI** | Research Scientist - Multimodal Agent... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3/application) |
 | **Capco** | Business Analyst - Allegro | Houston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8059959) |
@@ -389,6 +389,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Veolia Environnement SA** | SCADA/Electrical Engineer | Johnstown, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139647239) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97988079037358790) |
 | **Google** | Platforms and Devices Silicon Enginee... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113832041593610950) |
@@ -488,7 +489,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **True Anomaly** | Data and Controls Systems Test Engineer | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5191069007) |
 | **Skydio** | Flight Test Engineer - Wireless | San Mateo, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/9a2ea1b1-b3cc-4dfa-995b-b9da074247d5/application) |
 | **Smiths Group** | Mechanical Engineer | Arden, North Caro... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138673419) |
-| **Contoro Robotics** | Robotics Engineer Intern - Test & Val... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -611,6 +611,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Cribl** | Business Systems Analyst, Enterprise ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=5839618004) |
 | **Anduril** | (PIPELINE) Business Operations, Produ... | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195711007?gh_jid=5195711007) |
 | **Esri** | Events Marketing Coordinator | Redlands, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5182769007?gh_jid=5182769007) |
 | **Tailscale** | Events & Remote Experience Manager | Hybrid (San Franc... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4717856005) |
@@ -710,7 +711,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Algolia** | Multimedia Content Creator (Social) | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/algolia/jobs/6092794004) |
 | **Microsoft** | Commercial Executive | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938878) |
 | **Match Group** | Manager, Strategy | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/fd38ac08-e085-4b7b-98bd-1f6a38484fb6/apply) |
-| **Twitch** | Localization Program Manager | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8648201002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -771,7 +771,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19060 current opportunities from 804 companies**
+**🎯 19064 current opportunities from 804 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
