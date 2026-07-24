@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20552-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-20550-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-14227-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-803-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -506,6 +506,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Shield AI** | Technician II, Facilities (5444) | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/dae12300-3947-40a7-b497-bbb189599cb3/apply) |
 | **SpaceX** | Integration Technician (Starship) | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648198002?gh_jid=8648198002) |
 | **Alo Yoga** | Sales Associate (Full-Time) - La Enca... | Tucson, Arizona, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6123867004?gh_jid=6123867004) |
 | **QuinStreet** | Contact Center Sales Representative | Orlando, Florida | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.quinstreet.com/careers/?gh_jid=8082632) |
@@ -605,7 +606,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fortinet** | Sales Engineer, SLED | Miami, FL, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23646) |
 | **Fortinet** | Named Regional Account Manager | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23647) |
 | **Fortive** | Associate Customer Success Management | Nashville, TN, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10264) |
-| **Honeywell** | Sr Sales Representative | Minneapolis, MN, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/152948) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -617,6 +617,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Twitch** | Localization Program Manager | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8648201002) |
+| **Twitch** | Localization Program Manager | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8648200002) |
+| **Twitch** | Localization Program Manager | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8643189002) |
 | **LLNL** | Lawrence Fellowship Postdoctoral Rese... | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014261126) |
 | **Roku** | Email & Lifecycle Marketing Manager | Stamford, Connect... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.weareroku.com/jobs/8081709?gh_jid=8081709) |
 | **LLNL** | Investigative Specialist | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014260736) |
@@ -714,9 +717,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Bull** | Sales Activator | Waddell, Arizona | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000139358869) |
 | **Sony Interactive Entertainment** | Program Manager, EMERGE (Early Career... | United States, Re... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6115726004) |
 | **Included Health** | Urgent Care Physician | North Carolina | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/includedhealth/3a38ae80-e7c9-4323-8bcb-f24e90109a30/apply) |
-| **Alo Yoga** | Maintenance Specialist II | Memphis Distribution | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6123639004?gh_jid=6123639004) |
-| **Redwood Materials** | Corporate Security Specialist | McCarran, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6116701004?gh_jid=6116701004) |
-| **Handshake** | EDU GTM Operations Manager | Remote (USA) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/8689b2e8-49bf-4c37-a497-13809ec01b6e/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -777,7 +777,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 20552 current opportunities from 803 companies**
+**🎯 20550 current opportunities from 803 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
