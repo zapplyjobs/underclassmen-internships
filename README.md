@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19776-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13783-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-808-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19773-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13782-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-807-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -193,6 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Etched** | Applied AI Engineer, Manufacturing & ... | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/9bceaee5-c3b2-4e8e-9ad3-b3b572a8d9cd/application) |
 | **Apple** | Large Machine Learning Model Optimiza... | Seattle | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200626700/large-machine-learning-model-optimization-engineer-siml) |
 | **Mercor** | Research Engineer, Environments | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mercor/44cf5f07-342d-4f64-9062-3617beb88b31/application) |
+| **Amazon Kuiper Manufacturing Enterprises LLC** | Communication Systems Geospatial & RF... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483826/communication-systems-geospatial-rf-data-engineer) |
 | **Amazon.com Services LLC** | Applied Scientist , PAE | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483557/applied-scientist-pae) |
 | **Amazon.com Services LLC** | Applied Scientist, Prime Video Person... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483316/applied-scientist-prime-video-personalization-and-discovery-science-prime-video-personalization-and-discovery-science) |
 | **Amazon.com Services LLC** | Sr Manager, Data Science & AI, R2L | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483501/sr-manager-data-science-ai-r2l) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Ventures** | We're Planning Ahead - Join the Talen... | Charlotte, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.redventures.com/careers/positions/open?gh_jid=8076875) |
 | **Amazon Development Center U.S., Inc.** | Business Intelligence Engineer, WHS Data | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480406/business-intelligence-engineer-whs-data) |
 | **Amazon Data Services, Inc.** | Business Intelligence Engineer II, AW... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480765/business-intelligence-engineer-ii-aws-dc-central-operations) |
-| **Amazon.com LLC** | Data Scientist II, Selection Growth S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479600/data-scientist-ii-selection-growth-science) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -507,6 +507,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **AbbVie** | Local Gastro Account Manager - Housto... | Houston, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014277816) |
 | **SpaceX** | Contractor Service Administrator (Fac... | Cape Canaveral, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648204002?gh_jid=8648204002) |
 | **Toast** | Strategic Cuisines Account Executive,... | Bakersfield, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8083976) |
 | **Toast** | Strategic Cuisines Account Executive ... | Fresno, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8083974) |
@@ -554,7 +555,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lucid Motors** | Service Technician – New Service Cent... | Mission Viejo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5195587007) |
 | **Snowflake** | Account Executive, Commercial Acquisi... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/2f996ebf-ae74-4350-b982-5a1a041a4229/application) |
 | **Smiths Group** | Business Development and Account Manager | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000139621084) |
-| **AbbVie** | AI Support Engineer | North Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014267357) |
 | **SpaceX** | Fabrication Technician - 2nd Shift | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8644982002?gh_jid=8644982002) |
 | **SpaceX** | Business Operations Analyst, Supply C... | Woodinville, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8646629002?gh_jid=8646629002) |
 | **LinkedIn** | Recruiting Consultant 1 | Omaha, NE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000139610839) |
@@ -618,6 +618,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Veolia Environnement SA** | Electrical Commissioning Engineer (Da... | Fredericksburg, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139680030) |
+| **Veolia Environnement SA** | Environmental Specialist  (Hazardous ... | North Chesterfiel... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139680779) |
+| **Sony Interactive Entertainment** | Marketing Director, Brand Culture | CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6113807004) |
 | **AbbVie** | District Manager, Rheumatology - Neva... | Las Vegas, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014277736) |
 | **Red Bull** | Office Administrator (Part Time) | Springfield, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000139679714) |
 | **Smiths Group** | Head of Programs and Transformation | Edgewood, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000139680169) |
@@ -660,10 +663,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Plant Operator | Detroit, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139669399) |
 | **Point72** | Business Manager, KEPL | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8637443002?gh_jid=8637443002) |
 | **ASM** | Engineer II, Configuration Engineering | > Arizona > Phoenix | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4931460101) |
-| **Veolia Environnement SA** | Plant Operator | Detroit, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139668420) |
 | **Red Bull** | Sales Trainee | Bangor, ME | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000139668379) |
 | **Relativity Space** | Inventory Specialist II, Weekend Shift | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8647468002?gh_jid=8647468002) |
-| **Veolia Environnement SA** | Associate Project Engineer | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139668059) |
 | **Eurofins** | Scientist II | Devens, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139668009) |
 | **Microsoft** | Labor Relations Specialist | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556939548) |
 | **Mach9** | Community Marketing Manager | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach9/cc094fe7-1a4a-4601-bc69-6779ff772ed4/application) |
@@ -717,7 +718,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | Manager, Cyber Defense | New York, NY; Bos... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8082737) |
 | **Nextdoor** | Customer Growth Manager | Dallas, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://about.nextdoor.com/careers-list/?gh_jid=8082663) |
 | **Nextdoor** | Customer Growth Manager | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://about.nextdoor.com/careers-list/?gh_jid=8080864) |
-| **AMD** | High Performance and Scientific Compu... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88037/login) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -778,7 +778,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19776 current opportunities from 808 companies**
+**🎯 19773 current opportunities from 807 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
