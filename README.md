@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19272-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13414-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19278-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13416-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-804-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -137,8 +137,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Fauna | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482841/software-development-engineer-fauna) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Transi... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482848/software-development-engineer-transit-gateway) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Agenti... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482153/software-development-engineer-agentic-workspaces) |
-| **Amazon.com Services LLC** | Software Development Engineer, EC2 Co... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482688/software-development-engineer-ii-aws-throttling) |
+| **Amazon.com Services LLC** | Software Development Engineer, EC2 Co... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning) |
 | **Emerson Electric** | Product Manager - Electric Motion | Florham Park, NJ,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008385) |
 | **GM Financial** | Software Development Engineer II | Arlington, TX, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260605) |
 | **GM Financial** | Software Development Engineer II - Ge... | Arlington, TX, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260610) |
@@ -500,6 +500,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Celonis** | Manager, Business Development (SaaS S... | New York, US, New... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7815294003?gh_jid=7815294003) |
+| **AMD** | University Relations Recruiter (Contr... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88864/login) |
 | **Nash** | Account Development Representative | Remote, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/nash/54fb563a-c95c-43b9-873c-e6151f066370/application) |
 | **Eurofins** | Sample Management Technician | West Point, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000139630038) |
 | **Elastic** | Mid Market Account Executive, Pursuit | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=8048319&gh_jid=8048319) |
@@ -598,8 +600,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Appian** | Account Executive - Financial Services | Chicago, Illinois | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077288) |
 | **DoorDash** | Kitchen Operations Associate, DashMart | St Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8079764) |
 | **Zscaler** | Account Executive, Enterprise - NY/NJ | New York, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5193214007) |
-| **Esri** | Account Manager - Commercial | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5185087007?gh_jid=5185087007) |
-| **Crest Industries** | HR & Talent Operations Coordinator | Pineville, Louisiana | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/95400d1a-c07b-4b5d-b676-4d671e037eca/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -611,6 +611,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b111f0bb-5494-4553-b3b1-199255ed03b3/apply) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Madison | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/70ead5eb-013f-4127-aafc-c1487322525a/apply) |
+| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/42b4e20e-9ec4-4304-94ed-695475ace394/apply) |
+| **EVERSANA** | Operations Supervisor - 2nd  Shift Di... | Memphis, TN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139634542) |
 | **Veolia Environnement SA** | Operator | Brockton, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139633288) |
 | **Waymo** | Supply Operations Manager | Washington, D.C.,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8081997) |
 | **Waymo** | East Regional Fleet Readiness Manager | Washington, D.C.,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8077778) |
@@ -707,10 +711,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Emerson Electric** | Strategic Business Developer | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008121) |
 | **Grant Thornton** | HR Consulting Director | Charlotte, NC, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115352) |
 | **Grant Thornton** | Technology M&A Manager | Chicago, IL, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115358) |
-| **Grant Thornton** | Technology M&A Manager | Chicago, IL, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115357) |
-| **Honeywell** | R&D Tech II | McCook, IL, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154080) |
-| **Hormel Foods** | FSQ (Quality Control) Auditor II- 2nd... | Alma, KS, United ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/34917) |
-| **Hormel Foods** | National Category Sales Manager Retai... | Austin, MN, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35054) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -771,7 +771,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19272 current opportunities from 804 companies**
+**🎯 19278 current opportunities from 804 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
