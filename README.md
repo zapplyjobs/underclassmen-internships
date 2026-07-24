@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19280-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13415-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19309-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13442-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-804-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Bosch Group** | Powertrain Controls Software Engineer... | Farmington Hills, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139639579) |
 | **Tenstorrent** | Software Engineer, Metal Runtime (API... | Austin, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5192671007) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rubrik** | Software Engineer - SaaS Data Protection | Palo Alto, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8076167?gh_jid=8076167) |
 | **Trace3** | Platform Operations Engineer, DevOps ... | Colorado Springs, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8080293) |
 | **Roku** | Software Engineer, Advanced Development | Austin, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.weareroku.com/jobs/7821528?gh_jid=7821528) |
-| **Torc Robotics** | Software Engineer, II - Simulation | Ann Arbor, MI, Bl... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8640387002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -537,11 +537,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Twitch** | Business Development Manager | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8643186002) |
 | **Shield AI** | Technician II, Facilities (5444) | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/dae12300-3947-40a7-b497-bbb189599cb3/apply) |
 | **Microsoft** | Technical Consultant, Azure - Microso... | Washington D.C., ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556870723) |
+| **Atlantic Health System** | Patient Care Technician I - Per Diem,... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/31252) |
+| **Cummins** | Field Service Power Generation Techni... | Indianapolis, IN,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433307) |
 | **Cummins** | Field Service Power Generation Techni... | Maumee, OH, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433506) |
 | **Hologic** | Operations Specialist 2 | Londonderry, NH, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12108) |
 | **Honeywell** | Technician - ISC - Level 2 | El Paso, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153009) |
 | **Honeywell** | Sr Account Manager | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153230) |
+| **Hormel Foods** | Jennie-O Montevideo Maintenance Techn... | Montevideo, MN, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/32200) |
 | **Sherwin-Williams** | Operating Technician - Paint Maker - ... | Andover, KS, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2612388) |
+| **Sherwin-Williams** | Store Sales Representative - Pembroke... | Pembroke Pines, F... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618788) |
 | **Vertiv** | Epoxy Technician (2nd shift) | Anderson, SC, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277256) |
 | **Alo Yoga** | Sales Associate (Full-Time) - La Enca... | Tucson, Arizona, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6123867004?gh_jid=6123867004) |
 | **QuinStreet** | Contact Center Sales Representative | Orlando, Florida | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.quinstreet.com/careers/?gh_jid=8082632) |
@@ -596,10 +600,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zipline** | Field Sales Representative | Austin, Texas, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7813991003) |
 | **DoorDash** | Strategic Customer Success Manager | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8081721) |
 | **Western Digital** | Wafer Fab Support Technician | Fremont, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000139320854) |
-| **Peloton** | IT Support Engineer | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.onepeloton.com/en/all-jobs/?gh_jid=8059783) |
-| **Appian** | Account Executive - Financial Services | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8081610) |
-| **Appian** | Account Executive - Financial Services | Chicago, Illinois | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077288) |
-| **DoorDash** | Kitchen Operations Associate, DashMart | St Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8079764) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -611,6 +611,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Veolia Environnement SA** | Regeneration Operator 1 | Pasadena, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139635480) |
+| **Axon** | Order Management Manager | New York- | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7815504003) |
 | **Veolia Environnement SA** | Energy Analyst | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139636191) |
 | **Torc Robotics** | Autonomous Fleet Specialist 2nd Shift | Blacksburg, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8646180002) |
 | **Veeva Systems** | Services Engagement Manager - Develop... | Boston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b111f0bb-5494-4553-b3b1-199255ed03b3/apply) |
@@ -642,12 +644,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Match Group** | Director, West Coast Sales | Los Angeles, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/406499f8-1b35-48e6-87fa-353764909ca3/apply) |
 | **Lucid Motors** | Service Concierge (2nd Shift) | San Diego, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5190452007) |
 | **iCapital Network** | Client Delivery Advocate - Analyst | Salt Lake City, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8586146002) |
-| **Veolia Environnement SA** | Environmental Specialist I | Creedmoor, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139620810) |
 | **NBCUniversal** | Coordinator, Human Resources | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139622143) |
 | **Remote** | Managing Counsel - Employment Legal (US) | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/remotecom/jobs/7814562003) |
 | **Smiths Group** | Field Service Manager | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000139621170) |
 | **Axon** | Order Management Manager | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7815498003) |
-| **Axon** | Order Management Manager | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7815492003) |
 | **Prolific** | Growth Marketing Manager | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/prolific/jobs/4937244101) |
 | **Snowflake** | Manager, Data Cloud Partners – Manufa... | Remote, MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/4a3d512a-3833-40a3-830d-167051e86625/application) |
 | **Intuitive** | Field Service Engineer 2 | Anaheim, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139618679) |
@@ -704,13 +704,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Netflix** | Finance Program Manager | Los Angeles, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790317362524) |
 | **Atlantic Health System** | Mental Health Assistant - Part Time -... | Morristown, NJ, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29190) |
 | **Atlantic Health System** | Manager, Practice Operations, AMG Ped... | Florham Park, NJ,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29234) |
-| **Atlantic Health System** | Medical Assistant - Full Time, 8am - ... | Mendham, NJ, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30444) |
+| **Atlantic Health System** | HIM Analyst | Morristown, NJ, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/29526) |
+| **Berkshire Hathaway Energy** | Lines Construction & Maintenance Admin | Reno, NV, United ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004430) |
 | **Berkshire Hathaway Energy** | Metering Analyst | Davenport, IA, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005405) |
+| **Berkshire Hathaway Energy** | Mgr, Substation Const Operatio | Reno, NV, United ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005453) |
 | **Citizens Financial Group** | Sr Business Support Manager | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48185) |
 | **Citizens Financial Group** | Risk Transformation & Delivery Analyst | Johnston, RI, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48311) |
 | **Cummins** | School to Work - Engineering | Seymour, IN, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433391) |
-| **Emerson Electric** | Manufacturing Final Process Team (2nd... | Marshalltown, IA,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007059) |
-| **Emerson Electric** | Strategic Business Developer | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008121) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -771,7 +771,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19280 current opportunities from 804 companies**
+**🎯 19309 current opportunities from 804 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
