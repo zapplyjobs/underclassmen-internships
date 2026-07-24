@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19759-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13769-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19758-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13767-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-807-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -288,6 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Northwood Space** | Product Security Manager | Torrance, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/6211d0a2-5fa5-4f75-95dd-211ff9203557/application) |
 | **ByteDance** | Security Engineering Project Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
 | **Google** | Security Engineer, GKE | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103434534581609158) |
 | **Google** | Security Engineer, Enterprise Detecti... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142714037728092870) |
@@ -393,6 +394,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **QuEra Computing** | Mechanical Engineering Co-Op | Boston, MA, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/queracomputinginc/jobs/5370312008) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | EMC Test Engineer, Google Cloud | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97988079037358790) |
@@ -414,6 +416,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pure Storage** | Hardware Debug and Validation Engineer | Santa Clara, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7985282) |
 | **Neros Technologies** | Firmware Engineer - Flight Software | Torrance, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5195301007) |
 | **Amazon.com Services LLC** | Robotics Systems Engineer II, Tech De... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483493/robotics-systems-engineer-ii-tech-deployment) |
+| **Amazon Kuiper Manufacturing Enterprises LLC** | RF Comms Systems Integration and Test... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483801/rf-comms-systems-integration-and-test-engineer-amazon-leo) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | RF Comms Systems Integration and Test... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483799/rf-comms-systems-integration-and-test-engineer-amazon-leo) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Power Avionics Hardware Test Engineer... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483653/power-avionics-hardware-test-engineer-amazon-leo) |
 | **Cummins** | Global Mfg. Quality Engineer-Welding ... | Indianapolis, IN,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433174) |
@@ -442,7 +445,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sila Nanotechnologies** | Mechanical Engineer, Equipment Engine... | Alameda, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/silananotechnologies/jobs/8080802) |
 | **Amazon Data Services, Inc.** | Electrical Engineer, Data Center, Col... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482351/electrical-engineer-data-center-colocation-regional-engineering-amer) |
 | **Amazon Data Services, Inc.** | Product Lifecycle Mechanical Engineer... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482252/product-lifecycle-mechanical-engineer-data-center-mechanical-products-services) |
-| **Amazon Kuiper Manufacturing Enterprises LLC** | Hardware Engineer, Customer Terminals... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482758/hardware-engineer-customer-terminals-hardware-design) |
 | **Amazon Development Center U.S., Inc.** | FPGA Verification Engineer, Bespoke S... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482749/fpga-verification-engineer-bespoke-solutions) |
 | **Dell Technologies** | Mechanical Engineer 1-Data Center IT ... | TX, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294216) |
 | **Honeywell** | Quality Engineering Technician | Northford, CT, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151679) |
@@ -492,7 +494,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Early Professional, Electrical Engine... | Syracuse, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91540) |
 | **WSP** | Early Career Substation Electrical En... | Saint Louis, MO, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91552) |
 | **Harbinger Motors** | Manufacturing Engineer, Battery | Garden Grove, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5191423007) |
-| **Harbinger Motors** | Manufacturing Engineer, Powertrain | Garden Grove, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5191522007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -504,6 +505,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Rubrik** | Director Sales Engineering | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8077160?gh_jid=8077160) |
 | **Physical Intelligence** | Robot Integration and Test Technician | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/physicalintelligence/a32cf6ed-b81c-4ee6-8785-d5895cf39ffb/application) |
 | **Veolia Environnement SA** | Technical Sales Account Manager - SDI... | Trevose, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139673219) |
 | **Crest Industries** | Maintenance Technician II (copy) | Pineville, Louisiana | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/2f640d10-23da-479a-b1e3-2f971ec547c2/apply) |
@@ -603,7 +605,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anthropic** | Recruiter, Applied AI | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5356621008) |
 | **NewsBreak** | Account Manager, Performance Growth (... | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/newsbreak/jobs/4699585006) |
 | **Rubrik** | Sales Engineering Manager, Cloud Prod... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8075065?gh_jid=8075065) |
-| **Rocket Lab** | Propulsion Assembly Technician II/III... | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7814227003) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -775,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19759 current opportunities from 807 companies**
+**🎯 19758 current opportunities from 807 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
