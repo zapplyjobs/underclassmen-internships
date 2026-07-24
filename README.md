@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19616-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13610-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19617-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13615-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-804-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Scale AI** | Manager, Research Scientist | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4718431005) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Business Intelligence Engineer II, AW... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480765/business-intelligence-engineer-ii-aws-dc-central-operations) |
 | **Amazon.com LLC** | Data Scientist II, Selection Growth S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479600/data-scientist-ii-selection-growth-science) |
 | **Texas Instruments** | Data Engineer | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016562) |
-| **Red Bull** | Data Engineer | Santa Monica, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138741299) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -616,6 +616,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **NBCUniversal** | Director, Field Publicity & Promotions | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139656469) |
+| **Brex** | Bill Pay Counsel | Salt Lake City, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8649258002?gh_jid=8649258002) |
+| **Brex** | Bill Pay Counsel | Seattle, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8649253002?gh_jid=8649253002) |
+| **Brex** | Bill Pay Counsel | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8649243002?gh_jid=8649243002) |
+| **OpenAI** | AI Success Engineer - Healthcare & Li... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/afc9813c-ec78-4579-b08b-e3716a36dbb0/application) |
+| **OpenAI** | AI Success Engineer - Healthcare & Li... | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/07522b43-7861-4e71-b18c-f43aab192e20/application) |
 | **ByteDance** | Student Researcher (Vision Foundation... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623543230203939077) |
 | **ByteDance** | Marketing & KOL Cooperation Intern (C... | Los Angeles, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7663458823008651525) |
 | **ByteDance** | Student Researcher (LLM - Seed) - 202... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623539152655632693) |
@@ -686,7 +692,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Match Group** | Director, West Coast Sales | Los Angeles, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/406499f8-1b35-48e6-87fa-353764909ca3/apply) |
 | **Lucid Motors** | Service Concierge (2nd Shift) | San Diego, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5190452007) |
 | **iCapital Network** | Client Delivery Advocate - Analyst | Salt Lake City, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8586146002) |
-| **NBCUniversal** | Coordinator, Human Resources | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139622143) |
 | **Remote** | Managing Counsel - Employment Legal (US) | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/remotecom/jobs/7814562003) |
 | **Smiths Group** | Field Service Manager | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000139621170) |
 | **Axon** | Order Management Manager | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7815498003) |
@@ -711,11 +716,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cribl** | Regional Sales Manager, NYC (Strategic) | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=6121616004) |
 | **LG Electronics** | Sr Product Development Engineer | Alpharetta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5369321008) |
 | **Bosch Group** | Metrologist | Albion, IN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139596714) |
-| **Lila Sciences** | Computational Scientist I/II, Soft Ma... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4327124009) |
-| **Lila Sciences** | Computational Scientist I/II, Soft Ma... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4327126009) |
-| **Roku** | Director of Global Advertising Commun... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.weareroku.com/jobs/8081511?gh_jid=8081511) |
-| **Accenture Federal Services** | Oracle Configurator/Prompt Engineer | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4699547006?gh_jid=4699547006) |
-| **Accenture Federal Services** | Data Conversion Developer | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4699529006?gh_jid=4699529006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -776,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19616 current opportunities from 804 companies**
+**🎯 19617 current opportunities from 804 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
