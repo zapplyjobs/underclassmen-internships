@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19728-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19731-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13734-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-804-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -221,6 +221,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Clarity Innovations** | Data Engineer | Hurlburt Field, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5165398007) |
 | **Cohere** | Data Scientist, North Insights | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af/application) |
 | **Zoox** | Machine Learning Engineer - ML Agents... | Foster City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/d736debf-c361-4a7c-81fd-6c3125ab03c0/apply) |
+| **Amazon.com Services LLC - A57** | Business Analyst III - AMZ9898510 | Las Vegas, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482980/business-analyst-iii-amz9898510) |
 | **Honeywell** | Advanced Data Scientist | Raleigh, NC, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153707) |
 | **JPMorgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210729407) |
 | **JPMorgan Chase** | Business Analyst Manager | Tempe, AZ, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210736830) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Business Intelligence Engineer, WHS Data | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480406/business-intelligence-engineer-whs-data) |
 | **Amazon Data Services, Inc.** | Business Intelligence Engineer II, AW... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480765/business-intelligence-engineer-ii-aws-dc-central-operations) |
 | **Amazon.com LLC** | Data Scientist II, Selection Growth S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479600/data-scientist-ii-selection-growth-science) |
-| **Texas Instruments** | Data Engineer | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016562) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -393,6 +393,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Shield AI** | Mechanical Engineer I, Systems Integr... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/6df24cd9-5111-4e63-a88a-d76166677000/apply) |
 | **Take-Two Interactive** | Cloud Systems Engineer II | Austin, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/8075054) |
 | **Intuitive** | Sr Supplier Manufacturing Engineer, M... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000139662802) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
@@ -492,7 +493,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Harbinger Motors** | Manufacturing Engineer, General Assembly | Garden Grove, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5191397007) |
 | **Microsoft** | Mechanical Engineer - CTJ - Poly | San Antonio, Texa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556914777) |
 | **Relativity Space** | Quality Engineer II, Test & Launch | Stennis Space | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8641196002?gh_jid=8641196002) |
-| **Lila Sciences** | Controls Engineer II, Sustaining Engi... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4294210009) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -504,6 +504,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **CoreWeave** | Supply Chain Physical Security Manager | Livingston, NJ / ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4699777006&board=coreweave&gh_jid=4699777006) |
 | **Hinge Health** | Mid Market Business Development Repre... | Remote US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/hinge-health/9a68e4e9-249c-4943-83c9-53ea36afb6b9/application) |
 | **Redwood Materials** | Materials and Logistics Coordinator, ... | McCarran, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103556004?gh_jid=6103556004) |
 | **Aurora Innovation** | Truck Operations Specialist I | El Paso, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8623444002?gh_jid=8623444002) |
@@ -603,7 +604,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Saronic Technologies** | End of Line Mechanical Technician | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/12fb2a60-9370-4c91-9e1a-f49382853eb1/application) |
 | **Base Power** | Deployment Operations Associate (Fiel... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/ecb65b46-3d96-4246-8f02-96050cd1b9fe/application) |
 | **Qualtrics** | Federal Enterprise Account Executive ... | United States (Re... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.qualtrics.com/careers/us/en/job/8082356?gh_jid=8082356) |
-| **CFS Energy** | Facilities and Maintenance Electrician | Devens, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/355dba7e-af01-4142-a60f-df52b9fa196e/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -615,6 +615,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **TikTok** | Commercial Partnership Solutions Mana... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7666099591657900293) |
+| **TikTok** | TikTok Shop - WMS Product Solution & ... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7665859000149854469) |
 | **AbbVie** | Project Manager, New Product Introduc... | North Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014275106) |
 | **Coinbase** | Social Support Specialist III | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coinbase.com/careers/positions/8083917?gh_jid=8083917) |
 | **Snowflake** | Post-Doctoral AI Researcher (2 year F... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/c392f794-c8f9-42f9-baf1-75eb27c56574/application) |
@@ -713,8 +715,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NBCUniversal** | Photographer/Editor | New York, NEW YORK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139641679) |
 | **Waymo** | Digital Media Manager | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8074506) |
 | **Axon** | Order Management Manager | New York- | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7815504003) |
-| **Torc Robotics** | Autonomous Fleet Specialist 2nd Shift | Blacksburg, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8646180002) |
-| **Veeva Systems** | Services Engagement Manager - Develop... | Boston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b111f0bb-5494-4553-b3b1-199255ed03b3/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -775,7 +775,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19728 current opportunities from 804 companies**
+**🎯 19731 current opportunities from 804 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
