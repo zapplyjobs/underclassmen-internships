@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19222-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13360-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19223-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13361-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-801-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -611,6 +611,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **IEM** | Platform Manager | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4330533009) |
+| **AMD** | Sr Verification Engineer-Memory Subsy... | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88932/login) |
 | **Sigma Computing** | Head of Pipeline Strategy | New York City, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7814504003) |
 | **Sigma Computing** | Head of Pipeline Strategy | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7814503003) |
 | **xAI** | Trainer - X Money | Bastrop, Texas, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5194492007) |
@@ -709,8 +711,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Render** | Startup Marketing | Remote: United St... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/render/503569c8-f629-44fa-9d69-72e2c6c532f1/application) |
 | **Agility Robotics** | Vice President, Controller | Fremont, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.agilityrobotics.com/about/job-post?gh_jid=6123652004) |
 | **Veolia Environnement SA** | Service Manager - Water Treatment | Arlington, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139373249) |
-| **Anduril** | Technical Program Manager, Mathematic... | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195248007?gh_jid=5195248007) |
-| **Epic Games** | AI Programmer | Cary,North Caroli... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6119870004?gh_jid=6119870004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -771,7 +771,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19222 current opportunities from 801 companies**
+**🎯 19223 current opportunities from 801 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
