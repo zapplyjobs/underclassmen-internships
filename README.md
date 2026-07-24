@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19223-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13359-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19222-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13360-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-801-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -263,8 +263,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Virtu Financial** | Internship - Quantitative Trading | Austin, TX; Chica... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | **Snowflake** | Engineering Manager, Data Engineering... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01/application) |
 | **TikTok** | Applied Research Scientist - Trust an... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7662454444147509557) |
-| **SpaceX** | Business Analyst (Customer Success) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002) |
 | **SpaceX** | Business Analyst (Customer Success) | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002) |
+| **SpaceX** | Business Analyst (Customer Success) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002) |
 | **WHOOP** | Data Scientist, Product | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/3a8a3fab-cab2-4206-997d-2e2b619bae37/apply) |
 | **OpenAI** | Research Scientist - Multimodal Agent... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3/application) |
 | **Capco** | Business Analyst - Allegro | Houston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8059959) |
@@ -389,6 +389,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Bosch Group** | Process Engineer I | Lincolnshire, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139605999) |
 | **Anduril** | Firmware Engineer | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195477007?gh_jid=5195477007) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97988079037358790) |
@@ -465,7 +466,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Torc Robotics** | Systems Engineer II – AD-Kit Components | Ann Arbor, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8640642002) |
 | **True Anomaly** | Supplier Quality Engineer | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5190620007) |
 | **Zipline** | Head of Flight Test Engineering | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7810504003) |
-| **Bosch Group** | Quality Engineering Intern / Co-op - ... | Florence, KY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138864841) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data C... | Berwick, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480126/data-center-controls-engineer-data-center-capacity-delivery) |
 | **Annapurna Labs (U.S.) Inc.** | Post-Silicon Systems Validation Engin... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475662/post-silicon-systems-validation-engineer-i-annapurna-labs) |
 | **Cummins** | Mechanical Engineering Technician - O... | Columbus, IN, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431497) |
@@ -500,6 +500,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **KnowBe4** | Sales Engineer (LATAM) (Hybrid) | Clearwater, Florida | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8647738002) |
 | **LG Electronics** | Sr Automotive Displays Account Manager | Illinois | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5369273008) |
 | **Dandy** | Commercial Account Executive | Lehi UT | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/3a7a5323-f79a-4db2-8ed0-4712c291e758/application) |
 | **Veolia Environnement SA** | Environmental Technician | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139595979) |
@@ -599,7 +600,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Attentive** | Customer Success Manager - New Verticals | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/attentive/jobs/4324768009) |
 | **UiPath** | Customer Success Manager - Public Sector | Maryland | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uipath/6527b988-7b6b-4233-8b72-5d76735124db/application) |
 | **TikTok** | TikTok Shop - FBT Logistics Solution ... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7665039510518319413) |
-| **Atlantic Health System** | Patient Care Technician I - Per Diem,... | NJ, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30414) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -611,6 +611,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Sigma Computing** | Head of Pipeline Strategy | New York City, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7814504003) |
+| **Sigma Computing** | Head of Pipeline Strategy | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7814503003) |
+| **xAI** | Trainer - X Money | Bastrop, Texas, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5194492007) |
 | **IEM** | Operations Manager (First Shift) | Jacksonville, Flo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4330520009) |
 | **Smiths Group** | Inside Sales Manager | 93 Lexington Driv... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000139604544) |
 | **Stripe** | AutoFile Specialist, Tax | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8076623) |
@@ -708,9 +711,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Service Manager - Water Treatment | Arlington, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139373249) |
 | **Anduril** | Technical Program Manager, Mathematic... | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195248007?gh_jid=5195248007) |
 | **Epic Games** | AI Programmer | Cary,North Caroli... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6119870004?gh_jid=6119870004) |
-| **AbbVie** | Associate Brand Manager II | North Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014259246) |
-| **Instacart** | Customer Experience Specialist: Retail | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8082393) |
-| **Harvey** | Technology Enablement Analyst | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/ba51dd1e-8b7f-4e14-8696-5b4d4f77dd19/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -771,7 +771,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19223 current opportunities from 801 companies**
+**🎯 19222 current opportunities from 801 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
