@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19553-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13637-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19466-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13604-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-806-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -383,7 +383,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Security Engineer, Detection & Respon... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7611597644632312117) |
 | **Labelbox** | Cyber Security Intern | San Francisco Bay... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/labelbox/jobs/5177341007) |
 | **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
-| **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -645,6 +644,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cerebras Systems** | Director, Intellectual Property Counsel | Headquarters/Sunn... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/156913ad-fcce-4551-b422-b5df5a9310fe/application) |
 | **Applied Intuition** | Technical Program Manager - Defense A... | Washington, D.C. | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5cf4594e-9c85-4396-9385-f91335971aa7/application) |
 | **DoorDash** | Associate, Strategy and Operations - ... | New York, NY; Chi... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8077587) |
+| **Atlantic Health System** | Chaplain Resident - Full-Time - (Augu... | Morristown, NJ, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/25851) |
+| **Atlantic Health System** | Certified Surgical Technologist - Par... | Morristown, NJ, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/30933) |
 | **JPMorgan Chase** | Vice President, Data Product Strategy... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210765282) |
 | **Oracle** | Oracle NetSuite Solution Consultant, ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341037) |
 | **Sherwin-Williams** | Retail Sales Customer Service Special... | Spokane, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618836) |
@@ -715,8 +716,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fehr & Peers** | In-House Counsel, Contracts | Walnut Creek, Cal... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/fehrandpeers/5c703f02-cf4c-44b1-9c2c-a1f28a44d094/apply) |
 | **Orca Security** | Public Relations Specialist | Austin, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://orca.security/about/careers/6117796004?gh_jid=6117796004) |
 | **Fehr & Peers** | In-House Counsel, Contracts | Roseville, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/fehrandpeers/7e8ab06b-50fd-464a-a9d8-eb50b6343207/apply) |
-| **Dandy** | TPM, Fixed | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/08c300c9-54d4-42bf-8ea1-623347453c17/application) |
-| **The Trade Desk** | Trading Specialist | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5191666007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -777,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19553 current opportunities from 806 companies**
+**🎯 19466 current opportunities from 806 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
