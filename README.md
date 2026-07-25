@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19886-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19884-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13821-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-807-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -288,9 +288,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Security Engineer (Detection Engineer... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650242002?gh_jid=8650242002) |
 | **SpaceX** | Security Analyst (Threat Detection) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650241002?gh_jid=8650241002) |
 | **SpaceX** | Security Analyst (SOC) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650239002?gh_jid=8650239002) |
-| **SpaceX** | Security Analyst (Blue Team) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650240002?gh_jid=8650240002) |
 | **ByteDance** | Security Engineering Project Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
 | **Google** | Security Engineer, GKE | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103434534581609158) |
 | **Google** | Security Engineer, Enterprise Detecti... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142714037728092870) |
@@ -779,7 +779,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19886 current opportunities from 807 companies**
+**🎯 19884 current opportunities from 807 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
