@@ -18,7 +18,7 @@
 <div align="center">
 
 ![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19483-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13579-informational?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13578-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-806-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -276,7 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Virtu Financial** | Internship - Quantitative Trading | Austin, TX; Chica... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | **Snowflake** | Engineering Manager, Data Engineering... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01/application) |
 | **TikTok** | Applied Research Scientist - Trust an... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7662454444147509557) |
-| **SpaceX** | Business Analyst (Customer Success) | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002) |
+| **SpaceX** | Business Analyst (Customer Success) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -617,6 +617,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **NBCUniversal** | Graphics Platform QA Specialist (Cont... | New York, NEW YORK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139826159) |
 | **ByteDance** | Student Researcher (LLM - Seed) - 202... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623539152655632693) |
 | **ByteDance** | Student Researcher (Vision Foundation... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623543230203939077) |
 | **ByteDance** | Marketing & KOL Cooperation Intern (C... | Los Angeles, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7663458823008651525) |
@@ -685,7 +686,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LinkedIn** | Large Enterprise Account Director - T... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000139694199) |
 | **NBCUniversal** | Sous Chef, CityWalk Food | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139694149) |
 | **NBCUniversal** | Manager FOH, CityWalk Food Operations | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139693989) |
-| **NBCUniversal** | Sous Chef, CityWalk Food | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139693669) |
 | **Veolia Environnement SA** | Resident Field Service Representative... | Upper Salford Tow... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139692577) |
 | **Veolia Environnement SA** | Resident Field Service Representative... | Reading, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139693399) |
 | **Sony Interactive Entertainment** | Software QA Engineer | CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6118771004) |
