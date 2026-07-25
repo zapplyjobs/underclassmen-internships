@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19864-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13814-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-19867-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13813-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-807-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -134,6 +134,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Specia... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483102/software-development-engineer-special-projects) |
 | **Amazon.com Services LLC** | Sr Software Development Engineer, FireTV | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483704/sr-software-development-engineer-firetv) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer - Silic... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483953/software-development-engineer-silicon-development-infrastructure) |
+| **Amazon Web Services, Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483782/software-development-engineer-ii-aws-managed-services) |
 | **Annapurna Labs (U.S.) Inc.** | Software Engineer, Graviton Software,... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483895/software-engineer-graviton-software-annapurna-labs) |
 | **Berkshire Hathaway Energy** | Software Engineer 3/Sr Software Engineer | Des Moines, IA, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005483) |
 | **Hologic** | Software Engineer, R&D Cytology | Marlborough, MA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12075) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Appian** | Software Engineering Intern | McLean, Virginia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 | **Appian** | Software Engineer (2027 Graduates) | McLean, Virginia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8041241) |
 | **Appian** | Product Manager Intern | McLean, Virginia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8041243) |
-| **Sierra** | Product Manager, Agent Development (S... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -616,7 +616,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Applied Intuition** | Marketing Manager | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/7ce0b5f6-a1f2-42cd-a5a1-204e8731c32b/application) |
+| **Mercor** | Deployment Strategist | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3/application) |
 | **Redwood Materials** | Business Applications Engineer, Oracl... | McCarran, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6115205004?gh_jid=6115205004) |
 | **OpenAI** | Product Engineer, GTM Growth Engineering | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3/application) |
 | **Robinhood** | Technical Accounting Manager, New Pro... | Menlo Park, CA; N... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/8076097?t=gh_src=&gh_jid=8076097) |
@@ -626,6 +626,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | Associate, Strategy and Operations - ... | New York, NY; Chi... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8077587) |
 | **JPMorgan Chase** | Vice President, Data Product Strategy... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210765282) |
 | **JP Morgan Chase** | Vice President, Data Product Strategy... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765282) |
+| **Applied Intuition** | Technical Program Manager - Vehicle OS | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5df3e287-b422-4ff1-88d6-a1064dc444b0/application) |
 | **SpaceX** | Material Handler (Starshield) - Tempo... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648202002?gh_jid=8648202002) |
 | **Redwood Materials** | Production Engineering Manager | McCarran, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6123022004?gh_jid=6123022004) |
 | **AMD** | Logic Design Engineer | Santa Clara, CA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88066/login) |
@@ -715,7 +716,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lyft** | Manager, Applied AI Solutions & Enabl... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8649341002?gh_jid=8649341002) |
 | **Scout Motors** | Specialist, Production Engineer | Blythewood, South... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5188169007) |
 | **Redwood Materials** | Chemical Operator | McCarran, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6103558004?gh_jid=6103558004) |
-| **Bosch Group** | Manifold Assembler I | Vernon Hills, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139682399) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -776,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19864 current opportunities from 807 companies**
+**🎯 19867 current opportunities from 807 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
