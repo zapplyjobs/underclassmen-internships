@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18881-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18884-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13176-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-806-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -147,7 +147,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Specia... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483102/software-development-engineer-special-projects) |
 | **Amazon.com Services LLC** | Sr Software Development Engineer, FireTV | Irvine, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483704/sr-software-development-engineer-firetv) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer - Silic... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483953/software-development-engineer-silicon-development-infrastructure) |
-| **Amazon Web Services, Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483782/software-development-engineer-ii-aws-managed-services) |
 | **Annapurna Labs (U.S.) Inc.** | Software Engineer, Graviton Software,... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483895/software-engineer-graviton-software-annapurna-labs) |
 | **Berkshire Hathaway Energy** | Software Engineer 3/Sr Software Engineer | Des Moines, IA, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005483) |
 | **Hologic** | Software Engineer, R&D Cytology | Marlborough, MA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12075) |
@@ -161,6 +160,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JP Morgan Chase** | Java AWS Software Engineer III | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721027) |
 | **JP Morgan Chase** | J.P. Morgan Wealth Management - Vice ... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740513) |
 | **JP Morgan Chase** | Software Engineer III Java | OH, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743573) |
+| **Amazon Web Services, Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483782/software-development-engineer-ii-aws-managed-services) |
 | **Verkada** | Embedded Software Engineer, Access Co... | San Mateo, CA Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5194716007) |
 | **Airbnb** | Product Manager, Services | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8081925?gh_jid=8081925) |
 | **Sandisk** | Technical Product Manager | Milpitas, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000139375579) |
@@ -183,6 +183,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Cloud Data and AI Engineer, Professio... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131392860418122438) |
 | **Google** | Research Engineer, Pretraining, DeepMind | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78472631333855942) |
 | **Google** | Data Engineer, GCS Data Science | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) |
+| **Amazon.com Services LLC** | Business Intelligence Engineer, WHS Data | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10484141/business-intelligence-engineer-whs-data) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | **TikTok** | Machine Learning Engineer, TikTok BRI... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7636708340480641285) |
 | **TikTok** | Ads Targeting Data Engineer, Ads Core | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7631492502735735045) |
@@ -218,7 +219,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Communication Systems Geospatial & RF... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483826/communication-systems-geospatial-rf-data-engineer) |
 | **Amazon.com Services LLC** | Applied Scientist , PAE | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483557/applied-scientist-pae) |
 | **Amazon.com Services LLC** | Applied Scientist, Prime Video Person... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483316/applied-scientist-prime-video-personalization-and-discovery-science-prime-video-personalization-and-discovery-science) |
-| **Amazon.com Services LLC** | Sr Manager, Data Science & AI, R2L | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483501/sr-manager-data-science-ai-r2l) |
 | **Oracle** | NA Sales Representative, Data Platfor... | CT, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341012) |
 | **Oracle** | NA Sales Representative, Data Platfor... | NJ, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341014) |
 | **WSP** | Tolling Data Analyst | Richmond, VA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91880) |
@@ -776,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18881 current opportunities from 806 companies**
+**🎯 18884 current opportunities from 806 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
