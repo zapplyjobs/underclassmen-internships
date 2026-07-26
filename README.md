@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18813-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13120-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-805-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-18978-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-13242-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-806-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -221,6 +221,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Sr Manager, Data Science & AI, R2L | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483501/sr-manager-data-science-ai-r2l) |
 | **Oracle** | NA Sales Representative, Data Platfor... | CT, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341012) |
 | **Oracle** | NA Sales Representative, Data Platfor... | NJ, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341014) |
+| **WSP** | Tolling Data Analyst | Richmond, VA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91880) |
 | **Gotion** | Machine Learning Engineer | Fremont, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/8648163002) |
 | **ServiceNow** | Machine Learning Engineer, Agentic AI... | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000139371929) |
 | **ServiceNow** | Machine Learning Engineer, Agentic Ap... | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000139370964) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Graduate Service Data Analyst I | Atlanta, GA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154081) |
 | **Garner Health** | Data Analyst III, Reporting & Analytics | New York City, Ne... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/garnerhealth/jobs/6118265004) |
 | **Garner Health** | Data Analyst II, Business Insights | New York City, Ne... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/garnerhealth/jobs/6118254004) |
-| **Garner Health** | Data Analyst II, Reporting & Analytics | New York City, Ne... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/garnerhealth/jobs/6111789004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -460,6 +460,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | FPGA Verification Engineer, Bespoke S... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482749/fpga-verification-engineer-bespoke-solutions) |
 | **Dell Technologies** | Mechanical Engineer 1-Data Center IT ... | TX, United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/294216) |
 | **Honeywell** | Quality Engineering Technician | Northford, CT, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151679) |
+| **WSP** | Early Career Substation Electrical En... | Overland Park, KS... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91728) |
 | **Hunt Oil Company** | Power Systems Engineer | Dallas, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/987) |
 | **Hunt Oil Company** | HSRC Process Engineer II | Heidelberg, MS, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1020) |
 | **Rocket Lab** | Systems Engineer II | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7813076003) |
@@ -493,7 +494,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **True Anomaly** | Supplier Quality Engineer | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5190620007) |
 | **Zipline** | Head of Flight Test Engineering | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7810504003) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data C... | Berwick, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480126/data-center-controls-engineer-data-center-capacity-delivery) |
-| **Annapurna Labs (U.S.) Inc.** | Post-Silicon Systems Validation Engin... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475662/post-silicon-systems-validation-engineer-i-annapurna-labs) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -776,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 18813 current opportunities from 805 companies**
+**🎯 18978 current opportunities from 806 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
