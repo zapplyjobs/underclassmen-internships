@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17868-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-12438-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-17805-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-12396-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-805-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -643,10 +643,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hormel Foods** | Team Trainer-ProgProc-1st | Dubuque, IA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35065) |
 | **JPMorgan Chase** | Part Time (30 Hours) Associate Banker... | Fort Worth, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210746216) |
 | **JPMorgan Chase** | Counterparty Risk Americas - Managing... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773709) |
+| **JPMorgan Chase** | Workplace Solutions – Quality Assuran... | Columbus, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773763) |
 | **Sherwin-Williams** | Digital Marketing Specialist | Cleveland, OH, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2615079) |
 | **Sherwin-Williams** | Bilingual Branch Wholesale Product Sp... | Mukilteo, WA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618657) |
 | **JP Morgan Chase** | Part Time (30 Hours) Associate Banker... | Fort Worth, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746216) |
 | **JP Morgan Chase** | Counterparty Risk Americas - Managing... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773709) |
+| **JP Morgan Chase** | Workplace Solutions – Quality Assuran... | Columbus, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773763) |
 | **Esri** | GIS Solution Engineer - Airports | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5195181007?gh_jid=5195181007) |
 | **AbbVie** | Allergan Practice Consultant, LA N, CA | Los Angeles, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014287126) |
 | **Figma** | Events Manager - Figma Weave (New Yor... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/figma/jobs/6126728004?gh_jid=6126728004) |
@@ -658,11 +660,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CoreWeave** | Global Director, Field Process & Auto... | New York, NY / Sa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4699572006&board=coreweave&gh_jid=4699572006) |
 | **ICD** | Head of Data Risk Management | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301839) |
 | **ICD** | Head of Data Governance | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301840) |
-| **JPMorgan Chase** | Relationship Banker - KC East Market ... | Kansas City, MO, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210751584) |
 | **Oracle** | Program Manager 2 | Nashville, TN, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340819) |
 | **Tradeweb** | Head of Data Risk Management | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301839) |
 | **Tradeweb** | Head of Data Governance | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301840) |
-| **JP Morgan Chase** | Relationship Banker - KC East Market ... | Kansas City, MO, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751584) |
 | **PDT Partners** | Applied ML Scientist | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/pdtpartners/jobs/1473516) |
 | **Stevens Capital Management** | C++ Market Data Feeds Developer | Radnor, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/712325) |
 | **Stevens Capital Management** | Contract Technical Sourcing Specialist | Radnor, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/1467419) |
@@ -774,7 +774,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 17868 current opportunities from 805 companies**
+**🎯 17805 current opportunities from 805 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
