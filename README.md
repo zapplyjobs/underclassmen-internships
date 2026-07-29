@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-33260-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21807-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-33280-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21824-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-849-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Veeva Systems** | Technical Product Manager (AI) - Veev... | Kansas City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/0a6817fd-bc3a-4f25-aea6-777ce9f3093f/apply) |
+| **Applied Intuition** | Product Manager - Agents | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/9c597f99-d350-4406-b137-db1d806ceade/application) |
 | **AbbVie** | Associate Software Engineer I | Mettawa, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014350476) |
 | **NBCUniversal** | Full Stack Developer, NBC News | New York, NEW YORK | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140540199) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
@@ -75,6 +77,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Product Manager, AI Transformation Pr... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86137737060459206) |
 | **Google** | Site Reliability Engineering Manager,... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128587185916912326) |
 | **Google** | Product Manager II, Google Workspace,... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137778519009567430) |
+| **Veeva Systems** | Technical Product Manager (AI) - Veev... | Boston | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/22f3c712-9119-4403-acb1-eb7d783cef94/apply) |
 | **BeyondTrust** | Software Development Engineer | Remote Canada  R... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/8092248) |
 | **Pure Storage** | Software Engineering Manager, Control... | Santa Clara, Cali... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/8018597) |
 | **Apple** | HomeKit Software Engineer, Wireless T... | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674707/homekit-software-engineer-wireless-technologies-ecosystems) |
@@ -163,9 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | NOC System Administrator | USA OK Oklahoma City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-OK-Oklahoma-City/NOC-System-Administrator_RQ225169-1) |
 | **Leidos** | Hybrid Multi-Cloud Engineer SME | Fort Belvoir, VA ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Hybrid-Multi-Cloud-Engineer-SME_R-00188318) |
 | **Allegion** | Product Manager, Horizon | Indiana + 1 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Remote-Indiana/Product-Manager--Horizon_JR36783-1) |
-| **Workday Inc** | Manager, Software Development Engineer | USA, CA, Pleasanton | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Manager--Software-Development-Engineer_JR-0107879) |
-| **Workday Inc** | Software Development Engineer - AI Tools | USA, GA, Atlanta | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Software-Development-Engineer---AI-Tools_JR-0108294) |
-| **Workday Inc** | Software Development Engineer, SRE (U... | USA.VA.Reston | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0108467) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Anduril** | Business Operations, Strategic Supply... | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5165934007?gh_jid=5165934007) |
+| **Hightouch** | Sales Development Representative | New York, New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/hightouch/jobs/6130206004) |
 | **Crusoe** | Assembly Technician | Brighton, CO - US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/crusoe/6e872818-3bce-4931-8791-07c2d5d05dd4/application) |
 | **Eurofins** | Environmental Monitoring Technician | Cary, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140540630) |
 | **SupplyHouse.com** | IT Support Technician | Canal Winchester,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/supplyhouse/jobs/6121714004?gh_jid=6121714004) |
@@ -571,7 +573,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wiz** | Majors Account Executive, PNW | Seattle, Washington | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.wiz.io/careers/job/4700523006/:title?gh_jid=4700523006) |
 | **Anduril** | Engineering Test Technician | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5198420007?gh_jid=5198420007) |
 | **Anduril** | Manufacturing Test Technician | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5198419007?gh_jid=5198419007) |
-| **Anduril** | Production Test Technician | Lexington, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5198418007?gh_jid=5198418007) |
 | **Glean** | Enterprise Account Executive, Southeast | US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4719454005) |
 | **Databricks** | Strategic Core Account Executive - Telco | Texas | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8652521002) |
 | **Stripe** | Technical Solutions Engineering Manager | San Francisco or ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8079858) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oshkosh Corporation** | Logistics Clerk | Spartanburg, Sout... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Logistics-Clerk_R48619) |
 | **Entegris** | Setup Technician | Chaska, MN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Setup-Technician_REQ-13158) |
 | **Entegris** | Setup Technician | Chaska, MN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Setup-Technician_REQ-13159) |
-| **Entegris** | Manufacturing Technician I | Rockrimmon, Color... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Manufacturing-Technician-I_REQ-13320) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,7 +621,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cribl** | FP&A Systems and AI Enablement Manager | Salt Lake City, Utah | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=6117898004) |
+| **Airbnb** | Product Program Manager, Roadmap Plan... | San Francisco, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8094412?gh_jid=8094412) |
+| **Cribl** | FP&A Systems and AI Enablement Manager | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=6117898004) |
 | **SoFi** | Pre-Approval Specialist | Charlotte, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sofi.com/careers/job/7799004003?gh_jid=7799004003) |
 | **Chime** | Product Marketing Manager, Growth | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8657239002?gh_jid=8657239002) |
 | **Dandy** | General Manager, Clear Aligners | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/5c3df954-76b5-4cbc-a349-1ddaebdb3f91/application) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CarGurus** | B2B Marketing Specialist | Boston, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.cargurus.com/us/en/job/8094246?gh_jid=8094246) |
 | **PDT Partners** | Applied ML Scientist | New York, NY | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/pdtpartners/jobs/1473516) |
 | **Stevens Capital Management** | C++ Market Data Feeds Developer | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/712325) |
-| **Stevens Capital Management** | Contract Technical Sourcing Specialist | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/1467419) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 33260 current opportunities from 849 companies**
+**🎯 33280 current opportunities from 849 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
