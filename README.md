@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-33314-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21832-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-33267-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21811-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-849-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **NBCUniversal** | Full Stack Developer, NBC News | New York, NEW YORK | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140540199) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | Software Development Engineer-AI/LLM ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629215845797218613) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
@@ -143,6 +144,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Amazon... | Santa Monica, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487568/software-development-engineer-amazon-msk) |
 | **Amazon.com Services LLC** | Software Development Engineer, Alexa Ads | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487575/software-development-engineer-alexa-ads) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Co... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487479/software-development-engineer-aws-config-aws-config) |
+| **Amazon Data Services, Inc.** | Software Development Engineer, Fulfil... | Arlington, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487617/software-development-engineer-fulfillment-planning-and-execution) |
 | **GM Financial** | Technical Product Owner III | Irving, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260561) |
 | **JPMorgan Chase** | Associate, Automation Testing Java De... | Wilmington, DE, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210698366) |
 | **JPMorgan Chase** | Site Reliability Engineer II | Chicago, IL, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210747513) |
@@ -164,8 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Workday Inc** | Software Development Engineer - AI Tools | USA, GA, Atlanta | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Software-Development-Engineer---AI-Tools_JR-0108294) |
 | **Workday Inc** | Software Development Engineer, SRE (U... | USA.VA.Reston | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0108467) |
 | **Target** | UX Product Designer - Stores | Minneapolis, MN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Product-Designer---Stores_R0000447398) |
-| **KION Group** | Network Engineer | Grand Rapids, MI,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Network-Engineer_JR-0093054-2) |
-| **Blue Origin** | Embedded Software Engineer II, Strata... | Greater Seattle A... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software-Engineer-II--Strata-Common-Platform-Team_R68715) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,12 +510,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Eurofins** | Laboratory Operations Engineer | Spring House, PA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140540419) |
+| **Eurofins** | Laboratory Technician (entry level) -... | North Kingstown, RI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140540059) |
 | **Smiths Group** | Seal Repair/Maintenance Technician - ... | Swedesboro, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000140537566) |
 | **Ripple** | Workplace Operations Specialist | Chicago, Illinois... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ripple.com/careers/all-jobs/job/8083601?gh_jid=8083601) |
 | **Eurofins** | QC Lab Technician I - Monday-Friday 3... | Louisville, KY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536908) |
-| **Eurofins** | Login Technician (M-F 9am-5pm), Eurof... | Troy Hills, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536799) |
 | **Redwood Materials** | Maintenance Technician | McCarran, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6116685004?gh_jid=6116685004) |
-| **Eurofins** | Login Technician (M-F 11:00am-7:00pm)... | Troy Hills, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140536679) |
 | **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665469197580831029) |
 | **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620901040351430965) |
 | **ByteDance** | Facilities Management Project Intern ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7620891141449795893) |
@@ -621,6 +621,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Underdog Fantasy** | Guerrilla Marketing Associate | New York/United S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/underdogfantasy/jobs/4719643005) |
+| **Dandy** | General Manager, Clear Aligners | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/5c3df954-76b5-4cbc-a349-1ddaebdb3f91/application) |
 | **Tenstorrent** | VP of Information Technology | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5180934007) |
 | **Underdog Fantasy** | Go-to-Market Associate | California/Texas/... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/underdogfantasy/jobs/4719637005) |
 | **Intuitive** | Clinical Territory Associate- Future ... | Birmingham, AL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140539579) |
@@ -719,8 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nerdwallet** | Sales Manager (NY) | NerdWallet Small ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/nerdwallet/8c5185b5-79c9-4014-a1b5-b3e28fe529bc/application) |
 | **Anduril** | Chief Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194664007?gh_jid=5194664007) |
 | **Brex** | Support Specialist I | Salt Lake City, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8656548002?gh_jid=8656548002) |
-| **Bosch Group** | LOM Shift Coordinator 2nd Shift | Lincolnton, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000140514154) |
-| **Stripe** | Sales Manager, Product - Issuing & Tr... | NYC, SF | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8070701) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 33314 current opportunities from 849 companies**
+**🎯 33267 current opportunities from 849 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
