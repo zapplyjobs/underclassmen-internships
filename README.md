@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32669-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21514-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32667-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21513-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-849-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -605,11 +605,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IDEXX** | Veterinary Medical Laboratory Technician | Louisville, KY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Louisville-KY/Veterinary-Medical-Laboratory-Technician_J-054193) |
 | **IDEXX** | Medical Laboratory Technician - 3rd S... | North Grafton, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/North-Grafton-MA/Medical-Laboratory-Technician---3rd-Shift_J-054125) |
 | **Harbinger Motors** | Associate IT Specialist (Contract to ... | Garden Grove, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5198128007) |
+| **Cummins** | Chassis Technician - Level III | Cloverdale, VA, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428790) |
 | **Nokia** | Technician 3 | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38952) |
 | **Gilead Sciences** | Director, Regional Supply Chain- APAC | California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--Regional-Supply-Chain--APAC_R0053832-1) |
 | **Generac** | Generator Technician I (U) | Bohemia, NY - USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Bohemia-NY---USA/Technical-Field-Service-Representative-II--U-_JR9596) |
 | **Generac** | Generator Technician II | Albuquerque, NM -... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Albuquerque-NM---USA/Generator-Technician-II_JR13993) |
-| **Generac** | Generator Technician | Bend, OR - USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Bend-OR---USA/Generator-Technician_JR14552-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 32669 current opportunities from 849 companies**
+**🎯 32667 current opportunities from 849 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
