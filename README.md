@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32608-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21420-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32692-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21484-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-849-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -107,6 +107,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nasdaq** | Software Engineer, Sr Specialist | Toronto, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/CA-Toronto-York-St-2425/Software-Engineer--Sr-Specialist_R0024282) |
 | **Moderna** | Network Engineer | Norwood, Massachu... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Network-Engineer_R19497) |
 | **Amazon.com Services LLC** | Software Development Engineer, Amazon... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486927/software-development-engineer-amazon-brand-store) |
+| **JPMorgan Chase** | Software Engineer III - ServiceNow | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210771054) |
+| **JP Morgan Chase** | Software Engineer III - ServiceNow | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771054) |
 | **KeyBank** | Consumer Bank Product Manager II | Brooklyn, OH + 2 ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Consumer-Bank-Product-Manager-II_R-39743) |
 | **KeyBank** | Software Development Engineer in Test... | Brooklyn, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Development-Engineer-in-Test_R-40581) |
 | **Adobe** | Product Manager - Global Insights & G... | San Jose | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Manager---Global-Insights---Growth-Strategies_R170010-1) |
@@ -164,8 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **FLIR Systems** | Embedded Software Developer – Robotics | Orem, UT | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Orem-UT/System-Software-Integration-Engineer--US-Citizenship-Required-_REQ34613) |
 | **AeroVironment** | Software Engineer | 420 National Busi... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Software-Engineer_6576) |
 | **Airbnb** | Software Engineer, Biztech Client and... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8093038?gh_jid=8093038) |
-| **Microsoft** | Software Engineer (CEAI) | Redmond, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556948701) |
-| **ServiceNow** | Sr Software Engineer - Access Review-... | Kirkland, Washington | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000140342215) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 32608 current opportunities from 849 companies**
+**🎯 32692 current opportunities from 849 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
