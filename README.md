@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-31205-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20581-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-848-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32736-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21491-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-849-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -225,6 +225,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **University of Texas at Austin** | Research Engineering/ Scientist Assoc... | AUSTIN, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Research-Engineering--Scientist-Associate-I_R_00046072) |
 | **University of Texas at Austin** | Research Engineering/Scientist Assist... | AUSTIN, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Research-Engineering-Scientist-Assistant-I_R_00047588) |
 | **University of Texas at Austin** | Research Engineering/Scientist Assist... | AUSTIN, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Research-Engineering-Scientist-Assistant-I_R_00047592) |
+| **Anduril** | Data Analyst, Manufacturing | Santa Ana, Califo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5198002007?gh_jid=5198002007) |
 | **AMD** | ML Systems Research Engineer, RL / In... | Santa Clara, CA, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88874/login) |
 | **Figure AI** | Helix AI Engineer, iOS | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4700616006) |
 | **SpaceX** | Business Analyst (Starlink Growth Dem... | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650057002?gh_jid=8650057002) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Annapurna Labs (U.S.) Inc.** | SDE, MLA hardware/software co-design,... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486046/sde-mla-hardware-software-co-design-annapurna-labs-machine-learning-acceleration) |
 | **JPMorgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768711) |
 | **JPMorgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768820) |
-| **JPMorgan Chase** | Strategy Manager Vice President - Art... | Wilmington, DE, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210772625) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -404,6 +404,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Firmware Engineer, Modem Access Strat... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
 | **Google** | Silicon Validation Engineer, HBM, Goo... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107321643193246406) |
 | **ASM** | Engineer II, Process Engineering | > Arizona > Phoenix | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4933894101) |
+| **Anduril** | Propulsion Test Engineer, Venom | Irvine, Californi... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5071299007?gh_jid=5071299007) |
 | **ALTEN Technology** | Electrical Systems Engineer | Las Vegas, Nevada... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5198198007) |
 | **Neros Technologies** | Hardware Test Engineer- HW/SW Integra... | Torrance, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5197997007) |
 | **Neros Technologies** | Hardware Design and Test Engineer - B... | Torrance, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5197773007) |
@@ -457,6 +458,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Menasha Corporation** | Process Engineer | Deforest, Wisconsin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Deforest-Wisconsin/Process-Engineer_R15030) |
 | **Thornton Tomasetti** | Structural Engineer | Tampa, FL, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tt.wd503.myworkdayjobs.com/thorntontomasetti/job/Tampa-FL-USA/Structural-Engineer_R7101) |
 | **FOX** | Electronics Engineer | AZ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Electronics-Engineer_R50033220) |
+| **Anduril** | Development Test Engineer - Air Domin... | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034522007?gh_jid=5034522007) |
 | **Stanley Black & Decker** | Firmware Engineer | Elyria, OH, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Elyria-OH-United-States/Software-Engineer_REQ-1000047545) |
 | **AeroVironment** | Mechanical Engineer | Sunrise, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineer_8170) |
 | **ASM** | Engineer II, Systems Engineering | > Arizona > Phoenix | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4935724101) |
@@ -469,6 +471,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Relativity Space** | Sr Avionics System Test Automation En... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8653018002?gh_jid=8653018002) |
 | **Microsoft** | Electrical Engineering Project Manage... | Cheyenne, Wyoming... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556873899) |
 | **Reframe Systems** | Mechanical Engineer (Fall 2026 Co-op) | Andover, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/reframesystems/706aef0d-916d-48df-b32b-7311d49dc094/application) |
+| **Anduril** | Firmware Engineer, Connected Warfare | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5180703007?gh_jid=5180703007) |
 | **Kodiak Robotics** | Electrical Engineering Technician | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/kodiak/jobs/4335993009) |
 | **Lambda** | Data Center Operations Systems Engine... | Vernon, CA - Data | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/250d4eab-8ebf-4a56-b7f2-b3044bbbda48/application) |
 | **Harbinger Motors** | Quality Engineer, Interior/ Exterior ... | Garden Grove, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5197762007) |
@@ -496,9 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intel** | Manufacturing Engineer | US, New Mexico, A... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Manufacturing-Engineer_JR0285050) |
 | **Intel** | Manufacturing Engineer | US, Oregon, Hills... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-Engineer_JR0285042) |
 | **Intel** | Silicon Validation Engineer | US, California, F... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Silicon-Validation-Engineer_JR0285040) |
-| **GE Aerospace** | Manufacturing Engineer | Auburn AL USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Auburn-AL-USA/Manufacturing-Engineer_R5037868-1) |
-| **GE Aerospace** | Manufacturing Engineer | Auburn AL USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Auburn-AL-USA/Manufacturing-Engineer_R5037871) |
-| **Sierra Nevada Corporation** | Avionics Production Supervisor | Dayton, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Avionics-Production-Supervisor_R0030380-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **AbbVie** | Corporate Counsel-Patent | North Chicago, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014338726) |
 | **Eurofins** | Junior HR Officer | Amersfoort, UT | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140437970) |
 | **Eurofins** | Analist (Organisch) | Amersfoort, UT | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140438369) |
 | **Eurofins** | Analist Analytische Chemie | Amsterdam, NH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140436444) |
@@ -638,6 +639,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Becario/a Estrategia Clientes | Barcelona, CT | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140386589) |
 | **Microsoft** | Support Escalation Manager - Korean S... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556943790) |
 | **Oscar Health** | VP, Member & Provider Services and Op... | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8084226?gh_jid=8084226) |
+| **Anduril** | Marketing Trade Show Associate Manager | Washington, Distr... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5198235007?gh_jid=5198235007) |
+| **Anduril** | Marketing Trade Show Associate Manager | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5196944007?gh_jid=5196944007) |
 | **Elastic** | VP, Threat Research - Security Intell... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=8083459&gh_jid=8083459) |
 | **Oscar Health** | Manager, Growth Strategy & Operations | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/8093218?gh_jid=8093218) |
 | **Red Bull** | Sales Trainee | Dallas, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000140377529) |
@@ -718,9 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Twilio** | Director of Demand Generation | US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/8077540) |
 | **TikTok** | Business Operations Project Intern (C... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7667613785020205365) |
 | **Experian** | Vice President, Lean Operations & AI ... | Costa Mesa, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140350969) |
-| **Elastic** | Renewals Associate | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=8091862&gh_jid=8091862) |
-| **Esri** | Solution Engineer - National Government | Vienna, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5195204007?gh_jid=5195204007) |
-| **Ashby** | Program Manager, Customer Education | US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ashby/1d637631-0d53-4e8c-9af7-38633bfc2723/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 31205 current opportunities from 848 companies**
+**🎯 32736 current opportunities from 849 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
