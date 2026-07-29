@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-33257-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21800-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-33247-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21793-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-850-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -154,7 +154,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Amazon... | Santa Monica, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487568/software-development-engineer-amazon-msk) |
 | **Amazon.com Services LLC** | Software Development Engineer, Alexa Ads | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487575/software-development-engineer-alexa-ads) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Co... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487479/software-development-engineer-aws-config-aws-config) |
-| **Amazon Data Services, Inc.** | Software Development Engineer, Fulfil... | Arlington, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487617/software-development-engineer-fulfillment-planning-and-execution) |
 | **GM Financial** | Technical Product Owner III | Irving, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260561) |
 | **JPMorgan Chase** | Associate, Automation Testing Java De... | Wilmington, DE, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210698366) |
 | **JPMorgan Chase** | Site Reliability Engineer II | Chicago, IL, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210747513) |
@@ -166,6 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KeyBank** | Consumer Bank Product Manager II | Brooklyn, OH + 2 ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Consumer-Bank-Product-Manager-II_R-39743) |
 | **KeyBank** | Software Development Engineer in Test... | Brooklyn, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Software-Development-Engineer-in-Test_R-40581) |
 | **Adobe** | Product Manager - Global Insights & G... | San Jose | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Manager---Global-Insights---Growth-Strategies_R170010-1) |
+| **Salesforce** | Product Manager, Metadata APIs & Fram... | California San Fr... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Manager--Metadata-APIs---Frameworks_JR352702) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **AbbVie** | Data Engineer II | Mettawa, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014352568) |
 | **Flow Traders** | Graduate Quantitative Trader | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) |
 | **Reddit** | Machine Learning Manager, Feed Releva... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/8094985) |
 | **Reddit** | Machine Learning Manager, Feed Ecosys... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/8095009) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoom** | Machine Learning Engineer | Seattle | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer_R19205-1) |
 | **Zoom** | Machine learning Engineer - Agentic R... | Seattle, WA + 1 more | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-learning-Engineer---Agentic-Retrieval_R19418-1) |
 | **Zoom** | Research Scientist - AI Incubation | Seattle, WA + 1 more | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist---AI-Incubation_R18458-1) |
-| **Mach Industries** | Machine Learning Engineer | Huntington Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/8356b969-4c21-4195-bff4-f107d9238cf3/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Lucid Motors** | Mobile Service Technician - McLean, VA | McLean, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5193540007) |
+| **Lyft** | Operations Associate | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8657256002?gh_jid=8657256002) |
+| **Rocket Lab** | Propulsion Test Technician III - C Shift | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7819049003) |
+| **Veolia Environnement SA** | Field Service Technician | Houston, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140547942) |
+| **Rocket Lab** | Propulsion Test Technician III - A Shift | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7819039003) |
 | **StackAdapt** | Account Executive, Upper Midwest | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4337914009) |
 | **Veolia Environnement SA** | Environmental Technician | Sutton, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140547767) |
 | **Alo Yoga** | Sales Associate (Part-Time) - Fashion... | Newport Beach, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6130238004?gh_jid=6130238004) |
@@ -560,7 +565,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Alo Yoga** | Sales Associate (Part-Time) - St. Joh... | St. Johns Town | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6129865004?gh_jid=6129865004) |
 | **Axon** | Technical Support Engineer, Axon 911 | Sterling, Virgini... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7820487003) |
 | **Alo Yoga** | Sales Associate (Part-Time) - Oxmoor ... | Louisville, Kentu... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6129829004?gh_jid=6129829004) |
-| **Veolia Environnement SA** | O&M Technician I | Danbury, CT | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140504639) |
 | **Smartsheet** | Account Executive, Commercial - SMB (... | Boston, MA, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/smartsheet/jobs/8094400) |
 | **Guidepoint** | HR Operations Specialist | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8653911002) |
 | **Zscaler** | Manager, Sales Development | Dallas, Texas, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5195940007) |
@@ -606,10 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Avis Budget Group** | Lube and Tire Technician - PT | Albuquerque Inter... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Albuquerque-International-Airport/Lube-and-Tire-Technician---PT_R0189965-2) |
 | **Danaher** | Technician II, Long Oligo- Synthesis ... | Coralville, Iowa,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Coralville-Iowa-United-States/Technician-II--Long-Oligo--Synthesis--Weekday-Overnight-_R1312816) |
 | **NXP** | Semiconductor Maintenance Technician ... | Chandler | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10065764) |
-| **NXP** | Semiconductor Maintenance Technician ... | Chandler | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10065768) |
-| **NXP** | Semiconductor Maintenance Technician ... | Chandler | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Implant_R-10065762) |
-| **Oshkosh Corporation** | Supplier Quality Technician | Jefferson City, T... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Supplier-Quality-Technician_R46621) |
-| **Oshkosh Corporation** | Maintenance Technician - 2nd Shift | Jefferson City, T... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Maintenance-Technician---2nd-Shift_R48263-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Navan** | Vice President, Global Real Estate an... | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://navan.com/careers/openings?gh_jid=8095270) |
+| **NBCUniversal** | Manager Rides-Technical Services | Universal City, C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140550130) |
+| **AbbVie** | Scientist I, Biologics Drug Product D... | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014352786) |
+| **Bosch Group** | Inspector I | Lincolnshire, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000140549909) |
+| **Lucid Motors** | Service Supervisor, Tysons Galleria (... | McLean, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5192522007) |
+| **Stripe** | Forward Deployed Engineer, Profession... | United States or ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8075570) |
 | **Western Digital** | Director, Strategic Communications – ... | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140548966) |
 | **AbbVie** | Specialty Representative, Dermatology... | Marietta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014352536) |
 | **Lucid Motors** | Parts Advisor, Tysons Galleria | McLean, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5194876007) |
@@ -690,7 +696,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astera Labs** | Template Job | San Jose, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4719586005) |
 | **Eulerity** | Product Marketing Manager | New York, New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4700073006) |
 | **Rubrik** | Customer Strategy, Office of CEO | Palo Alto, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8094549?gh_jid=8094549) |
-| **AbbVie** | Specialty Representative, Rheumatolog... | Omaha, NE | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014349556) |
 | **Per Scholas** | IT Support Technical Instructor | Detroit, Michigan... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4696845006) |
 | **Verkada** | Engineering Manager, Agentic Workflows | San Mateo, CA Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5198815007) |
 | **AMD** | Director, Program Management (AI) | San Jose, CA, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/77733/login) |
@@ -716,11 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | AI Security Researcher II | Redmond, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556943706) |
 | **Microsoft** | Sr TPM - Windows Kits, Assessments, a... | Redmond, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556941598) |
 | **Stripe** | Product Marketing Manager, Startup Se... | San Francisco, Se... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8093374) |
-| **Zipline** | Supplier Industrialization Engineer | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7820558003) |
-| **Apple** | Legal Counsel - IP Litigation | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673968/legal-counsel-ip-litigation) |
-| **RunPod** | Datacenter Infrastructure Specialist | USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/runpod/b07e836d-7232-4dee-bd16-7b6912323de7/application) |
-| **Smiths Group** | Fabrication Mechanic - Assembly (Trai... | Laconia, NH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000140522260) |
-| **Figure AI** | Humanoid Robot Operator & Data Creato... | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4700899006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 33257 current opportunities from 850 companies**
+**🎯 33247 current opportunities from 850 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
