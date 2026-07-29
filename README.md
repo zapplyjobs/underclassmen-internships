@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Harbinger Motors** | IT Specialist | Garden Grove, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5198205007) |
 | **Intuitive** | Endoluminal Sales Representative | Chicago, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140534847) |
 | **Vapi** | Revenue Operations Manager | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/vapi/5054ad8d-eef1-4f17-97da-12e980df055c/application) |
 | **Toast** | Territory Account Executive, Strategi... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8084129) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **S&P Global** | Director, IT Procurement & Contract M... | New York, NY + 3 ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Director--IT-Procurement---Contract-Management_328365-1) |
 | **Granite Construction** | QC Technician I | Anchorage, Alaska | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://granite.wd1.myworkdayjobs.com/careers/job/Anchorage-Alaska/QC-Technician-I_R0000007771) |
 | **Granite Construction** | QC Technician | Ukiah, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://granite.wd1.myworkdayjobs.com/careers/job/Ukiah-California/QC-Technician_R0000007876) |
-| **Granite Construction** | QC Technician | Santa Clara, Cali... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://granite.wd1.myworkdayjobs.com/careers/job/Santa-Clara-California/QC-Technician_R0000007877) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Datadog** | Program Manager, AI and Developer Com... | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/8094924/?gh_jid=8094924) |
+| **IXL Learning** | Spain Spanish Language Tutor, Rosetta... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8656119002) |
+| **GenScript** | Warehouse Material Transfer Specialist | Piscataway, New J... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5198833007) |
+| **Stripe** | Partner Development Manager, Strategi... | NYC; US-San Franc... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8094869) |
+| **IXL Learning** | Mandarin Language Tutor, Rosetta Ston... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.ixl.com/company/jobs?gh_jid=8654299002) |
+| **GenScript** | Warehouse Specialist | Redmond, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5198825007) |
 | **Astera Labs** | Template Job | San Jose, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4719586005) |
 | **Eulerity** | Product Marketing Manager | New York, New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4700073006) |
 | **Rubrik** | Customer Strategy, Office of CEO | Palo Alto, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8094549?gh_jid=8094549) |
@@ -706,7 +712,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Sales Manager, Product - Issuing & Tr... | NYC, SF | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8070701) |
 | **LinkedIn** | Associate Account Director, Sales Sol... | Chicago, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000140510815) |
 | **Anduril** | Environmental Safety and Health Manag... | Quincy, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5198088007?gh_jid=5198088007) |
-| **Stripe** | Commercial Solutions Program Manager | Chicago, IL , Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8059784) |
 | **NBCUniversal** | Manager, Finance | Universal City, C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140511899) |
 | **Bosch Group** | Coating and Print Operator - 5th Shif... | Lincolnton, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000140511689) |
 | **NBCUniversal** | Director, Project Management | New York, NEW YORK | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140510829) |
@@ -716,11 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Point72** | Data Strategist | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8647597002?gh_jid=8647597002) |
 | **Plaid** | Technical Program Manager | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/3aa943a7-5982-4449-9fc4-397540043fd2/application) |
 | **Peloton** | Studio Producer (L5) | New York, New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.onepeloton.com/en/all-jobs/?gh_jid=8094308) |
-| **Waymo** | Training Delivery Manager (Fleet Main... | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8049302) |
-| **Algolia** | GTM Data Operations Manager | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/algolia/jobs/6105256004) |
-| **LaunchDarkly** | Engineering Manager, Experimentation | US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/launchdarkly/jobs/7819651003) |
-| **Astera Labs** | FP&A Business Unit Controller | San Jose, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4719507005) |
-| **Sony Interactive Entertainment** | Director, Global Mobility | CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6127801004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
