@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32852-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21563-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-849-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32857-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-21562-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-850-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Applied Intuition** | Machine Learning Engineer - Behavior ... | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/129325ce-77e6-4d2a-a24a-6726acb53749/application) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | **TikTok** | Machine Learning Engineer, TikTok BRI... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7636708340480641285) |
 | **TikTok** | Machine Learning Engineer,  Ads Creative | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7650428332778948869) |
@@ -268,7 +269,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoom** | Machine learning Engineer - Agentic R... | Seattle, WA + 1 more | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-learning-Engineer---Agentic-Retrieval_R19418-1) |
 | **Zoom** | Research Scientist - AI Incubation | Seattle, WA + 1 more | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist---AI-Incubation_R18458-1) |
 | **Mach Industries** | Machine Learning Engineer | Huntington Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/8356b969-4c21-4195-bff4-f107d9238cf3/application) |
-| **Applied Intuition** | Machine Learning Engineer - Predictio... | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/129325ce-77e6-4d2a-a24a-6726acb53749/application) |
 | **Cerebras Systems** | Hardware Analytics Engineer | Headquarters/Sunn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/22332143-b54d-47f2-944e-2fc52d5446df/application) |
 | **ICF** | Data Engineer (Cleared) | Ashburn, VA + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ashburn-VA/Data-Engineer--Cleared-_R2602555) |
 | **ICF** | Junior Data Analyst (Cleared) | Ashburn, VA + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ashburn-VA/Junior-Data-Analyst--Cleared-_R2602553) |
@@ -444,6 +444,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Data Center Structural Engineer, DC D... | Herndon, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487259/data-center-structural-engineer-dc-design-engineering) |
 | **Amazon Data Services, Inc.** | Manufacturing Engineer, Annapurna AI ... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487276/manufacturing-engineer-annapurna-ai-systems-manufacturing-quality-and-reliability) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Power Avionics Hardware Test Engineer... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487344/power-avionics-hardware-test-engineer-amazon-leo) |
+| **Amazon.com Services LLC** | Mechatronics Test Engineer, Hardware ... | N.reading, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487483/mechatronics-test-engineer-hardware-verification-and-validation) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Manufacturing Engineer – Space Hardwa... | Kirkland, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486898/manufacturing-engineer-space-hardware-amazon-leo) |
 | **Cummins** | Controls Engineer | Maxton, NC, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431937) |
 | **Emerson Electric** | Quality Engineer | Mansfield, MA, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007572) |
@@ -498,7 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | PCIe, CXL and Highspeed IO Validation... | Santa Clara, CA, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88944/login) |
 | **LLNL** | Chemical Process Engineer | Livermore, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014324116) |
 | **Formlabs** | Mechanical Engineering Manager | Somerville, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8092340/apply/?gh_jid=8092340) |
-| **Formlabs** | Electrical Engineering Manager | Somerville, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8092283/apply/?gh_jid=8092283) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Twilio** | Strategic Account Executive 4 | US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/8054408) |
+| **Gecko Robotics** | Testing & Robotics Technician | Pittsburgh | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/0580d656-d4d8-4093-9618-5e210bc97e2b/application) |
 | **Kioxia** | Sr Sales Business Development Manager... | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/kioxia/744000140524019) |
 | **ASM** | Director, Business Development | > Arizona > Phoenix | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4895982101) |
 | **Stevens Capital Management** | Technical Recruiter | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/738790) |
@@ -608,8 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Clarios** | Maintenance Technician | OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Maintenance-Technician_WD43971) |
 | **Clarios** | Maintenance Technician | OR | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Oregon-Canby/Maintenance-Technician_WD43968) |
 | **Clarios** | Maintenance Technician | FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Florida-Tampa/Maintenance-Technician_WD43970) |
-| **Elevance Health** | Hemophilia Sales & Business Developme... | 5 Locations | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/WA-SEATTLE-705-5TH-AVE-S-STE-300/Hemophilia-Sales---Business-Development-Executive---Paragon-Healthcare_JR195983) |
-| **Elevance Health** | Pharmacy Technician I, Fulfillment - ... | Durham, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NC-DURHAM-4900-PROSPECTUS-DR/Pharmacy-Technician-I--Fulfillment---BioPlus-Specialty-Pharmacy_JR199389) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Red Bull** | Sales Trainee | Noblesville, IN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000140524779) |
+| **Braze** | AE - Emerging Enterprise - MEGS | New York City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/8082433?gh_jid=8082433) |
 | **Stripe** | Product Marketing Manager, Startup Se... | San Francisco, Se... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8093374) |
 | **Zipline** | Supplier Industrialization Engineer | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7820558003) |
 | **RunPod** | Datacenter Infrastructure Specialist | USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/runpod/b07e836d-7232-4dee-bd16-7b6912323de7/application) |
@@ -663,7 +665,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **D. E. Shaw** | Video and Voice Engineer | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/video-and-voice-engineer-5899) |
 | **D. E. Shaw** | All Positions in Systems | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/all-positions-in-systems-3480) |
 | **Nerdwallet** | Sales Manager (AZ) | NerdWallet Small ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/nerdwallet/d2d6a07a-1feb-42d3-ac8d-595604b28400/application) |
-| **Red Bull** | Sales Activator Manager | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000140517329) |
 | **Elastic** | Corporate Counsel - Legal Product, IP... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=8093273&gh_jid=8093273) |
 | **Nerdwallet** | Sales Manager (NY) | NerdWallet Small ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/nerdwallet/8c5185b5-79c9-4014-a1b5-b3e28fe529bc/application) |
 | **Anduril** | Chief Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194664007?gh_jid=5194664007) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Environmental Specialist I | York, PA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140485215) |
 | **DoorDash** | Associate Manager, New Verticals - Co... | New York, NY; San... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8092065) |
 | **Toast** | Bookkeeper (Founding Member) | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8079182) |
-| **Graphcore** | Director of Characterisation | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8656140002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 32852 current opportunities from 849 companies**
+**🎯 32857 current opportunities from 850 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
