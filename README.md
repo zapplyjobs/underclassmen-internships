@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32004-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20851-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32003-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20850-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-852-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -399,6 +399,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Power Systems Engineer (Starlink) | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649976002?gh_jid=8649976002) |
+| **SpaceX** | Electrical Engineer, Facilities (Star... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649939002?gh_jid=8649939002) |
 | **Zipline** | Hardware Test Engineer, Structures & ... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7820996003) |
 | **Mach Industries** | Air Vehicle Design Engineer | Huntington Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mach/d2f070cb-0084-428a-b570-ccdda8af0016/application) |
 | **Verkada** | Embedded Engineer - Streaming | San Mateo, CA Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5195862007) |
@@ -497,8 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stanley Black & Decker** | Firmware Engineer | Elyria, OH, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Elyria-OH-United-States/Software-Engineer_REQ-1000047545) |
 | **AeroVironment** | Mechanical Engineer | Sunrise, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineer_8170) |
 | **Abbott** | Manufacturing Controls Engineer - Stu... | Michigan | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/Manufacturing-Controls-Engineer---Sturgis--MI-Plant_31154055-1) |
-| **Magna** | Quality Engineer | Williamsburg, Iow... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Williamsburg-Iowa-US/Quality-Engineer_R00254200) |
-| **Magna** | Customer Quality Engineer | Holly, Michigan, US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Holly-Michigan-US/Customer-Quality-Engineer_R00234287) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Baseten** | IT Support/Operations Engineer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836/application) |
+| **SpaceX** | Facilities Engineer, Electrical (Star... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649975002?gh_jid=8649975002) |
 | **Zone 5 Technologies** | Low Voltage Technician III/IV | San Luis Obispo, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zone5technologies/jobs/5374772008) |
 | **Anduril** | Technician Trainer | Atlanta, Georgia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5189351007?gh_jid=5189351007) |
 | **Intuitive** | Clinical Sales Representative | Cherry Hill, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140565229) |
@@ -521,8 +523,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | IT Support Technician (Logistics) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650224002?gh_jid=8650224002) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140563169) |
 | **Appian** | Account Executive - Broad Markets | Indianapolis, Ind... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095448) |
-| **Appian** | Account Executive - Broad Markets | Chicago, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077292) |
 | **Appian** | Account Executive - Broad Markets | Minneapolis, Minn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095447) |
+| **Appian** | Account Executive - Broad Markets | Chicago, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077292) |
 | **Mercury** | Account Executive | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/mercury/jobs/6130351004) |
 | **Eurofins** | Laboratory Technician l (Part-Time) | Idaho Falls, ID | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140561795) |
 | **Redwood Materials** | Abuse Testing Technician | Carson City, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6128147004?gh_jid=6128147004) |
@@ -608,8 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Snowflake** | Account Executive, Enterprise Acquisi... | Remote, MI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/d7af975f-e2ee-4df7-b946-97320a1ba5c7/application) |
 | **Formlabs** | 3D Print Technician | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8094164/apply/?gh_jid=8094164) |
 | **Formlabs** | 3D Print Technician | Somerville, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8094112/apply/?gh_jid=8094112) |
-| **Rubrik** | SLED Account Executive (ATX) | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8092042?gh_jid=8092042) |
-| **Divergent Technologies** | Production Recruiter | Torrance, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/divergent/jobs/5372855008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Barista - Temporary | Cape Canaveral, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8654606002?gh_jid=8654606002) |
 | **LLNL** | Boiler & Pressure System Mechanic II | Livermore, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014355971) |
 | **Eurofins** | Junior IT Networker | Norwood, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140569579) |
 | **SpaceX** | Human Resources Coordinator (Employee... | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8657726002?gh_jid=8657726002) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Base Power** | Global Supply Manager - Board Electri... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/2c71bcf4-59a5-4d6d-9c75-6ad3e5aad2f0/application) |
 | **Vercel** | GTM Acceleration, Technical Solutions | San Francisco, Ne... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5984039004) |
 | **Relativity Space** | Factory Test Technical Specialist I -... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8657175002?gh_jid=8657175002) |
-| **Underdog Fantasy** | Guerrilla Marketing Associate | New York/United S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/underdogfantasy/jobs/4719643005) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 32004 current opportunities from 852 companies**
+**🎯 32003 current opportunities from 852 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
