@@ -18,7 +18,7 @@
 <div align="center">
 
 ![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32003-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20849-informational?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20850-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-852-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -72,8 +72,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Varda Space** | Space Mission Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821046003) |
 | **Varda Space** | Space Embedded Linux Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821039003) |
 | **Esri** | Application Developer - JavaScript | Vienna, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197151007?gh_jid=5197151007) |
-| **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
 | **Esri** | Application Developer - JavaScript | St. Louis, MO - G... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197148007?gh_jid=5197148007) |
+| **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
 | **Aurora Innovation** | Software Engineer II, Vehicle Platfor... | Pittsburgh, Penns... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8627496002?gh_jid=8627496002) |
 | **Sezzle** | VP Engineering - Infrastructure & SRE | United States, Re... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sezzle/jobs/7820867003) |
 | **Anduril** | Software Engineer, Quality Integration | Boston, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5199077007?gh_jid=5199077007) |
@@ -253,7 +253,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **University of Texas at Austin** | Research Engineering/Scientist Assist... | AUSTIN, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Research-Engineering-Scientist-Assistant-I_R_00047588) |
 | **University of Texas at Austin** | Research Engineering/Scientist Assist... | AUSTIN, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Research-Engineering-Scientist-Assistant-I_R_00047592) |
 | **Anduril** | Data Analyst, Manufacturing | Santa Ana, Califo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5198002007?gh_jid=5198002007) |
-| **AMD** | ML Systems Research Engineer, RL / In... | Santa Clara, CA, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88874/login) |
 | **Figure AI** | Helix AI Engineer, iOS | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4700616006) |
 | **SpaceX** | Business Analyst (Starlink Growth Dem... | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650057002?gh_jid=8650057002) |
 | **Intuitive** | AI/ML Data Scientist | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140324760) |
@@ -277,6 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Dynamics** | Teleoperations Research Engineer, Atlas | Waltham | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Engineer--Atlas_R2926) |
 | **Boston Dynamics** | Manager, Machine Learning on Orbit | Waltham | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Manager--Machine-Learning-on-Orbit_R2890) |
 | **Boston Dynamics** | Research Scientist, Spatial AI & Perc... | Waltham | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--Spatial-AI---Perception_R2871) |
+| **Zoom** | Machine Learning Engineer | Seattle | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer_R19205-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **ServiceNow** | Sr Enterprise Account Executive | New York City, Ne... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000140574264) |
 | **ClickUp** | Mid Market Account Executive- Expansion | Boston | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/clickup/e890f2f1-21a9-4c02-9791-41f1acb7b2be/application) |
 | **Baseten** | IT Support/Operations Engineer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836/application) |
 | **SpaceX** | Facilities Engineer, Electrical (Star... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649975002?gh_jid=8649975002) |
@@ -524,8 +525,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | IT Support Technician (Logistics) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650224002?gh_jid=8650224002) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140563169) |
 | **Appian** | Account Executive - Broad Markets | Indianapolis, Ind... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095448) |
-| **Appian** | Account Executive - Broad Markets | Chicago, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077292) |
 | **Appian** | Account Executive - Broad Markets | Minneapolis, Minn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095447) |
+| **Appian** | Account Executive - Broad Markets | Chicago, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077292) |
 | **Mercury** | Account Executive | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/mercury/jobs/6130351004) |
 | **Eurofins** | Laboratory Technician l (Part-Time) | Idaho Falls, ID | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140561795) |
 | **Redwood Materials** | Abuse Testing Technician | Carson City, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6128147004?gh_jid=6128147004) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Databricks** | Strategic Core Account Executive - Telco | Texas | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8652521002) |
 | **Stripe** | Technical Solutions Engineering Manager | San Francisco or ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8079858) |
 | **Snowflake** | Account Executive, Enterprise Acquisi... | Remote, MI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/d7af975f-e2ee-4df7-b946-97320a1ba5c7/application) |
-| **Formlabs** | 3D Print Technician | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8094164/apply/?gh_jid=8094164) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,6 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **The Trade Desk** | Sr Analyst, Technology Governance & Risk | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5198826007) |
 | **SpaceX** | Barista - Temporary | Cape Canaveral, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8654606002?gh_jid=8654606002) |
 | **LLNL** | Boiler & Pressure System Mechanic II | Livermore, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014355971) |
 | **Eurofins** | Junior IT Networker | Norwood, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140569579) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Babel Street** | Product Launch Manager | Reston, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/babelstreet/jobs/8079076) |
 | **Base Power** | Global Supply Manager - Board Electri... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/2c71bcf4-59a5-4d6d-9c75-6ad3e5aad2f0/application) |
 | **Vercel** | GTM Acceleration, Technical Solutions | San Francisco, Ne... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5984039004) |
-| **Relativity Space** | Factory Test Technical Specialist I -... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8657175002?gh_jid=8657175002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
