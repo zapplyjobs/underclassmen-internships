@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32065-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20896-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32064-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20898-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-852-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Zone 5 Technologies** | Low Voltage Technician III/IV | San Luis Obispo, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zone5technologies/jobs/5374772008) |
 | **Anduril** | Technician Trainer | Atlanta, Georgia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5189351007?gh_jid=5189351007) |
 | **Intuitive** | Clinical Sales Representative | Cherry Hill, NJ | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140565229) |
 | **Intuitive** | Clinical Sales Representative | Wilmington, DE | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140564474) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Formlabs** | 3D Print Technician | Somerville, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8094112/apply/?gh_jid=8094112) |
 | **Rubrik** | SLED Account Executive (ATX) | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8092042?gh_jid=8092042) |
 | **Divergent Technologies** | Production Recruiter | Torrance, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/divergent/jobs/5372855008) |
-| **Astronomer** | Sales Development Representative - NY... | New York City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/astronomer/a8c688d5-ae4c-4d32-b433-57ecdce22fe7/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,7 +621,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **OpenAI** | GTM Strategy & Operations, Profession... | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/08e8d03a-df94-46af-8664-cd9aab1af445/application) |
 | **Plaid** | FinOps Program Manager | New York City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/5159cfbb-a402-4ad3-8762-07cd81a5c3c2/application) |
+| **Amazon Data Services, Inc.** | Project Engineer, DCCD, DCCD | Louisa, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487869/project-engineer-dccd-dccd) |
+| **Amazon Data Services, Inc.** | Project Engineer, ADC East | New Albany, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487859/project-engineer-adc-east) |
 | **Plaid** | Integration Operations Program Manager | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/15f90e4b-7653-46d5-9479-d23ac4047e71/application) |
 | **Mercedes-Benz R&D North America** | Associate Corporate Counsel (Contract) | San Jose, CA/Atla... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MBRDNA/8b7d2e0f-a882-492b-97ed-8ce7bf6e6d8d/apply) |
 | **VAST** | Driver, Inventory Control | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4697805006?gh_jid=4697805006) |
@@ -660,7 +663,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lucid Motors** | Sales Specialist | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5199104007) |
 | **AbbVie** | Specialty Representative, Psychiatry ... | Mentor, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014354157) |
 | **Veolia Environnement SA** | Energy Analyst | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140559759) |
-| **OpenAI** | Corporate Security Operations Manager... | Mountain View | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/ad35a6fe-29ef-4c9b-9bd2-65144e444801/application) |
 | **Sandisk** | Executive Assistant to the Chief Info... | Milpitas, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000140557915) |
 | **Iterative Health** | Clinical Research Coordinator II | Plano, Texas | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iterativehealth/jobs/4700947006) |
 | **AbbVie** | Associate I, Clinical Pharmacology Sc... | North Chicago, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014353916) |
@@ -719,8 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Underdog Fantasy** | Guerrilla Marketing Associate | New York/United S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/underdogfantasy/jobs/4719643005) |
 | **Tenstorrent** | VP of Information Technology | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5180934007) |
 | **Underdog Fantasy** | Go-to-Market Associate | California/Texas/... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/underdogfantasy/jobs/4719637005) |
-| **Redwood Materials** | Chemical Engineer | McCarran, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6128148004?gh_jid=6128148004) |
-| **ServiceNow** | Advisory Solution Consultant - State ... | New York, New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000140538154) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 32065 current opportunities from 852 companies**
+**🎯 32064 current opportunities from 852 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
