@@ -18,7 +18,7 @@
 <div align="center">
 
 ![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-31998-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20844-informational?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20846-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-852-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -73,8 +73,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Varda Space** | Space Mission Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821046003) |
 | **Varda Space** | Space Embedded Linux Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821039003) |
 | **Esri** | Application Developer - JavaScript | Vienna, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197151007?gh_jid=5197151007) |
-| **Esri** | Application Developer - JavaScript | St. Louis, MO - G... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197148007?gh_jid=5197148007) |
 | **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
+| **Esri** | Application Developer - JavaScript | St. Louis, MO - G... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197148007?gh_jid=5197148007) |
 | **Aurora Innovation** | Software Engineer II, Vehicle Platfor... | Pittsburgh, Penns... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8627496002?gh_jid=8627496002) |
 | **Sezzle** | VP Engineering - Infrastructure & SRE | United States, Re... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sezzle/jobs/7820867003) |
 | **Anduril** | Software Engineer, Quality Integration | Boston, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5199077007?gh_jid=5199077007) |
@@ -527,8 +527,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | IT Support Technician (Logistics) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650224002?gh_jid=8650224002) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140563169) |
 | **Appian** | Account Executive - Broad Markets | Indianapolis, Ind... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095448) |
-| **Appian** | Account Executive - Broad Markets | Minneapolis, Minn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095447) |
 | **Appian** | Account Executive - Broad Markets | Chicago, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077292) |
+| **Appian** | Account Executive - Broad Markets | Minneapolis, Minn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095447) |
 | **Mercury** | Account Executive | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/mercury/jobs/6130351004) |
 | **Eurofins** | Laboratory Technician l (Part-Time) | Idaho Falls, ID | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140561795) |
 | **Redwood Materials** | Abuse Testing Technician | Carson City, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6128147004?gh_jid=6128147004) |
@@ -621,6 +621,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Gusto** | Tax Resolution Advocate | Denver, CO;Las Ve... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/8094625) |
 | **Lucid Motors** | Service Assistant, Riviera Beach | Florida, United S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5193911007) |
 | **The Trade Desk** | Sr Analyst, Technology Governance & Risk | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5198826007) |
 | **SpaceX** | Barista - Temporary | Cape Canaveral, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8654606002?gh_jid=8654606002) |
@@ -720,7 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Alo Yoga** | Sales & Service Manager - South Congress | Austin Metro Area | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6130164004?gh_jid=6130164004) |
 | **Babel Street** | Product Launch Manager | Reston, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/babelstreet/jobs/8079076) |
 | **Base Power** | Global Supply Manager - Board Electri... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/2c71bcf4-59a5-4d6d-9c75-6ad3e5aad2f0/application) |
-| **Vercel** | GTM Acceleration, Technical Solutions | San Francisco, Ne... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vercel/jobs/5984039004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
