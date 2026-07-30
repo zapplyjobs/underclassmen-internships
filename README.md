@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32003-brightgreen?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32002-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20847-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-852-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Amazon.com Services LLC** | Software Development Engineer, Ads Ca... | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487902/software-development-engineer-ads-campaign-management) |
 | **Commure** | Software Engineer, RCM Billing | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/commure/727c0ce9-7d3b-43fe-8d00-05255f094db5/application) |
 | **Sift** | Application Software Engineer | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/be082df3-225c-4269-a159-bdb362b21c8e/application) |
 | **Varda Space** | Space Ground Systems Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821048003) |
@@ -164,7 +165,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Alexa Ads | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487573/software-development-engineer-alexa-ads) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Amazon... | Santa Monica, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487545/software-development-engineer-amazon-msk) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Amazon... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487728/software-development-engineer-amazon-workspaces) |
-| **Amazon.com Services LLC** | Software Development Engineer, Alexa Ads | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487575/software-development-engineer-alexa-ads) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Amazon... | Santa Monica, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487568/software-development-engineer-amazon-msk) |
 
 <p align="center">Apply for more jobs at</p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 32003 current opportunities from 852 companies**
+**🎯 32002 current opportunities from 852 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
