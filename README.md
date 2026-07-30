@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-31998-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20850-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32002-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20853-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-852-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -74,8 +74,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Varda Space** | Space Mission Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821046003) |
 | **Varda Space** | Space Embedded Linux Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821039003) |
 | **Esri** | Application Developer - JavaScript | Vienna, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197151007?gh_jid=5197151007) |
-| **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
 | **Esri** | Application Developer - JavaScript | St. Louis, MO - G... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197148007?gh_jid=5197148007) |
+| **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
 | **Aurora Innovation** | Software Engineer II, Vehicle Platfor... | Pittsburgh, Penns... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8627496002?gh_jid=8627496002) |
 | **Sezzle** | VP Engineering - Infrastructure & SRE | United States, Re... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sezzle/jobs/7820867003) |
 | **Anduril** | Software Engineer, Quality Integration | Boston, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5199077007?gh_jid=5199077007) |
@@ -529,8 +529,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SpaceX** | IT Support Technician (Logistics) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650224002?gh_jid=8650224002) |
 | **Eurofins** | Laboratory Technician l (Full-Time) | Columbia, MO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140563169) |
 | **Appian** | Account Executive - Broad Markets | Indianapolis, Ind... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095448) |
-| **Appian** | Account Executive - Broad Markets | Chicago, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077292) |
 | **Appian** | Account Executive - Broad Markets | Minneapolis, Minn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8095447) |
+| **Appian** | Account Executive - Broad Markets | Chicago, Illinois | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8077292) |
 | **Mercury** | Account Executive | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/mercury/jobs/6130351004) |
 | **Eurofins** | Laboratory Technician l (Part-Time) | Idaho Falls, ID | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000140561795) |
 | **Redwood Materials** | Abuse Testing Technician | Carson City, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6128147004?gh_jid=6128147004) |
@@ -621,6 +621,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Coupang** | Head of Policy Communications & Execu... | Washington DC, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coupang.jobs/en/jobs/?gh_jid=8093661) |
+| **Coupang** | Head of Issues Management & Strategic... | Washington DC, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coupang.jobs/en/jobs/?gh_jid=8093667) |
 | **Coupang** | Head of Digital Policy Communications | Washington DC, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coupang.jobs/en/jobs/?gh_jid=8093669) |
 | **Veolia Environnement SA** | Warehouse Material Handler | Norfolk, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140592029) |
 | **NBCUniversal** | Coordinator, Business Affairs | Universal City, C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140591769) |
@@ -719,8 +721,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Snowflake** | Marketing Operations and Demand Manag... | Menlo Park, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/88bc9874-5ad3-4c7b-8f49-af909dd59265/application) |
 | **SoFi** | Pre-Approval Specialist | Charlotte, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sofi.com/careers/job/7799004003?gh_jid=7799004003) |
 | **Chime** | Product Marketing Manager, Growth | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8657239002?gh_jid=8657239002) |
-| **Dandy** | General Manager, Clear Aligners | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/5c3df954-76b5-4cbc-a349-1ddaebdb3f91/application) |
-| **Veeva Systems** | AI Consultant - Pharmacovigilance/Saf... | Boston | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/bd25fa26-0de8-496c-98a4-38101dfeadb1/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 31998 current opportunities from 852 companies**
+**🎯 32002 current opportunities from 852 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
