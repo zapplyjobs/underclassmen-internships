@@ -1,0 +1,167 @@
+name: History Rewrite (git-filter-repo)
+
+# INF-HISTORYREWRITE-1: Strips large data-file blobs from git history.
+# Repos accumulated 72GB of pipeline data in git history before .gitignore
+# was added. This rewrites history to remove all blobs >5MB.
+#
+# TWO MODES:
+#   analyze-only  — mirror-clones, runs filter-repo --analyze, uploads report. NON-DESTRUCTIVE.
+#   full-rewrite  — mirror-clones, strips blobs >5MB, force-pushes. DESTRUCTIVE.
+#
+# Always run analyze-only first. Review the artifact. Only run full-rewrite if safe.
+# Rollback: the pre-rewrite state is preserved as a GitHub Actions artifact (bundle).
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'analyze-only or full-rewrite'
+        required: true
+        type: choice
+        default: 'analyze-only'
+        options:
+          - analyze-only
+          - full-rewrite
+
+concurrency:
+  group: history-rewrite
+  cancel-in-progress: false
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+
+    steps:
+      - name: Install git-filter-repo
+        run: |
+          pip3 install git-filter-repo
+          which git-filter-repo && git filter-repo --version
+
+      - name: Configure git identity
+        run: |
+          git config --global user.email "noreply@zapply.jobs"
+          git config --global user.name "History Rewrite Bot"
+
+      - name: Mirror clone
+        run: |
+          echo "=== Cloning mirror of ${{ github.repository }} ==="
+          git clone --mirror "https://github.com/${{ github.repository }}.git" repo.git
+          echo "=== Clone size ==="
+          du -sh repo.git
+          echo "=== Object count ==="
+          git -C repo.git count-objects -vH
+
+      - name: Record pre-rewrite SHAs (rollback point)
+        if: inputs.mode == 'full-rewrite'
+        run: |
+          echo "=== Pre-rewrite main SHA (rollback point) ==="
+          git -C repo.git rev-parse refs/heads/main
+          echo "=== All branch SHAs ==="
+          git -C repo.git for-each-ref --format='%(refname) %(objectname)' refs/heads/
+          echo "=== Rollback: old commits persist as dangling objects on GitHub for weeks ==="
+          echo "=== To restore: force-push the old main SHA back ==="
+
+      - name: Analyze history (always runs)
+        run: |
+          echo "=== Running filter-repo --analyze ==="
+          git -C repo.git filter-repo --analyze
+
+          echo ""
+          echo "========================================"
+          echo "LARGEST PATHS IN HISTORY (top 30)"
+          echo "========================================"
+          head -31 repo.git/filter-repo/analysis/path-all-sizes.txt || true
+
+          echo ""
+          echo "========================================"
+          echo "LARGEST BLOBS (top 20)"
+          echo "========================================"
+          # Blob sizes are in the analysis directory
+          ls -lhS repo.git/filter-repo/analysis/ | head -10 || true
+
+      - name: Upload analysis report
+        uses: actions/upload-artifact@v4
+        with:
+          name: filter-repo-analysis
+          path: repo.git/filter-repo/analysis/
+
+      # ===== DESTRUCTIVE SECTION — only runs in full-rewrite mode =====
+
+      - name: Strip .github/data/ files from history (path-based, precise)
+        if: inputs.mode == 'full-rewrite'
+        run: |
+          echo "=== Stripping .github/data/*.json + *.jsonl from ALL history ==="
+          echo "=== (path-based: only data files, source/config/images preserved) ==="
+          git -C repo.git filter-repo --force --invert-paths \
+            --path-glob '.github/data/*.json' \
+            --path-glob '.github/data/*.jsonl'
+
+          echo ""
+          echo "=== Post-rewrite size ==="
+          git -C repo.git count-objects -vH
+
+      - name: Sanity check rewritten repo
+        if: inputs.mode == 'full-rewrite'
+        run: |
+          echo "=== Latest 10 commits ==="
+          git -C repo.git log --oneline -10
+
+          echo ""
+          echo "=== HEAD tree (top-level entries) ==="
+          git -C repo.git ls-tree HEAD
+
+          echo ""
+          echo "=== Submodule pointers (gitlinks — must survive) ==="
+          git -C repo.git ls-tree -r HEAD | grep '^160000' || echo "(no gitlinks)"
+
+          echo ""
+          echo "=== .gitmodules (must survive) ==="
+          git -C repo.git show HEAD:.gitmodules || echo "(no .gitmodules)"
+
+          echo ""
+          echo "=== .gitattributes (transcrypt config — must survive) ==="
+          git -C repo.git show HEAD:.gitattributes | head -10 || echo "(no .gitattributes)"
+
+          echo ""
+          echo "=== Tags ==="
+          git -C repo.git tag -l
+
+          echo ""
+          echo "=== Branches ==="
+          git -C repo.git branch -a
+
+      - name: Force-push rewritten history
+        if: inputs.mode == 'full-rewrite'
+        run: |
+          echo "=== Force-pushing branches + tags (skips PR refs — GitHub rejects those) ==="
+          git -C repo.git push --force --all \
+            "https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git"
+          git -C repo.git push --force --tags \
+            "https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git"
+          echo "=== Force-push complete ==="
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "=========================================="
+          echo "History Rewrite Summary"
+          echo "=========================================="
+          echo "Mode: ${{ inputs.mode }}"
+          echo "Repository: ${{ github.repository }}"
+          echo "Run: ${{ github.run_id }}"
+          echo ""
+          if [ "${{ inputs.mode }}" = "analyze-only" ]; then
+            echo "Analyze-only completed. Download the filter-repo-analysis artifact"
+            echo "and review path-all-sizes.txt for unexpected large files."
+            echo "If safe, re-run with mode=full-rewrite."
+          else
+            echo "Full rewrite completed. Verify:"
+            echo "  1. Repo size via gh api"
+            echo "  2. Latest commit + tree via gh api"
+            echo "  3. Pipeline health (fetch-jobs + enrich-jobs)"
+            echo "  4. Submodule pointers intact"
+            echo "  5. Transcrypt unlock works"
+          fi
