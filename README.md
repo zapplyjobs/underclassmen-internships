@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32063-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20629-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-847-blue?style=flat&logo=building)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-32262-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-20812-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-845-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,22 +66,29 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Sierra Nevada Corporation** | Software Engineer III | Lone Tree, CO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Software Engineer II | Lone Tree, CO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Software Engineer III | Lone Tree, CO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **NVIDIA** | Manager, System Software Engineering ... | US, CA, Santa Clara | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Radiance Technologies** | Software Engineer | Huntsville, AL | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Radiance Technologies** | Platform Engineer | Patt AFB, OH | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Wolters Kluwer** | Associate Product Manager, Data Accel... | Houston, TX, Alle... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CAE** | Software Engineer | Orlando | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Carnegie Mellon University** | Software Engineer | Pittsburgh, PA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Entrust** | Software Engineer II – Java, Spring B... | MN | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Software Development Engineer Graduat... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Software Development Engineer-AI/LLM ... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Product Manager, AI Transformation Pr... | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Site Reliability Engineering Manager,... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Product Manager II, Google Workspace,... | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Software Engineer, Motion Controls & ... | Greater Seattle Area | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Software Engineer III - AI Solutions | Greater Seattle Area | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | System Software Engineer – Data Cente... | US, NC, Durham | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Distinguished Software Engineer - NVL... | Santa Clara, CA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Manager, System Software Engineering ... | US, CA, Santa Clara | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | Embedded Software Engineer | King George, VA | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Rocket Companies** | Android Mobile Software Developer II ... | Seattle, WA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boeing** | Associate/Experienced Software Engine... | Kent, WA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Software Development Engineer Graduat... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Software Development Engineer-AI/LLM ... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Software Engineer III, Linux Kernel N... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Software Engineer III, AI/ML, Google Ads | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Software Engineer III, RCS Video | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Software Engineer III | Lone Tree, CO | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Software Engineer II | Lone Tree, CO | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Software Engineer III | Lone Tree, CO | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Radiance Technologies** | Software Engineer | Huntsville, AL | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Radiance Technologies** | Platform Engineer | Patt AFB, OH | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Wolters Kluwer** | Associate Product Manager, Data Accel... | Houston, TX, Alle... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CAE** | Software Engineer | Orlando | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Carnegie Mellon University** | Software Engineer | Pittsburgh, PA | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Entrust** | Software Engineer II – Java, Spring B... | MN | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **State Street** | Network Engineer, Vice President | Quincy Massachusetts | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Comcast** | Critical Infrastructure Engineer | Centennial, CO | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Medtronic** | Embedded Firmware Software Engineer I... | Fridley, Minnesot... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -92,13 +99,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fiserv** | Sr Software Engineer - Java | King of Prussia, ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | Sr Software Engineer - Java | King of Prussia, ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Mastercard** | Director, Platform Engineering | O'Fallon, Missouri | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Booz Allen Hamilton** | Embedded Software Engineer | King George, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Guidehouse** | UI/UX Designer | Remote | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Rocket Companies** | Android Mobile Software Developer II ... | Seattle, WA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | Software Engineering MTS | San Francisco | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | Software Engineering SMTS | California San Fr... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Workday Inc** | Software Development Engineer - Autho... | USA, CA, Pleasanton | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Workday Inc** | Product Manager, Workday Student | USA, CA, Pleasanton | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Workday Inc** | Software Development Engineer - Autho... | USA, CA, Pleasanton | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Workday Inc** | Product Manager, Workday Student | USA, CA, Pleasanton | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Manufacturing Software Engineering Su... | 2 Locations | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Freddie Mac** | Software Engineering Professional (Ja... | McLean, VA | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ABB** | Field Application Engineer - Power De... | USA, MA, Quincy | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -116,7 +118,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cox** | Software Engineer II | Overland Park KS | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cox** | Manager, Software Engineering | Atlanta GA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Transamerica** | Specialist Software Engineering | Denver Colorado | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AMD** | Failure Analysis and Reliability Engi... | San Jose, CA, Uni... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AMD** | Failure Analysis and Reliability Engi... | San Jose, CA, Uni... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Motorola Solutions** | Embedded Software Engineer | Schaumburg, IL | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Field AI** | Software Engineer, Data Engineering | Irvine, CA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Apple** | Software Engineer, Braille Accessibility | Cupertino | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -125,47 +127,45 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **S&P Global** | Director of Software Development | Nyc, NY | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Astreya** | Network Engineer II | Dallas, TX | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Field AI** | Software Engineer, DevOps | Irvine, CA | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Vanguard** | Cloud Engineer, Specialist | Malvern, PA | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Vanguard** | Technical Product Manager, Data Strategy | Malvern, PA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Vanguard** | Cloud Engineer, Specialist | Malvern, PA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Vanguard** | Technical Product Manager, Data Strategy | Malvern, PA | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LinkedIn** | Manager, Software Engineering, Machin... | Mountain View, CA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Apple** | Software Engineer, Automations and Sh... | Cupertino | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **OpenAI** | Software Engineer, Agent Productivity | San Francisco | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **OpenAI** | Software Engineer, Agent Productivity | San Francisco | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineer, ES&D Low Voltage | Irvine, California | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Reddit** | Frontend Engineer III, Moderation Enf... | United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **OpenAI** | Software Engineer, API Multimodal | San Francisco | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Full Stack Software Engineer, Interna... | Bastrop, TX | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra** | Software Engineer, Agent - Healthcare... | San Francisco, CA | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra** | Software Engineer, Agent - Healthcare... | San Francisco, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Apple** | Software Engineer, Cloud Services ASE | Austin | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Back-End Software Engineer II | Redmond, Washingt... | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Symbotic** | Advanced Software Engineer | USA Wilmington,  ... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Palantir** | Product Designer, Internship - US Gov... | Palo Alto, CA | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Microsoft** | Software Engineer II | Redmond, Washingt... | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Palantir** | Product Designer, Internship - US Gov... | Palo Alto, CA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Microsoft** | Software Engineer II | Redmond, Washingt... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CACI** | Software Engineer | Ypsilanti, MI, US | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CACI** | Front-end Software Developer | Denver, CO, US | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CACI** | Network Infrastructure/System Adminis... | Mclean, VA, US | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Accenture Federal Services** | DevOps Engineer | Chantilly, VA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boeing** | Associate and Mid-Level Software Engi... | Berkeley, MO | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Twilio** | Software Engineer (L2) | US | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bellese** | Product Manager II | United States | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NBCUniversal** | Network Engineer | Miramar, Florida | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Qrypt** | Backend Software Engineer (AI Native) | Austin, TX | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Red Ventures** | Mid, AI Product Manager   Consumer | Charlotte, NC | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Cloud Network Engineer II | Redmond, Washingt... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Relativity Space** | Manager, Build Reliability Engineering | Long Beach, Calif... | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Relativity Space** | Manager, Build Reliability Engineering | Long Beach, Calif... | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Supabase** | AI Platform Engineer | Remote | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Accenture Federal Services** | Site Reliability Engineer (DevOps) | Annapolis Junctio... | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **MongoDB** | Software Engineer 3 | United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Experian** | VP Developer Platform Engineering - R... | Costa Mesa, CA | 10h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Roblox** | Software Engineer, Communications | San Mateo, CA, Un... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **RE/SPEC Inc.** | Java Software Developer | Austin, TX | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **RE/SPEC Inc.** | Java Software Developer | Austin, TX | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ONE Finance** | Software Engineer, Lending | United States (Re... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Database Reliability Engineer | Hawthorne, CA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Torc Robotics** | Software Engineer II - Fleet Enableme... | Ann Arbor, MI, Bl... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Sift** | Software Engineering Manager (Data) | San Francisco, CA | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Sift** | Software Engineering Manager (Data) | Marina Del Rey, CA | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AbbVie** | Site Reliability Engineer (Hybrid) | North Chicago, IL | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Harvey** | Frontend Platform Engineer | San Francisco | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Stripe** | Software Engineer - Infrastructure | Seattle, WA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AbbVie** | Site Reliability Engineer (Hybrid) | North Chicago, IL | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Harvey** | Frontend Platform Engineer | San Francisco | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,27 +177,30 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Envista Holdings** | Research Scientist | CA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Data Analyst & Systems Integrator | Arlington, VA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Research Scientist II | Texas | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | Machine Learning Engineer | Arlington, VA | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | Machine Learning Engineer | Arlington, VA | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Guidehouse** | Data Scientist | VA, Arlington | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Guidehouse** | Snowflake Engineer (Snowflake Cortex ... | Mclean, VA | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Guidehouse** | Cleared Data Scientist | DC, Washington | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Remitly** | Fraud Data Analyst | Seattle, Washingt... | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AllianceBernstein** | Business Analyst | Nashville, Tennessee | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Capital One** | Applied Researcher I (AI Foundations,... | New York, NY | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Capital One** | Manager, Data Science - PULSE Network... | Houston, TX | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Research Scientist in Large Language ... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Cloud Data and AI Engineer, Professio... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Research Engineer, Pretraining, DeepMind | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Data Engineer, GCS Data Science | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Research Scientist in Large Language ... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Research Engineer, Gemini Large Scale... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Research Engineer | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Material Science Research Engineer, D... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Envista Holdings** | Research Scientist | CA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Data Analyst & Systems Integrator | Arlington, VA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **State Street** | Junior SIEM Data Engineer | Quincy, Massachus... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Comcast** | Engineer 2, Data Engineering | Philadelphia, PA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Medtronic** | Pr. IT Business Analyst | Swedesboro, New J... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Medtronic** | Computer Vision Engineer II | Lafayette, Colora... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elanco** | Research Scientist - Analytical Devel... | Fort Dodge, IA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | Business Data Analyst | Berkeley Heights,... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Booz Allen Hamilton** | Machine Learning Engineer | Arlington, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Booz Allen Hamilton** | Machine Learning Engineer | Arlington, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Guidehouse** | Data Scientist | VA, Arlington | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Guidehouse** | Snowflake Engineer (Snowflake Cortex ... | Mclean, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Guidehouse** | Cleared Data Scientist | DC, Washington | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Safety Field Investigations - Data An... | Warren, Michigan,... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **National Interstate Insurance** | Business Analyst | Cincinnati, OH | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Micron Technology** | AI Engineer | Boise, ID - Main ... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -208,24 +211,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Citi** | Equities Algorithmic Trading Quantita... | New York New York... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **T. Rowe Price** | Business Analyst, Data Management & R... | Baltimore, MD | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BlackRock** | Business Intelligence Developer/Busin... | New York, NY | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Abbott** | Research Scientist II | Texas | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Remitly** | Fraud Data Analyst | Seattle, Washingt... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AllianceBernstein** | Business Analyst | Nashville, Tennessee | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Thermo Fisher Scientific** | Associate Research Scientist: Biologics | New Brunswick, Ne... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | Sr ML Engineering Manager, Search - S... | San Francisco Bay... | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Thermo Fisher Scientific** | Associate Research Scientist: Biologics | New Brunswick, Ne... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Apple** | Sr ML Engineering Manager, Search - S... | San Francisco Bay... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Archer** | Computer Vision Engineer | San Jose, Califor... | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Anduril** | Research Scientist | Fort Collins, Col... | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Eurofins** | Associate Business Analyst | Fremont, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Anduril** | Research Scientist | Fort Collins, Col... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Eurofins** | Associate Business Analyst | Fremont, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Micron** | AI Engineer | Boise, ID - Main ... | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Handshake** | Machine Learning Engineer I, Network | San Francisco, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Oura** | Research Scientist | United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Sentry** | Engineering Manager, Data Platform | San Francisco, Ca... | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Bosch Group** | Associate Vehicle Data Analyst | Owatonna, MN | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Figma** | Director, Data Science | San Francisco, CA... | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | Machine Learning Video Engineer | Cupertino | 10h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Bosch Group** | Associate Vehicle Data Analyst | Owatonna, MN | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Figma** | Director, Data Science | San Francisco, CA... | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Rivian and Volkswagen Group Technologies** | Systems Analytics Engineer, Connectiv... | Palo Alto, Califo... | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Torc Robotics** | Safety Data Analyst | US, Blacksburg, VA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Crusoe** | Engineering Manager, Data Platform | San Francisco, CA... | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Crusoe** | Engineering Manager, Data Platform | San Francisco, CA... | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bosch Group** | AI Research Scientist- Multimodal Fou... | Sunnyvale, CA | 22h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bloomberg Industry Group** | Data Engineer | Arlington, VA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Workiva** | Sr Machine Learning Engineering Manag... | Remote | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -244,7 +243,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vanguard** | Data Scientist, Specialist | Malvern, PA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bristol Myers Squibb** | Engineer, Analytical AI Engineering | NJ | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Thermo Fisher Scientific** | Director of R&D, Artificial Intelligence | Waltham Massachus... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | Engineering Manager, AI Data Platform... | Cupertino | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com Services LLC** | Data Engineer II, NAST CX Tech | Bellevue, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Data Services, Inc.** | Business Intelligence Engineer II, CD... | Austin, TX | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com Services LLC** | Sr Applied Scientist, Core Shopping D... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -266,9 +264,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Finance AI Engineer | Sunnyvale, CA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Old Mission Capital** | Quantitative Researcher (Ph.D.) - 202... | Chicago, IL, Unit... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AMD** | Applied AI Engineer, Top Hardware Pri... | Santa Clara, CA, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Parsons** | AI/ML Engineer | Remote (Any Locat... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Parsons** | Data Engineer | Remote (Any Locat... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Parsons** | Data Scientist - AI/ML  (TS/SCI w/ Poly) | MD, Fort George G... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Parsons** | Data Scientists - TS/SCI with Poly re... | MD, Annapolis Jun... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Parsons** | Business Analyst - Junior Level | VA, Springfield, ... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Parsons** | Business Analyst - Strategy | VA, Springfield, ... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zoom** | Research Scientist - AI Incubation | Seattle, WA | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zoom** | Machine Learning Engineer | Seattle | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zoom** | Machine learning Engineer - Agentic R... | Seattle, WA | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -277,6 +275,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Data Engineer | Pullman | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Boston Dynamics** | Teleoperations Research Engineer, Atlas | Waltham | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Boston Dynamics** | Manager, Machine Learning on Orbit | Waltham | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boston Dynamics** | Research Scientist, Spatial AI & Perc... | Waltham | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Vertex Pharmaceuticals** | Stem Cell Research Scientist | Boston, MA | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,10 +288,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Security Engineer, Google Distributed... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Security Engineer III, Cloud Security... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Security Engineer, GKE | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AIG** | Cloud Security Engineer | Dallas, TX | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **PTC** | Vice President - Global Product Security | Boston, MA, USA | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Security Engineer, GKE | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Security Engineer III, Incident Response | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Security Engineer, Enterprise Detecti... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wells Fargo** | Information Data Loss Prevention DLP ... | CHANDLER, AZ | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LabCorp** | Cybersecurity Engineer – Application ... | Durham, NC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ICF** | Manager, Cyber Security | Reston, VA | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -302,16 +304,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Motorola Solutions** | Procurement Category Manager - Cybers... | Chicago, IL, More... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NXP** | Information Security Coordinator – Po... | Austin | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **RELX** | Security Assurance Penetration Tester | Pennsylvania | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AIG** | Cloud Security Engineer | Dallas, TX | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **PTC** | Vice President - Global Product Security | Boston, MA, USA | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CACI** | Cyber Security Engineer | Austin, TX, US | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CACI** | Endpoint Security Engineer III - Nessus | St. Louis, MO, US | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ServiceNow** | Solution Sales Executive, Cybersecurity | San Diego, CALIFO... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **The Federal Reserve System** | Info Security Analyst | St. Louis, MO | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AbbVie** | Splunk / Cribl Engineer - Cybersecuri... | North Chicago, IL | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AbbVie** | Splunk / Cribl Engineer - Cybersecuri... | North Chicago, IL | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Junior Application Security Engineer | North Chicago, IL | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ServiceNow** | Sr Enterprise Account Exec (Cybersecu... | Minneapolis, Minn... | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ServiceNow** | Sr Enterprise Account Exec, Cybersecu... | Vienna, VIRGINIA | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ServiceNow** | Sr Enterprise Account Exec, Cybersecu... | Vienna, VIRGINIA | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Uline** | Chief Information Security Officer | Pleasant Prairie, WI | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CrowdStrike** | Product Security Engineer, Applicatio... | Remote | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Federal Reserve System** | Information Security Manager for IAM ... | New York, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -323,10 +323,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Security Engineer, Privy | Privy | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **The Federal Reserve System** | Information Security Manager for IAM ... | New York, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cape** | Chief Information Security Officer (C... | New York | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Parsons** | Cybersecurity Risk & Compliance Proje... | Remote (Any Locat... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Parsons** | Cybersecurity Engineer - TS/SCI required | MD, Aberdeen, R18... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Parsons** | Cyber Vulnerability Analyst - Penetra... | MD, Annapolis Jun... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Parsons** | Cyber Vulnerability Analyst | MD, Annapolis Jun... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | Software Security Engineer (Distribut... | San Francisco | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Discord** | Security Analyst | San Francisco Bay... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elevance Health** | Security Analyst III – (Data at Rest ... | 7 Locations | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Federal Reserve System** | Information Security Specialist | New York, NY | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -337,6 +336,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Cybersecurity Specialist, Junior | Aberdeen Proving ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **The Federal Reserve System** | Information Security Specialist | New York, NY | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Olsson** | Cybersecurity Program Specialist | Lincoln, NE | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Cybersecurity Specialist | Illinois | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Intellectual Property Security Engineer | Santa Clara, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | Information Security – Advisor | Milwaukee, Wisconsin | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Mfg. Cyber Security Execution Manager | Warren, Michigan,... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CrowdStrike** | Engineer III, Software Assurance - Pr... | Remote | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -345,15 +346,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Security Engineer, Correlation and Re... | Boston, MA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JPMorgan Chase** | Global Security - Technical Security ... | Columbus, OH, Uni... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JP Morgan Chase** | Global Security - Technical Security ... | Columbus, OH, Uni... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | Sr Messages Services and Security Eng... | Seattle Metro Area | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Accenture Federal Services** | Cybersecurity Cloud Automation Engineer | Lorton, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Carnegie Mellon University** | Cybersecurity Operations Researcher | Pittsburgh, PA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Coca-Cola** | Manager - Information Technology Audi... | Atlanta, GA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Affirm** | Product Security Engineer II | Remote US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Appian** | Information Security Engineer Intern | McLean, Virginia | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Distinguished Engineer, AI Safety and... | Santa Clara, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Evaluation and ML Systems Engineer, A... | Santa Clara, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com Services LLC** | Security Engineer, Hardware Supply Ch... | Austin, TX | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JPMorgan Chase** | Supplier Cybersecurity Assessor - Vic... | Columbus, OH, Uni... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JP Morgan Chase** | Supplier Cybersecurity Assessor - Vic... | Columbus, OH, Uni... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JLL** | Sr Cyber Security Automation Engineer | Richmond, VA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Security Engineer (Detection Engineer... | Redmond, WA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Security Analyst (Threat Detection) | Hawthorne, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Security Analyst (SOC) | Hawthorne, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -380,14 +383,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Saronic Technologies** | Security Engineer, Cloud Security | Austin, TX | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Saronic Technologies** | Security Engineer, Network Security | Austin, TX | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Accenture Federal Services** | Cybersecurity Engineer | Arlington, VA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | Product Cybersecurity Engineer (Medic... | US, MA, Wilmington | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Guidehouse** | Cybersecurity Engineer - Endpoint  (T... | Arlington, VA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | BISO, Product Security | Washington Seattle | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **General Motors** | Manager, Offensive Product Cybersecur... | 2 Locations | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Oracle** | Field Chief Information Security Offi... | United States | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **The Trade Desk** | Application Security Engineer  II | Bellevue | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Boeing** | Experienced Product Security Engineer... | Berkeley, MO | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **The New York Times** | Engineering Manager, Cybersecurity | New York, NY | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | Product Cybersecurity Engineer (Medic... | US, MA, Wilmington | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **General Motors** | Manager, Offensive Product Cybersecur... | 2 Locations | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Oracle** | Field Chief Information Security Offi... | United States | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **The Trade Desk** | Application Security Engineer  II | Bellevue | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -399,19 +399,28 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Curtiss-Wright** | Quality Systems Engineer | Santa Clarita, CA | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Curtiss-Wright** | Supplier Quality Engineer | Arlington Heights... | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Systems Engineer III | Dayton, OH | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Jabil** | Industrial Engineer II | St. Petersburg/Ta... | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Jabil** | Quality Engineering Technician - 2nd ... | Richardson, TX | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | 2nd Shift Process Engineering Technician | US, MA, Chelmsfor... | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | Process Engineering Technician (Nights) | US, OR, Beaverton | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Oshkosh Corporation** | Mechanical Engineer | Orlando, Florida,... | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **SpaceX** | Propulsion Engineer (Raptor Flight) | Hawthorne, CA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | ASIC Design Verification Engineer, Pl... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | ASIC Power Engineer, ML Accelerators | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | ASIC Design Verification Engineer, TPU | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Lunar Lander Production Manufacturing... | Space Coast, FL | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Manufacturing Engineer II - Standards... | Greater Seattle Area | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Manufacturing Engineer II/III/Sr - Ma... | Space Coast, FL | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Quality Engineer I | Wisconsin | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Manager Manufacturing Process Enginee... | United States > P... | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | Systems Engineer | Beavercreek, OH | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | Model-Based Systems Engineer | San Diego, CA | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boeing** | Entry-Level Systems Engineer (Digital... | El Segundo, CA | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boeing** | Systems Engineer - Digital Signal Pro... | El Segundo, CA | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Network Test Engineer | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Hardware Engineer | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Curtiss-Wright** | Quality Systems Engineer | Santa Clarita, CA | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Curtiss-Wright** | Supplier Quality Engineer | Arlington Heights... | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Systems Engineer III | Dayton, OH | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Jabil** | Industrial Engineer II | St. Petersburg/Ta... | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Jabil** | Quality Engineering Technician - 2nd ... | Richardson, TX | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | 2nd Shift Process Engineering Technician | US, MA, Chelmsfor... | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | Process Engineering Technician (Nights) | US, OR, Beaverton | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Oshkosh Corporation** | Mechanical Engineer | Orlando, Florida,... | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **SpaceX** | Propulsion Engineer (Raptor Flight) | Hawthorne, CA | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Northrop Grumman** | Manager Electronics Engineering 2 | Maryland | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Comcast** | Engineer 1, Hardware Engineering | Philadelphia, PA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Medtronic** | Prin Manufacturing Engineer | Humacao, Puerto R... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -425,10 +434,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Elanco** | Electrical Engineer and Site Energy M... | Cuxhaven, DE | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elanco** | Pharmaceutical Process Engineer (m/w/d) | Cuxhaven, DE | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | Director, AI - Process Engineering | Alpharetta Georgia | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | FPGA Design Engineer - Instrument Eng... | San Diego | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Booz Allen Hamilton** | Systems Engineer | Beavercreek, OH | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Booz Allen Hamilton** | Model-Based Systems Engineer | San Diego, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Amentum** | Jr. Mechanical Engineer | Annapolis Junctio... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Apple** | FPGA Design Engineer - Instrument Eng... | San Diego | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Amentum** | Jr. Mechanical Engineer | Annapolis Junctio... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Paint Process Engineer | Bowling Green, Ke... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Controls & Process Engineer | Warren, Michigan,... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Manufacturing Engineer - Tooling & Eq... | Warren, Michigan,... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -449,11 +456,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KBR** | Junior Systems Engineer | Beavercreek, Ohio | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Daimler Truck** | TT/GX - Supplier Quality Engineer - A... | Detroit, MI US | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Momentive** | Process Engineer | Waterford, NY | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Abbott** | Manager Manufacturing Process Enginee... | United States > P... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **JLL** | Physical Security Systems Engineer - ... | Colorado City, TX | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Bristol Myers Squibb** | Associate Director, Aseptic & Sterile... | MA | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Thermo Fisher Scientific** | Process Engineer - Pharmaceutical Pac... | Allentown, Pennsy... | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Honeywell** | Quality Engineering Manager | Boyne City, MI, U... | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Bristol Myers Squibb** | Associate Director, Aseptic & Sterile... | MA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Thermo Fisher Scientific** | Process Engineer - Pharmaceutical Pac... | Allentown, Pennsy... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Honeywell** | Quality Engineering Manager | Boyne City, MI, U... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Intuitive** | Equipment /quality engineer | Mexicali, MEXICO | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Symbotic** | Quality Engineer | USA Remote & Trav... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Symbotic** | System Reliability Test Engineer | USA Remote & Travel | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -461,27 +466,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Hydro Mechanical Engineer | Memphis, TN, US | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CACI** | Electrical Engineer - Unmanned Systems | Aberdeen Proving ... | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Mechanical Engineer (Starship Compone... | Hawthorne, CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boeing** | Entry-Level Systems Engineer (Digital... | El Segundo, CA | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boeing** | Systems Engineer - Digital Signal Pro... | El Segundo, CA | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boeing** | Satellite Battery Electro-Mechanical ... | El Segundo, CA | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Schweitzer Engineering Laboratories** | Process Engineering Technician I (Wee... | Lewiston | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AMD** | Thermal Engineer | San Jose, CA, Uni... | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Human Computer Lab** | Supply Chain Engineer | San Francisco | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **RE/SPEC Inc.** | Structural Engineer in Training (EIT) | Anchorage, AK | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | AR/VR Design Validation Engineer | San Francisco Bay... | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Insulet Corporation** | Sr NPI and Validation Engineer (Onsit... | Acton, Massachusetts | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Anduril** | Manufacturing Engineer - Tooling & Au... | Atlanta, Georgia,... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | Quality Engineering Manager, Apple Se... | Cupertino | 10h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Insulet Corporation** | Sr NPI and Validation Engineer (Onsit... | Acton, Massachusetts | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Anduril** | Manufacturing Engineer - Tooling & Au... | Atlanta, Georgia,... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Relativity Space** | Manager, Launch Mechanical Engineering | Long Beach, Calif... | 10h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Microsoft** | Critical Environment Industrial Contr... | Dulles, Virginia,... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Microsoft** | Critical Environment Industrial Contr... | Dulles, Virginia,... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SpaceX** | Process Engineer, Machinery & Automation | Hawthorne, CA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lambda** | Hardware Quality Engineer | San Jose | 11h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | SoC HW (Digital, Analog or PnP) Valid... | Hillsboro, Oregon... | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Western Digital** | Summer 2027 Intern - Hardware Enginee... | San Jose, CA | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Western Digital** | Hardware Engineer | San Jose, CA | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Base Power** | Manufacturing Controls Engineer | Austin, TX | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Anduril** | Manufacturing Engineer | Lexington, Massac... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Base Power** | Manufacturing Controls Engineer | Austin, TX | 14h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Anduril** | Manufacturing Engineer | Lexington, Massac... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Anduril** | Electrical Engineer | Lexington, Massac... | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Mechanical Engineering Manager | Wisconsin | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Aerospace Corporation** | Enterprise Systems Engineer - Force D... | Crystal City, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Aerospace Corporation** | Digital Systems Engineer | Chantilly, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Draper** | Systems Integration & Test Engineer | Cambridge, MA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Analog Devices** | Etch/BE-Cleans Process Engineering Te... | US, OR, Beaverton | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CAE** | Systems Engineer | Binghamton, NY | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -491,9 +494,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Baker Hughes** | Electrical Controls Engineer | Tulsa, OK | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elanco** | Process Engineering Associate (Entry ... | Clinton, IN | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | AI - Process Engineering - Advisor  II | Alpharetta Georgia | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **HPE (University)** | ASIC Verification Engineer | Sunnyvale, Califo... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **HPE (University)** | Network Software Test Engineer IV | Roseville, Califo... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **HPE (University)** | ASIC verification engineer | Roseville, Califo... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allison Transmission** | Industrial Engineer & Tech Support | Indianapolis, IN | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ResMed** | Manufacturing Engineer | Calabasas, CA, Un... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Danaher** | Reagent Manufacturing Engineer | Indianapolis, Ind... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -510,35 +510,57 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **T-Mobile** | Account Executive, SMB Sales | Atlanta, Georgia | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **T-Mobile** | Account Executive, Business Team Sale... | California | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **T-Mobile** | Account Executive, Business Sales | San Francisco, Ca... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ASML** | Process Improvement Engineer – Manufa... | Wilton, CT, USA | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Envista Holdings** | Subassembly technician | Sturtevant | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Envista Holdings** | Dental Technician II – Procera Complete | NJ | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Envista Holdings** | Maintenance Technician (Westlake Vill... | 2 Locations | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Maintenance Technician II (Straight F... | Centennial, CO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Franklin Templeton** | VP Business Development - Crypto Markets | New York, New Yor... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Red Hat** | Sales Operations Analyst 2 | Raleigh | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Wolters Kluwer** | Customer Service Operations Associate... | Dallas, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Wolters Kluwer** | Advanced Inside Sales Representative,... | Coppell, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Jabil** | Debug Training Technician CVG200 - 401 | Florence, KY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Jabil** | Equipment Maintenance Technician III ... | Hendersonville, NC | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | Equipment Technician 2 – Diffusion & ... | US, OR, Beaverton | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | Supply Chain Analyst | US, MA, Chelmsfor... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Oshkosh Corporation** | Automotive Offline Technician - 1st | Spartanburg, Sout... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Oshkosh Corporation** | Automotive Offline Technician- 3rd shift | Spartanburg, Sout... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CAE** | Facilities Support II | Phoenix | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **HP Inc** | Inside Sales Representative – Enterpr... | Rio Rancho, New M... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **HP Inc** | Enterprise Account Manager | All Cities, Color... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **DriveTime** | Automotive Technician | 2451 McCracken Rd... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sony** | Payments Operations Analyst | San Diego | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Project Management Project Intern (Re... | San Jose, California | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Technical Program Manager, Compliance... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Technical Solutions Consultant Manage... | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Android XR Technical Solutions Consul... | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JLL** | HVAC Technician | Atlanta, GA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JLL** | Project Coordinator/Construction | Rosemead, CA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JLL** | Facility Manager, Facilities Services | Martinsburg, WV | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Fresenius Medical Care** | Biomedical Technician | Kokomo, IN | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Fresenius Medical Care** | Biomedical Technician | Lima, OH | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Fresenius Medical Care** | Biomedical Technician | Robbinsdale, MN, USA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Lunar Technician - Assembly & Integra... | Space Coast, FL | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Aerospace Welding Technician - Weeken... | Huntsville, AL | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Technician - Assembly & Integration (... | Greater Seattle Area | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avis Budget Group** | Retail Car Sales Representative | 10902 N. Florida ... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avis Budget Group** | Lube and Tire Technician - PT | Orlando Internati... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avis Budget Group** | Entry Level Automotive Technician - FT | Baton Rouge Metro... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Logistics Specialist | Wisconsin | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Associate Specialist Procurement | Ohio | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Controls Technician - Night Shift | Ohio | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Strategic Account Manager, CSP - Netw... | US, CA, Santa Clara | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Global Account Manager, Developer Rel... | Santa Clara, CA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Salesforce** | Qualified SMB Account Executive | California | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Salesforce** | Commercial/Enterprise Account Executi... | Illinois Chicago | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Salesforce** | Customer Success Manager - Global Pub... | Illinois Chicago | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **GE Aerospace** | Electrical & Instrumentation (E&I) Ma... | Newark | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avnet** | Account Manager - Automation (Americas) | Wilmington, Massa... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Trimble** | Account Executive, MM - New Logo | Remote, IA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Project Management Analyst Graduate (... | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Project Management Project Intern (Re... | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Technical Program Manager, Compliance... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Technical Solutions Consultant Manage... | United States | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Android XR Technical Solutions Consul... | United States | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **T-Mobile** | Account Executive, SMB Sales | Atlanta, Georgia | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **T-Mobile** | Account Executive, Business Team Sale... | California | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **T-Mobile** | Account Executive, Business Sales | San Francisco, Ca... | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ASML** | Process Improvement Engineer – Manufa... | Wilton, CT, USA | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Envista Holdings** | Subassembly technician | Sturtevant | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Envista Holdings** | Dental Technician II – Procera Complete | NJ | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Maintenance Technician II (Straight F... | Centennial, CO | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Franklin Templeton** | VP Business Development - Crypto Markets | New York, New Yor... | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Red Hat** | Sales Operations Analyst 2 | Raleigh | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Wolters Kluwer** | Customer Service Operations Associate... | Dallas, TX | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Wolters Kluwer** | Advanced Inside Sales Representative,... | Coppell, TX | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Jabil** | Debug Training Technician CVG200 - 401 | Florence, KY | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Jabil** | Equipment Maintenance Technician III ... | Hendersonville, NC | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | Equipment Technician 2 – Diffusion & ... | US, OR, Beaverton | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | Supply Chain Analyst | US, MA, Chelmsfor... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Oshkosh Corporation** | Automotive Offline Technician - 1st | Spartanburg, Sout... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Oshkosh Corporation** | Automotive Offline Technician- 3rd shift | Spartanburg, Sout... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CAE** | Facilities Support II | Phoenix | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **HP Inc** | Inside Sales Representative – Enterpr... | Rio Rancho, New M... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **HP Inc** | Enterprise Account Manager | All Cities, Color... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **DriveTime** | Automotive Technician | 2451 McCracken Rd... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sony** | Payments Operations Analyst | San Diego | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **State Street** | National Account Manager, VP I - Stat... | Austin, Texas | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Magna** | Technician, Engineering | Mesa, Arizona, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Magna** | Design Project Coordinator | Brampton, Ontario... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -572,44 +594,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fiserv** | Government Sales Executive | New Jersey | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | Outside Sales Representative - Chicag... | Remote, Illinois | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TD Synnex** | Electronics Repair Technician I (WW) | Groveport, Ohio, ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **GE Aerospace** | Electrical & Instrumentation (E&I) Ma... | Newark | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Member Solutions** | Sales Development Representative (Out... | USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | Account Executive - Data Foundation (... | Illinois Chicago | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | Named Account Executive, Aerospace | Washington DC Metro | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | Agentforce & Data 360 Technical Suppo... | Georgia Atlanta | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Palo Alto Networks** | Solutions Consultant 2 - Federal Syst... | Arlington, United... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Verizon** | Retail Sales Associate | 8385 E 49th AVE, ... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Verizon** | Retail Sales Associate | 4329 Candlewood S... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Verizon** | Retail Sales Associate | 5065 Tuttle Cross... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Philips** | Revenue Operations & Planning Manager | Murrysville, Penn... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Philips** | Service Solutions Sales Account Manager | Orlando Florida U... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Workday Inc** | Large Enterprise Account Executive - ... | Minneapolis, MN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Workday Inc** | Manager, Sales Development | Atlanta, GA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CIBC** | Private Wealth Business Development O... | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **KLA** | Customer Support Engineer | Boise, ID | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **KLA** | Business Development Manager - China | Milpitas, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Amentum** | Supply Technician Wheeler AAF, HI | Honolulu, HI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Amentum** | Biometrics (Fingerprint) Technician -... | Hartford, CT | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Amentum** | Biometrics (Fingerprint) Technician -... | Fort Myers, FL | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Philips** | Revenue Operations & Planning Manager | Murrysville, Penn... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Philips** | Service Solutions Sales Account Manager | Orlando Florida U... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Workday Inc** | Large Enterprise Account Executive - ... | Minneapolis, MN | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Workday Inc** | Manager, Sales Development | Atlanta, GA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Private Wealth Business Development O... | New York, NY | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **KLA** | Customer Support Engineer | Boise, ID | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **KLA** | Business Development Manager - China | Milpitas, CA | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Amentum** | Supply Technician Wheeler AAF, HI | Honolulu, HI | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Amentum** | Biometrics (Fingerprint) Technician -... | Hartford, CT | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Amentum** | Biometrics (Fingerprint) Technician -... | Fort Myers, FL | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ICF** | Associate Operations Specialist - Hyb... | Columbia, MD | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **General Motors** | Trim Technician | Warren, Michigan,... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **General Motors** | Vehicle Integration Technician | Milford, Michigan... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cognex** | Territory Sales Engineer | Field | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Leidos** | JRSS NOC Technician III | Shiloh, IL | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ABB** | Corporate Account Manager Pulp & Paper | Ohio United State... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ABB** | Maintenance Technician | USA, TN, Mount Ju... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ABB** | Field Service Technician | Remote, Oregon, U... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Stanley Black & Decker** | 3rd shift Manufacturing Automation Te... | Hesston, KS, Unit... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Allstate** | Licensed Under 65 Group Sales Represe... | 41 Locations | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **GE Healthcare** | Pharma Manufacturing Technician 1 (3r... | Arlington Heights | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **GE Healthcare** | Materials Logistics Specialist I (Buy... | Phoenix | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Coca-Cola** | Maintenance Technician - Refrigeratio... | Auburndale, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | IT Procurement Manager | Omaha, NE | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Boys Town** | Financial Operations Analyst (On Site) | Omaha, NE | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Altera** | Security Operations Specialist | San Jose, Califor... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AES Corporation** | Solar & BESS Technician I | US, Kauai, Hawaii | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Zayo** | NCC Tier I Technician | United States | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Danaher** | Technical Support Engineer, Enterpris... | Remote | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,106 +621,106 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **T-Mobile** | Mobile Associate, Store-in-Store, Ret... | Phoenix, Arizona | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **T-Mobile** | Mobile Associate - Retail Sales | Fresno, California | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **T-Mobile** | Mobile Associate - Retail Sales | Salt Lake City, Utah | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ASML** | Competency Engineer – Quality - Taylo... | Austin, TX, USA | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Adobe** | Software Development Engineer, Commer... | San Jose | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Curtiss-Wright** | Chief Engineer -Aerospace Actuation a... | Shelby, NC | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cisco** | Pricing & Strategy Analyst | Santa Monica Cali... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cisco** | Pricing & Strategy Analyst | San Jose Californ... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Granite Construction** | Paving Construction Laborer  (Dickers... | Brookhaven Missis... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Granite Construction** | Paving Construction Laborer  (Dickers... | Jackson Mississippi | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Envista Holdings** | Customer Care Representative | WI | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Engineering Manager I | Lone Tree, CO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Mission Operations Liaison III - Depl... | Shalimar, FL | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Sierra Nevada Corporation** | Aircraft Maintenance Planning Manager | Dayton, OH | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Huntsman** | Accountant | Louisiana | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **NVIDIA** | Technical Product Marketing Engineer | US, CA, Santa Clara | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **NVIDIA** | Global Channel Manager, Robotics and ... | US, CA, Santa Clara | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **University of Texas at Austin** | Research Integrity Coordinator, Offic... | AUSTIN, TX | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Draper** | Government Property Specialist | Cambridge, MA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Draper** | Supervisor 2, Information System Secu... | Cambridge, MA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Franklin Templeton** | Program Manager, Digital Audience Eng... | 5 Locations | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Franklin Templeton** | Specialist, Middle Office Client Serv... | New York City, Ne... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Franklin Templeton** | Director, Digital Audience Engagement | 5 Locations | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JLL** | Sr Ground Up Construction Project Man... | Los Angeles, CA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JLL** | Painter/Drywall Repair/Handyman – Gen... | Atlanta, GA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JLL** | General Maintenance Worker (3rd Shift) | Mattawan, MI | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Oak Creek, WI | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Hampton, VA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **HARMAN International** | Director of North America Professiona... | California, USA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **HARMAN International** | Regional Sales Manager,  Martin Profe... | Texas, USA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Sr Operations & Integration Engineer | Space Coast, FL | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | Engineering License and Workload Auto... | Greater Seattle Area | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Blue Origin** | AWS Systems Admin III - ACE Product E... | Greater Seattle Area | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avis Budget Group** | Customer Experience Specialist - FT | Detroit Metro Air... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avis Budget Group** | Customer Experience Specialist - PT | Detroit Metro Air... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avis Budget Group** | Customer Return Representative - FT | Philadelphia Inte... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Manager Brand Insights & Measurement | 2 Locations | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Sales District Manager - Pediatric Nu... | United States of ... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Abbott** | Clinical Contracts Associate II | United States > T... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Manager, Tegra Software Chip | US, CA, Santa Clara | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Circuit Design Engineer - Standard Cell | US, CA, Santa Clara | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **NVIDIA** | Physical Design Engineer, Synthesis a... | US, MA, Westford | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | Systems Integrator | El Segundo, CA | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | C5ISRT Intelligence Analyst | Washington, DC | 2m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Booz Allen Hamilton** | Education Action Officer | Arlington, VA | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Salesforce** | Employee Success Shared Services Spec... | Indianapolis | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Salesforce** | Social Media & Influencer Manager | Indiana Indianapolis | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Guidehouse** | Scientific Program Analyst | MD, Rockville | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Guidehouse** | Patient Account Representative - Medi... | SD, Mitchell | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Guidehouse** | Project Supervisor - Hospital A/R - P... | Lewisville, TX | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Ancestry** | Archival Digitization Specialist- Den... | Denver, CO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Alteryx** | America's RSI Manager | Remote | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | Pharmacy Intern - Grad | 00074 - Virginia ... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | Pharmacy Intern - Grad | 00074 - Virginia ... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CVS Health** | Pharmacy Intern - Grad | 00623 - Connectic... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boeing** | Structural Analysis Engineer (Associa... | North Charleston, SC | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boeing** | Mid-Level Structural Analysis Enginee... | North Charleston, SC | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Boeing** | Mid-Level Structures Design Engineer ... | North Charleston, SC | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Aerospace Corporation** | Optical Thin Films Research Associate | El Segundo, CA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **FIS** | Sr Director, Sales Compensation | Jax, FL | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **FIS** | Sr Director, Strategy & Planning - Cl... | Atl, GA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **FIS** | Head of Financial Crimes Compliance | Jax, FL | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avnet** | Distribution Center Representative I | Chandler, Arizona... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Penn State University** | Library Student Aide - Lehigh Valley ... | Penn State Lehigh... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Trimble** | Strategic Services Manager, TruckMate | US, NJ | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Trimble** | GNSS Support Specialist | CO, Westminster | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **PTC** | Business Solutions Manager | HO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **PTC** | Office Manager - Shoreview, MN | Shoreview, MN, USA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AllianceBernstein** | Programmer/Analyst | Nashville, Tennessee | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Capital One** | Relationship Manager | Plano, TX | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Capital One** | Director, Project Management | Plano, TX | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Capital One** | Manager, Accounting - Controllers Group | Richmond, VA | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cboe** | Investigator | Chicago, IL | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cboe** | Third-Party Risk Management Specialist | Chicago, IL | 3m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cboe** | SVP, Head of US Equities | New York, NY | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Yahoo** | Associate HR Generalist | United States of ... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Yahoo** | AI Operations Strategist | United States of ... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Radiance Technologies** | Remote Sensing Scientist | Wright Patt AFB O... | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Radiance Technologies** | Entry-level Microelectronics R&D Engi... | Huntsville, AL | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Radiance Technologies** | Software Tester | Beavercreek, OH | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Ancestry** | Archival Digitization Specialist- Den... | Denver, CO | 3m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Wolters Kluwer** | Associate Director, Sales Operations ... | Cary, NC | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Wolters Kluwer** | IT Security Manager | MD | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Jabil** | Cloud Test Development Engineer | Florence, KY | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Jabil** | IE NPI Tech IV M-F | Florence, KY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Jabil** | Assembler 2 | Salt Lake City/Gr... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | Wafer Fab Operator (Night Shift Only)... | US, WA, Camas | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | Wafer Fab Operator - All Shifts | US, WA, Camas | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Analog Devices** | Wafer Fab Operator - All shifts avail... | US, WA, Camas | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Oshkosh Corporation** | Chassis Controls System Engineer | Oshkosh, Wisconsi... | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Oshkosh Corporation** | Welder I – Day Shift ($24.09/Hr+) | Murfreesboro, Ten... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Oshkosh Corporation** | Welder I – 2nd Shift $2 shift Increase | Murfreesboro, Ten... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CAE** | Quality Assurance Specialist | Lake Nona, FL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CAE** | Portfolio Manager, Civil Training Pro... | Dallas, TX | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Carnegie Mellon University** | Academic Coordinator - School of Comp... | Pittsburgh, PA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **HP Inc** | Partner Sales | All Cities, Flori... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Crane Co.** | NDT Inspector (Level II MT and PT) | Elyria, Ohio | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Crane Co.** | Welder II / Welder III | Jurupa Valley, Ca... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Crane Co.** | Quality Manager | Chandler, Arizona | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Campbell Soup Company** | Relief/Regular Truck Driver | PA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Campbell Soup Company** | Industrial/Food Manufacturing Sanitat... | TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Campbell Soup Company** | PT Forklift Richmond, AM Shift | UT | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **DriveTime** | Sales & Operations Advisor in Training | 3737 Ming Ave Bak... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **DriveTime** | Sales & Operations Advisor in Training | 2301 N Oracle Rd ... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **DriveTime** | Sales & Operations Advisor in Training | 1354 E Main St Sa... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Proofpoint** | Security Solution Engineer I | Oregon | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **PIMCO** | Head of Client Reporting Platform | Austin, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **PIMCO** | Manager, Fee Strategy | Newport Beach, CA... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **PIMCO** | Investment Professional - CRE Equity ... | Newport Beach, CA... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Dow Jones** | Executive Assistant, Office of the CEO | NYC | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Veritiv** | General Help | Corru | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Veritiv** | Strategic Sourcing Deal Desk Manager | GA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Veritiv** | Warehouse Worker | MN | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Entrust** | Supervisor of Production | MN | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Viavi Solutions** | Operations  NPI Project Manager | Bothell, WA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Bloomberg Industry Group** | Tax Product Management Director | Arlington, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Ambarella** | Administrative Services Manager | Headquarters | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **DigiKey** | Supervisor, Export Trade Compliance | Thief River Falls... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **SpaceX** | Supervisor, Production Scheduling (Tu... | Hawthorne, CA | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Student Researcher (AI Foundation Mod... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Student Researcher (AI Foundation Mod... | Seattle, Washington | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Student Researcher (Multimodal Intera... | San Jose, California | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **SpaceX** | GNC Engineer (Starfall) | Hawthorne, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Silicon Design Verification Engineer,... | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | TPU SoC Integration Engineer, Cloud | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | TPU SoC Design Engineer, Google Cloud | United States | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **State Street** | Primary System Analyst, Off | Burlington Massac... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **State Street** | Data Protection, Managing Director | Berwyn Pennsylvania | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **State Street** | EM FX Trader, Assistant Vice Presiden... | Boston, Massachus... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Magna** | General Helper - Weekend Shift | Brampton, Ontario... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Magna** | Material Handler | Mesa, Arizona, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Magna** | Vehicle Handler | Mesa, Arizona, US | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Barclays** | Director, HR Business Partner | New York, 745 7th... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Barclays** | Business Manager - Transaction Bankin... | New York, 745 7th... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Barclays** | Mortgage Research VP | New York, 745 7th... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Uline** | Warehouse Custodian / Janitor | Braselton, GA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Northrop Grumman** | Material Processor for Split Shift | Maryland | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Northrop Grumman** | Manager Quality 1 (2nd Shift) | Maryland | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Northrop Grumman** | 2026 Associate Aeronautical Engineer ... | Florida | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AstraZeneca** | Statistical Science Director V&I | MD | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AstraZeneca** | Statistical Science Director - Late O... | MD | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AstraZeneca** | Pharmaceutical Sales Specialist - R&I... | CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Generac** | Director Operations | Rockford, IL - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Generac** | Manager, Materials | Rockford, IL - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Generac** | Quality Manager | Rockford, IL - USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Student Researcher (AI Foundation Mod... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Student Researcher (AI Foundation Mod... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Student Researcher (Multimodal Intera... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | NPI Engineer, Embedded Firmware and S... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Engineering Manager, SSD Storage | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Engineering Manager, Network Management | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **T-Mobile** | Mobile Associate, Store-in-Store, Ret... | Phoenix, Arizona | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **T-Mobile** | Mobile Associate - Retail Sales | Fresno, California | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **T-Mobile** | Mobile Associate - Retail Sales | Salt Lake City, Utah | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ASML** | Competency Engineer – Quality - Taylo... | Austin, TX, USA | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Adobe** | Software Development Engineer, Commer... | San Jose | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Curtiss-Wright** | Chief Engineer -Aerospace Actuation a... | Shelby, NC | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cisco** | Pricing & Strategy Analyst | Santa Monica Cali... | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cisco** | Pricing & Strategy Analyst | San Jose Californ... | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Granite Construction** | Paving Construction Laborer  (Dickers... | Brookhaven Missis... | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Granite Construction** | Paving Construction Laborer  (Dickers... | Jackson Mississippi | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Envista Holdings** | Customer Care Representative | WI | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Engineering Manager I | Lone Tree, CO | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Mission Operations Liaison III - Depl... | Shalimar, FL | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Sierra Nevada Corporation** | Aircraft Maintenance Planning Manager | Dayton, OH | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Huntsman** | Accountant | Louisiana | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **University of Texas at Austin** | Research Integrity Coordinator, Offic... | AUSTIN, TX | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Draper** | Government Property Specialist | Cambridge, MA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Draper** | Supervisor 2, Information System Secu... | Cambridge, MA | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Franklin Templeton** | Specialist, Middle Office Client Serv... | New York City, Ne... | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cboe** | Investigator | Chicago, IL | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cboe** | Third-Party Risk Management Specialist | Chicago, IL | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cboe** | SVP, Head of US Equities | New York, NY | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Yahoo** | Associate HR Generalist | United States of ... | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Yahoo** | AI Operations Strategist | United States of ... | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Radiance Technologies** | Entry-level Microelectronics R&D Engi... | Huntsville, AL | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Radiance Technologies** | Software Tester | Beavercreek, OH | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Radiance Technologies** | Integration Specialist | Huntsville, AL | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Wolters Kluwer** | Associate Director, Sales Operations ... | Cary, NC | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Wolters Kluwer** | IT Security Manager | MD | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Jabil** | Cloud Test Development Engineer | Florence, KY | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Jabil** | IE NPI Tech IV M-F | Florence, KY | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Jabil** | Assembler 2 | Salt Lake City/Gr... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | Wafer Fab Operator (Night Shift Only)... | US, WA, Camas | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | Wafer Fab Operator - All Shifts | US, WA, Camas | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Analog Devices** | Wafer Fab Operator - All shifts avail... | US, WA, Camas | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Oshkosh Corporation** | Chassis Controls System Engineer | Oshkosh, Wisconsi... | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Oshkosh Corporation** | Welder I – Day Shift ($24.09/Hr+) | Murfreesboro, Ten... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Oshkosh Corporation** | Welder I – 2nd Shift $2 shift Increase | Murfreesboro, Ten... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CAE** | Quality Assurance Specialist | Lake Nona, FL | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CAE** | Portfolio Manager, Civil Training Pro... | Dallas, TX | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Carnegie Mellon University** | Academic Coordinator - School of Comp... | Pittsburgh, PA | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **HP Inc** | Partner Sales | All Cities, Flori... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Crane Co.** | NDT Inspector (Level II MT and PT) | Elyria, Ohio | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Crane Co.** | Welder II / Welder III | Jurupa Valley, Ca... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -781,7 +781,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 32063 current opportunities from 847 companies**
+**🎯 32262 current opportunities from 845 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
