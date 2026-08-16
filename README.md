@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-57325-brightgreen?style=flat&logo=briefcase)
-![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-41037-informational?style=flat&logo=briefcase)
+![New Grad Jobs](https://img.shields.io/badge/New_Grad_Jobs-57311-brightgreen?style=flat&logo=briefcase)
+![Top: Other Jobs](https://img.shields.io/badge/Other_Jobs-41022-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-849-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Jobs-2027?style=flat&logo=calendar)
 
@@ -66,10 +66,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Western Digital** | Software Engineer | San Jose, CA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138717897) |
-| **Western Digital** | Software Engineering Co-Op - Winter 2027 | Rochester, MN | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) |
-| **Wellmark, Inc.** | Platform Engineer - Digital Workforce... | Des Moines, IA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000138201250) |
-| **Wellmark, Inc.** | Platform Engineer | Des Moines, IA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136512019) |
+| **Western Digital** | Software Engineer | San Jose, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138717897) |
+| **Western Digital** | Software Engineering Co-Op - Winter 2027 | Rochester, MN | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) |
+| **Wellmark, Inc.** | Platform Engineer - Digital Workforce... | Des Moines, IA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000138201250) |
+| **Wellmark, Inc.** | Platform Engineer | Des Moines, IA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136512019) |
 | **Veolia Environnement SA** | Product Manager - Microelectronics (W... | Boulder, CO | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138173599) |
 | **Smiths Group** | Reliability Engineer/Vibration Analyst | Trainer, PA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000137978435) |
 | **Smiths Group** | Reliability Engineer/Vibration Analyst | Houston, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000137978590) |
@@ -95,13 +95,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Full Stack Engineer - ACTIVE SECURITY... | Livermore, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013949396) |
 | **Intuitive** | Product Manager, Serviceability | Sunnyvale, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000131983369) |
 | **INFICON** | Mobile Application Developer | East Syracuse, NY | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000138400099) |
-| **Eurofins** | Full Stack Web Developer | Stafford, TX | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137987229) |
-| **EVERSANA** | Salesforce Service Cloud Product Anal... | Boston, MA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133638950) |
+| **Eurofins** | Full Stack Web Developer | Stafford, TX | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137987229) |
+| **EVERSANA** | Salesforce Service Cloud Product Anal... | Boston, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000133638950) |
 | **EVERSANA** | IT Manager/Technology Product Owner -... | Boston, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000140094468) |
 | **Codeage** | Web Developer Intern - WordPress and ... | Beverly Hills, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Codeage/743999669081604) |
 | **Bosch Group** | Rotational Development Program – Soft... | Farmington Hills, MI | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000134464179) |
-| **Bosch Group** | Software Engineer | Owatonna, MN | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137750719) |
-| **Bosch Group** | Software Engineer (Base Software/ Dia... | Plymouth, MI | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139296629) |
 | **PointClickCare** | US- Outbound Product Manager (PEO) | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/501d471e-1afb-4246-8b9f-9e7eeb34cab4) |
 | **PointClickCare** | Intermediate AI-Enabled DevOps Engineer | Salt Lake City, UT | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/94b85a28-9893-48c5-a2bb-a50175887ef1) |
 | **PointClickCare** | Product Manager - Data Platform | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/708c41cf-816e-4e06-8528-e33ed111aeaf) |
@@ -110,62 +108,64 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoox** | Software Engineer - Behavior Capabili... | Foster City, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/b7c1a78f-43b9-4142-bd71-97022a760750) |
 | **Woven by Toyota** | Software Engineer - Data Workflows | Ann Arbor, MI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/ba39a024-c4c3-4966-a696-95db0e1dc445) |
 | **Woven by Toyota** | Software Engineer, Calibration (Analy... | Ann Arbor, MI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
-| **Wintermute Trading** | Product Manager | London/New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/cc1ae0c6-7e19-4aa3-95aa-0d109b10edda) |
-| **Waabi** | Physical Infrastructure Engineer (On-... | Dallas, TX | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/933f2e35-ffaf-41db-b836-56de0323f519) |
 | **Waabi** | Vehicle Reliability Engineer | Dallas, TX | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/4889104b-bb12-4fd7-a332-843fbb45f0a4) |
-| **WeRide** | Application Engineer | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/82955de9-485d-4db0-8fd9-1c018489fc8d) |
-| **WeRide** | General Software Engineer | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/2f22df18-e019-450e-bcfa-9b1c7b94334f) |
+| **Waabi** | Physical Infrastructure Engineer (On-... | Dallas, TX | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/933f2e35-ffaf-41db-b836-56de0323f519) |
+| **Wintermute Trading** | Product Manager | London/New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/cc1ae0c6-7e19-4aa3-95aa-0d109b10edda) |
 | **WeRide** | Software Engineer - Backend / Infrast... | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/92454854-2938-4a18-a920-2c1295986ddb) |
-| **Veeva Systems** | Technical Product Manager | Boston | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/d403972d-cec8-4772-9197-c44024bc5cc3) |
-| **Veeva Systems** | Technical Product Manager | Boston | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/d7001e2a-50f3-436c-8d81-908fdd172461) |
+| **WeRide** | Software Engineer - Mapping & Localiz... | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/acb82703-595c-48bc-9b7c-815a70d0c5a9) |
+| **WeRide** | Application Engineer | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/82955de9-485d-4db0-8fd9-1c018489fc8d) |
 | **Veeva Systems** | Technical Product Manager - AI Solutions | Boston | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/6cd74bcb-461a-451d-8233-70b4ce9c5582) |
-| **Valkyrie Trading** | Junior Software Engineer | Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c) |
+| **Veeva Systems** | Technical Product Manager - AI Solutions | Boston | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/756fc7c3-f155-4eaf-b5c6-5544604024b4) |
+| **Veeva Systems** | Technical Product Manager - Veeva Lab... | Boston | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/3840a8a5-64b6-42af-a1ef-e160afeba4d0) |
 | **Velo3D** | Software Engineer (Python / C++) — ML... | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/3e863477-42cc-4b09-876c-cea5958f7fa4) |
 | **Velo3D** | Software Engineer, Integration and Di... | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/75689159-f92e-4c17-813a-7e6715f1f2e6) |
 | **Voltus** | Software Engineer | Remote | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2) |
-| **AbbVie** | Software Engineer - Information Secur... | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013250184) |
+| **Valkyrie Trading** | Junior Software Engineer | Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c) |
 | **Synergy ECP** | Software Engineer | Annapolis Junction, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/9937b3dd-fa2f-40ae-995b-3a896a0e3bd9) |
 | **Synergy ECP** | Atlassian Platform Engineer | Washington, DC | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/5c179579-b165-405b-be71-6834f0694866) |
 | **Synergy ECP** | DevOps / Cloud Engineer | Annapolis Junction, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/74407fb7-d102-4b50-811f-f2093b6f28a2) |
-| **Sunwater Capital** | DevOps Engineer | North Bethesda, MD | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sunwatercapital/838587c4-9176-420a-a303-b5960e584282) |
-| **AbbVie** | Specialist, IT Infrastructure | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013671726) |
-| **Spotify** | Product Designer - Advertising | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/fc779380-7e9c-48be-a730-e789fed1879e) |
+| **Bosch Group** | Software Engineer | Owatonna, MN | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137750719) |
 | **Spotify** | Frontend Engineer - Music | New York, NY | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/a8606ee6-84b9-4677-af2f-b57f1e71fd91) |
 | **Spotify** | Fullstack Engineer - Podcast | New York, NY | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/514d9f1b-c930-4945-88db-e7fda5f18b76) |
+| **Spotify** | Product Designer - Advertising | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/fc779380-7e9c-48be-a730-e789fed1879e) |
 | **SoloPulse** | Software Engineer Intern/Co-Op - Fall... | Peachtree Corners, GA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) |
+| **Sunwater Capital** | DevOps Engineer | North Bethesda, MD | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sunwatercapital/838587c4-9176-420a-a303-b5960e584282) |
 | **Shield AI** | Software Engineer II, Autonomy Behavi... | Boston, MA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/b682f55e-ca09-444b-8251-38422567ada8) |
 | **Shield AI** | Product Manager, AI/ML & Foundation M... | San Diego, California | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/7886f437-2d5e-4616-8dcb-3dc488f1f585) |
 | **Shield AI** | Ground Control Station (GCS) Software... | Dallas, Texas | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/cf148e69-2ca0-4bfd-a4cc-af214bfcce8a) |
-| **AbbVie** | Technology Engineer II – Platform & F... | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014160896) |
 | **Saviynt** | AI Platform Engineer, Training and In... | Milpitas, California | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28) |
 | **Samba TV** | Product Manager - Data Clean Rooms | New York City, New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sambatv/418cf1b1-7c16-45dc-aee4-4232da7adaef) |
 | **Samba TV** | Product Manager - Outcomes & Attribution | Los Angeles, California | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sambatv/4ab583d2-38ce-4f99-a85d-7f87db1a0766) |
 | **Samba TV** | Product Manager, Identity | New York City, New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sambatv/c4197a68-54ad-400e-9060-6d291d051105) |
-| **Rainmaker** | Software Engineering Intern | El Segundo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
 | **PlusAI** | Software Engineer, Runtime & C++ Midd... | Santa Clara, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/1a1fc0e8-0741-4be1-adbb-52aa418eecf2) |
 | **PlusAI** | Software Engineer, Simulation | Santa Clara, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/3e6f5196-a87d-402a-8bbf-b6dd14a82c78) |
-| **Rigetti** | IC Layout Automation Software Engineer | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rigetti/515ec1e2-bbdc-4488-b062-32f6f124c239) |
+| **Bosch Group** | Software Engineer (Base Software/ Dia... | Plymouth, MI | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139296629) |
 | **Qrypt** | Backend Software Engineer (AI Native) | Austin, TX | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/qrypt/016e4e80-3ba4-49b3-a3d7-d404db20b65d) |
 | **Qrypt** | Embedded Software Engineer | Germantown, MD | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/qrypt/c1ed6b7c-eadd-4476-9abc-b4b1e1272573) |
+| **Rainmaker** | Software Engineering Intern | El Segundo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
+| **Rigetti** | IC Layout Automation Software Engineer | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rigetti/515ec1e2-bbdc-4488-b062-32f6f124c239) |
 | **Pivotal Software** | Embedded Software Engineer II | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/e38dc745-b5cf-4baa-82e0-60a6782a00f7) |
 | **PingWind** | Software Engineer | Virginia Beach, VA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/50ed87eb-c3ce-4db3-bf46-2f88b81cc780) |
-| **Palantir** | Web Application Developer - Defense | Washington, D.C. | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/4255e21c-d0f2-4f57-b5db-1f65830d6425) |
-| **Palantir** | Web Application Developer - Defense | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/6a82fd06-5754-46c2-8214-9ca4cd89fb9d) |
-| **Palantir** | Web Application Developer - Defense | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/96e4295f-3af7-48e5-a2c8-74622eaf5587) |
+| **Palantir** | Year at Palantir - Forward Deployed S... | Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
+| **Palantir** | Year at Palantir - Forward Deployed S... | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
+| **Palantir** | Year at Palantir - Forward Deployed S... | Washington, D.C. | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
 | **Parallel Wireless** | 5G/LTE Network Engineer I | Greater Boston Area | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/parallelwireless/312ac1c6-035e-4585-abfd-a1d5865bc9f7) |
 | **Match Group** | Software Engineer II, Backend | Los Angeles, California | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/990882fc-4d03-4a49-b16c-4af72b8a2094) |
 | **Match Group** | Software Engineer, iOS | Los Angeles, California | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/61e35c3c-3156-4760-a088-4a3765e37f8e) |
 | **Match Group** | Android Engineer III | New York, New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/3414ba28-35f7-45d3-8e13-35c883959635) |
-| **Lumafield** | Application Engineer, CV/ML | San Francisco, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/0bcd8cce-ce74-4f39-a0f7-182278d4844b) |
+| **AbbVie** | Software Engineer - Information Secur... | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013250184) |
 | **Lumafield** | Backend Software Engineer | San Francisco, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/a162ca4e-4beb-4f6f-94ac-44e327e481b0) |
 | **Lumafield** | Systems Software Engineer | Boston, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/a036458c-267a-4aae-a93a-c1368e18b2b3) |
+| **Lumafield** | Application Engineer, CV/ML | San Francisco, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/0bcd8cce-ce74-4f39-a0f7-182278d4844b) |
+| **Life.Church (YouVersion)** | Infrastructure Engineer | Edmond, OK | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/34a14720-0d19-452a-86eb-8cb021426381) |
+| **Life.Church (YouVersion)** | Product Designer | Edmond, OK | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/bebe266c-9cd5-4bd5-a525-1e817a7585a9) |
+| **Life.Church (YouVersion)** | Software Engineer | Edmond, OK | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/66c365e4-5128-4510-99cc-66a938fd559f) |
+| **Machina Labs** | Full Stack Engineer | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/f3bb50fc-2e20-4823-b389-7f448af90e3a) |
+| **Machina Labs** | Software Engineer in Test (SET) | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/8658cfcf-5fcc-411d-82d1-7187cbd38633) |
 | **Layup Parts** | Software Engineer | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/23ed4d2a-495d-4ddb-95c9-79bf3baf62b1) |
 | **Layup Parts** | Software Engineer (Computational Geom... | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/b2ab778f-63bb-482c-83ab-19961b7fe6b5) |
 | **Layup Parts** | Software Engineering Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53) |
-| **Machina Labs** | Full Stack Engineer | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/f3bb50fc-2e20-4823-b389-7f448af90e3a) |
-| **Machina Labs** | Software Engineer in Test (SET) | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/8658cfcf-5fcc-411d-82d1-7187cbd38633) |
-| **Life.Church (YouVersion)** | Infrastructure Engineer | Edmond, OK | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/34a14720-0d19-452a-86eb-8cb021426381) |
-| **Life.Church (YouVersion)** | Product Designer | Edmond, OK | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/bebe266c-9cd5-4bd5-a525-1e817a7585a9) |
+| **Institute for Foundation Models** | Full Stack Software Engineer | Sunnyvale, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/1454349c-eb2b-480b-9a57-edfbb2aeeffe) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,8 +177,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wellmark, Inc.** | Data Science Consultant - Pharmacy | Des Moines, IA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136511728) |
-| **Wellmark, Inc.** | Data Science Associate | Des Moines, IA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136511169) |
+| **Wellmark, Inc.** | Data Science Consultant - Pharmacy | Des Moines, IA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136511728) |
+| **Wellmark, Inc.** | Data Science Associate | Des Moines, IA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136511169) |
 | **ServiceNow** | Machine Learning Engineer, GAI Search... | Mountain View, CALIFORNIA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138178124) |
 | **ServiceNow** | Machine Learning Engineer, GAI Search... | Mountain View, CALIFORNIA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138174539) |
 | **ServiceNow** | Machine Learning Engineer, Agentic Sy... | Mountain View, CALIFORNIA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000136346369) |
@@ -193,8 +193,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124012339) |
 | **Intuitive** | Clinical Research Engineer - Future F... | Sunnyvale, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000134887129) |
 | **Intuitive** | Computer Vision Engineering Intern - ... | Sunnyvale, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000133458290) |
-| **Eurofins** | US Food Business Analyst, Commercial ... | Madison, WI | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128592399) |
-| **Eurofins** | Business Intelligence Intern | Lancaster, PA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
+| **Eurofins** | US Food Business Analyst, Commercial ... | Madison, WI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000128592399) |
+| **Eurofins** | Business Intelligence Intern | Lancaster, PA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000131132249) |
 | **CapTech Consulting** | Machine Learning / Data Science Engineer | Reston, VA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000135097007) |
 | **CapTech Consulting** | Machine Learning / Data Science Engineer | Richmond, VA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000135096703) |
 | **CapTech Consulting** | Machine Learning / Data Science Engineer | Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000115292607) |
@@ -202,60 +202,63 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | AI Research Scientist- World Model | Sunnyvale, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000128594259) |
 | **Bosch Group** | Research Scientist- Robotics AI | Sunnyvale, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000130090869) |
 | **Zoox** | Student Contract Worker - Data Analys... | Foster City, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9) |
+| **Zoox** | Manager, Technical Program Management... | Foster City, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/adf2fdd1-d5ca-46f6-aa97-16e4bedf2423) |
 | **Zoox** | Data Scientist - Mapping | Foster City, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/fd97675c-3483-42c6-826f-12fbb96ccafc) |
-| **Zoox** | Machine Learning Automation Engineer | Foster City, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562) |
 | **Waabi** | Research Engineer | Remote US & Canada | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe) |
 | **Waabi** | Research Engineer, Learnable Planner ... | Remote US & Canada | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/30f77194-6f1c-4ee2-8bb9-0eb9763250af) |
 | **Waabi** | Research Scientist, Learnable Planner | Remote US & Canada | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/a73a62bd-3ae9-417e-84c6-8a4c94846222) |
 | **Veeva Systems** | Marketing Analytics - Data Analyst - ... | New York City | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea) |
-| **Valkyrie Trading** | Quantitative Researcher (Experienced) | Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/valkyrietrading/c4b4fe8f-bcec-4b4e-a5dd-cbd26f1f4943) |
 | **Velo3D** | Machine Learning Engineer | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/3ad62be7-30a6-4e88-8697-1d101da1ee06) |
+| **Valkyrie Trading** | Quantitative Researcher (Experienced) | Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/valkyrietrading/c4b4fe8f-bcec-4b4e-a5dd-cbd26f1f4943) |
 | **Synergy ECP** | AI/ML Engineer | Annapolis Junction, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/7bd6f392-2041-4f13-b229-a7c885fa4bee) |
 | **Toyota Research Institute** | AI Research Scientist, Adaptive Behav... | Los Altos, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/tri/6f67ad25-840f-4cd2-9b10-b31455ed9233) |
 | **Spotify** | Research Scientist - Generative Audio | New York, NY | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/0eebb462-b5a2-4e3a-b830-d8ef7505b014) |
 | **Spotify** | Research Scientist - Personalization | New York, NY | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/a8d3838e-01d8-457e-b21c-a5468c10a116) |
-| **AbbVie** | SAP FI-OTC Integration Business Analyst | Waukegan, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014116385) |
-| **AbbVie** | ServiceNow Business Analyst | Mettawa, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014183346) |
-| **AbbVie** | Machine Learning Engineer | San Diego, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014248146) |
 | **Samba TV** | Data Scientist | San Francisco, California | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sambatv/908e859d-5688-44f0-815f-8b74779b6f74) |
+| **PlusAI** | Data Engineer | Santa Clara, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36) |
 | **Rainmaker** | Machine Learning Researcher | El Segundo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/6ad53a80-4778-4fe9-aca4-98099e537a95) |
 | **Rainmaker** | Quantitative Meteorologist | El Segundo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/a425f84c-98e4-4c4d-b163-b10010331257) |
 | **Rainmaker** | Rainmaker Fellow, Machine Learning | El Segundo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b) |
-| **PlusAI** | Data Engineer | Santa Clara, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36) |
 | **Pivotal Software** | Computer Vision Engineer – Autonomy &... | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/9fe618b9-cf87-4418-9953-31c5e4da56be) |
 | **Palantir** | Forward Deployed AI Engineer | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488) |
-| **Machina Labs** | Machine Learning Engineer | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/418bef09-a753-422b-b2fc-9142d01f1139) |
 | **Life.Church (YouVersion)** | Data Engineer | Edmond, OK | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/life/0c67a3d6-e91f-44aa-a72a-44a4a6e037ef) |
+| **Machina Labs** | Machine Learning Engineer | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/418bef09-a753-422b-b2fc-9142d01f1139) |
+| **Institute for Foundation Models** | Research Scientist - Agents | Sunnyvale, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/9ae2a6dc-39bd-4dbe-aa0b-d99e656f8b04) |
+| **Institute for Foundation Models** | Research Scientist - Data | Sunnyvale, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/e71b87a7-e2ac-414e-b414-97fdc18658dc) |
+| **Institute for Foundation Models** | Research Scientist - Distributed Mach... | Sunnyvale, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/0f35e9dd-2478-412c-aacd-994c426fa866) |
 | **Kitware** | 3D Computer Vision Researcher | Clifton Park, New York | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kitware/bc1f7691-5ef1-4a26-a1fb-9eb47c38acb9) |
 | **Kitware** | 3D Computer Vision Researcher | Arlington, Virginia | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kitware/f1b027f6-64f2-45e1-806f-354dfab71f90) |
 | **Kitware** | Computer Vision Researcher | Clifton Park, New York | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kitware/102aa9fd-44bd-4c54-b49c-b15935e058e7) |
-| **Institute for Foundation Models** | Research Engineer - The Diffusion LLM... | Sunnyvale, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/00c6696f-ae36-46b4-9efa-8c1fba3bfa77) |
-| **Institute for Foundation Models** | Research Scientist | Sunnyvale, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/057d2c3a-c17f-40f7-ac45-b1148f56c7f7) |
-| **Institute for Foundation Models** | Research Scientist - Agents | Sunnyvale, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/9ae2a6dc-39bd-4dbe-aa0b-d99e656f8b04) |
 | **GenBio AI** | Research Scientist, Applied Science | Palo Alto, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/genbio/e52b49d7-5809-431e-ad13-b5aae4eee961) |
+| **Field AI** | 3D Machine Learning Engineer | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/b600a2ab-cff1-4b8f-9940-4bd851c05e37) |
+| **Field AI** | Agentic AI/ML Engineer, Multimodal | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/28935a89-7c6b-4caf-abe7-b83b8a9958e1) |
 | **Field AI** | Field Data Analyst | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/acfba278-5f04-4639-ae26-c85e607eebce) |
-| **Field AI** | Product QA & Data Engineer | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/bbb7838b-7eb5-4899-ac38-f2d95285a84d) |
-| **Field AI** | Robotics AI Engineer – Calibration, L... | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/ca85d200-ee59-4d7f-93ac-655e7077b398) |
+| **AbbVie** | ServiceNow Business Analyst | Mettawa, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014183346) |
+| **AbbVie** | SAP FI-OTC Integration Business Analyst | Waukegan, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014116385) |
 | **FloQast** | Forward Deployed Data Engineer (Data ... | San Jose, California | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/floqast/85d4bd83-6958-42d9-93bf-2a5f7581fff2) |
+| **AbbVie** | Machine Learning Engineer | San Diego, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014248146) |
 | **Convergent Research** | Postdoctoral Research Scientist, OAE ... | Boulder, CO | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/e62d0373-df49-42f2-ad4d-73d99329d781) |
 | **Convergent Research** | Postdoctoral Research Scientist, Ocea... | Boulder, CO | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/07147ace-4d67-47de-9a0a-c7add68bbb68) |
 | **Belvedere Trading** | Quantitative Analyst - Treasury | Chicago, Illinois | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/belvederetrading/756ab68b-5141-4e12-894c-57d75fa0659e) |
 | **AHEAD** | ServiceNow Business Analyst | United States | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/thinkahead/d32be80a-11fa-4c1e-bb93-bda7007f84f0) |
-| **Arrive Logistics** | Business Analyst | Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/d48909b4-2838-46ac-9065-b05758b7480b) |
 | **Arrive Logistics** | Data Scientist II | Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/2765d8a2-0e24-4f3f-9d38-08cc4202275d) |
 | **Arrive Logistics** | Data Scientist II | Austin, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/c9e86c45-39d8-440d-affa-65665d6159aa) |
-| **AI Fund** | Customer-facing Applied AI Engineer | Mountain View, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/AIFund/01654e18-7b7f-4f0d-84b4-9e090fbc73be) |
+| **Arrive Logistics** | Business Analyst | Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/arrivelogistics/d48909b4-2838-46ac-9065-b05758b7480b) |
 | **AI Fund** | AI Engineer | Mountain View, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/AIFund/273af06c-9114-4b9c-83c9-a3627f4b875f) |
 | **AI Fund** | AI Engineer | Mountain View, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/AIFund/33bd1d6c-5091-42f8-99c0-6e97292782be) |
-| **ByteDance** | Research Engineer Graduate (AI Infra ... | Seattle, Washington | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667304540048787765) |
-| **ByteDance** | Research Scientist Graduates (Seed AI... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7673268418623293749) |
-| **ByteDance** | Research Scientist Intern (Multi-moda... | Seattle, Washington | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667380184615127301) |
-| **Google** | Research Engineer | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103660095526576838) |
-| **Google** | Partner Solutions Engineer, Machine L... | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103944117418894022) |
-| **Google** | Research Engineer, AGI Safety and Ali... | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95635593379095238) |
+| **AI Fund** | AI Engineer-Founding Team Member | Southern California | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/AIFund/d2133572-7c98-4124-a4a3-43aff18383cb) |
+| **ByteDance** | Research Engineer Graduate (AI Infra ... | Seattle, Washington | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667304540048787765) |
+| **ByteDance** | Research Scientist Graduates (Seed AI... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7673268418623293749) |
+| **ByteDance** | Research Scientist Intern (Multi-moda... | Seattle, Washington | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667380184615127301) |
+| **Google** | Research Engineer | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103660095526576838) |
+| **Google** | Partner Solutions Engineer, Machine L... | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103944117418894022) |
+| **Google** | Research Engineer, AGI Safety and Ali... | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95635593379095238) |
 | **Booz Allen Hamilton** | AI Engineer | Huntsville, AL | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/AI-Engineer_R0246920) |
 | **Booz Allen Hamilton** | Foundry Business Analyst, Mid | San Diego, CA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Foundry-Business-Analyst--Mid_R0243580) |
 | **Booz Allen Hamilton** | AI Engineer | Washington, DC | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-Engineer_R0246909) |
+| **HPE** | Cloud Data Engineer | San Jose, California, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Cloud-Data-Engineer_1204339) |
+| **Guidehouse** | Technical SETA SME – Artificial Intel... | MD, Bethesda | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Technical-SETA-SME---Artificial-Intelligence_43385) |
+| **HPE (University)** | Cloud Data Engineer | San Jose, California, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Data-Engineer_1204339-2) |
 | **Leidos** | Data Scientist | McLean, VA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00188591) |
 | **Generac** | Analytics Engineer II, Marketing | Waukesha, WI - USA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Analytics-Engineer-II--Marketing_JR15995) |
 | **Microsoft** | Data Scientist, Datacenter | Redmond, Washington, U... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556940403) |
@@ -268,11 +271,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anthropic** | Research Scientist, Life Sciences (Ch... | San Francisco, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5387564008) |
 | **Vanguard** | Data Engineer, Specialist - DADES3001 | Malvern, PA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Engineer--Specialist---DADES3001_181571) |
 | **CVS Health** | Business Analyst, Regulatory Reportin... | Work from home, AZ | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Business-Analyst--Regulatory-Reporting-Solutions--Remote-_R0935742) |
-| **Guidehouse** | Technical SETA SME – Artificial Intel... | MD, Bethesda | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Technical-SETA-SME---Artificial-Intelligence_43385) |
 | **Guidehouse** | Databricks Data Engineer | Remote | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Databricks-Data-Engineer_42292-1) |
 | **Guidehouse** | Databricks Data Scientist | Remote | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Databricks-Data-Scientist_42293) |
-| **HPE** | Cloud Data Engineer | San Jose, California, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Cloud-Data-Engineer_1204339) |
-| **HPE (University)** | Cloud Data Engineer | San Jose, California, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Data-Engineer_1204339-2) |
 | **Elanco** | Research Scientist - Statistics | Teleworker | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/US---Teleworker/Research-Scientist---Statistics_R0026779-1) |
 | **Uline** | Solution Analyst - Business Intelligence | Pleasant Prairie, WI | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Solution-Analyst---Business-Intelligence_R263825-2) |
 | **Uline** | BI Analytics Engineer | Pleasant Prairie, WI | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Power-Apps-Developer_R263380-2) |
@@ -290,23 +290,23 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Sandisk** | Product Security Engineer - Hardware/... | Milpitas, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000133420384) |
 | **Raytheon Technologies** | Cybersecurity Self-Inspection Subject... | McKinney, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840716434) |
-| **Eurofins** | Cyber Security Subject Matter Expert | Santa Clara, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000109304706) |
+| **Eurofins** | Cyber Security Subject Matter Expert | Santa Clara, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000109304706) |
 | **Zoox** | Network Security Engineer | Foster City, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/8321d00e-9e2b-4947-a37e-fdbad7dcd637) |
-| **AbbVie** | Security Engineer – Cybersecurity Pos... | Austin, TX | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013430236) |
 | **Synergy ECP** | Network Security Engineer | Annapolis Junction, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/c3ebb9f8-8cf3-4191-939a-1d1bd2041594) |
-| **AbbVie** | Agentic AI Security Engineer | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014029467) |
 | **Palantir** | Information Security Engineer | Seattle, WA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b) |
 | **Palantir** | Information Security Engineer | Washington, D.C. | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/36703f67-6fae-445c-9277-f946121faaa0) |
 | **Palantir** | Information Security Engineer | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/e2a8360a-710a-4185-b2a9-3b7d9fe590b1) |
-| **AbbVie** | Splunk / Cribl Engineer - Cybersecuri... | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014387946) |
 | **Magnet Forensics** | Vulnerability Researcher | United States | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/0c7c5eb2-f0fc-4327-a038-f56de3fcc218) |
+| **AbbVie** | Security Engineer – Cybersecurity Pos... | Austin, TX | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013430236) |
+| **AbbVie** | Agentic AI Security Engineer | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014029467) |
 | **Field AI** | Infrastructure Security Engineer | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/d2255c03-51f3-4efe-b27b-d8921e965153) |
 | **Field AI** | Robotics Product Security Engineer | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/9362f647-988e-4cf0-a8de-924dcbf0e5d0) |
-| **ByteDance** | Product Security Engineer Graduate (S... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668636404159858997) |
-| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
-| **Google** | Security Engineer, GKE | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96721470096319174) |
-| **Google** | Security Engineer III, Incident Response | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139992044222194374) |
-| **Google** | Security Engineer, Enterprise Detecti... | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142714037728092870) |
+| **AbbVie** | Splunk / Cribl Engineer - Cybersecuri... | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014387946) |
+| **ByteDance** | Product Security Engineer Graduate (S... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668636404159858997) |
+| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
+| **Google** | Security Engineer, GKE | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96721470096319174) |
+| **Google** | Security Engineer III, Incident Response | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139992044222194374) |
+| **Google** | Security Engineer, Enterprise Detecti... | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142714037728092870) |
 | **Workday Inc** | Cybersecurity Engineer - US Federal | USA.VA.Reston | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Cybersecurity-Engineer---US-Federal_JR-0109169) |
 | **Booz Allen Hamilton** | Information Systems Security Engineer | Arlington, VA | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Information-Systems-Security-Engineer_R0247187) |
 | **Booz Allen Hamilton** | Cybersecurity Analyst, Mid | Rome, NY | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Cybersecurity-Analyst--Mid_R0247022) |
@@ -326,6 +326,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | Cyber Security Analyst / Information ... | AL, Huntsville, R183910 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/Cyber-Security-Analyst---Information-Systems-Security-Officer--ISSO-_R183910) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Cybersecurity-Operations-Analyst_29111) |
 | **Freedom Technology Solutions Group** | Cyber Security Project Engineer 755 | Herndon, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5212186007) |
+| **TD Bank** | Information Security Specialist (US) ... | Mount Laurel, New Jersey | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Information-Security-Specialist--US----Crisis-Management_R_1504365) |
 | **Leidos** | Data Security Engineer | Adelphi, MD | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Adelphi-MD/Data-Security-Engineer_R-00189506-1) |
 | **ICF** | Software Security Engineer- Cloud/Gov... | Reston, VA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Software-Security-Engineer--Cloud-GovCloud--Top-Secret-cleared-_R2602072) |
 | **ICF** | Cybersecurity Strategist (Future Oppo... | Arlington, VA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA/Cybersecurity-Strategist--Future-Opportunity-_R2601761) |
@@ -351,7 +352,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Information Assurance (IA) Cyber Secu... | Hampton, VA, US | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Hampton-VA-US/Information-Assurance--IA--Cyber-Security-Engineer_328799) |
 | **Morgan Stanley** | Cloud Security Engineer | Alpharetta, Georgia, U... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Dir--P4--Lead-Cybersecurity-Eng---Job-Level---Director_PT-JR041738-1) |
 | **Esri** | Technical Consultant- Cyber Security ... | St. Louis, MO - Globe | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5211443007?gh_jid=5211443007) |
-| **TD Bank** | Information Security Specialist (US) ... | Mount Laurel, New Jersey | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Information-Security-Specialist--US----Crisis-Management_R_1504365) |
 | **Leidos** | IT Security Engineer III | Huntsville, AL | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/IT-Security-Engineer-III_R-00188331-1) |
 | **Amazon Web Services, Inc.** | Cloud Systems Engineer II, ADC System... | Herndon, VA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10501269/cloud-systems-engineer-ii-adc-system-security-engineering) |
 | **Amazon Development Center U.S., Inc.** | Security Engineer, AWS Security Hub, ... | New York, NY | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10501458/security-engineer-aws-security-hub-security-services-s2) |
@@ -399,8 +399,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Western Digital** | Summer 2027 Intern - Hardware Enginee... | San Jose, CA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
-| **Western Digital** | Hardware Engineer | San Jose, CA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140947335) |
+| **Western Digital** | Summer 2027 Intern - Hardware Enginee... | San Jose, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
+| **Western Digital** | Hardware Engineer | San Jose, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000140947335) |
 | **Veolia Environnement SA** | Electrical Engineer | Minnetonka, MN | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126075769) |
 | **Veolia Environnement SA** | Electrical Systems Engineer | Port Arthur, TX | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129475140) |
 | **Veolia Environnement SA** | Electrical Systems Engineer | Beaumont, TX | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132487779) |
@@ -410,9 +410,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RE/SPEC Inc.** | Structural Engineer in Training (EIT) | Anchorage, AK | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000140989119) |
 | **RE/SPEC Inc.** | Water Treatment Process Engineer | Colorado Springs, Love... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000136880710) |
 | **RE/SPEC Inc.** | Mechanical Engineer / Project Manager | Pipersville, PA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000088317535) |
+| **Raytheon Technologies** | Mission/Systems Engineer (ONSITE) | Salt Lake City, UT | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840715866) |
 | **Raytheon Technologies** | Avionics Electronic Technician | Wichita, KS | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999841538482) |
 | **Raytheon Technologies** | Electro-Optical Systems Engineer – Ai... | El Segundo, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840718671) |
-| **Raytheon Technologies** | Mission/Systems Engineer (ONSITE) | Salt Lake City, UT | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840715866) |
 | **Northwestern Mutual** | Test Engineer | Milwaukee, WI | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/743999658678908) |
 | **NBCUniversal** | Systems Engineer, NBC Telemundo San D... | San Diego, CALIFORNIA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000131703851) |
 | **NBCUniversal** | Systems Engineer- NBC Dallas | Fort Worth, TEXAS | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139133344) |
@@ -425,8 +425,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Manager Mechanical Engineering | Sunnyvale, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000132269999) |
 | **INFICON** | Manufacturing Engineering Technician | Longmont, CO | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000138412679) |
 | **INFICON** | Supplier Quality Engineer | East Syracuse, NY | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000129841869) |
-| **Eurofins** | Mechanical Engineer – Engineering Con... | Houston, TX | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000132279663) |
-| **Eurofins** | Test Engineer, Environmental Simulati... | Baltimore, MD | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137486889) |
+| **Eurofins** | Mechanical Engineer – Engineering Con... | Houston, TX | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000132279663) |
+| **Eurofins** | Test Engineer, Environmental Simulati... | Baltimore, MD | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000137486889) |
 | **BryceTech** | Software Test Engineer IV | Aberdeen Proving Groun... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000139334747) |
 | **BryceTech** | Space Systems Engineer | Chantilly, VA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000113012897) |
 | **Bosch Group** | 2026 Mechanical Engineering Internati... | Charleston, SC | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) |
@@ -436,63 +436,63 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoox** | System Test Engineer | San Diego, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb) |
 | **Zoox** | System Verification and Validation En... | Foster City, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/fe41af48-f0ec-46ec-b840-00f9d9f872de) |
 | **Woven by Toyota** | Systems Engineer II, Arene Applied En... | Ann Arbor, MI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/785284b4-b77f-4eba-880a-b70d6b50993e) |
+| **Waabi** | Systems Engineer, Platform Requiremen... | Remote US | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/bfe20894-5899-41b5-8cf7-c9f1469d18b7) |
 | **Waabi** | Mechanical Engineer | Pittsburgh, PA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/548a93ba-52cb-4b21-a68a-70d812187e5b) |
 | **Waabi** | Platform Systems Engineer; Motion Pla... | Phoenix, AZ | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/5fcde68c-577a-4fed-b532-793fec8de175) |
-| **Waabi** | Platform Systems Engineer; Sensing an... | Phoenix, AZ | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/d6e94165-fb89-4dee-b83a-01310cbf8464) |
 | **WeRide** | Systems Engineer | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/b16618fa-d0be-451f-859d-b450e8e3dd82) |
 | **Veeva Systems** | Account Partner - Veeva Basics | United States | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b9b6541b-c3e4-45b5-b616-e48ae85f61c9) |
 | **Veeva Systems** | Account Partner - Veeva Commercial Ba... | Boston | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/3f1170c3-998b-4ab2-b6fc-9faf4edf82c5) |
 | **Veeva Systems** | Account Partner - Veeva Commercial Ba... | Boston | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/7197b6f6-4f5d-400e-900c-5b0d9b8a0d4f) |
-| **AbbVie** | Global Process Engineer (Aseptic) | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012906514) |
+| **Velo3D** | Process Engineering Technician | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/a6da4e36-e09b-4486-a190-266de14ccb62) |
 | **Velo3D** | Sustaining Process Engineer | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/94854d7d-3c0d-4801-8d0a-c9abf71e6a4f) |
 | **Velo3D** | Electrical Engineer II | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/c6bf76b4-76a4-4a74-b479-0eac2b27f784) |
-| **Velo3D** | Process Engineering Technician | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/a6da4e36-e09b-4486-a190-266de14ccb62) |
-| **AbbVie** | Manufacturing Software Controls Engineer | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013481356) |
 | **Synergy ECP** | Systems Engineer | Annapolis Junction, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/69eb7652-73b7-43a4-b9ba-d3a011462d73) |
 | **Synergy ECP** | Systems Engineer | Sterling, VA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/ea249105-93f5-48c9-bab9-6b666eaf3208) |
 | **Synergy ECP** | Test Engineer | Annapolis Junction, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/da23f594-a1cf-4978-8770-3f8f31e7b00e) |
 | **SoloPulse** | Digital Signal Processing (DSP) Engineer | Huntsville, AL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/9a9e29cb-41f3-4e39-ab69-27481422efff) |
 | **SoloPulse** | Digital Signal Processing (DSP) Engineer | Peachtree Corners, GA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/fede9a75-7e75-4066-9b89-291c327464a3) |
 | **SoloPulse** | Radar Digital Signal Processing (DSP)... | Peachtree Corners, GA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9) |
-| **AbbVie** | Manufacturing Software Controls Engineer | Cincinnati, OH | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013846376) |
 | **Shield AI** | Technician 3, Quality Systems Enginee... | Dallas, Texas | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/3b0846c2-88ed-47d0-8ab0-59a844704ece) |
 | **Shield AI** | Technician 4, Quality Engineering (R4... | Dallas, Texas | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/8f00a36b-02b5-4800-b55b-2c9d29c6dd62) |
 | **Shield AI** | V-BAT Air Vehicle Operator | Dallas, Texas | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/3286ffe2-a1e7-4393-9df6-2703d8b55967) |
 | **Ranger** | Forward-Deployed Test Engineer | San Francisco, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d) |
 | **Pivotal Software** | Motor Controls Engineer II - R&D | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/9e6fe3e9-7668-483e-9273-85deb97eaff0) |
 | **Pivotal Software** | Quality Engineer | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/fdf48640-aebe-49a8-b225-bb0164189c6d) |
+| **AbbVie** | Global Process Engineer (Aseptic) | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012906514) |
 | **Match Group** | Operations Engineer - Systems Enginee... | Dallas, Texas | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/f5172470-df74-4291-94b1-8da411c0ec66) |
+| **AbbVie** | Manufacturing Software Controls Engineer | North Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013481356) |
 | **Lumafield** | Hardware Systems Engineer | Boston, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/lumafield/309cb9df-0b93-4fc6-a495-e64264dc8eea) |
-| **Layup Parts** | Electrical Engineering Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa) |
-| **Layup Parts** | Manufacturing Engineer (Composites) | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/8773a375-c73f-4ec6-8625-7e4da6d88693) |
-| **Layup Parts** | Manufacturing Engineer Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583) |
 | **Machina Labs** | Manufacturing Engineer | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/f194e9e7-3f55-4154-829a-da6971414809) |
 | **Machina Labs** | Manufacturing Engineer – Machine Prod... | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/bc137a1c-f166-4d01-a3c1-7b54dc964b81) |
 | **Machina Labs** | Robotic Process Engineer | Chatsworth, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MachinaLabs/6f93bd26-0c5e-4b3f-996c-d238c1db2139) |
-| **Hermeus** | Mechanical Engineering Intern  - Fall... | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) |
-| **Hermeus** | Propulsion Engineer Intern - Fall 2026 | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) |
-| **Hermeus** | Propulsion Test Engineering Intern - ... | Jacksonville, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) |
+| **Layup Parts** | Electrical Engineering Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa) |
+| **Layup Parts** | Manufacturing Engineer (Composites) | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/8773a375-c73f-4ec6-8625-7e4da6d88693) |
+| **Layup Parts** | Manufacturing Engineer Intern | Huntington Beach, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583) |
+| **AbbVie** | Manufacturing Software Controls Engineer | Cincinnati, OH | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013846376) |
+| **Hermeus** | Manufacturing Engineer, New Grad | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43) |
+| **Hermeus** | Manufacturing Engineering Intern - Fa... | Atlanta, GA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) |
+| **Hermeus** | Mechanical Engineer | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/e4570a11-a4a5-4c11-a11e-71824647ebc5) |
 | **Field AI** | Sensor Systems Engineer-Federal | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/c0932811-6a6e-45b4-bced-4d0efe50d427) |
 | **Field AI** | Electrical Engineer-Federal | Irvine, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/9ad21207-951e-43f5-a63f-69f02f7c95c2) |
 | **Field AI** | Electrical Engineer, Robotics Hardware | Boston, MA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/93042d45-ffe3-46a1-8eaf-e229ea228b06) |
 | **Convergent Research** | Bioelectronics Engineer, Wetware & Bi... | Pasadena, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/convergentresearch/d8f1da4b-3c9e-4aa4-80c2-893dd4b00497) |
-| **CFS Energy** | Assembly Process Engineer - Contract | Devens, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/76ed672a-9325-4291-b094-59d7e0cd6d84) |
 | **CFS Energy** | Field Mechanical Engineer - Assembly | Devens, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/2301f155-ecba-4439-a389-a4ac4035699b) |
 | **CFS Energy** | Manufacturing Engineer - First Shift | Somerville, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/c7c2f4bf-adbe-43c0-a971-59dba50ebf92) |
+| **CFS Energy** | Manufacturing Engineer - Second Shift | Somerville, MA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/cfsenergy/58fda5d9-4753-4da5-9b62-5741e2465e17) |
 | **Belvedere Trading** | FPGA Engineer | Chicago, Illinois | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/belvederetrading/67c39285-40b4-436f-9e12-5644f070f46f) |
-| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670331401866692917) |
-| **ByteDance** | ASIC Design Engineer Intern (Video Si... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670332179383699717) |
-| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7673667614757374213) |
-| **Google** | Network Test Engineer | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108335218967880390) |
-| **Google** | Hardware Engineer | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130730071802421958) |
-| **Google** | Firmware Engineer, Modem Access Strat... | United States | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99797697472406214) |
+| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670331401866692917) |
+| **ByteDance** | ASIC Design Engineer Intern (Video Si... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670332179383699717) |
+| **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7673667614757374213) |
+| **Google** | Network Test Engineer | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108335218967880390) |
+| **Google** | Hardware Engineer | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130730071802421958) |
+| **Google** | Firmware Engineer, Modem Access Strat... | United States | 19m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99797697472406214) |
 | **Carrier Global** | Industrial Engineering Techs | TX22: 1501 Distributio... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/TX22-1501-Distribution-Drive-Fort-Worth-TX-76052-USA/Industrial-Engineering-Techs_30215910) |
 | **Carrier Global** | Manufacturing Engineering Technician | TX22: 1501 Distributio... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/TX22-1501-Distribution-Drive-Fort-Worth-TX-76052-USA/Manufacturing-Engineering-Technician_30215913) |
 | **Carrier Global** | Manufacturing Engineering Techs | TX22: 1501 Distributio... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/TX22-1501-Distribution-Drive-Fort-Worth-TX-76052-USA/Manufacturing-Engineering-Techs_30215912) |
 | **Magna** | Controls Engineer-Victor-3rd Shift | Victor, Iowa, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Victor-Iowa-US/Controls-Engineer-Victor-3rd-Shift_R00241162) |
 | **Magna** | Controls Engineer - Montezuma - C Shift | Montezuma, Iowa, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Montezuma-Iowa-US/Controls-Engineer-Monte-3rd-shift_R00225691) |
 | **Magna** | Controls Engineer - Montezuma - B Shift | Montezuma, Iowa, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Montezuma-Iowa-US/Controls-Engineer-Monte-2nd-Shift_R00225692) |
-| **Apple** | Analog System Electrical Engineer - i... | Cupertino | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200678261/analog-system-electrical-engineer-iphone) |
+| **Apple** | Analog System Electrical Engineer - i... | Cupertino | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200678261/analog-system-electrical-engineer-iphone) |
 | **Apple** | SoC Pre-Silicon Engineering Program M... | Austin | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200678199/soc-pre-silicon-engineering-program-manager) |
 | **Abbott** | Electrical Engineer | California | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sunnyvale/Electrical-Engineer_31159259-1) |
 | **Abbott** | Electrical Engineer | California | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sunnyvale/Electrical-Engineer_31159279-1) |
@@ -510,11 +510,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Western Digital** | Wafer Manufacturing Process Technicia... | San Jose, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134038249) |
-| **Western Digital** | Wafer Manufacturing Process Technicia... | San Jose, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134038159) |
-| **Western Digital** | Strategic Account Manager – AI Infras... | San Jose, CA | 7m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138388739) |
-| **Veolia Environnement SA** | O&G Down-hole Chemical Service Techni... | Midland, TX | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000071588337) |
-| **Veolia Environnement SA** | O&G Down-hole Chemical Service Techni... | Odessa, TX | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000050534734) |
+| **Western Digital** | Wafer Manufacturing Process Technicia... | San Jose, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134038249) |
+| **Western Digital** | Wafer Manufacturing Process Technicia... | San Jose, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134038159) |
+| **Western Digital** | Wafer Equipment Maintenance Technician | San Jose, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000135324839) |
+| **Veolia Environnement SA** | O&G Down-hole Chemical Service Techni... | Midland, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000071588337) |
+| **Veolia Environnement SA** | O&G Down-hole Chemical Service Techni... | Odessa, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000050534734) |
 | **Veolia Environnement SA** | Service Technician - Aftermarket - Wa... | Glen Allen, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112217765) |
 | **Smiths Group** | Technician - 2nd shift | Tampa, FL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000073870715) |
 | **Smiths Group** | Technical Sales Engineer (FAE) | Irving, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000068244282) |
@@ -534,9 +534,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NBCUniversal** | Account Executive, NBC10 Philadelphia | Philadelphia, PENNSYLV... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000130808509) |
 | **NBCUniversal** | Sales Account Executive, NBCU Local C... | Chicago, ILLINOIS | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138716288) |
 | **NBCUniversal** | DreamWorks Technology - Asset Managem... | Glendale, CALIFORNIA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138192206) |
+| **LinkedIn** | Account Executive, SMB - LinkedIn Tal... | New York, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000137666664) |
+| **LinkedIn** | SMB Account Executive - Talent & Lear... | San Francisco, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000130026219) |
 | **LinkedIn** | Sales Development Representative 1 | San Francisco, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000138921577) |
-| **LinkedIn** | Account Executive 3, Performance & Ex... | San Francisco, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000137980989) |
-| **LinkedIn** | Account Executive 3, Performance & Ex... | Chicago, IL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000137980397) |
 | **LLNL** | Procurement Policy Analyst | Livermore, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013053837) |
 | **Intuitive** | Clinical Sales Representative | Cincinnati, OH | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000130579106) |
 | **Intuitive** | Manager, NPI Procurement - Systems | Sunnyvale, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126104139) |
@@ -544,11 +544,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **INFICON** | Logistics Attendant (Shipping Operati... | East Syracuse, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000138205029) |
 | **INFICON** | Distribution & Logistics Manager | East Syracuse, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000134490479) |
 | **INFICON** | Supply Chain Analytics Manager | East Syracuse, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000133115109) |
-| **Eurofins** | Laboratory Technician | Minneapolis, MN | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999855576701) |
-| **Eurofins** | Laboratory Technician | Houston, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999820452247) |
-| **Eurofins** | Pilot Plant Technician I- Process & D... | Lafayette, CO | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999984641168) |
-| **Experian** | IT Procurement Partner (Hybrid) | Costa Mesa, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140066035) |
-| **Experian** | IT Procurement Partner (Hybrid) | Allen, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140066230) |
+| **Eurofins** | Laboratory Technician | Houston, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999820452247) |
+| **Eurofins** | Laboratory Technician | Minneapolis, MN | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999855576701) |
+| **Eurofins** | Pilot Plant Technician I- Process & D... | Lafayette, CO | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999984641168) |
+| **Experian** | IT Procurement Partner (Hybrid) | Costa Mesa, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140066035) |
+| **Experian** | IT Procurement Partner (Hybrid) | Allen, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140066230) |
 | **EVERSANA** | Traveling Rare Disease Account Executive | Dallas, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000137871010) |
 | **EVERSANA** | Key Account Manager - Immunology and ... | Dallas, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000137713335) |
 | **EVERSANA** | Key Account Manager - Heart Failure -... | Tampa, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000137677909) |
@@ -557,59 +557,59 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Electronic Maintenance Technician Lev... | Roseville, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000105716845) |
 | **ShyftLabs** | Account Executive – Account Managemen... | New York, New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/1cf0a494-97dc-4935-b738-3a1615e5b079) |
 | **ShyftLabs** | Account Manager | San Diego, California | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/d49a22d6-9815-465f-80ed-aafb0837481a) |
+| **Xsolla** | Demand Account Manager - Xsolla Ads &... | Remote USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/3f371c28-47f9-475c-8049-4568d1d8d35b) |
 | **PointClickCare** | (US) Customer Success Manager - Healt... | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/63f51333-3c35-49aa-8bd1-54f2e4e815fc) |
 | **PointClickCare** | (US) Regional Named Account Executive... | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/2123a700-c912-42d6-85ff-ec7e264c2a77) |
 | **PointClickCare** | (US) Software Implementation Consulta... | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/e6fd28a0-e062-499d-8004-ea3280e62f4e) |
-| **Xsolla** | Demand Account Manager - Xsolla Ads &... | Remote USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/3f371c28-47f9-475c-8049-4568d1d8d35b) |
-| **Zoox** | Business Recruiter | Foster City, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/5fb23003-057f-4488-84c2-80ca98cc795d) |
-| **Zoox** | Logistics & Operations Planning Manag... | Hayward, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/cb334597-ba6b-4d39-ba50-035c3a359c8e) |
 | **Zoox** | Manager, Procurement & Strategic Part... | Foster City, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/a50dec1e-ad55-415f-880c-2f1bd8291311) |
-| **Wintermute Trading** | Business Development & Partnerships M... | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/8180fa60-4020-45e2-931c-dc55243b1c12) |
+| **Zoox** | Manager, Technical Recruiting | Foster City, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/05762fb8-07fa-43a3-aa30-e079bb31018e) |
+| **Zoox** | Business Recruiter | Foster City, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/5fb23003-057f-4488-84c2-80ca98cc795d) |
 | **Wintermute Trading** | Institutional Business Development Ma... | London/New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/3182ac19-31d6-470f-a922-bfa6ce680da8) |
-| **WeRide** | Contract Vehicle Operations Specialis... | San Jose, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/67194770-ca27-4291-82ac-a90e58967e29) |
+| **Wintermute Trading** | Business Development & Partnerships M... | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/8180fa60-4020-45e2-931c-dc55243b1c12) |
 | **WeRide** | Talent Acquisition Specialist (Contra... | San Jose, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/af4a2599-d08e-434f-aedc-f409d2071769) |
 | **WeRide** | Vehicle Operations Specialist (Contract) | San Jose, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/074a6e4f-79fa-4e48-a9e1-3b28e1bf10e3) |
+| **WeRide** | Contract Vehicle Operations Specialis... | San Jose, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/67194770-ca27-4291-82ac-a90e58967e29) |
 | **Veeva Systems** | Technical Consultant - R&D (Remote) | Nashville | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/ee968fd8-1a34-4932-86b9-f0ea6cf73bc8) |
 | **Veeva Systems** | Technical Consultant - RTSM (Remote) | Raleigh | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/13f75090-f290-4654-bc71-237b99d310ae) |
 | **Veeva Systems** | Technical Consultant - RTSM (Remote) | Madison | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/7cb47452-8298-4523-81cf-40906f45ebad) |
-| **AbbVie** | Future Opportunities - Join Our Talen... | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923582) |
-| **AbbVie** | Technician, Engineering I (M-F) 11:00... | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012910381) |
-| **Versapay** | Customer Account Manager | United States (Remote) | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/versapay/edcd2b34-2d93-4da9-99ac-ab164b340936) |
-| **Versapay** | Sales Development Representative | United States (Remote) | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/versapay/f1ec4785-468a-412a-a1df-d4d08e246478) |
-| **Valkyrie Trading** | Trade Support Engineer | Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/valkyrietrading/d5d3c739-fc8f-43d7-9076-5263d21f7a91) |
-| **Velo3D** | Business Development Account Manager ... | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/5cf23f51-bd8f-49a5-9548-74ab69d09381) |
-| **Velo3D** | Business Development Account Manager ... | Houston, Texas | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/1478f1e3-aedd-4667-bac4-4b4dc91bc6d7) |
-| **Velo3D** | Corporate Recruiter | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/e5a8690a-8c20-4b4e-b3b6-479930574cd0) |
+| **Velo3D** | Machine Shop Technician | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/f7f2e7ec-97ef-4ced-93bf-a6714a6ac2ac) |
+| **Velo3D** | Manufacturing Technician (Temporary t... | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/a391ed14-2418-412a-b2ec-f0546d772ddf) |
+| **Velo3D** | Process Technician (Swing Shift) | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/99260d2b-1dab-4ac8-a0b9-8ea226ed3ff7) |
 | **Voltus** | Customer Success Associate | Remote | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/74788219-f059-4a07-87f2-4dae2fa20c74) |
 | **Voltus** | Market Operations Analyst | Remote | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/a3b26f0a-a9a5-4b66-b48a-bd4f73879d15) |
 | **Voltus** | Sales Associate (Remote) | Remote | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/e6e12da1-116e-4fa9-bb36-a6d224aaee4f) |
+| **Versapay** | Sales Development Representative | United States (Remote) | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/versapay/f1ec4785-468a-412a-a1df-d4d08e246478) |
+| **Versapay** | Customer Account Manager | United States (Remote) | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/versapay/edcd2b34-2d93-4da9-99ac-ab164b340936) |
+| **Valkyrie Trading** | Trade Support Engineer | Chicago, IL | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/valkyrietrading/d5d3c739-fc8f-43d7-9076-5263d21f7a91) |
+| **Synergy ECP** | Field Service Technician | Landover, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/f932fb24-6326-455c-8f11-33f1e03ece2a) |
 | **Teleo** | Field Deployment Technician | Florida | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/teleo/6dfaac40-a782-444f-98d3-d65ec94d205f) |
 | **Teleo** | Logistics & Inventory Associate | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/teleo/f27173b7-9f43-4a70-877d-5cec4872a98e) |
-| **AbbVie** | Production Technician l (Sunday - Thu... | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013532876) |
-| **Synergy ECP** | Field Service Technician | Landover, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/f932fb24-6326-455c-8f11-33f1e03ece2a) |
 | **Sophos** | Sales Development Representative | Dallas, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sophos/72a024d6-8bd1-4cb3-92c0-fd392ba33bb0) |
 | **Sophos** | Enterprise Sales Engineer | Los Angeles, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sophos/fb40a242-6e67-48f5-9b8d-7e9dee1d83da) |
 | **Shield AI** | Technician II, Facilities (5444) | Dallas, Texas | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/dae12300-3947-40a7-b497-bbb189599cb3) |
 | **Shield AI** | Technician III, CNC/CMM Program (R4735) | Dallas, Texas | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/1c218d71-5929-4be5-962c-a5ca585e79a2) |
 | **Shield AI** | Territory Business Development Manage... | Washington, DC | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/a197979d-ed30-4da9-91b1-a578097522ad) |
-| **Saviynt** | Sales Development Representative | Remote US | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/saviynt/76f2adf9-48d4-444d-a1dc-056e24c6bb92) |
 | **Saviynt** | Strategic Account Executive | New York City Metro | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/saviynt/21435e12-ebf5-4d4d-afa1-cc7030b61986) |
-| **Saviynt** | Enterprise Account Executive | New York City Metro | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/saviynt/66a68936-3a41-4dd9-9bd8-481fe9b848da) |
+| **Saviynt** | Named Enterprise Account Executive - ... | Michigan | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/saviynt/572080f7-c19e-407b-af2a-cfd08a249b7c) |
+| **Saviynt** | Sales Development Representative | Remote US | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/saviynt/76f2adf9-48d4-444d-a1dc-056e24c6bb92) |
+| **Ro** | Compounding Pharmacy Technician -  Ro... | Romeoville, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/f25a6c49-5ed4-4aa0-a5bb-b30e9790f90c) |
+| **Ro** | Compounding Pharmacy Technician - Boy... | Boynton Beach, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/4b815c8f-f429-4430-98e1-4b91164627c7) |
+| **Ro** | Compounding Pharmacy Technician - Boy... | Boynton Beach, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/c739f69c-ed8a-4089-9183-ac94b2b06f90) |
 | **Samba TV** | Programmatic Account Manager - HoldCo | New York City, New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sambatv/20d7abaa-a620-4918-8ff3-d079772da3f8) |
 | **Samba TV** | Account Executive | New York City, New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sambatv/f35dcb02-28d9-4018-892c-436dad07a44c) |
 | **Samba TV** | Associate Account Executive | Los Angeles, California | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sambatv/34ece39a-4b7e-4019-b88d-2745ad44f547) |
-| **Ro** | Fulfillment Pharmacy Technician - Boy... | Boynton Beach, FL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/eca13175-3838-4a88-a138-d44231ca6fef) |
-| **Ro** | Fulfillment Pharmacy Technician - Rom... | Romeoville, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/56cf6679-2618-4be9-acc4-f53afdee3b5b) |
-| **Ro** | Fulfillment Pharmacy Technician - Rom... | Romeoville, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ro/d383c67b-15b8-463b-8f7a-37dd5f8c0cde) |
+| **PlusAI** | Technician | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/9afb1a31-cdc8-496a-a891-24b9d1254391) |
 | **Rainmaker** | Business Development - Critical Indus... | El Segundo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/7f96f1ff-b012-41f1-bf45-fd40a6531480) |
 | **Rainmaker** | Business Operations Associate | El Segundo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/293f9883-5669-45de-85d8-27c7f0ff59dd) |
 | **Rainmaker** | Field Operations Specialist | Salt Lake City, UT | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/8eb0dccf-08dc-41d2-865e-a13f1d316859) |
-| **PlusAI** | Technician | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/9afb1a31-cdc8-496a-a891-24b9d1254391) |
 | **Pivotal Software** | Battery Engineering Technician (contr... | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pivotal/9520f9d6-71f8-40b0-8ba1-85266247f2db) |
 | **PingWind** | Unmanned Systems (UxS) Technician II | Virginia Beach, VA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pingwind/ae9670d0-4068-4796-9e62-c11cc5794ed8) |
 | **Perforce** | Associate Account Manager | Minneapolis, MN | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/perforce/fe63324c-bd45-47c7-b747-3217871901af) |
 | **Palantir** | Support Engineer | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131) |
 | **Palantir** | Operations Analyst - US Government | Honolulu, HI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/46530906-4822-4cce-ab86-ef7014d8547f) |
+| **Palantir** | Operations Analyst - US Government Se... | New York, NY | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/2df67493-ffb3-4b34-bf3b-88b6750c3ea7) |
+| **AbbVie** | Future Opportunities - Join Our Talen... | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923582) |
+| **AbbVie** | Technician, Engineering I (M-F) 11:00... | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012910381) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -621,21 +621,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Western Digital** | Wafer Manufacturing Chemical Support ... | San Jose, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134040889) |
-| **Western Digital** | Executive Administrative Assistance -... | San Jose, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134040419) |
-| **Western Digital** | Real Estate Design and Construction M... | San Jose, CA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138930779) |
-| **Wellmark, Inc.** | Corporate Security Specialist (Part-t... | Sioux Falls, SD | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000140993059) |
-| **Wellmark, Inc.** | Associate Market Solutions Manager (O... | Des Moines, IA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000140984394) |
-| **Wellmark, Inc.** | Corporate Security Specialist (Part-t... | Des Moines, IA | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000137206771) |
-| **Veolia Environnement SA** | Area Manager - Water Treatment Chemicals | Wichita, KS | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000044594036) |
-| **Veolia Environnement SA** | OTR Driver- CDL A | St. Peters, MO | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000091620325) |
+| **Western Digital** | Wafer Manufacturing Chemical Support ... | San Jose, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134040889) |
+| **Western Digital** | Executive Administrative Assistance -... | San Jose, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000134040419) |
+| **Western Digital** | Physical Security Systems Analyst | San Jose, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000136563829) |
+| **Wellmark, Inc.** | Corporate Security Specialist (Part-t... | Sioux Falls, SD | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000140993059) |
+| **Wellmark, Inc.** | Associate Market Solutions Manager (O... | Des Moines, IA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000140984394) |
+| **Wellmark, Inc.** | Corporate Security Specialist (Part-t... | Des Moines, IA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000137206771) |
+| **Veolia Environnement SA** | Area Manager - Water Treatment Chemicals | Wichita, KS | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000044594036) |
+| **Veolia Environnement SA** | OTR Driver- CDL A | St. Peters, MO | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000091620325) |
 | **Veolia Environnement SA** | Area Manager - Industrial Water Treat... | Lansing, MI | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104794780) |
 | **Smiths Group** | Quality Inspector | Tampa, FL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000073097958) |
 | **Smiths Group** | CNC Machinist II - 2nd Shift | Irving, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000069860185) |
 | **Smiths Group** | Product Line Manager Business Owner: ... | Salisbury, MD | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000060855405) |
+| **Solidigm** | Process Development Engineer | Rancho Cordova, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000117363827) |
 | **Solidigm** | Design Automation / Standard Cell Cha... | San Jose, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000138365194) |
 | **Solidigm** | Failure Analysis Engineer | Rancho Cordova, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000134312859) |
-| **Solidigm** | IP Logic Design Engineer | Rancho Cordova, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000133437639) |
 | **ServiceNow** | Manager, GTM - Field Readiness | West Palm Beach, Florida | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138406829) |
 | **ServiceNow** | GVP, Strategic Finance Product | Santa Clara, CALIFORNIA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138371858) |
 | **Sandisk** | Memory Device and Characterization En... | Milpitas, CA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000134302680) |
@@ -648,15 +648,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Bull** | Student Marketeer - Northern Virginia... | Annandale, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000085913580) |
 | **Red Bull** | Student Marketeer - California State ... | Carson, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000082548735) |
 | **Red Bull** | Student Marketeer - University at Buf... | Buffalo, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000106650125) |
+| **Raytheon Technologies** | Applications Developer, TS/SCI w FSP | Herndon, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840715481) |
 | **Raytheon Technologies** | Incident Management Analyst | Arlington, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999842912724) |
 | **Raytheon Technologies** | PTC Windchill Data Management Install... | El Segundo, CA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840718111) |
-| **Raytheon Technologies** | Cyber Network Forensic Analyst III, T... | Arlington, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RaytheonTechnologies/743999840717275) |
 | **Northwestern Mutual** | Advanced Technology Support Consultant | Franklin, WI | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/743999658679166) |
 | **Northwestern Mutual** | Network Support Consultant | Franklin, WI | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/743999658679158) |
 | **Northwestern Mutual** | Database Engineer | Franklin, WI | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/743999658679084) |
 | **NBCUniversal** | Assistant Manager Food Warehouse | Universal City, CALIFO... | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000108914465) |
-| **NBCUniversal** | Segment Producer, Hallie Jackson NOW | New York, NEW YORK | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136133530) |
-| **NBCUniversal** | Production/ Broadcast Engineer - NBC ... | Stamford, Connecticut | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136076327) |
+| **NBCUniversal** | Media Traffic Technology Manager (Tra... | New York, NEW YORK | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000129800879) |
+| **NBCUniversal** | Analyst, People Analytics & Reporting | Orlando, Florida | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000129595339) |
 | **LinkedIn** | Associate Engineer, Data Center | Manassas, VA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000137744800) |
 | **LinkedIn** | Associate Engineer, Data Center | Richardson, TX | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000135775680) |
 | **LinkedIn** | Data Center Asset Management Engineer... | Manassas, VA | 8m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000133468876) |
@@ -670,57 +670,57 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **INFICON** | People & Culture Business Partner | Longmont, CO | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000133704970) |
 | **INFICON** | SIOP Manager | East Syracuse, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000133115399) |
 | **INFICON** | Materials Manager | East Syracuse, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000133115309) |
-| **Eurofins** | Business Support  and Finance Interns... | Lancaster, PA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999767858594) |
-| **Eurofins** | Scientific Operations | Lancaster, PA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303923) |
-| **Eurofins** | Business Support | Lancaster, PA | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303301) |
-| **CVS Health** | Home Infusion - Registered Nurse | Saratoga Springs, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Saratoga-Springs/Home-Infusion---Registered-Nurse_R1012924) |
-| **CVS Health** | Home Infusion - Registered Nurse | Plattsburgh, NY | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Plattsburgh/Home-Infusion---Registered-Nurse_R1000158-1) |
-| **CVS Health** | Pharmacy Intern | Opelika, AL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AL---Opelika/Pharmacy-Intern_R1012918) |
-| **Experian** | Client Executive – West Region | UNITED STATES | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000136331544) |
-| **Experian** | Client Executive - Fintech (East Coas... | UNITED STATES | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140102349) |
-| **Experian** | Client Executive - Utilities (Remote) | UNITED STATES | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140082649) |
-| **EVERSANA** | Medical Editor | Overland Park, KS | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000136094409) |
-| **EVERSANA** | Art Supervisor (Pharma Experience Req... | Chicago, IL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000135604519) |
-| **EVERSANA** | Group Copy Supervisor (HCP & DTC Writ... | Chicago, IL | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000135604189) |
-| **Allstate** | Document Services Associate II | Irving | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Irving-Building-E/Document-Services-Associate-II_R33446-1) |
+| **Eurofins** | Business Support  and Finance Interns... | Lancaster, PA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999767858594) |
+| **Eurofins** | Scientific Operations | Lancaster, PA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303923) |
+| **Eurofins** | Business Support | Lancaster, PA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999715303301) |
+| **TD Bank** | Assistant Store Manager (40) Haywood ... | Greenville, South Caro... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Greenville-South-Carolina/Assistant-Store-Manager--40--Haywood-Road_R_1505504) |
+| **Experian** | Client Executive – West Region | UNITED STATES | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000136331544) |
+| **Experian** | Client Executive - Fintech (East Coas... | UNITED STATES | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140102349) |
+| **Experian** | Client Executive - Utilities (Remote) | UNITED STATES | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000140082649) |
+| **EVERSANA** | Specialty Pharmaceutical Representati... | Mission Viejo, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000131760779) |
+| **EVERSANA** | Specialty Pharmaceutical Representati... | San Francisco, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000131760359) |
+| **EVERSANA** | Manager, Distribution Order Management | Memphis, TN | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000131509649) |
+| **Codeage** | Writer/Editor Intern | Beverly Hills, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Codeage/743999669081698) |
+| **Codeage** | Graphic Design/Illustrator Intern | Beverly Hills, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Codeage/743999669081650) |
 | **CapTech Consulting** | Quality Assurance Manager | Richmond, VA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000136507865) |
 | **CapTech Consulting** | Business Process Transformation Consu... | Charlotte, NC | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000119461012) |
 | **BryceTech** | Human Capital Program Support Specialist | Washington, DC | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000140768469) |
 | **BryceTech** | Experimentation Analyst | Alexandria, VA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000140698173) |
 | **BryceTech** | Program Analyst IV | Frederick, MD | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BryceTech/744000140027861) |
-| **Codeage** | Writer/Editor Intern | Beverly Hills, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Codeage/743999669081698) |
-| **Codeage** | Graphic Design/Illustrator Intern | Beverly Hills, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Codeage/743999669081650) |
-| **Medtronic** | Prin. Vascular Clinical Specialist - ... | Miami, Florida, United... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Miami-Florida-United-States-of-America/Prin-Vascular-Clinical-Specialist---Miami--FL_R73091-1) |
-| **Dexcom** | Material Handler 1  ( RDC ) - Days 1A... | Mesa, Arizona | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Mesa-Arizona/Material-Handler-1---JR118962-Material-Handler-1---RDC-----Days-1A-and-1B_JR120589) |
-| **Dexcom** | Material Handler 3 - 1A Sun- Tues, ev... | Mesa, Arizona | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Mesa-Arizona/Material-Handler-3---1A-Sun--Tues--every-other-Wednesday--Can-work-anytime-from-5am-5pm_JR120499) |
+| **Baker Hughes** | Manufacturing Production Planner | Houston, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-2001-RANKIN-ROAD/Manufacturing-Production-Planner_R164631-1) |
 | **Bosch Group** | Dock Operator 2nd  Shift (Shipping) | West Memphis, AR | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000097317985) |
 | **Bosch Group** | Machine Operator - Specialist III:Bra... | Lincolnton, NC | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000111859965) |
-| **Bosch Group** | Industrial Electrician - 3rd shift | Grand Rapids, MI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000112205867) |
+| **Bosch Group** | Honing Set-Up | Lincolnshire, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000115242936) |
 | **Baselane** | General Interest in Baselane | New York City | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/baselane/b0c47b41-f0f0-4306-aca5-4b900564826d) |
-| **PointClickCare** | Solutions Analyst - (EHR Support, Wes... | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/a0440273-238f-4774-aa9b-0c0adc5f4d30) |
+| **Xsolla** | Xsolla School – Student Application (... | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/384e323c-5b67-4846-8943-a8e7a03fe237) |
+| **Xsolla** | Internship Opportunity | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) |
+| **Xsolla** | Netsuite ERP Engineer | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/660a3d26-b0cd-4473-832e-308dd2e02db8) |
 | **PointClickCare** | Strategic Finance Analytics Manager (... | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/b72d088d-155e-44ca-9e56-e7582659fc0e) |
 | **PointClickCare** | US Sales - Talent Community | Remote, USA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/f4a9317a-bf92-4f74-b85e-b8a01b8b0aa1) |
-| **Xsolla** | Xsolla School – Student Application (... | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/384e323c-5b67-4846-8943-a8e7a03fe237) |
-| **Xsolla** | General Consideration | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/879ee29c-910a-4945-ab6a-e29dc0dc0b11) |
-| **Xsolla** | Internship Opportunity | Los Angeles, United St... | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) |
-| **Zoox** | Simulation Expert Triage Engineer | Foster City, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/9fa5e316-c361-4526-860a-51478587dc3b) |
+| **PointClickCare** | US- Escalation Manager (Customer Supp... | US | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/d3c03840-66fc-4749-ac4f-ec77c8a82ac4) |
 | **Zoox** | Strategic Sourcing Manager | Foster City, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/33ff94ab-ec61-4c17-9651-2286d74a7ca8) |
 | **Zoox** | Student Contract Worker Technical Pro... | Foster City, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223) |
+| **Zoox** | Sustaining Engineer, Powertrain & The... | Foster City, CA | 9m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/b13095a0-c3a1-4750-923d-4f3f19c581fc) |
 | **Woven by Toyota** | System Safety Engineer | Ann Arbor, MI | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/b65d2e76-ece7-4423-83bb-0ef521c482a1) |
 | **Woven by Toyota** | AI Associate | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/df0efcf8-3132-43ea-a176-ce7806f75c5f) |
 | **Woven by Toyota** | Communications Manager, Woven Capital | Palo Alto, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/woven-by-toyota/9b33f093-11c0-4b93-94f2-344b42505fea) |
-| **Wintermute Trading** | Prediction Markets Trader | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/96e3b955-d088-4e0a-9c91-866efc0f29fd) |
-| **Wintermute Trading** | Algorithmic Trader | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/8119b21c-aa47-4113-bd25-f785f8fc44c1) |
-| **Wintermute Trading** | DeFi Algorithmic Trader | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/26c45d48-38d0-43a0-a85f-8591753f392d) |
+| **Waabi** | Vehicle Operator (CDL) | Dallas, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/a7a2f637-0551-4387-af1f-32e76d170818) |
 | **Waabi** | Fleet Specialist | Dallas, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/71546dca-a904-4620-8e8f-190a3954b6dd) |
 | **Waabi** | HR Business Partner | Dallas, TX | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/ac31b674-bcdf-4666-beef-562bae464c4e) |
-| **Waabi** | Platform Verification Engineer - Trac... | Phoenix, AZ | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/waabi/c45156f5-792e-459e-a312-435e66728733) |
+| **Wintermute Trading** | DeFi Algorithmic Trader | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/26c45d48-38d0-43a0-a85f-8591753f392d) |
+| **Wintermute Trading** | Prediction Markets Trader | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/96e3b955-d088-4e0a-9c91-866efc0f29fd) |
+| **Wintermute Trading** | Algorithmic Trader | New York | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/wintermute-trading/8119b21c-aa47-4113-bd25-f785f8fc44c1) |
 | **WeRide** | Motion Planning Engineer | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/e151540c-f52c-4797-afef-6235f3ec8edc) |
 | **WeRide** | Perception Engineer – ML/CV and Algor... | San Jose, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/weride/628b7118-d946-47a2-a03b-ac034622d908) |
-| **Veeva Systems** | Solution Consultant - Safety | Boston | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/9215add7-2afc-4bda-be6d-e1b998050b23) |
-| **Veeva Systems** | Solution Consultant - Safety | Philadelphia | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/d34bdd00-7cbd-426c-955b-76d4d500636c) |
-| **Veeva Systems** | Solutions Consulting Associate | New York City | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/4e89cd51-6ff1-4504-beb2-10c2b5664026) |
-| **AbbVie** | Manager, Portfolio Management | North Chicago, IL | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013051566) |
+| **Veeva Systems** | Technical Writer | Boston | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/4a393cdf-0ace-4d6d-90b5-c3e7e1c5cd54) |
+| **Veeva Systems** | Technical Writer | San Francisco | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/6dfff9a0-6fc8-43f3-b26f-5f3d496349ee) |
+| **Veeva Systems** | Travel Coordinator - Program/Event | Lyndhurst | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/398125a9-51ab-43ca-a7ef-f9886f94a93a) |
+| **Velo3D** | Manufacturing Project Manager | Fremont, CA | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/81dc86eb-cfe3-41da-b467-34e1d54ef638) |
+| **Velo3D** | RPS Service Engineer | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/3866748d-2fda-435f-832d-151e19709c43) |
+| **Velo3D** | Applications Engineer | Fremont, CA | 9m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/velo3d/48f02e24-fde8-4067-9b13-867cc5e10e32) |
+| **Voltus** | Energy Markets Analyst (NYISO) | Remote | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/63936710-8ba3-46e7-a145-26c043aa7432) |
+| **Voltus** | Energy Markets Intern (MISO) | Remote | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4) |
+| **Voltus** | Sales Training & Enablement Manager | Remote | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/voltus/c20c011b-7623-4673-8314-30c7cff0918c) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -776,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 57325 current opportunities from 849 companies**
+**🎯 57311 current opportunities from 849 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
