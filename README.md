@@ -71,15 +71,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
   <a href="https://www.linkedin.com/company/zapply-jobs"><img src="images/linkedin-button-1.png" alt="Visit Our LinkedIn Page" width="250"></a>
 </p>
 
-## Career Toolkit
-
-<p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-IT-Jobs-2027"><img src="images/new-grad-it-jobs-button.png" alt="New Grad IT Jobs" height="60"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/research-internships-button.png" alt="Research Internships" height="60"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/underclassmen-internships-button.png" alt="Underclassmen Internships" height="60"></a>
-</p>
 
 
 ## Internships
@@ -187,18 +178,18 @@ These are 1-4 week program during December/January. Activites includes hackathon
 Check out our other repos for jobs and free resources:
 
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
 </p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2026"><img src="images/repo-hcj.png" alt="Healthcare Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Healthcare-Jobs-2027"><img src="images/repo-hcj.png" alt="Healthcare Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/Internships-2026"><img src="images/repo-int.png" alt="Internships 2026" height="40"></a>
+  <a href="https://github.com/zapplyjobs/Internships-2027"><img src="images/repo-int.png" alt="Internships 2026" height="40"></a>
 </p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
@@ -212,6 +203,12 @@ Check out our other repos for jobs and free resources:
   <a href="https://github.com/zapplyjobs/Canada-Jobs-2027"><img src="images/repo-ngj-can.png" alt="Canada Jobs 2027" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/Canada-Internships-2027"><img src="images/repo-int-can.png" alt="Canada Internships 2027" height="40"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zapplyjobs/New-Grad-IT-Jobs-2027"><img src="images/new-grad-it-jobs-button.png" alt="New Grad IT Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/research-internships-button.png" alt="Research Internships" height="40"></a>
 </p>
 
 ## Contributors
