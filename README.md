@@ -210,6 +210,9 @@ Check out our other repos for jobs and free resources:
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/research-internships-button.png" alt="Research Internships" height="40"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/awesome-ML-internships"><img src="images/repo-ml.png" alt="AI & ML Internships 2027" height="40"></a>
+</p>
 
 ## Contributors
 
