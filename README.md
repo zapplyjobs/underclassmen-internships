@@ -85,7 +85,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Rockwell Engineering Pathways                                                                                                                                             | ?                  | Freshman            | 8-10 week SW/HW internship                                                                                                   |
 | [EA Pathfinder](https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=pathfinder)                                                                                        | ?                  | Freshman, Sophomore | 12-week internship open to SWE, PM, etc.                                                                                     |
 | Activision Blizzard SPARX                                                                                                                                                 | ?                  | Sophomore           |                                                                                                                              |
-| [Palantir Path](https://www.palantir.com/careers/students/path/)                                                                                                          | ?                  | Sophomore           |                                                                                                                              |
 
 ## Fellowships
 
@@ -158,7 +157,6 @@ These are 1-4 week program during December/January. Activites includes hackathon
 
 | Name                                                                                                              | Status/Open Date | Year                | Note                                                                      |
 | ----------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------- | ------------------------------------------------------------------------- |
-| [Virtu Women's Winternship](https://job-boards.greenhouse.io/virtu/jobs/7505552002)                               | ✅ Open          | Sophomore           | 5-day educational program                                                 |
 | [HRT Women in Trading Tech Internship](https://boards.greenhouse.io/wehrtyou/jobs/6305711?utm_source=Simplify&ref=Simplify) | ✅ Open               | Freshman, Sophomore | 2-4 week paid winternship for automated trading                           |
 | [Impact Labs Fellowship](https://www.impactlabs.io/fellowship)                                                    | ?                | All student         | 2-week program in NYC during winter break. Financial assistance available |
 
@@ -206,7 +204,7 @@ Check out our other repos for jobs and free resources:
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/Canada-Internships-2027"><img src="images/repo-int-can.png" alt="Canada Internships 2027" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/awesome-ML-internships"><img src="images/repo-ml.png" alt="AI & ML Internships 2027" height="40"></a>
+  <a href="https://github.com/zapplyjobs/awesome-ml-internships-2027"><img src="images/repo-ml.png" alt="AI & ML Internships 2027" height="40"></a>
 </p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships for Undergraduates" height="40"></a>
